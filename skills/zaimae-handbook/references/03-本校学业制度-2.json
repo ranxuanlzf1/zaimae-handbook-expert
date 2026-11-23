@@ -1,0 +1,1700 @@
+{
+  "SCHOOL": {
+    "lincoln": {
+      "short": "Lincoln University",
+      "place": "宾夕法尼亚州·Lincoln University（切斯特县 Chester County）",
+      "cityKey": "lincolnuniv",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "2026 秋季：新生 Orientation 2026-08-16 至 08-22，返校注册 08-22，2026-08-24 周一开课，注册/加课/课表调整截止 08-28，100% 退费退课截止 09-04，09-07 劳动节停课，期中周 10-05 至 10-09，Homecoming 10-24，W 成绩退课截止 10-30，退校截止 11-20，11-24 课程结束，感恩节假 11-23 至 11-28，11-30 复课，最后上课日 12-04，阅读日 12-05 至 12-07，期末考试 12-08 至 12-12，成绩 12-14 中午前提交。2027 春季：新生/转学生 2027-01-08 报到，Orientation 01-09 至 01-10，01-11 周一开课，加课截止 01-15，01-18 MLK Day 停课，100% 退费退课截止 01-22，毕业申请截止 02-19，春假 02-22 至 02-27，期中周 03-08 至 03-13，Good Friday 03-26 放假，W 成绩退课截止 04-09，退校截止 04-16，最后上课日 04-23，阅读日 04-24 至 04-26，期末考试 04-27 至 04-30，成绩 05-04 中午前提交，春季毕业典礼 05-09。",
+      "fulltime": "F-1/J-1 全日制认定：本科每学期注册 12 学分，硕士研究生每学期 9 学分；每学期最多 3 学分或一门在线课程可计入全日制学分；试听（audit）课程学分不计入全日制；因健康、最后一学期等例外需要低于全日制，须在春秋学期 add/drop 截止日前向 Office of International Programs（OIP）提交 Reduced Course Load（RCL）表，并先取得学术导师批准。",
+      "drop": "退课与退费：2026 秋季加课/课表调整截止 2026-08-28，100% 退费退课截止 2026-09-04，W 成绩退课截止 2026-10-30，退校截止 2026-11-20；2027 春季加课截止 2027-01-15，100% 退费退课截止 2027-01-22，W 成绩退课截止 2027-04-09，退校截止 2027-04-16；课程退费比例、罚扣与 W 成绩规则以 Registrar 与 Bursar 当期页面为准；身份相关减修须先取得 OIP 批准。",
+      "ins1": "校方统一计划为 Lincoln University Student Health Insurance Plan（LUSHIP），由 Aetna Student Health 承保管理；保险口径的全日制定义为本科修读 9 学分及以上、研究生修读 3 学分及以上，保费直接计入学生账单；2026-2027 学年年保费 966 美元，分两期：2026 秋季 483 美元、2027 春季 483 美元。",
+      "ins2": "强制投保与豁免流程：全日制美国学生自动注册 LUSHIP，已持有可比保障者可申请豁免；豁免须在线提交申请并上传当前保险卡，经 Aetna Student Health 审核批准后方可退出；国际学生不得豁免校方保险；2026 秋季豁免截止 2026-09-02；豁免受理或拒绝结果在 7 个工作日内邮件通知；非全日制学生不符合投保资格。",
+      "ins3": "豁免标准与健康要求：可豁免的私人保单须满足州法与 ACA 最低保障要求、在整个学年内持续有效、并在林肯大学所在地区提供保障；Medicaid 计划仅在由 PA、DE、MD、NJ、NY 或 DC 签发时被接受；新生、转学生、国际学生与重新注册学生须提交近期病史与体检；强制疫苗包括 TDap、2 剂 MMR、2 剂水痘与脑膜炎球菌疫苗，记录经 lionshealth.lincoln.edu 门户上传。",
+      "clinic": "Office of Health Services 位于 Wellness Center Suite 100，电话 484-365-7338，传真 1-866-563-6196，邮箱 healthservices@lincoln.edu；开放时间为周一 8:30–20:00，周二至周五 8:30–16:30，隔周周六 9:00–14:00；除急诊外按预约就诊；课后与周末急诊联系 Public Safety 484-365-7211 或拨 911 转送最近急诊/urgent care；RN 主任 Velva Greene-RaineY 电话 484-365-7335。Counseling Services 位于 Wellness Center Room 221，周一至周五 9:00–17:00，电话 484-365-7244，邮箱 counselingservices@lincoln.edu，并通过 TimelyCare 提供免费虚拟精神科服务。",
+      "commute": "主校区地址 1570 Baltimore Pike, Lincoln University, PA 19352；校区距 Philadelphia 约 45 英里、Baltimore 约 55 英里、Wilmington（DE）约 25 英里、Newark（DE）约 15 英里；主校区本科生中约 32% 在校内停车，驾车通勤须按 Public Safety 规定办理停车许可；另有 Philadelphia 的 University City 校区，地址 3020 Market Street, PA 19104，部分本科与研究生项目在此授课。",
+      "scene": "Lincoln University 是全美第一所授予学位的历史黑人大学（HBCU），1854 年以 Ashmun Institute 创立、1866 年更名林肯大学，1972 年起作为州相关（state-related）男女同校大学与宾州联邦合作；主校区位于切斯特县南部 429 英亩乡村林地与农田之间，共 56 栋建筑；2025 秋季在册本科生 1,424 人、研究生 103 人，师生比 11:1，99% 的本科课堂不超过 39 人；校队参加 NCAA Division II 与 CIAA，学校为 Thurgood Marshall College Fund 成员；校园社交中心为 Student Union Building 与 Thurgood Marshall Living Learning Center（内设食堂与 KFC Express）。",
+      "safety": "校园警务为 Department of Public Safety，办公室在 International Cultural Center（ICC）一楼；电话 484-365-7211，备用 484-365-7212，传真 484-365-8115，保密举报线 484-365-7798，邮箱 lupublicsafetydepartment@lincoln.edu；主任兼警长 Marc R. Partee 办公室 ICC Room 109，电话 484-365-8127，邮箱 mpartee@lincoln.edu；主校区警员为持械、经宾州 MPOETC 委任的宣誓校警，24 小时值守，Philadelphia 卫星校区由受过训练的安保人员值守；医疗、消防、警务紧急情况拨 911；Title IX 协调员电话 484-365-7755，ICC 二楼 Suite 200。",
+      "transit": "校园周边唯一公共交通为 SCCOOT 巴士，连接 University 与 Oxford、Avondale、West Grove、Toughkenamon、Kennett Square、Longwood Gardens、West Chester；在 West Chester Transportation Center 可换乘 Krapf's A Bus 至 Exton Amtrak 车站，再换乘 SEPTA 104 路至 Philadelphia 的 69th Street Transportation Center；SCCOOT 周一至周五运行，票价 2.00–4.00 美元，时刻见 chescobus.com 或致电 610-993-0911；长途另可乘 OurBus 往返 West Chester 与 NYC；最近的 Amtrak 车站在 Parkesburg，Wilmington（DE）火车站与巴士站约 25 英里，Amtrak  toll-free 800-872-7245；校园接驳可联系 International Tours 610-925-3922 或 484-459-9415；公路经 U.S. Route 1 与 Route 896 进出校区。",
+      "rentnote": "校内有 15 所宿舍、可容纳 1,600 余名学生：含 1870 年建成的 Alumni Hall、1902 年的 Amos Hall，以及 2005 年建成的 400 床男女混住公寓式（ASL）套间；房间配单人床、两个衣柜/抽屉柜、书桌、椅子与壁柜。国际本科生由学校提供住宿、首学年统一分配，春季参与次学年自选；学校不提供研究生住宿，研究生可联系 Graduate Center 获取 Philadelphia 周边租房建议；仅全日制学生可住校，住校生须在大学食堂就餐；住宿押金含在 275 美元录取费内；公寓式房型费率高于标准双人房。校外租金按邮编 19352 查询当期挂牌价，本表不列固定月租数字。",
+      "link": {
+        "cal": [
+          "https://www.lincoln.edu/_files/academics/Final-2026-2028-Academic-Calendar_4-10-26.pdf",
+          "Lincoln 2026-27 校历"
+        ],
+        "ins": [
+          "https://www.lincoln.edu/departments/health-services/health-insurance",
+          "学生健康保险计划"
+        ]
+      }
+    },
+    "psufayette": {
+      "short": "Penn State Fayette, The Eberly Campus",
+      "place": "宾夕法尼亚州·Lemont Furnace（费耶特县 Fayette County）",
+      "cityKey": "lemontfurnace",
+      "calShort": "常规春秋两学期（Fall / Spring）",
+      "calendar": "Fayette 常规学期跟随全校 2026-27 校历。秋 2026：开课 8/24 周一，Regular Drop 8/29 23:59（ET），Regular Add 8/30 23:59（ET），劳动节 9/7 休课，感恩节 11/22–11/28，Withdrawal 12/11 17:00（ET）截止并结课，学习日 12/12–12/13，期末 12/14–12/18。春 2027：开课 1/11 周一，Drop 1/16，Add 1/17，MLK 1/18 休课，春假 3/7–3/13，Withdrawal 4/30 17:00（ET）截止并结课，学习日 5/1–5/2，期末 5/3–5/7；考试与上课安排以校区当期课表为准。",
+      "fulltime": "本科及法学院学生全日制按每学期 12 学分认定，研究生 9 学分；在线/混合课程每学期 3 学分封顶计入；非全日制或减修须先拿到 ISSA 的 RCL 批准。",
+      "drop": "Late Drop 自 Add 截止次日开始；Withdrawal 截止秋季 2026-12-11 17:00（ET）、春季 2027-04-30 17:00（ET）；退课前与学业顾问沟通，退费按 Bursar 当期表，身份下降前必须经 ISSA 批准。",
+      "ins1": "Fayette 学生保险为全校 SHIP 学年保单，按学期计入账户、秋季入保后春季自动续保；承保与 waiver 审核 UnitedHealthcare Student Resources；校区 Office of Student Affairs 引导至系统页面，咨询 814-865-4847 转 6，办公室 228 Bank of America Career Services Center, 566 Eisenhower Rd, University Park, PA 16802，uhs-insurance@psu.edu。",
+      "ins2": "F-1/J-1 身份学生与家属在 Fayette 期间须持 SHIP 或经认可替代保障；LionPATH 完成 Enroll/Waive：秋季 2026-09-01、春季新生 2027-01-19；超期自动参保扣费；学业顾问 108 Williams Building 724-430-4123。",
+      "ins3": "替代保险须 PPACA 合规：既往症无等待期，免赔额不高于 500 美元，处方药、孕产、精神健康与物质滥用全覆盖，全球有效；网络内自付 3,000 上限、网络外 15,000/30,000；撤离不少于 100,000、遣返不少于 50,000 美元；waiver 仅秋季开放期受理。",
+      "clinic": "校区健康服务面向学生免费提供轻症常规处理、校医/家庭医生转诊、体育体检、个人心理咨询、外部机构联络、病患休息区与健康筛查；EMS Coordinator Chuck Allias 在 Eberly Building 202B，724-430-4217 / 724-430-4140；保险咨询拨 814-865-4847 转 6；自伤或伤人紧急危机拨 988 或 911。",
+      "commute": "校区地址 2201 University Drive, Lemont Furnace, PA 15456，位于 Uniontown 与 Connellsville 之间的 Laurel Highlands 地区；FACT（Fayette Area Coordinated Transportation）Connellsville–Uniontown 线经校区停靠，周一至周六运行；Pittsburgh Commuter 线由 Uniontown Transit Center 往 Downtown Pittsburgh，周一至周五有限班次；10 次 token 套票 50 美元，散票付现金并需足额。",
+      "scene": "Fayette 是费耶特县唯一四年制高校，校园近 100 英亩，1965 年建立；开设 9 个学士学位、5 个副学士学位与 275 个以上 Penn State 学位的前两年课程，20 多个社团，9 支校队参加 PSUAC 与 USCAA 联赛，超过 90% 学生获得资助。2026 秋学费属 B 组：宾州居民大一大二 6,912 美元/学期（573 美元/学分），高年级 Bus/EMS/Sci/IST/Eng 7,789 美元（630 美元/学分），其他高年级 7,460 美元（619 美元/学分），研究生 Bus/Eng/Sci 12,681 美元（1,057 美元/学分），其他研究生 12,016 美元（1,001 美元/学分），GA/fellowship 11,030 美元；非居民低年级 12,012 美元（1,001 美元/学分），高年级 12,702 美元（1,059 美元/学分），研究生 Bus/Eng 16,677 美元（1,390 美元/学分），其他研究生 15,936 美元（1,328 美元/学分）。校区已不再招收大一新生与转学生，在校生资源支持延续至 2026-27 学年。该校区将于 2027 年春季学期结束后关闭（2025-05-22 校董会批准，2026-27 为最后运营学年）。",
+      "safety": "UPPS Fayette 驻 Eberly Building Room 10，警员/警长电话 724-430-4120；西部片区指挥官 Anthony Budris，邮箱 awb126@psu.edu，电话 814-898-6128；紧急情况拨 911；校外一般警务归费耶特县及所属镇区执法部门。",
+      "transit": "本地出行依赖 FACT 公交：Connellsville–Uniontown 线经校区，Pittsburgh Commuter 线连通 Uniontown 与匹兹堡市中心；班次、票价与 token 套票以 factbus.com 当期用户指南为准；长途进出经 Pittsburgh International 机场衔接。",
+      "rentnote": "本校为通勤校区、不提供校内宿舍；学生住宿为校对面校外 University Commons 或在 Uniontown、Connellsville 一带自行租房；本表不列固定月租，按邮编 15456 与 15401 查当期挂牌价，租约押金与冬季除雪一并核验。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 校历"
+        ],
+        "ins": [
+          "https://fayette.psu.edu/health-insurance",
+          "Fayette 学生保险说明"
+        ],
+        "fee": [
+          "https://tuition.psu.edu/rates-effective-2026-fall-semester-beaver-dubois-fayette-greater-allegheny-mont-alto-new-kensington",
+          "B 组校区 2026 秋费率"
+        ],
+        "plan": [
+          "https://roadmap.psu.edu/our-commonwealth-campuses/",
+          "校区调整公告"
+        ],
+        "planBul": [
+          "https://bulletins.psu.edu/undergraduate/campuses/",
+          "招生与关闭公告"
+        ]
+      }
+    },
+    "kutztown": {
+      "short": "Kutztown University of Pennsylvania",
+      "place": "宾夕法尼亚州·Kutztown（Berks County 库茨敦）",
+      "cityKey": "kutztown",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "2026 秋季：2026-08-24 开课，2026-08-24 至 2026-09-01 迟注册/add-drop，2026-09-02 至 2026-11-13 为 W 期，2026-09-07 劳动节假，2026-10-12 秋假，2026-10-13 按周一课表，2026-11-25 至 2026-11-29 感恩节假，2026-11-13 退学截止，2026-12-05 常规上课末日，2026-12-07 至 12-12 期末周；2027 春季：2027-01-19 至 2027-05-08 学期，2027-01-19 至 01-26 为 100% 退费退课期，之后退费比例为 0%；其他 add/drop 与 W 截止日以 Registrar 当期校历为准。",
+      "fulltime": "本科全日制按每学期 12 学分口径执行，研究生全日制学分要求按所属项目方案执行；F-1/J-1 学生减修须先向 International Education and Global Engagement 办公室提交 Reduced Course Load 申请并获批准，未经批准不得低于全日制注册。",
+      "drop": "W 期与退学截止日前经 Registrar 渠道办理退课；春季 100% 退费退课期为 2027-01-19 至 01-26，期后退课不退费；RCL 申请须在 add/drop 截止日前完成导师与国际项目办公室审批；退费比例以学生账户办公室当期表为准。",
+      "ins1": "Kutztown University 不强制学生购买医保，也不设校方统一的 SHIP 商业计划；校方强烈建议学生自行购买合格美国保单；国际教育办公室资源页列有可选的 ISO 计划作为参考，承保险企与条款以 ISO 门户当期页面为准。",
+      "ins2": "J 签强制标准：保单须由在美国销售保险的公司出具，医疗给付不低于 100,000 美元/事故或疾病，遗返不低于 25,000 美元，医疗撤离不低于 50,000 美元，自付额不超过 500 美元；校队运动员还须包含运动保障；境外保单、旅行险或纯应急保障不满足标准。",
+      "ins3": "国际生成本估算口径：学士学费与杂费 25,528 美元，住校住宿加餐 12,978 美元，个人开支 2,175 美元，合计 40,681 美元；国际学费减免 7,626 美元后净估 33,055 美元；硕士学费与杂费 17,531 美元，合计 32,684 美元；实际保费与账单以学生账户当期公布为准。",
+      "clinic": "Health Center，Beck Hall 1 楼；电话 610-683-4082，邮箱 health@kutztown.edu；免疫记录经 KU Student Health Portal 上传，要求 MMR、水痘、Tdap、流脑 ACWY；健康表秋季 2026-08-09 前、春季 2027-01-15 前提交；校内疫苗估价 MMR 150 美元、Tdap 65 美元、TB 血检 38 美元、胸透 70–300 美元；危及生命的紧急情况拨打 911。",
+      "commute": "校区地址 15200 Kutztown Road, Kutztown, PA 19530；校园位于 Berks County 库茨敦镇近郊；距 Allentown 方向约 35 分钟车程，到 Reading、Allentown 与 Philadelphia 均有巴士衔接，具体线路与班次以交通办公室当期页面为准。",
+      "scene": "PASSHE（Pennsylvania State System of Higher Education）成员校；注册学生组织约 200 个，校园配套 McFarland Student Union、Rec Center（含攀岩墙）、LGBTQ+ Resource Center、Women's Center 与 Military & Veterans Center 等空间。",
+      "safety": "KUPD Public Safety & Police Services，Old Main 13 室 / I-Wing，15200 Kutztown Road, PO Box 730；紧急拨 911 或 610-683-4001，非紧急与护送电话 610-683-4002，邮箱 publicsafety@kutztown.edu；通信中心 Old Main 15 室，24/7/365 值守；校外一般警务归 Kutztown 镇与 Berks County 辖区执法。",
+      "transit": "BARTA 22 路（Lyon Station / East Penn-Deka）自 2026-01-05 起延伸至 KU，站牌在 Graduate Center 前 Kutztown Road；公布时刻 6:10a、2:10p、2:55p、11:10p（可能调整），线路通 Reading；去 Allentown 可乘 Trans-Bridge 巴士（EWR/JFK 线）至 Allentown Transportation Center 再换乘；全时刻见 BARTA 与 Trans-Bridge 官网当期时刻表。",
+      "rentnote": "住校要求头两年或修满 60 学分；30 学分以下住传统厅，30 学分以上可申请套间/公寓；未排到校内床位或选择校外的学生，租金按邮编 19530 查当期挂牌价，押金、水电、停车与巴士通勤逐项核对；校外住宿名单在 MSU 262 室，电话 610-683-1320。",
+      "link": {
+        "cal": [
+          "https://www.kutztown.edu/Documents/2026-2027-Academic-Calendar.pdf",
+          "Kutztown 2026-27 校历"
+        ],
+        "ins": [
+          "https://www.kutztown.edu/about-ku/administrative-offices/health-and-wellness-services/clinical-services/immunization-and-insurance-information.html",
+          "Kutztown 免疫与保险指引"
+        ]
+      }
+    },
+    "upj": {
+      "short": "University of Pittsburgh-Johnstown",
+      "place": "宾夕法尼亚州·Johnstown（校区位于 Richland Township，坎布里亚县）",
+      "cityKey": "johnstown",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "校历按 All-Campus 口径：2026 秋季 2026-08-24 周一开课，2027 春季 2027-01-11 周一开课，2027-01-18 马丁·路德·金纪念日关闭，2027-01-22 周五 add/drop 截止；秋/春各约 15 周，含 Reading Day 与期末考试周。Johnstown 本校的期中、recess 与期末安排以 Registrar 当期发布的本校校历为准。",
+      "fulltime": "全日制认定：本科生 Fall/Spring 学期注册 12–18 学分按本科 flat 学费计费，少于 12 学分按每学分计费；超过 18 学分的部分按每学分加收；F-1/J-1 学生减修须先取得 International Services 批准，未经批准不得低于全日制学分。",
+      "drop": "add/drop 截止后退课进入 Extended Drop 期（本科生），学期内全部退课按校方退学规程办理；退费比例、截止日与学术进步口径以 catalog.upj.pitt.edu 财务与学籍条款及 Bursar 当期页面为准；身份变化（转学、休学、毕业）须及时通知 International Services。",
+      "ins1": "保险计划沿用 University of Pittsburgh 系统口径：校方学生医疗计划经 Benefitsolver 门户（my.pitt.edu 入口）投保或申报，承保方与牙科、视力加保选项以 HR 当期学生计划页为准；适用资格按 Pitt 系统当期规定执行。Johnstown 另向全日制学生收取 Student Health 费（2025-26 目录列示 40 美元），用于本校 Health & Counseling 服务，与商业保险是两项不同安排。",
+      "ins2": "国际学生每学年秋季必须完成一个动作：投保校方计划，或在 Benefitsolver 门户提交已有合格美国保单的 Acknowledgement of Insurance Coverage；未在 9 月 30 日前完成投保或申报，学校可在账户上施加 registration hold，影响后续选课、注册与毕业；保险不自动续年，未在秋季重新投保者保障于 8 月 31 日终止。",
+      "ins3": "豁免申报须填写保险公司名称、地址、电话、保单/团体号、保障生效日期，并确认保单达到校方最低保障要求；替代保单须为在美国销售、覆盖在美全部停留期的合格保单；具体最低保额、自付额上限与不接受险种清单以门户当期 waiver 条件与 HR 当期学生指南为准。",
+      "clinic": "Office of Health and Counseling Services 位于 G-10 Student Union Building；咨询电话 814-269-7119（Health Services 直线 814-269-7110，传真 814-269-7179），工作日 8:30–17:00；下班后联系 Campus Police 814-269-7222，或拨打 Cambria County Crisis Intervention 1-877-268-9463（24 小时）；危及生命的紧急情况拨打 911。",
+      "commute": "校区地址 450 Schoolhouse Road, Johnstown, PA 15904，位于 Richland Township、约翰斯敦市区以东约 8 英里的 655 英亩山地校园；本校 Campus Shuttle 仅工作日 7:30–17:30 运行、无周末班次，停靠 College Park Apartments、Blackington Hall、Musulin University Center 与 Richland Town Center；进城换 CamTran #9/#11 巴士。",
+      "scene": "校区坐落在 Laurel Highlands 丘陵林地间，655 英亩范围内集中教学楼、Student Union、Owen Library、Health and Wellness Center 与体育设施；招生页口径距匹兹堡约 70 英里；周边以住宅区与公路沿线商业为主，步行商圈有限，周末出行需提前安排巴士班次或结伴乘车。",
+      "safety": "Pitt-Johnstown Police 为校内警队，站址 300 Highfield Avenue；校内紧急 814-269-7005（校内座机分机 7005），24/7 值守；匿名举报热线 814-269-SAFE（7233）；校外 Richland Township 警/消/急救拨 911 或 814-472-2100；Title IX 报告电话 814-269-7113。",
+      "transit": "本地公交为 Cambria County Transit Authority（CamTran），#9/#11 路连接校区周边、Richland Town Centre（Walmart Plaza）、Galleria Mall 与约翰斯敦市区 Main Street 总站，咨询 814-535-5526；铁路最近为 Johnstown 车站，Amtrak Pennsylvanian 往返 Harrisburg/Philadelphia/New York；长途另有 Greyhound 巴士；机场为 JST（United Express 经 Dulles/ORD），最近大型枢纽为 PIT。",
+      "rentnote": "校内住宿由 Housing, Dining, and Residence Life 管理，办公室 130 Student Union，电话 814-269-7115，邮箱 upjhousing@pitt.edu；房型含传统宿舍、lodges、townhouse 与公寓式，部分房型须订餐计划。校外租房信息有限，本页不列固定月租数字，租金按邮编查当期挂牌价，租约、押金与水电网费签约前逐项核验。",
+      "link": {
+        "cal": [
+          "https://www.registrar.pitt.edu/calendars",
+          "官网"
+        ],
+        "ins": [
+          "https://www.hr.pitt.edu/students/student-health-plans",
+          "Pitt 学生保险"
+        ]
+      }
+    },
+    "pitt": {
+      "short": "University of Pittsburgh",
+      "place": "宾夕法尼亚州·Pittsburgh（Oakland 校区，阿勒格尼县）",
+      "cityKey": "pittsburgh",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "2026 秋季：2026-08-17 至 08-23 Welcome Week，2026-08-24 周一开课，2026-09-04 周五 add/drop 截止，2026-09-05 起本科生进入 Extended Drop 期，2026-11-03 选举日弹性上课，2026-11-22 至 11-29 学生感恩节假，11-30 复课，2026-12-04 本科日间课程最后上课日，12-05 Reading Day，2026-12-07 至 12-11 本科日间期末考试，2026-12-12 秋季学期结束；2027 春季：2027-01-09 宿舍重开，2027-01-11 周一开课，2027-01-18 马丁·路德·金纪念日全校关闭，2027-01-22 周五 add/drop 截止，01-23 起本科生 Extended Drop，2027-03-07 至 03-14 学生春假（03-12 学校春假关闭），2027-03-19 Monitored Withdrawal 提交截止，2027-04-23 本科日间课程最后上课日，04-24 Reading Day，2027-04-26 至 04-30 本科日间期末考试，2027-05-01 春季学期结束；各专业学院日期以 Registrar 当期校历为准。",
+      "fulltime": "全日制认定：本科每学期 12 学分及以上（12–18 学分按 flat 学费计），研究生/专业学院 9 学分及以上（9–15 学分按 flat 学费计）；每学期最多 3 门在线课程学分可计入全日制身份；F-1/J-1 学生减修须在退课之前取得 Office of International Services（OIS）批准，未经批准不得低于全日制学分。",
+      "drop": "add/drop 截止后退课进入 Extended Drop（本科生）与 Monitored Withdrawal 流程；学期内全部退课须经 Student Appeals Office 办理 resignation（电话 412-624-7585），学费按通知日比例退费，学期完成 60% 后不再退费；F-1/J-1 学生低于全日制前须先获 OIS 批准；具体退费比例与截止日以 Bursar/Registrar 当期表为准。",
+      "ins1": "校方学生医疗计划承保方为 UPMC Health Plan，另有 United Concordia 牙科计划与 Davis Vision by MetLife 视力计划；投保与豁免通过 Benefitsolver 学生保险门户（经 my.pitt.edu 的 Student Health Insurance 入口）办理；适用对象为全日制本科生、有或无学术任命的研究生及受 Fellow/Trainee 资格认定者，资格以 HR 当期计划表为准；计划咨询 Benefits Department 833-852-2210，UPMC Health Plan 会员服务 1-888-499-6885。",
+      "ins2": "国际学生须在年度投保期内完成动作：要么投保校方计划，要么在门户中申报已有合格美国保单；未在截止日前完成投保或申报者，学校可在账户上施加 registration hold，影响后续注册与毕业；保险不自动续年，每学年秋季须重新投保，未续保者保障于 8/31 终止；牙科与视力为自愿加保。",
+      "ins3": "豁免（Waive Coverage）须在门户填写保险公司名称、地址、电话、保单/团体号、保障生效日期，并确认保单达到校方最低保障要求；替代保单须为在美国销售、覆盖在美停留期的合格保单；具体可接受险种、最低保额与除外条款以 Benefitsolver 门户当期 waiver 条件与 HR 当期指南为准。",
+      "clinic": "Student Health Services（SHS）诊所位于 Nordenberg Hall，119 University Place；电话 412-383-1800；校属 University Pharmacy 位于 103 University Place，电话 412-383-1850；秋季学期诊所周一至周四 9:00–19:00、周二周三周五 9:00–17:00、周六 10:00–15:00，周日闭诊（假期以公告为准）；闭诊时段有护士电话热线 412-383-1800；危及生命的紧急情况拨打 911。",
+      "commute": "Oakland 主校区以 Forbes Avenue、Fifth Avenue、Bigelow Boulevard 一带为核心；凭 Panther Card 可免费乘坐阿勒格尼县内 Pittsburgh Regional Transit（PRT，原 Port Authority）巴士、有轨电车与 incline；校内 Pitt Shuttle 线路含 10A/10B Upper Campus、15A OC Lot、20A North Oakland、25A Library Resource Facility、30C South Oakland、40A Biotech Center、BSPII 与周日 Shopping Shuttle；夜间 SafeRider 接驳覆盖校区与周边住宅；机场方向乘 28X Airport Flyer。",
+      "scene": "匹兹堡 Oakland 大学城坐落在三片丘陵之间，核心地标 Cathedral of Learning 与 Heinz Memorial Chapel 沿 Fifth/Forbes 大街展开；校园与 Carnegie Mellon University、Chatham University 相邻，南侧接 Schenley Park，街区以教学楼、学生公寓、餐饮零售与 UPMC 医疗设施交织，上坡台阶与坡道多，步行需按山城地形安排。",
+      "safety": "University of Pittsburgh Police（Pitt Police）为主校驻校警队，总部 Jerome Cochran Public Safety Building，3412 Forbes Avenue；校内紧急 412-624-2121（校内分机 4-2121），非紧急 412-624-4040；步行护送与夜间接驳 SafeRider 调度 412-648-CALL（2255）；校外一般警务由 Pittsburgh Bureau of Police 按辖区负责，紧急情况拨打 911。",
+      "transit": "进城主路径：PRT 巴士（61A/61B/61C、71B 等经 Fifth Avenue）与 PRT 轻轨 T 线连接 Downtown、Strip District 与 North Shore；铁路最近为 Pittsburgh Union Station，可乘 Amtrak Pennsylvanian 往 Harrisburg/Philadelphia/New York，Capitol Limited 往 Cleveland/Chicago；长途巴士与包车信息以 PRT、Amtrak 与当期客运页面为准；PRT 调度 412-442-2000。",
+      "rentnote": "校内宿舍由 Panther Central 统一管理，含 Litchfield Towers、Sutherland Hall、Panther Hall、Nordenberg Hall 等传统宿舍与公寓式楼栋，住校生须订餐计划；校外租房经 Off-Campus Living（OCL）渠道，可做室友匹配与看房清单；本表不列校外固定月租数字，租金按邮编查当期挂牌价，押金、杂费与转租条款签约前逐项核验。",
+      "link": {
+        "cal": [
+          "https://www.registrar.pitt.edu/calendars",
+          "官网"
+        ],
+        "ins": [
+          "https://www.hr.pitt.edu/students/student-health-plans",
+          "Pitt 学生保险"
+        ]
+      }
+    },
+    "iup": {
+      "short": "印第安纳宾夕法尼亚大学（Indiana University of Pennsylvania，IUP）",
+      "place": "Indiana University of Pennsylvania, 1011 South Drive, Indiana, PA 15705",
+      "cityKey": "indianapa",
+      "calShort": "两学期制（Fall/Spring）加冬季短学期与夏季多档短学期；秋季 2026-08-24 开课、12-07 上课结束，春季 2027-01-19 开课、05-03 上课结束。",
+      "calendar": "Fall 2026：2026-08-24 开课，add/drop 同期开始，08-31 add/drop 截止，09-01 单课退课开始；10-19 至 10-20 Fall Pause；11-25 至 11-27 感恩节假，11-30 复课；12-07 上课结束，12-08 至 12-11 期末考试，12-12 毕业典礼。Winter Session 2026-27：2026-12-17 开课，12-18 drop/add 截止，12-31 退课截止，2027-01-08 结束。Spring 2027：2027-01-19 开课，01-26 add/drop 截止；03-15 春假后复课；04-05 单课退课截止，04-12 全学期退学截止；05-03 上课结束，05-04 至 05-07 期末考试，05-08 毕业典礼。",
+      "fulltime": "F-1/J-1 国际学生按 SEVIS 与 IUP 注册要求保持全日制（本科 12 学分、研究生 9 学分口径）；减修须先向 Office of International Education 提交 Reduced Course Load 申请并获批，未经批准不得低于全日制。",
+      "drop": "退课截止以 2026-27 校历为准：秋季 add/drop 截止 2026-08-31、单课退课自 09-01 起；春季 add/drop 截止 2027-01-26、单课退课截止 2027-04-05、全学期退学截止 2027-04-12；退费比例按 Bursar 当期表执行。",
+      "ins1": "计划名与承保方：校方赞助的 Medical Evacuation & Repatriation Insurance（医疗转运与遗体遣返保险），面向全部 F/J 签证学生；承保保险公司与保单条款以 OIE 当期发放文件为准。是否自动加入与凭证：IUP 为 F/J 签证学生统一提供该转运遣返保障，每学期初将保费计入学生账户；该保障不设豁免、不接受 waiver；保险凭证由 OIE 与承保方发放。豁免窗口与条件：转运遣返保障本身不开放豁免；学生自行购买的主医疗险须符合联邦 J 签最低标准并按 OIE 要求提交证明。",
+      "ins2": "计划名与承保方：主医疗健康保险（学生自选合规商业保单）；IUP 不替 F/J 学生指定单一主险承保方，J 签学生可在符合联邦要求的在美持牌公司中选择。是否自动加入与凭证：主医疗险不自动加入，由学生自行投保并维持整个注册期；投保后保存保险卡、保单号与保障日期，备查于 OIE。豁免窗口与条件：J 签学生每学期须提交符合要求的医疗证明：单次事故或疾病主医疗给付不低于 100,000 美元，自付额不超过 500 美元，保单由在美国持牌销售保险的公司出具；F 签学生按 OIE 指引持有覆盖在美全部停留期的合格保单；未合规将由 OIE 联系并影响身份。",
+      "ins3": "计划名与承保方：可选牙科、视力等附加保障，校方未在国际学生保险文件中列为强制项目；需要者自行向在美保险公司选购。是否自动加入与凭证：自愿加保、不自动加入，凭证以承保方会员账户为准。豁免窗口与条件：附加险不参与强制保障审核，无独立 waiver 窗口；附加险不能替代主医疗或转运遣返责任段。",
+      "clinic": "Health Service（Center for Health and Well-Being，Suites on Maple East，Pratt 与 Maple 交口）；电话 724-357-2550，邮箱 health-inquiry@iup.edu；课后非急诊可去 IRMC UrgiCare（2128 Oakland Avenue，724-349-4362，每日 8:00–20:00）或主院 875 Hospital Road，724-357-7493；急诊拨 911（校园内拨 9-911）。",
+      "commute": "主校区 1011 South Drive，位于 Indiana 镇南缘坡地；无轨道交通，以驾车、校内 Park-N-Ride shuttle 与 IndiGO 公交为主；沿 US-422 与 I-76 方向往 Pittsburgh，车程约 1 小时余量级。",
+      "scene": "PASSHE 规模最大的高校之一，Crimson & Gray 校园；Eberly 商科、护理与健康相关专业、犯罪学与法医科学、音乐、心理、生物、管理见长；小镇大学城氛围，住宿与餐饮设施集中在校园及 Maple/Oakland Avenue 沿线。",
+      "safety": "University Police（校园警察），紧急 911，校园非紧急 724-357-2141；Center for Health and Well-Being 两端 Pratt 与 Maple 路口设蓝色紧急电话；校外一般警务归 Indiana Borough Police 与州警辖区；24/7 危机热线 1-877-333-2470，Alice Paul House 热线 724-349-4444。",
+      "transit": "IndiGO（Indiana County Transit Authority，官网 indigobus.com）共 12 条线路；持 I-Card 可无限次免费乘坐任意 IndiGO 线路，也可经 IndiGO Mobile Pay App 用 IUP 邮箱注册免费乘车；校内 Park-N-Ride 两路班车自 Robertshaw 停车场始发，约 15 分钟一圈；Campus Loop 及 12 路 IUP Shopper 连接校园、镇中心与 Oakland Avenue 商圈，1 路 Oakland Avenue、3 路 Hospital/119 Professional/Airport Road 等覆盖片区。城际巴士 Fullington Trailways 停靠 KCAC Bus Shelter（711 Pratt Drive），往返 Pittsburgh 国际机场、State College、Buffalo 与 Pittsburgh。",
+      "rentnote": "校内套房住宿覆盖双人 semi-suite、双人/四人 suite、独立卫浴与单人间等类型，2,800 余名学生住 Indiana 校区宿舍；住校生配餐计划（10F/14F/19F/Unlimited/175F 等档位）；校外房源在 Indiana 镇内 Oak/Maple/Oakland Avenue 沿线与近郊公寓群，租金随户型与合同期浮动，本页不列固定月租数字。",
+      "link": {
+        "cal": [
+          "https://www.iup.edu/news-events/calendar/academic/2026-27-academic-calendar.html",
+          "IUP 2026-27 校历"
+        ],
+        "ins": [
+          "https://www.iup.edu/international/files/international_student_and_scholar_services/international_students/current_students/forms/health-insurance-handout-2019-2020.pdf",
+          "IUP 国际学生保险政策"
+        ],
+        "police": [
+          "https://www.iup.edu/news-events/emergency/index.html",
+          "IUP 应急信息与 University Police"
+        ],
+        "housing": [
+          "https://www.iup.edu/housing/how-to-sign-up/",
+          "IUP Housing 注册"
+        ],
+        "clinic": [
+          "https://www.iup.edu/healthService/location/where-should-you-go-when-we-are-closed.html",
+          "IUP Health Service"
+        ]
+      }
+    },
+    "psuhazleton": {
+      "short": "Penn State Hazleton（宾州州立大学黑兹尔顿分校）",
+      "place": "宾夕法尼亚州·Hazleton 城郊（Luzerne County，Conyngham Valley 山麓台地），76 University Drive, Hazleton, PA 18202",
+      "cityKey": "hazleton",
+      "calShort": "学期制，与 Penn State 系统校历同步，2026 秋季 8/24 开课",
+      "calendar": "Fall 2026 全日学期：8/24 开课；Regular Drop 截止 8/29 23:59，Regular Add 截止 8/30 23:59，Late Drop 自 8/30 起；9/7 劳动节停课；Late Registration/Add/Drop 截止 11/13 23:59；11/22–28 感恩节；Withdrawal 截止 12/11 17:00；12/11 停课；12/14–18 期末考试。Spring 2027：1/11 开课；Regular Drop 截止 1/16 23:59，Regular Add 截止 1/17 23:59；1/18 MLK 纪念日停课；3/7–13 春假；Late Drop/Add 截止 4/9 23:59；Withdrawal 截止 4/30 17:00；4/30 停课；5/3–7 期末考试；5/7–9 毕业典礼。7 周与 6 周短学期、暑期节点另见 Registrar 系统校历。",
+      "fulltime": "F-1/J-1 本科每学期至少 12 学分、研究生至少 9 学分方为全日制；混合远程/网课最多 3 学分计入最低要求。暑期仅在录取学期或学位最后学期需要注册。任何降学分都须事先经 ISSA 用 iStart eForm 获批 Reduced Course Load，擅自低于全日制会触发 SEVIS 违规记录；低于原注册学分档位可能产生学费罚金。",
+      "drop": "退课同样在 LionPATH 办理：Regular Drop 截止前为正常退课，其后 Late Drop 每门收 $6 处理费；整学期 withdrawal 提交 Official Withdrawal Form 给 Registrar。学费调整按系统 Bursar 周次滑动比例执行，Student Initiated Fee 不退；学分降到 12 以下才可能触发学费调整；医疗退出按 Bursar 政策提交申诉。",
+      "ins1": "SHIP for Penn State 为系统统一学生健康保险计划，UnitedHealthcare Student Resources 承保；Hazleton 校区学生与除 World Campus 外的其他 PSU 校区适用同一计划。F/J 国际学生及随行家属必须参保 SHIP，或提交满足校方全部要求的第三方保险证明。",
+      "ins2": "2026-27 公布费率：本科个人年 $4,365（秋 $1,686，春/夏 $2,679）；研究生/法律年 $5,295（$2,045、$3,250）；学年保单，秋季入保后春季自动续保，按学期计入 bursar 账户。Hazleton Health Services 诊所不与任何保险公司签直接结算或直付协议，校内就医先按个人保单流程处理理赔。",
+      "ins3": "办理流程：注册课后在 LionPATH 健康保险页选 Enroll 或 Waive； waiver 秋季开放至 2026/9/1，春/夏段 2026/11/1–2027/1/19；申请批复邮件来自 UnitedHealthcare Student Resources；家属 waiver 须邮件 uhs-insurance@psu.edu 领取 Dependent Waiver 表。替代保险门槛：PPACA 合规、免赔额 ≤$500、网络内 OOP 上限 $3,000、网络外 $15,000/$30,000、既往症无等待期、全球保障、孕产与精神健康同等待遇，另含医疗运送 $100,000 与遣返 $50,000 限额；首 30 天使用过福利不能退保，保单不退费。系统保险办公室 University Park：814-865-4847（选 6），uhs-insurance@psu.edu。",
+      "clinic": "Health Services，704 West Hall，570-450-3028，传真 570-450-3112，周一至周五 8:00–17:00，预约与 walk-in 均可（建议先电话预约）；护士 Rebecca McNulty, RN（rlm6261@psu.edu），医师助理 Denise Bugda, PA-C, MPAS（dmb6782@psu.edu）；急症拨 911 或就近急诊。Counseling Services：Health & Counseling Office, 105 Physical Education Building，570-450-3027；下班后 24/7 Penn State Crisis Line 1-877-229-6400；社区 Northeast Counseling Services 570-455-6385。",
+      "commute": "校区在 Hazleton 城郊 125 英亩台地，俯瞰 Conyngham Valley，紧邻 I-80 与 I-81 交汇；约半数学生住校，其余校外租房或从家通勤，出行以驾车为主；注册车辆有免费且充足的指定车位；HPT 巴士连接 Hazleton 市区与校区。",
+      "scene": "小规模联邦校区：在校约 510 人，师生比 12:1，班级约 20 人；13 个本科专业与 5 个副学士专业可在校读完，另有 275 余个 PSU 学位可先读前两年，再经 2+2 转到 University Park 或其他校区完成；25 余个社团组织，含 Club de Cultura Latina；设校际、校内与俱乐部体育，配泳池、室外篮球场、运动场与力量/有氧房。",
+      "safety": "University Police 24 小时巡逻并负责楼宇管控，非紧急电话 570-450-3333；校外 Hazleton City Police/Fire 570-459-4940，Pennsylvania State Police（Hazleton）570-459-3890。罪案报案联系校警，受害者支持经 Counseling Services 与 Victims Resource Center 衔接；安全口径以校方 Clery 年度报告为准。城郊小校区环境，夜间偏僻路段结伴出行。",
+      "transit": "公交为 Hazleton Public Transit（HPT）：九条线路覆盖 Hazleton 市区与周边镇区，工作日为主，周六日班次有限；按与校区协议，Penn State Hazleton 学生免费乘车。出租车 Hazle Yellow Cab 570-455-4447。长途以驾车为主：沿 I-81 到 Wilkes-Barre 约 20 英里、Scranton 方向约 35–40 英里（约 45 分钟量级），Allentown 约 35 英里，Philadelphia 约 82 英里，New York City 约 106 英里；最近民航机场为 AVP（Wilkes-Barre/Scranton International, Avoca）。",
+      "rentnote": "校内宿舍见 house 文件；校外房源分布在 Hazle Township、West Hazleton 与市区周边。本页不给固定校外月租数字；租房时核对租金、押金、水电网、车位与 HPT 班次，驾车通勤把 I-81/I-80 路况与冬季雪天行车一并评估。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 学术校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 学生健康保险说明"
+        ],
+        "clinic": [
+          "https://hazleton.psu.edu/health-services/health-insurance",
+          "Hazleton Health Services 与保险说明"
+        ]
+      }
+    },
+    "upg": {
+      "short": "匹兹堡大学格林斯堡分校（University of Pittsburgh at Greensburg, Pitt-Greensburg / UPG）",
+      "place": "宾夕法尼亚州 Westmoreland 县 Greensburg 市，150 Finoli Drive, Greensburg, PA 15601；校区坐落在镇上的山坡上、可俯瞰 Greensburg 镇中心，距镇中心约 2 英里、距 Pittsburgh 市区东南约 40 英里，是匹兹堡大学系统的四年制本科学院（regional campus），不在 Pittsburgh 市内。2025-26 官方费率（非护理）：州内学费 $13,660/年、州外 $25,534/年；护理专业州内 $17,502/年、州外 $32,562/年；杂费 $1,136/年；以上为 regional campus 费率，与 Oakland 主校账单口径不同。",
+      "cityKey": "greensburg",
+      "calShort": "学期制（Fall/Spring 常规学期；夏季短学期按学分计费）",
+      "calendar": "Fall 2026：新生 2026-08-20（周四）按分时段 move-in，转学与返校学生 2026-08-22 至 2026-08-23 入住；2026-08-24（周一）开课；加退课须经学业顾问批准。2026-12-11 举行冬季毕业庆典（RSVP 截止 2026-12-04）。Spring 2026：期末考试 2026-04-27 至 2026-05-01；主毕业典礼 2027-05-01。Spring 2027 逐日开课、退课与期末日期以 registrar 动态校历为准。",
+      "fulltime": "全日制口径：本科每学期注册 12–18 学分按本科学费 flat rate 计收，11.5 学分及以下按学分计费；超过 18 学分的部分按学分加收；夏季学期全部按学分计费。F-1 学生 reduced course load 须经国际生办公室事先书面批准。",
+      "drop": "加退课期内调整课表须联系学业顾问批准；加退课期之后退课会计入联邦资助 SAP 的尝试学分（须完成 67% 累计尝试学分）；学期退学与 W 截止日按 registrar 校历执行；转入学分由 registrar 按成绩单与转学政策认定，最终 30 学分须在 UPG 完成。",
+      "ins1": "匹兹堡大学系统学生健康计划（Pitt-sponsored Student Health Plan）：医疗保险由 UPMC Health Plan 承保，牙科 United Concordia 承保，视力 Davis Vision by MetLife 承保；计划学年 2025-09-01 至 2026-08-31，经学校 HR 的 BenefitSolver 门户办理。UPG 与其他 Pitt 校区使用同一系统计划设计，不另设分校保险门户。",
+      "ins2": "F-1/J-1 学生在校期间须连续持有获批医疗与意外保险。每学期开学初通过 My Pitt 门户进入 BenefitSolver：投保 Pitt 学生医疗计划，或 attest 自有外部保险；国际生须在 9 月 30 日前完成投保或 attestation，逾期学校有权在学籍上放置 registration hold，影响后续注册与毕业。保险卡经 UPMC MyHealth Online 门户下载；家属可另购 dependent 保障。全日制本科生具备投保资格；2025-26 全日制本科生单人医疗月保费 $269.76。",
+      "ins3": "豁免（attestation）在 BenefitSolver 门户完成，逐项填写外部保险承保公司名称、地址、电话、保单/团体号、保障生效日与保单满足最低保障要求的确认；J-1 签证法定最低标准：每次事故/疾病医疗给付至少 $100,000，遗体遣返至少 $25,000，医疗疏散至少 $50,000，每次事故/疾病自付额不超过 $500。每年秋季须重新办理投保或 attest，未续保则保障于 8 月 31 日终止；牙科与视力计划随门户一并选择。",
+      "clinic": "校内 Health Center 提供线下与 telehealth 预约，电话 724-836-9947，周一至周五 9:00–17:00；校医每周固定时间到校坐诊，必要时每日可咨询。Counseling Center：724-836-9917，GBGCounseling@pitt.edu，周一至周五 9:00–16:00 预约，危机学生当日接诊；校外 Westmoreland County Crisis Hotline 1-800-836-6010。疫苗要求：MMR、水痘证明，住校生另须脑膜炎四价结合疫苗证明，经 my.pitt.edu 的 Student Health Services Immunization Portal 上传。急症拨 911。",
+      "commute": "校园在 Finoli Drive 的山坡上，距 Greensburg 镇中心约 2 英里；向东南经 US-30 / I-76（Pennsylvania Turnpike）走廊到 Pittsburgh 市区约 40 英里、约 1 小时量级；Amtrak 车站距校园不到 3 英里；本地通勤以自驾、Westmoreland County Transit 巴士与网约车/出租车为主，校内有停车场与 shuttle 式校园接驳。",
+      "scene": "山坡园区主要建筑包括 Chambers Hall（含 Wagner Dining Hall、信息台）、Cassell Hall、Smith Hall、Millstein Library、Life Sciences Building 与 Academic Village 的 Village Hall Coffeehouse；校门喷泉与 Bobcat 雕像为校园标志；护理专业经 Pitt School of Nursing 认证；小班教学、社团与校园活动紧密，住校生与通勤生混合。",
+      "safety": "University of Pittsburgh-Greensburg Police Department，驻 Police and Safety Center（与 Smith Hall 相连），全年 24 小时值守；校园/紧急电话 724-836-9865，急症拨 911；Emergency Notification Service（ENS）经语音、短信与邮件发布警报，可选装 Rave Guardian app 匿名举报与一键呼叫警务；学校按 Clery 法案发布年度安全与消防安全报告。",
+      "transit": "Westmoreland County Transit Authority（WCTA）周一至周五有线路从校园发车，学生凭在 Chambers Hall 信息台（工作日 9:00–17:00）领取的免费车票可到 Westmoreland Mall、Walmart 及本地站点，并在 Greensburg 换乘中心转车前往 downtown Pittsburgh 与 Pitt Oakland 校区；换乘时向司机要 transfer pass，免费票仅限 WCTA 线路。出租车：Veteran's Cab 724-537-7708（周一至周六 6:00–21:00），CCC&P Transportation 724-925-1160；Uber/Lyft 在 Greensburg 市场覆盖。停车许可全日制 $90、非全日制 $48，8 月中旬在线注册缴费。Amtrak 车站距校园不到 3 英里；假期 Buses Home for the Holidays 经 PittMobility 组织，学生须自行前往 Pittsburgh 主校集合点。",
+      "rentnote": "校内住宿含 College Hall、Robertshaw Hall 两所半传统宿舍，University Court 三栋公寓社区（步行约 5 分钟）、Westmoreland Hall 公寓式宿舍，以及 Academic Village 六栋住宅（Apollo/Athena/Franklin/Marshall/Mead/Selene）；住校生须购学校餐计划，通勤生可在 Dine On Campus 购买 15 或 50 block 通勤餐计划。2025-26 资助预算口径：住校生 Housing/Meals 估算 $15,790/年，通勤生估算 $7,288/年。校外租房集中在 Greensburg 与 Hempfield Township，本表不列校外固定月租，签约前核对租约、押金、水电网络与退租条款。",
+      "link": {
+        "cal": [
+          "https://www.greensburg.pitt.edu/admissions/deposited-student-checklist-freshman",
+          "https://www.greensburg.pitt.edu/student-life/student-accounts",
+          "https://www.greensburg.pitt.edu/academics/commencement"
+        ],
+        "ins": [
+          "https://www.hr.pitt.edu/students/student-health-plans",
+          "https://www.hr.pitt.edu/students/medical-coverage-students/enrolling-student-health-coverage",
+          "https://www.ois.pitt.edu/sites/default/files/docs/Health-Insurance-Requirements-for-F-1-and-J-1-Students.pdf"
+        ],
+        "reg": [
+          "https://www.greensburg.pitt.edu/admissions/apply-now/international-students",
+          "https://www.greensburg.pitt.edu/academics/path-pittsburgh-campus/dietrich-school-arts-sciences"
+        ],
+        "police": [
+          "https://www.greensburg.pitt.edu/student-life/police-and-safety",
+          "https://www.greensburg.pitt.edu/student-life/health-services"
+        ]
+      }
+    },
+    "behrend": {
+      "short": "Penn State Erie, The Behrend College（宾州州立大学伊利分校 Behrend）",
+      "place": "宾夕法尼亚州·Erie（伊利湖南岸，Millcreek Township 一带），4701 College Drive, Erie, PA 16563",
+      "cityKey": "erie",
+      "calShort": "学期制（semester），2026 秋 8/24 开课，采用 Penn State 系统校历",
+      "calendar": "Fall 2026 全日学期：8/17–9/15 毕业意向登记期；8/21 休学（Leave of Absence）截止；8/23 注册截止；8/24 开课；Regular Drop 截止 8/29 23:59（ET），Regular Add 截止 8/30 23:59，Late Drop 自 8/30 起；9/7 劳动节停课；Late Registration/Add/Drop 截止 11/13 23:59；11/22–28 感恩节；Withdrawal 截止 12/11 17:00；12/11 末日正课；12/12–13 Study Days；12/14–18 期末考试；12/20 毕业典礼。Spring 2027：1/2–25 毕业意向登记期；1/8 休学截止；1/10 注册截止；1/11 开课；Regular Drop 截止 1/16 23:59，Regular Add 截止 1/17 23:59，Late Drop 自 1/17 起；1/18 MLK 纪念日停课；3/7–13 春假；Late Registration/Add/Drop 截止 4/9 23:59；Withdrawal 截止 4/30 17:00；4/30 末日正课；5/1–2 Study Days；5/3–7 期末考试；5/7–9 毕业典礼。7 周短学期与暑期节点另见 Registrar 系统校历。",
+      "fulltime": "F-1/J-1 本科与法律学生每学期至少注册 12 学分，研究生至少 9 学分以满足 DHS 全日制要求；混合远程/网课最多计 3 学分计入最低学分；暑期仅录取学期或学位最后学期需要注册。低于全日制须事先经 International Student and Scholar Advising（ISSA）通过 iStart eForm 批准 Reduced Course Load，否则未授权降学分将在 SEVIS 记录为违规；低于原注册学分档位可能产生学费罚金。",
+      "drop": "退课在 LionPATH 办理：Regular Drop 截止内退课不计 Late Drop；其后 Late Drop 每门收 $6 课程处理费；整学期 withdrawal 须向 Office of the University Registrar 提交 Official Withdrawal Form。学费按 Bursar Tuition Adjustment Schedule 周次滑动比例：第 1 周 0% 计征/100% 退费，第 2 周 25%/75%，第 3 周 50%/50%，第 4 周 75%/25%，第 5 周起 100%/0%；Student Initiated Fee 不退；学分降到全日制（12 学分）以下才可能触发学费调整；医疗原因退出可按 Bursar 政策申请一次性学费减免申诉。",
+      "ins1": "SHIP for Penn State：Penn State 系统统一学生健康保险计划，医疗由 UnitedHealthcare Student Resources 承保，白金级（platinum-level）保障；Behrend 与除 World Campus 外的所有 PSU 校区适用同一计划。持 F/J 签证的国际学生及随行家属必须投保 SHIP，或提交满足全部要求的第三方健康保险证明。",
+      "ins2": "2026-27 公布费率：本科个人年保费 $4,365，按学期计 $1,686（秋）+$2,679（春/夏）；研究生与法律学生年保费 $5,295（$2,045 秋 + $3,250 春/夏）；研助、Fellows 与 Trainees 享校方 80% 补贴后自付约 $409（秋）与 $650（春/夏）。计划为学年保单，秋季入保后春季自动续保，保费按学期计入学生账户账单。",
+      "ins3": "waiver 流程：注册课后在 LionPATH 健康保险页选择 Waive，备妥保单卡与计划说明书；申请由 UnitedHealthcare Student Resources 审核并以邮件批复。秋季退保开放至 2026/9/1；春/夏段开放窗口 2026/11/1–2027/1/19；返校生仅秋季可退保，春季退保仅限新生与转学生。替代保险门槛：PPACA 合规的美国承保方、免赔额不高于 $500、网络内自付上限 $3,000、网络外 $15,000/$30,000、全球保障、既往症无等待期、孕产与精神健康、物质滥用同等待遇，并含医疗运送 $100,000 与遣返 $50,000 最低限额；入保后前 30 天已使用理赔则不能退保，保单不退费。系统 SHIP 办公室：228 Bank of America Career Services Center, 566 Eisenhower Rd, University Park, PA 16802；814-865-4847（选 6）；uhs-insurance@psu.edu。",
+      "clinic": "Behrend Health Center（Carriage House，紧邻 Reed Union Building 与 Senat Hall），4701 College Drive, Erie, PA 16563；周一至周五 8:00–17:00；电话 814-898-6217；邮箱 BehrendHealthCenter@psu.edu；配全职认证家庭护士执业医师、兼职家庭/运动医学医生与两名校健康护士，处理常见病与轻伤、现场化验与疫苗，另提供远程医疗；闭校急症拨 911。Personal Counseling Center：212 Erie Hall，814-898-6504，周一至周五 8:00–17:00，提供免费保密的个体咨询、团体咨询与危机干预。",
+      "commute": "校区位于 4701 College Drive，伊利湖畔 854 英亩校园；约 60% 学生不住校，在外租房或从家通勤。通勤停车分布于 Junker Lot、Jordan Lot、Erie Lot、Benson Lot、Prischak Lot 与 Burke Parking Deck，须在线购买停车许可；校外住宿参考校方 Off-Campus Housing 资源。",
+      "scene": "Behrend 为四年制加研究生学院，是 PSU 联邦校区中规模最大的校区之一：在校与线上约 4,500 名学生、47 个学术学位；设 Black School of Business、理学院、工程与计算机、人文社科等完整四年制工程/商科/理科项目；校队参加 NCAA Division III（AMCC 联盟）；140 余个学生组织，学生政府 SGA 挂靠 Student Leadership and Involvement（27 Reed Union Building 一层）。",
+      "safety": "University Police and Public Safety（UPPS）驻 Logan Carriage House, 4213 Station Road，电话 814-898-6101，全年 24 小时值守；校外急症拨 911。校园设紧急呼叫柱，Safe Walk 夜间护送黄昏至黎明可拨 814-898-6101；宿舍凭大学 ID 门禁，各楼层有驻楼 RA；安全关切邮件 behrendsafety@psu.edu；年度 Security and Fire Safety Report（Clery）公开校园犯罪统计。Erie 城片区治安口碑参差，深夜偏僻路段结伴出行或预约护送，不粉饰也不渲染。",
+      "transit": "公共交通走 Erie Metropolitan Transit Authority（EMTA，简称 “e”）：凭 PSU 移动 ID 免费乘坐全线社区路线与校园环线。到校路线 15、17、18、25、26，其中 17、18 仅学期内运行；18 路为校园环线，工作日 7:40–19:00；25 路 Wesleyville/Behrend；26/4 路经 East 26th、Walmart、Behrend、Millcreek Mall；15 路经 East 38th、TOPS、Behrend、Millcreek Mall；周日服务当前暂停，班次以 e 当期时刻表为准。无轨交；自驾到 Pittsburgh 约 128 英里、Cleveland（OH）约 95 英里、Buffalo（NY）约 105 英里，均为 2 小时量级。",
+      "rentnote": "校内宿舍合同与档位见 house 文件；校外房源集中在 Millcreek 西南、Wesleyville 与 Erie 城南走廊，校方 Off-Campus Housing 仅作便利信息，声明与列名物业无附属或合作关系。本页不给固定校外月租数字，挂牌价、押金、水电网、车位与公交班次按当期租约逐项核对。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 学术校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 学生健康保险说明"
+        ],
+        "clinic": [
+          "https://behrend.psu.edu/student-life/student-services/health",
+          "Behrend Health Center"
+        ]
+      }
+    },
+    "esu": {
+      "short": "东斯特劳斯堡大学（East Stroudsburg University of Pennsylvania，ESU）",
+      "place": "East Stroudsburg University of Pennsylvania, 200 Prospect Street, East Stroudsburg, PA 18301",
+      "cityKey": "eaststroudsburg",
+      "calShort": "两学期制（Fall/Spring）加 Winter Session 与多档夏季短学期；秋季 2026-08-24 开课、12-12 学期结束，春季 2027-01-19 开课、05-08 学期结束。",
+      "calendar": "Fall 2026：2026-08-17 Warrior Welcome Week 开始，08-19/20 新生入住、08-21/22 老生入住，08-24 开课；09-01 学期课 add/drop 截止，09-02 退课 W 记档开始；10-12 至 10-13 秋假；10-29 学期课 W 退课截止；11-25 起感恩节假，11-30 复课；12-08 期末考试周开始，12-11 宿舍关闭，12-12 秋季学期结束。Spring 2027：2027-01-17 宿舍开放，01-19 开课，01-26 学期课 add/drop 截止；03-08 至 03-15 春假；05-05 学期课 W 退课截止，05-04 期末考试周开始，05-07 宿舍关闭，05-08 春季学期结束，本专科毕业典礼当日举行。",
+      "fulltime": "持 F-1/J-1 非移民签证的国际学生须按 SEVIS 与 ESU 注册要求保持全日制学籍（本科一般 12 学分、研究生 9 学分口径）；减修或退至非全日制须事先经 Office of International Programs 批准。",
+      "drop": "退课与退学截止按 2026-2027 官方校历执行：秋季学期课 add/drop 截止 2026-09-01、W 退课截止 2026-10-29；春季学期课 add/drop 截止 2027-01-26、W 退课截止 2027-05-05；quarter 课与冬季、夏季短学期截止日见校历对应条目。",
+      "ins1": "计划名与承保方：ESU Health Insurance Plan（校方学生医保），面向注册在读的国际学生；承保保险公司与当期保单条款以 Office of International Programs 当期发放的保单文件为准，保单责任段含医疗费用、医疗转运与遗体遣返。是否自动加入与凭证：除 ISEP 交换生外，所有国际学生在读期间须购买 ESU 医保；若学生未自行提交符合要求的保险证明，校方将按其费用自动加入 ESU 医保并计入学费账户；保险卡凭证由承保方与国际项目办公室发放，就诊时携带学生 eCard 与保险信息。豁免窗口与条件：学生持本国资助方、国内机构或其他保险公司在美停留期内有效的合格保单，须到校后向 Office of International Programs 提交英文保险证明（公司名称地址、电话传真、投保人姓名、保单号、生效与到期日、保障明细）；医疗给付不低于 100,000 美元、遗体遣返不低于 25,000 美元、医疗转运不低于 50,000 美元，单次事故或疾病自付额不超过 500 美元、自付比例不超过 25%；证明在到达后注册核验期内提交并获办公室认可，方可免除 ESU 医保保费。",
+      "ins2": "计划名与承保方：校方未在国际学生保险页面列示单独的自愿牙科或视力附加险；学生如需牙科、视力保障，可自行向在美持牌保险公司选购独立保单。是否自动加入与凭证：不自动加入、不强制，选购后以承保方会员账户领取电子凭证。豁免窗口与条件：自愿附加险不参与强制医保豁免，无独立 waiver 窗口；自行选购的牙科或视力保单不能替代主医疗险的合规审核。",
+      "ins3": "计划名与承保方：医疗转运与遣返保障（包含于上述 ESU 医保或学生自购保单的必备责任段），对应 J-1 联邦交流访问学者最低标准。是否自动加入与凭证：F-1/J-1 学生的医疗转运与遣返保障随主保单生效，凭证与主险保险卡一致。豁免窗口与条件：提交替代保单时该责任段必须达到医疗转运 50,000 美元、遗体遣返 25,000 美元的最低额度；境外保单、旅行险或纯应急保障不满足审核条件；保单须由在美国销售保险的公司出具并覆盖在美全部停留期。",
+      "clinic": "Student Health Services（LVHN–Pocono ExpressCARE 合作点），200 East Brown Street（Prospect Street 与 East Brown Street 交口，JeffExpress Urgent Care–Pocono 楼内）；校内办公室 Sycamore Suites Lower Level 023，电话 570-422-3298；学生就诊时段周一至周五 8:00–17:00、周末 10:00–14:00，晚间与周末社区急诊时段另见 Health Services 页面；就诊刷 ESU eCard，带保险信息以便上转专科。",
+      "commute": "主校区 200 Prospect Street，坐落于 East Stroudsburg 镇北侧山坡上，可俯瞰镇区；本地无轨道交通，以驾车、校内 shuttle 与 MCTA Pocono Pony 公交为主；距 Stroudsburg 镇中心与 Delaware Water Gap 很近，沿 I-80 方向可达 Mount Pocono 与 Poconos 度假带。",
+      "scene": "PASSHE 州立大学，Warriors 校园氛围；四个学院为 Arts & Sciences、Business & Management、Education、Health Sciences；以教师教育（CAEP 认证）、护理（ACEN 认证）、运动科学与运动训练、公共卫生、社会工作、酒店餐饮与旅游管理、言语病理见长；Poconos 门户位置带来户外休闲与旅游实习场景。",
+      "safety": "University Police（校园警局）驻 Hemlock Suites, Smith Street, Ground Floor；紧急拨 911，校园非紧急电话 570-422-3064；宾州州警 Stroudsburg 站 2730 Rimrock Drive, Stroudsburg, PA 18360，570-619-6800；课后危机联系 CAPS 咨询 570-422-3277。",
+      "transit": "MCTA Pocono Pony（官网 gomcta.com）在 Hemlock Suites 前 Normal Street 设站；101 Red Route 经 Bartonsville Giant、St. Luke's Hospital、Stroud Mall、Stroudsburg 与 East Stroudsburg 镇区、ESU、LVH–Pocono 与 Eagle Valley Mall；学生可在 University Center 购 1 美元 MoGo 卡，学生单程票价 1 美元，乘车须持有效 ESU ID；咨询 570-839-6282。校内三条 shuttle 环线（Red 等）连接 University Ridge、Sci-Tech（Ransberry Ave）、Lot R26 University Apartments、Fine Arts 与 Gwendolyn St，约 20 分钟一班，Red 线工作日首班 7:20 a.m.。",
+      "rentnote": "校内有五所传统宿舍、三所套房宿舍（Hemlock/Hawthorn/Sycamore Suites）、University Ridge 与 University Apartments 公寓；一年级学生原则上住校，除非从父母或法定监护人距校区 40 英里内住所通勤；传统宿舍与套房须订餐计划，Ridge 与公寓不强制；校外房源集中在 East Stroudsburg 与 Stroudsburg 镇区沿线，租金随户型与学期浮动，以当期挂牌为准，本页不列固定月租数字。",
+      "link": {
+        "cal": [
+          "https://www.esu.edu/academics/calendar/2026-2027-academic-calendar.php",
+          "ESU 2026-2027 校历"
+        ],
+        "ins": [
+          "https://www.esu.edu/international_programs/services/current_international_students/health_insurance.cfm",
+          "ESU 国际学生保险要求"
+        ],
+        "police": [
+          "https://www.esu.edu/university_policies/list/ESU-2020-01.cfm",
+          "ESU University Police"
+        ],
+        "housing": [
+          "https://www.esu.edu/residential-life-housing/index.cfm",
+          "ESU Residential Life & Housing"
+        ],
+        "clinic": [
+          "https://www.esu.edu/life-at-esu/health-wellness/health-services/index.php",
+          "ESU Health Services"
+        ]
+      }
+    },
+    "psuscranton": {
+      "short": "宾州州立大学斯克兰顿分校（Penn State Scranton，PSU-Scranton）",
+      "place": "Pennsylvania State University, Penn State Scranton，120 Ridge View Drive, Dunmore, PA 18512，Lackawanna 县 Dunmore 自治市，紧邻 Scranton 市区；电话 1-570-963-2500，招生 snadmissions@psu.edu，学生活动办公室 570-963-2700。校区占地约 45 英亩，开设 14 个学士项目与 4 个副学士项目，20+ 学生团体，13 支 PSUAC/USCAA 校队，生师比 16:1，约 838 名本科生；特色项目含认证护理、机械工程与信息科学技术。2026 秋学费（Brandywine/Hazleton/Lehigh Valley/Schuylkill/Scranton/York 费率组）：宾州居民本科低年级 $14,624/年（$7,312/学期，$605/学分），高年级 $15,786/年（$7,893/学期，$648/学分）；非宾州居民（含国际生）本科低年级 $25,306/年（$12,653/学期，$1,054/学分），高年级 $26,462/年（$13,231/学期，$1,103/学分）；研究生分专业 $25,144–$26,540（宾州）与 $33,490–$35,042（非宾州）。国际生另缴 International Fee $1,500/年，Student Initiated Fee 按学分负荷计。",
+      "cityKey": "dunmore",
+      "calShort": "学期制（semester）；2026 秋 8/24 开课，2027 春 1/11 开课",
+      "calendar": "按 Penn State 统一学年校历执行。Fall 2026 Regular Session：Classes Begin 周一 8 月 24 日；Regular Drop 截止 8 月 29 日 23:59 ET；Labor Day 9 月 7 日停课；Thanksgiving 11 月 22–28 日；Withdrawal Deadline 12 月 11 日 17:00 ET，当日 Classes End；Final Exams 12 月 14–18 日。Spring 2027：Classes Begin 周一 1 月 11 日；Regular Drop 1 月 16 日截止；MLK Day 1 月 18 日停课；Spring Break 3 月 7–13 日；Late Drop Deadline 4 月 9 日；Withdrawal 4 月 30 日 17:00 ET；Final Exams 5 月 3–7 日。夏季与 7 周短学期日期另列。",
+      "fulltime": "国际学生全职口径：本科每学期 12 学分及以上、研究生 9 学分及以上；本科 12–19 学分平坦学费，超出部分按 per-credit 计。因病、学术困难等理由需减修的，先向 DISSA 申请 Reduced Course Load 并获批准，再在 LionPATH 退课；SEVIS 记录随 RCL 同步更新。",
+      "drop": "退课节点以 Registrar 校历为准：Regular Drop 秋 8 月 29 日 23:59、春 1 月 16 日 23:59 截止；Late Drop 秋季 11 月 13 日、春季 4 月 9 日 23:59 截止并记 W；Withdrawal 秋 12 月 11 日、春 4 月 30 日 17:00 ET 截止。学费责任与退费比例按 Bursar 当期退费表；低于全职的退课必须先拿到 DISSA 的 RCL 授权。",
+      "ins1": "SHIP for Penn State 是宾州州立统一的学生健康保险，承保方为 UnitedHealthcare StudentResources，除 World Campus 外面向各校区合格学生开放。持 F-1/J-1 签证的国际学生及家属强制持险：未按期豁免即自动加入计划，保费每学期出现在账单上。2026-27 个人费率：本科全年 $4,365（秋季 $1,686，春夏 $2,679）；研究生与法学全年 $5,295（秋季 $2,045，春夏 $3,250），保单有效期 2026-08-13 至 2027-08-12。网络内福利：免赔 $250（UHS 外），门诊 $10 共付，10% 共保，个人 OOP 上限 $1,300；急诊 $150（住院免收）；处方药 $10/$30/$60，UHS 药房 $0；预防保健免免赔。",
+      "ins2": "投保或豁免在 LionPATH 健康保险页面完成，选课一天半后可进入。开放窗口：秋季 2026 为 7 月 14 日–9 月 1 日；春季 2027 为 2026 年 11 月 11 日–2027 年 1 月 19 日；夏季 2027 为 3 月 1 日–7 月 6 日。国际生自动加入截止：秋季 9 月 1 日，春季新入学生 1 月 19 日；建议主动 Enroll 以尽快拿到医疗 ID 卡。秋季入保春季自动延续；返校学生春季不能再申请豁免，仅新生与转学生可在春季窗口办理；家属豁免通过邮件 uhs-insurance@psu.edu 联系保险办公室。",
+      "ins3": "豁免条件（国际学生与家属）：美国境内合法、ACA 合规承保；宾州备案保单或经批准的赞助计划附出资担保；预防与避孕全保；既往症无等待期；免赔 ≤$500；伤病基本福利含处方药不设限额；产科同病覆盖；精神健康与物质滥用住院门诊同等；无酒精、药物、自伤相关除外条款；全球保障；网络内 OOP 封顶 $3,000、网络外 $15,000/$30,000；美国雇主赞助计划可豁免前 12 项；医疗运送 $100,000、遗体遣返 $50,000 起步。LionPATH 提交保险卡与完整保单后由 UHCSR 审批并邮件通知；办公室电话 814-865-4UHS(4847)，邮箱 uhs-insurance@psu.edu。",
+      "clinic": "Penn State Scranton 未在校区内设 UHS 门诊部；就诊安排在 Scranton/Dunmore 本地诊所、urgent care 与医院，使用 SHIP 网络。健康与 wellness 事项经 Student Life 对接，计划含远程医疗与心理资源；急症拨 911，全国心理危机热线 988。",
+      "commute": "校区 120 Ridge View Dr 坐落在 Dunmore 山坡上，与 Scranton 市区接壤：到 Downtown Scranton 约数英里量级，沿 Cedar Ave/Ridge View Dr 短途驾车即达；I-81、I-84、I-380、Route 6 与 Casey Highway 均可接入。COLTS 公交在校区附近设站，无车学生可搭乘，具体线路班次见 coltsbus.com；多数学生驾车，校园停车免费。",
+      "scene": "45 英亩山地校区，16:1 生师比；特色项目含认证护理、机械工程、信息科学技术（应用开发方向）；20+ 社团与 13 支校队覆盖学术、文化、专业与服务；Diversity Circles 促进学生与社区对话，年度活动含 Diwali、中国新年庆祝与社区服务；户外座椅、步道与实验室是日常学习与碰面空间。",
+      "safety": "Police and Public Safety 驻校，凭车辆登记与保险信息核发停车证并管理停车；紧急 911，非紧急经 Student Activities Office 570-963-2700 联系。校外归 Dunmore Police 与 Lackawanna County 执法部门；城区与山坡片区夜间注意照明路段，晚归结伴或叫车；校园安全通告经 PSU Alerts 渠道发布。",
+      "transit": "COLTS 固定线路连接 Dunmore、Scranton 市区、Lackawanna 学院、Marywood 与 University of Scranton 等片区，车票与 LCTA 互通；校区附近站点步行可达，班次见 coltsbus.com（570-346-2061）。I-81 纵贯；就近机场 AVP 约 8–10 英里量级，EWR/PHL 约 120 英里量级。",
+      "rentnote": "校区无校办宿舍，住宿全部为私人房源；过街 The Commons 步行可达，Lofts at the Mill 约 3.5 英里，其余在 Dunmore 与 Scranton 城区；本页不给固定租金，按邮编查当期挂牌价，核对押金、水电网、停车、通勤与解约条款。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 校历（Registrar）"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "SHIP for Penn State 健康保险"
+        ],
+        "clinic": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "学生健康保险与服务入口"
+        ],
+        "parking": [
+          "https://scranton.psu.edu/commuting-campus",
+          "Commuting to Campus 通勤与停车"
+        ],
+        "housing": [
+          "https://scranton.psu.edu/campus-housing",
+          "Off-Campus Housing 校外住房"
+        ],
+        "tuition": [
+          "https://tuition.psu.edu/rates-effective-2026-fall-semester-brandywine-hazleton-lehigh-valley-schuylkill-scranton-york",
+          "2026 秋学费费率表"
+        ],
+        "two2": [
+          "https://www.psu.edu/resources/first-year-students/2plus2plan",
+          "Penn State 2+2 Plan"
+        ],
+        "transit": [
+          "https://coltsbus.com",
+          "COLTS 公交"
+        ]
+      }
+    },
+    "psuwb": {
+      "short": "宾州州立大学威尔克斯-巴里分校（Penn State Wilkes-Barre，PSU-WB）",
+      "place": "Pennsylvania State University, Penn State Wilkes-Barre，44 University Drive, Dallas, PA 18612（校区地处 Lehman 镇 Back Mountain 片区，邮政城市 Dallas，Luzerne 县）；电话 1-570-675-9238，wbadmissions@psu.edu。按校董事会校区调整方案，WB 自 2025 秋起不再招收新生与转学生，在读学生可在校支持下读到 2026–27 学年结束，之后转其他 Penn State 校区或 World Campus 完成学位。2026 秋学费（Beaver/DuBois/Fayette/Greater Allegheny/Mont Alto/New Kensington/Wilkes-Barre 费率组）：宾州居民本科低年级 $13,824/年（$6,912/学期，$573/学分），高年级理工 $15,578/年（$7,789/学期，$630/学分）、其他专业 $14,920/年（$7,460/学期，$619/学分）；非宾州居民（含国际生）本科低年级 $24,024/年（$12,012/学期，$1,001/学分），高年级 $25,404/年（$12,702/学期，$1,059/学分）；研究生分专业 $24,032–$25,362（宾州）与 $31,872–$33,354（非宾州）。",
+      "cityKey": "dallaspa",
+      "calShort": "学期制（semester）；2026 秋 8/24 开课，2027 春 1/11 开课",
+      "calendar": "【择校提示】按校董事会 2025-05-22 决议，本校自 2025 年秋季学期起不再招收新生与转学生，校区在 2027 年春季学期结束后关闭；在读学生由学术顾问对接，按 2+2 或转校区路径（含 World Campus）完成学位。Penn State 统一学期制（semester）。2026 秋 Regular：8 月 24 日周一开课；Regular Drop 8 月 29 日 23:59（ET）截止，8 月 30 日起 Late Drop；11 月 13 日为 Late Registration/Add/Drop 截止；12 月 11 日周五 17:00 Withdrawal 截止并结课，12 月 14–18 日期末。2027 春：1 月 11 日周一开课，1 月 16 日 Regular Drop 截止，1 月 17 日起 Late Drop，3 月 7–13 日春假，4 月 9 日 Late Drop/Add 截止，4 月 30 日 17:00 Withdrawal 截止，5 月 3–7 日期末。7 周短学期与夏季另见校历。",
+      "fulltime": "维持 F-1/J-1 身份：秋春长学期本科注册不少于 12 学分、研究生不少于 9 学分；学期中学分调整后若跌破全职线，必须先取得 DISSA 的 RCL 批准并同步 SEVIS。校区过渡转学者的身份衔接由学术顾问与 DISSA 共同确认；具体在线学分比例与豁免情形以 DSO 当期口径为准。",
+      "drop": "加退课走 LionPATH：Regular Add/Drop 在第一周内（秋 8 月 29–30 日、春 1 月 16–17 日截止）；Late Drop 自次日开始，秋 11 月 13 日、春 4 月 9 日截止；Withdrawal 截止秋 12 月 11 日 17:00、春 4 月 30 日 17:00。整校退学退费按 PSU 退费阶梯，已发生的活动/设施费按规则不退；在读生因校区关闭过渡调整课程表，由 Advising Center 确认不影响身份与毕业进度。",
+      "ins1": "Penn State 的 SHIP 学生计划由 UnitedHealthcare StudentResources 承保，除 World Campus 外各校区在读学生可选；F/J 签证国际学生与随行眷属必须购买 SHIP 或提交符合全部标准的替代保障。保费按学期计入学生账户：2026-27 学年本科个人 $4,365（秋 $1,686、春/夏 $2,679），研究生/法学 $5,295（秋 $2,045、春/夏 $3,250），保障区间 2026-08-13 至 2027-08-12。保障要点：UHS 之外网络内免赔 $250、门诊 $10 共付、10% 共保、网络内 OOP 上限 $1,300；急诊 $150（住院免收）；Rx $10/$30/$60，UHS 药房 $0；预防保健在 UHS 全额支付。",
+      "ins2": "操作入口为 LionPATH Health Insurance 页：注册课程后 24–48 小时可登记或豁免。2026 秋开放登记 7 月 14 日至 9 月 1 日；2027 春 2026 年 11 月 11 日至 2027 年 1 月 19 日；夏季 2027 年 3 月 1 日至 7 月 6 日。未在秋季 9 月 1 日、春季新生 1 月 19 日截止前操作的国际生将被自动投保并入账；秋季投保后春季自动续保，春季返校生不受理豁免。眷属不走 LionPATH，联系 uhs-insurance@psu.edu 办家属豁免表。",
+      "ins3": "替代保单审核口径：承保方须在美国合规经营并符合 ACA；保单经宾州保险厅备案或为办公室批准的赞助计划并附担保函；预防/避孕 100% 覆盖；既往症无等待期；免赔额 ≤$500；基本伤病福利与处方药无限额；产科、心理与物质滥用住院门诊同等覆盖；无酒精/药物/自杀相关除外；全球有效；网络内 OOP 上限 $3,000、网络外 $15,000/$30,000；美国雇主团体计划可替代前 12 项；医疗撤离 ≥$100,000、遣返 ≥$50,000。提交材料为英文、美元标价的保险卡与完整保单，UHCSR 在线审核；咨询 Student Health Insurance Office，228 Bank of America Career Services Center, 566 Eisenhower Rd., University Park, PA 16802，814-865-4847。",
+      "clinic": "WB 校区不设完整 UHS 门诊；学生使用 Wilkes-Barre 地区本地诊所、urgent care 与医院就诊，SHIP 网络内付费。Health and Wellness 页面提供健康服务与转介入口，校区另有 Food Bank；心理危机拨 988，急症 911；保险报销网络与凭证见 SHIP 计划说明。",
+      "commute": "校区位于 Dallas/Lehman 的 Back Mountain 片区（44 University Dr），属乡郊低密布局；向南到 Wilkes-Barre 城区约十余英里量级，驾车经 PA-309/Route 115 与 I-81 衔接。LCTA 公交覆盖 Luzerne 县，校区周边线路有限、不覆盖全部通勤方向；学生以自驾为主，车辆登记后向 Police & Public Safety 领停车许可。",
+      "scene": "【择校提示】校区已停止招生、2027 年春后关闭，在读生以转校区完成学位为默认路径。校区体量小、师生联系紧；校内公共空间含 Nesbitt Library、Friedman Art Gallery 与 Friedman Observatory；学生组织、校队与 Student Government 构成社交入口，Food Bank 支援困难学生。受校区关闭过渡影响，在读学生重点是按 2+2 或转校区路径完成学位，学术顾问与 Student Affairs 全程对接；课程与项目以 Course Bulletin 当期目录为准。",
+      "safety": "Police & Public Safety 负责校园巡逻、停车证与车辆登记（Vehicle Registration Form）；紧急 911，非紧急经校区 570-675-9238 转。校外由 Dallas Borough Police、Lehman Township Police 与 Luzerne County Sheriff 协同；乡郊道路照明有限，夜间出行结伴或自驾，安全数据以 Clery 报告为准。",
+      "transit": "县域公交 LCTA（lctabus.com，570-287-8463）连通 Wilkes-Barre 城区与 Back Mountain；校区无直达主干线路保证，通勤主要靠自驾或拼车。对外走 PA-309 接 I-81；就近民航机场 AVP（Wilkes-Barre/Scranton International, Avoca）约 15–20 英里量级，EWR/PHL 为远途枢纽。",
+      "rentnote": "官网未列校办宿舍，学生全部校外住宿；Back Mountain 与 Wilkes-Barre 近郊公寓/独栋按片区价差明显，本页不列固定月租，按邮编查挂牌价并核验押金、杂费、停车、车程与转租条款；过渡搬迁安排以 Student Affairs 通知为准。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 校历（Registrar）"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "SHIP for Penn State 健康保险"
+        ],
+        "clinic": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "学生健康保险与服务入口"
+        ],
+        "parking": [
+          "https://wilkesbarre.psu.edu/current-students",
+          "Current Students 学生事务目录"
+        ],
+        "housing": [
+          "https://wilkesbarre.psu.edu/current-students",
+          "Off-Campus Housing 校外住房"
+        ],
+        "tuition": [
+          "https://tuition.psu.edu/rates-effective-2026-fall-semester-beaver-dubois-fayette-greater-allegheny-mont-alto-new-kensington",
+          "2026 秋学费费率表"
+        ],
+        "two2": [
+          "https://www.psu.edu/resources/first-year-students/2plus2plan",
+          "Penn State 2+2 Plan"
+        ],
+        "transition": [
+          "https://www.psu.edu/news/administration/story/trustees-ratify-plan-reshape-penn-states-commonwealth-campuses-long-term",
+          "校区调整方案公告"
+        ],
+        "transit": [
+          "https://www.lctabus.com",
+          "LCTA 公交"
+        ]
+      }
+    },
+    "cheyney": {
+      "short": "切尼大学（Cheyney University of Pennsylvania）",
+      "place": "Cheyney University of Pennsylvania, 1837 University Circle, Cheyney, PA 19319",
+      "cityKey": "cheyney",
+      "calShort": "两学期制（Fall/Spring）；2026 秋季 8 月中下旬分批入住、8 月下旬开课，2027 春季 2027-01-19 开课。",
+      "calendar": "Fall 2026：新生与转学生 2026-08-17、大二 08-19、大三 08-20、大四 08-21 分批入住，备选 08-22；秋季课程按 Registrar 校历于 8 月下旬开课，add/drop 与退课截止见 CU Experience 门户内 Academic Calendar。Spring 2027：2027-01-19 周二开课；注册、加退课与晚注册费用（100 美元）按 Registrar 当期校历执行。",
+      "fulltime": "F-1 国际学生按 SEVIS 与 Cheyney 注册要求保持全日制（本科 12 学分口径）；住校资格也要求注册达到 12 学分及以上；减修须先经相关办公室批准。",
+      "drop": "加退课经 CU Experience 学生门户按 Academic Calendar 指定日期办理；晚注册收 100 美元 Late Registration Fee；退学与退课截止、退费比例以 Registrar 校历与 Bursar 当期条款为准。",
+      "ins1": "计划名与承保方：校方未在国际招生页面列示统一自动加入的商业学生医保；F-1 学生须自行持有在美国境内购买、覆盖在美全部停留期的合格保单，承保险企以学生所选在美持牌公司保单为准；合规核验由 Admissions 与 Student Affairs 相关办公室办理。是否自动加入与凭证：不自动加入；投保后保存保险卡、保单号、生效与到期日期及保障明细，供到校后身份与保险核验。豁免窗口与条件：无可供豁免的校方强制商业计划；自购保单须达到医疗给付 100,000 美元、遗体遣返 25,000 美元、医疗转运 50,000 美元、自付额不超过 500 美元的最低标准；境外保单、旅行险或纯应急保障不满足核验要求。",
+      "ins2": "计划名与承保方：J-1 交流访问学者口径主医疗险（如适用），按联邦交流项目最低标准在美持牌公司投保；承保方以保单文件为准。是否自动加入与凭证：不自动加入，凭证随承保方会员账户领取。豁免窗口与条件：J-1 学生须为本人及配偶子女维持合规保险，每学期按项目要求提交证明；未合规将影响交流身份。",
+      "ins3": "计划名与承保方：牙科、视力等附加保障校方未列为强制项目；需要者自行向在美保险公司选购。是否自动加入与凭证：自愿加保、不自动加入。豁免窗口与条件：附加险无独立 waiver 窗口，不能替代主医疗、转运或遣返责任段。",
+      "clinic": "Student Health and Wellness Center，McKnight-Rogers 楼内（Public Safety 同楼）；邮箱 healthandwellness@cheyney.edu；提供初级保健、健康与咨询项目；危及生命的紧急情况拨 911，校园 Public Safety 610-399-2405。",
+      "commute": "校区 1837 University Circle，Chester County 乡村边缘（Thornbury 一带），紧邻 Delaware 州界；周边无成型商业街，日常采购与进城基本靠驾车或预约接驳；SEPTA 公交有线路通到校区附近，区域铁路最近为 Media/Wawa 线 Wawa/Media 站，需巴士或驾车接驳；到 Philadelphia 约 40–50 分钟量级，到 West Chester 与 Media 为短途车程。",
+      "scene": "全美最古老的黑人高校（1837 年创办），PASSHE 成员中唯一的 HBCU；规模小、师生比低；学科分 School of Arts and Sciences 与 School of Education and Professional Studies，商业管理、生物（Pre-Med/Pre-Nursing）、酒店餐饮与旅游管理、早教与特殊教育、心理学、Social Relations、刑事司法、传播艺术见长；仅提供本科项目。",
+      "safety": "Campus & Public Safety，McKnight-Rogers 楼；紧急 610-399-2405，校总机 610-399-2275；校园警报系统经短信、邮件与语音消息推送；校外紧急拨 911；乡村校区夜间出行结伴并走照明主路。",
+      "transit": "公共交通以 SEPTA 郊区公交为主，校区有 SEPTA bus service 接驳（线路与班次以 septa.org 当期时刻表为准）；最近区域铁路为 SEPTA Media/Wawa 线 Wawa 站与 Media 站，下车后需巴士或驾车接驳校区；城际出行靠 US-1、PA-3（West Chester Pike）与 PA-926 驾车；校园另设校车与接驳安排，停车须办许可。",
+      "rentnote": "校内宿舍含 Living and Learning Center（套房式，A/B/C/D 翼）、Tubman Hall、King Hall、Emlen、Humphreys 等；住校须注册全日制（12 学分及以上）并签一学年住宿合同；2025 秋快照显示九成以上学生住校；校外就近租住 West Chester、Media 或 Delaware County 沿线，依赖驾车，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://cheyney.edu/registrar/",
+          "Cheyney Registrar 校历入口"
+        ],
+        "ins": [
+          "https://cheyney.edu/admissions/international-admissions/",
+          "Cheyney International Admissions"
+        ],
+        "police": [
+          "https://cheyney.edu/campus-safety/emergency-preparedness/",
+          "Cheyney Campus & Public Safety"
+        ],
+        "housing": [
+          "https://cheyney.edu/for-current-students/residential-housing-communities/apply-for-housing/move-in-instructions/",
+          "Cheyney 住宿入住安排"
+        ],
+        "clinic": [
+          "https://cheyney.edu/guide-to-fall-2020/",
+          "Cheyney Health and Wellness"
+        ]
+      }
+    },
+    "psulv": {
+      "short": "宾州州立大学利哈伊谷分校（Penn State Lehigh Valley，PSU-LV）",
+      "place": "Pennsylvania State University, Penn State Lehigh Valley，2809 Saucon Valley Road, Center Valley, PA 18034；主电话 610-285-5000，招生 610-285-5035，admissions-lv@psu.edu。校区位于 Lehigh 县 Upper Saucon 镇区 Center Valley，属 Penn State 联邦（Commonwealth）校区、通勤型；开设 12 个学士项目与 1 个副学士项目，30+ 学生团体，5 支 PSUAC/USCAA 校队，生师比 13:1，约 954 名本科生。2026 秋学费（Brandywine/Hazleton/Lehigh Valley/Schuylkill/Scranton/York 费率组）：宾州居民本科低年级 $14,624/年（$7,312/学期，非全日制 $605/学分），高年级 $15,786/年（$7,893/学期，$648/学分）；非宾州居民（含国际生）本科低年级 $25,306/年（$12,653/学期，$1,054/学分），高年级 $26,462/年（$13,231/学期，$1,103/学分）；研究生分专业 $25,144–$26,540（宾州）与 $33,490–$35,042（非宾州）。国际生另缴 International Fee $1,500/年，Student Initiated Fee 按学分负荷计。",
+      "cityKey": "centervalley",
+      "calShort": "学期制（semester）；2026 秋 8/24 开课，2027 春 1/11 开课",
+      "calendar": "学期制（semester），学年分秋、春、夏三季，含 Regular Session 与 7 周短学期。2026 秋 Regular Session：8 月 24 日（周一）开课，9 月 7 日劳动节无课，11 月 22–28 日感恩节假，12 月 11 日（周五）17:00 前为全校退课截止、当日结课，12 月 12–13 日 Study Days，12 月 14–18 日期末考试，12 月 20 日毕业典礼。2027 春：1 月 11 日（周一）开课，1 月 18 日 MLK 日无课，3 月 7–13 日春假，4 月 30 日 17:00 退课截止、当日结课，5 月 1–2 日 Study Days，5 月 3–7 日期末，5 月 7–9 日毕业典礼。短学期与夏季日期见 Registrar 校历，毕业典礼日期各校区可能不同。",
+      "fulltime": "F-1/J-1 长学期（秋/春）须全职注册：本科 12 学分及以上、研究生 9 学分及以上；本科 12–19 学分按 flat tuition，超 19 学分部分按学分单价加收。网课计入全职的比例受联邦口径限制；低于全职须先经国际学生顾问（DISSA）批准 Reduced Course Load 并更新 SEVIS，未获授权先退课即视为失身份。",
+      "drop": "Regular Drop 在开课时段内完成（2026 秋 8 月 29 日 23:59 ET 前、2027 春 1 月 16 日 23:59 ET 前），成绩单不留记录；其后 Late Drop 记 W，截止分别为 11 月 13 日与 4 月 9 日；全校 Withdrawal 截止 12 月 11 日 / 4 月 30 日 17:00 ET。退费按 University 退费表依学期已过比例分档，与校园相关费用的不退规则以 Bursar 当期 Refund 政策为准；国际生退课后若低于全职，须先有 RCL 批准。",
+      "ins1": "SHIP for Penn State（宾州州立学生健康保险计划）由 UnitedHealthcare StudentResources（UHCSR）承保，面向所有 Penn State 校区在读学生（World Campus 除外）。F-1/J-1 国际学生及随行家属强制投保等效保险：未在截止前完成豁免或登记，将被自动加入 SHIP，保费计入 LionPATH 学生账户。2026-27 费率（保障期 2026-08-13 至 2027-08-12）：本科个人全年 $4,365（秋季 $1,686，春/夏 $2,679）；研究生与法学全年 $5,295（秋 $2,045，春/夏 $3,250）。计划福利：UHS 以外网络内个人免赔 $250，门诊挂号 $10 次付，10% 共保，网络内自付上限 $1,300；急诊 $150 挂号（住院则免）；处方药网络内 $10/$30/$60 共付，UHS 药房 $0；预防保健在 UHS 免免赔。",
+      "ins2": "登记与豁免都在 LionPATH 的 Health Insurance 页面办理：选课 24–48 小时后入口开放。开放登记期：2026 秋 7 月 14 日–9 月 1 日；2027 春 2026 年 11 月 11 日–2027 年 1 月 19 日；夏季 2027 年 3 月 1 日–7 月 6 日。国际生自动加入截止：秋季 2026 年 9 月 1 日；春季新国际生 2027 年 1 月 19 日。秋季完成投保后春季自动续保；返校生春季不接受豁免，仅新生/转学生可在春季窗口提交。家属豁免须邮件 Student Health Insurance Office（uhs-insurance@psu.edu）领取表格。",
+      "ins3": "豁免替代计划须满足 Penn State 国际学生与家属标准：美国境内合规营业、符合 ACA 的承保方；保单在宾州保险部备案，或为经学生健康保险办公室批准的赞助计划并附出资方财务担保函；预防与避孕保健 100% 覆盖；既往症无等待期；免赔不超过 $500；伤病所有基本福利（含处方药）无限制；产科与其他伤病同等待遇；住院/门诊心理与物质滥用同等待遇；不因酒精、药物或自杀相关伤情除外；全球保障；网络内自付上限 $3,000，网络外 $15,000/$30,000；或由美国雇主赞助的团体计划替代上述 1–12 项；另须医疗撤离不少于 $100,000、遗体遣返不少于 $50,000。申请时上传保险卡正反面与完整英文美元保单，由 UHCSR 审核后邮件批复；保险咨询 814-865-4UHS(4847)，uhs-insurance@psu.edu。",
+      "clinic": "Penn State Lehigh Valley 校区未设 University Health Services 全日制门诊部；日常就诊就近前往 Allentown/Bethlehem 一带的家庭诊所、urgent care 与医院，按 SHIP 网络结算。校区 Health and Wellness 对接健康咨询、疫苗记录与转介；心理支持经 Student Life 安排，远程医疗资源随 SHIP 计划提供；校园急症拨 911。",
+      "commute": "校区在 Center Valley 的 Saucon Valley 走廊（2809 Saucon Valley Rd），地处 Allentown 与 Bethlehem 之间：向西北到 Allentown 城区、向东北到 Bethlehem 均为十余分钟驾车量级，向南接 Upper Saucon 乡郊。LANTA 公交覆盖 Lehigh Valley 走廊，校区附近站点与具体线路以 lantabus.com 当期时刻为准；学生领取免费校园停车许可，实际以上学驾车或拼车为主。",
+      "scene": "联邦校区小班口径，13:1 生师比；STEM wing 配有机化学实验室，多媒体创新中心支撑音视频与动画项目；特色方向含生物、生物行为健康、健康政策管理、康复与人服务、心理学，并有生物行为健康学士＋公共卫生硕士五年贯通项目；CHANCE 保护生物学课程含本地田野与布加勒斯特研学；社团 30+，校队 5 支，学生参加 THON 募捐与本地实习。",
+      "safety": "校园由校区 Safety and Security 值守，凭 id+ 控制楼宇夜间与周末进出；紧急拨 911，非紧急经主电话 610-285-5000 转安保。地方警务为 Upper Saucon Township Police；郊区商业带夜间人流少，步行结伴、晚归约车；停车与门禁政策见校区 Contact Us 页面。",
+      "transit": "本地公交 LANTA 连接 Allentown Transportation Center（ATC）与 Bethlehem BTC 及 LVIA 机场方向；校区位于走廊西南侧，步行到站距离因租房片区而异，首末班与换乘以 lantabus.com 当期为准。对外走廊为 I-78 与 PA-378；主用机场 ABE（Lehigh Valley International），约十余英里量级；PHL 向南 50–60 英里、EWR 向北 80–90 英里量级。",
+      "rentnote": "校区不设校办宿舍，无校内房费与餐计划合同口径；校外租房集中 Allentown、Bethlehem 与 Upper Saucon/Saucon Valley 走廊，本页不给固定数字，按邮编查当期挂牌价，核对押金、水电网、停车与通勤距离、租约长度及解约条款。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 校历（Registrar）"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "SHIP for Penn State 健康保险"
+        ],
+        "clinic": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "学生健康保险与服务入口"
+        ],
+        "parking": [
+          "https://lehighvalley.psu.edu/contact-us",
+          "校区联络与办公时间"
+        ],
+        "housing": [
+          "https://lehighvalley.psu.edu/admission/frequently-asked-questions-admissions",
+          "招生住宿问答"
+        ],
+        "tuition": [
+          "https://tuition.psu.edu/rates-effective-2026-fall-semester-brandywine-hazleton-lehigh-valley-schuylkill-scranton-york",
+          "2026 秋学费费率表"
+        ],
+        "two2": [
+          "https://www.psu.edu/resources/first-year-students/2plus2plan",
+          "Penn State 2+2 Plan"
+        ],
+        "transit": [
+          "https://www.lantabus.com",
+          "LANTA 公交"
+        ]
+      }
+    },
+    "pennwest": {
+      "short": "宾州西部大学（Pennsylvania Western University，PennWest）",
+      "place": "Pennsylvania Western University，主行政 250 University Ave., California, PA 15419；三校区：California 250 University Ave, California PA 15419；Clarion 840 Wood St, Clarion PA 16214；Edinboro 219 Meadville Street, Edinboro PA 16444；另设 PennWest Global Online 在线项目。",
+      "cityKey": "californiapa",
+      "calShort": "两学期制（秋/春）加 Winter Session 与夏季 7 周/5 周小学期；秋季 8 月 24 日开课、12 月 11 日结束，春季 1 月 19 日开课、5 月 7 日结束。",
+      "calendar": "Fall 2026：2026-08-24 开课，9 月 7 日 Labor Day 停课，9 月 14 日 Census，10 月 9 日 Clarion Autumn Leaf Festival 停课，2026-10-30 全日制课程退课截止，2026-12-04 全日制课程最后上课日，考试周 2026-12-07 至 12-11；Winter 2026：2026-12-14 至 2027-01-08；Spring 2027：2027-01-19 开课，4 月 2 日全日制退课截止，2027-05-03 课程结束，期末考试周 2027-05-04 至 05-07，毕业典礼 2027-05-08。",
+      "fulltime": "F-1 本科每学期注册至少 12 学分且其中至少 9 学分为面授；研究生每学期至少 9 学分且至少 6 学分为面授；J-1 与 Global Online 学生按 SEVIS 与项目口径执行。",
+      "drop": "退课/退学截止见 2026-2027 校历：Fall 2026 全日制课程退课截止 2026-10-30，第二小学期退课截止 2026-11-16；Spring 2027 全日制退课截止 2027-04-02，第二小学期 2027-04-16；退费比例按 Fall 2026 Tuition Adjustment Schedule 分段执行。",
+      "ins1": "计划名与承保方：PennWest 不设统一向学生账户计费的强制学生健康保险计划；International Education Office（IEO）要求 F-1/J-1 学生在校期间保持合格的美国健康保险，承保方以学生所选商业健康计划或校方认可方案的保单条款为准。是否自动加入与凭证：不自动加入、不代扣保费；学生本人保存保险卡与保单凭证，到校 check-in 时配合 IEO 核验，SEVIS 注册后按校方通知更新。豁免/合规窗口与条件：入境后到校报到及每学期 SEVIS 注册阶段完成核验（秋季 8 月开学前后、春季 1 月开学前后）；保单须覆盖整个在校学期，含必要门诊、住院、急诊与医疗转运/遣返责任；纯旅行险、短期险或先自付后报销类计划不达标。",
+      "ins2": "计划名与承保方：三校区 Health and Wellness Services 提供校内初级保健、急症处理、化验与转诊，不持有保险承保身份；校外就医、处方、化验与专科费用由学生本人承担，校方建议自备承保充分的健康险。是否自动加入与凭证：校内就诊凭 PennWest ID 登记，不自动加入任何保险计划；保险凭证由学生自行留存。豁免/合规窗口与条件：不适用校内保险豁免流程；保险合规核验由 IEO 在报到阶段办理，健康中心不据此拒诊。",
+      "ins3": "计划名与承保方：校方未公布统一自愿牙科、视力附加险；学生可自行选购含牙科/视力承保责任的商业附加计划，承保方以所选保单为准。是否自动加入与凭证：非强制、不自动加入，保单凭证自行保存。豁免/合规窗口与条件：无独立 waiver 窗口，不参与主险豁免流程；牙科与视力服务需在社区诊所或校外网络安排。",
+      "clinic": "California：Carter Hall G-53，724-938-4232，healthcenter-cal@pennwest.edu，咨询 724-938-4056；Clarion：256 Becht Hall（UPMC MyHealth Clarion），814-393-2121，healthservices-clr@pennwest.edu；Edinboro：Center for Wellness / McNerney Hall 一层，咨询 814-732-2252，Wellness 814-732-2313。秋春学期周一至周五接诊（Edinboro 延至 19:00）；闭馆急症拨 911 或对应校区 University Police。",
+      "commute": "主行政在 Washington County 的 California 自治市，Monongahela 河畔 Mon Valley；三校区分属三座城市：California（Washington County，西南宾州）、Clarion（Clarion County，Clarion River 河谷，中北部）、Edinboro（Erie County，Erie 湖南岸雪带）。California–Clarion 约 60 mi、驾车 1 小时 10 分量级，走 I-79 N / US-322；California–Edinboro 约 100 mi、驾车 1 小时 40 分量级，走 I-79 N；Clarion–Edinboro 约 45 mi、驾车 50 分量级，走 I-79 N。学生申请时选定校区，跨校区或转专业无需重新申请，由 Admissions 与招生团队协助切换；Global Online 学生全程在线，不入住实体校区。",
+      "scene": "PennWest 2022 年由原 California University of Pennsylvania、Clarion University、Edinboro University 合并而成，MSCHE 认证至 2033 年，学位证书署 Pennsylvania Western University（PennWest）校名。California 见长机电一体化工程技术（PASSHE 内首个四年制该方向，仅 California 面授）、商科、教育、刑事司法、生物、通信科学；Clarion 见长护理（ASN/BSN）、Autumn Leaf Festival 传统与 Clarion River 河谷校园；Edinboro 见长教师培养、言语病理、护理、视觉与表演艺术（动画方向）、无障碍支持与残障学生服务、NCAA D-I 摔跤；校队昵称 Vulcans / Golden Eagles / Fighting Scots。MSN、DNP、RN-to-BSN 等研究生项目由 Global Online 开设。",
+      "safety": "三校区各设 University Police：California (724) 938-4299；Clarion 814-393-2111；Edinboro 应急 814-732-2911、非紧急 814-732-2921。紧急拨 911；心理危机可拨 988 专线，Edinboro 另接 Erie County Crisis 800-300-9558。校园内禁止枪支等危险器械，事件须报 University Police 与 Safety & Risk Management。",
+      "transit": "无轨道交通。California 校区以驾车与校内 shuttle 为主，Mon Valley 固定公交线路有限；Clarion 可乘 Clarion Area Transit，持学生 ID 免费，Campus Loop 工作日 7:30–17:57 每半小时一班，覆盖校园、校外公寓、Main St 与商圈；Edinboro 可乘 EMTA Route 14（Erie 市区—Millcreek Mall—Edinboro University—Walmart），凭 PennWest ID/eSticker 或 Token Transit App 免费乘车，另有 PennWest Edinboro Express 校园环线。",
+      "rentnote": "校内住宿：California 含传统宿舍与 Reinhard Village、Vulcan Village 等上年级生社区，前四学期住校要求；Clarion 为河谷校园宿舍；Edinboro 为 semi-suite 房型（四人间单床位 $4,040/学期、双人间双床位 $3,500/学期，按学年合同）。校外房源分布在各校区小镇及 Washington、Erie 等周边片区，租金随户型与合同期浮动，以当期挂牌为准，本表不列固定数字。",
+      "link": {
+        "cal": "https://www.pennwest.edu/academics/academic-calendar.php",
+        "ins": "https://www.pennwest.edu/about/offices-services/international-education/",
+        "police": "https://www.pennwest.edu/_resources/docs/about/policies/student-handbook.pdf",
+        "housing": "https://www.pennwest.edu/about/offices-services/rlh/apply-for-housing.php",
+        "clinic": "https://www.pennwest.edu/campuses/california/health-wellness/",
+        "tuition": "https://www.pennwest.edu/affording-college/tuition-fees/undergraduate/",
+        "history": "https://www.pennwest.edu/about/history/"
+      }
+    },
+    "upb": {
+      "short": "匹兹堡大学布拉德福德分校（University of Pittsburgh at Bradford, Pitt-Bradford / UPB）",
+      "place": "宾夕法尼亚州 McKean 县 Bradford 市，300 Campus Drive, Bradford, PA 16701；校园坐落在 Tuna Valley 阿巴拉契亚山丘上，占地约 491 英亩，是匹兹堡大学系统的四年制本科学院（regional campus），不在 Pittsburgh 市内，以小班本科教学、本科科研与本地社区联系为特色，开设 40 多个本科专业。",
+      "cityKey": "bradford",
+      "calShort": "学期制（Fall/Spring 常规学期；夏季分多段 5/6/8 周短学期；国际生不招夏季入学）",
+      "calendar": "Fall 2026：2026-08-24 开课；2026-09-04 加退课期结束；2026-09-11 本科生延长退课期结束；10 月中旬采集期中成绩；2026-10-23 为本学期退 W 最后日；2026-12-04 最后一天上课；2026-12-07 至 2026-12-11 期末考试；2026-12-11 秋季学期结束，随后放寒假。Spring 2026：2026-04-24 最后一天上课，2026-04-27 至 2026-05-01 期末考试，2026-05-01 学期结束，2026-05-03 毕业典礼。夏季短学期分别于 2026-05-18、2026-06-15、2026-06-29、2026-07-13 开课。国际生申请截止：秋季 6 月 1 日、春季 10 月 1 日，不招夏季学期国际生；Spring 2027 逐日校历以 registrar 动态校历为准。",
+      "fulltime": "全日制口径：本科每学期注册 12–18 学分按本科学费 flat rate 计收，不足 12 学分按学分计费；研究生 9–15 学分按研究生 flat rate；夏季 12 学分以上按 flat rate，其余按学分。F-1 学生 reduced course load 须经国际生办公室事先书面批准。",
+      "drop": "Fall 2026 加退课 2026-09-04 截止，本科生延长退课 2026-09-11 截止，之后退课记 W 的截止日为 2026-10-23；census day 之后退课按学校退学政策与联邦 Title IV 退款规则核算；转入学分由 registrar 按成绩单认定，校内转学/relocation 见 Enrollment Services 流程。",
+      "ins1": "匹兹堡大学系统学生健康计划（Pitt-sponsored Student Health Plan）：医疗保险由 UPMC Health Plan 承保，牙科 United Concordia 承保，视力 Davis Vision by MetLife 承保；计划学年 2025-2026 为 2025-09-01 至 2026-08-31，经学校 HR 的 BenefitSolver 门户办理。UPB 与 Pittsburgh 主校使用同一系统计划设计，计费与资格口径按 regional campus 学生类别执行，不套用 Oakland 主校账单表述。",
+      "ins2": "F-1/J-1 学生在校期间须连续持有获批医疗与意外保险。每学期开学初通过 My Pitt 门户进入 BenefitSolver：要么投保 Pitt 学生医疗计划，要么 attest 自有外部保险；国际生须在 9 月 30 日前完成投保或提交 attestation，逾期学校有权在学籍上放置 registration hold，影响后续注册与毕业。保险卡可经 UPMC MyHealth Online 门户下载打印；家属可另购 dependent 保障。全日制本科生具备投保资格；2025-26 全日制本科生单人医疗月保费为 $269.76（费率以当期计划表为准）。",
+      "ins3": "豁免（attestation）在 BenefitSolver 门户完成，选择 “No, Waive Coverage” 并逐项填写外部保险承保公司名称、地址、电话、保单/团体号、保障生效日，以及保单满足最低保障要求的确认；attestation 不完整不能视为已豁免。J-1 签证法定最低标准：每次事故/疾病医疗给付至少 $100,000，遗体遣返至少 $25,000，医疗疏散至少 $50,000，每次事故/疾病自付额不超过 $500。每年秋季须重新办理投保或 attest，未续保则保障于 8 月 31 日终止；牙科与视力计划随门户一并选择。",
+      "clinic": "校内 Health Services 位于 228 Frame-Westerberg Commons，主任电话 814-362-7631，校护 814-362-0968，一般咨询 814-362-5272、upb.healthservices@pitt.edu；校内校医门诊在 116 Interstate Pkwy, Suite 41, 4th Floor, Bradford, PA 16701，电话 814-363-9484。Counseling Services 814-362-5272，工作日 8:30–17:00 预约；校外心理危机干预 814-362-4623；YWCA Victim's Resource Center，24 West Corydon St, Bradford，814-368-4235；The Guidance Center，110 Campus Drive, Bradford，814-362-6535。急症拨 911。入学须提交 MMR、水痘疫苗证明，住校生另须脑膜炎 ACYW 结合疫苗证明。",
+      "commute": "校园在 Bradford 镇北上方的山丘上，紧邻 PA-219 走廊；驾车到 Pittsburgh 市区约 150 英里量级、2 小时以上（经 PA-219 转 I-80/I-79 走廊，车程通常约 3 小时）；向北约 20 英里到纽约州 Olean，向西约 1.5 小时量级到 Erie，向西北约 78–80 英里到 Buffalo-Niagara 机场。本地以校车接驳、ATA 公交与自驾为主，长途跨城依赖班机、Greyhound 或学校假期巴士。",
+      "scene": "491 英亩林地步道校园，主要建筑包括 Fisher Hall、Swarts Hall、Frame-Westerberg Commons（KOA Dining Room、Commons Café、Qdoba、Starbucks）、Hanley Library、Sport and Fitness Center；课堂由专任教师讲授而非研究生助教，大二起即可参与教师实验室科研；社团、校队体育、校内 intramural 与户外休闲活动活跃，学生群体中小班通勤与生住校生混合。",
+      "safety": "Campus Police and Safety（Campus Police Building）：非紧急 814-362-7500，紧急校内电话拨 10333、校外拨 814-368-3211，警员直线 814-362-7506；危机时段可联系 Counseling Services 或 Campus Police；急症拨 911。学校按 Clery 法案发布年度安全与消防安全报告，犯罪记录可在警务办公室查阅；校园规模小、社区紧密，夜间往返宿舍与教学楼结伴出行、车辆落锁。",
+      "transit": "本地公交为 Area Transportation Authority（ATA），持有效 UPB 校园 ID 在春秋学期免费乘车：Red Route 周一至周五 6:00–18:00、周六 11:00–15:00，校园警务楼前每小时 :28 停靠；Blue Route 同时段，:19 停靠；White Route 周一至周五 18:00–22:00、周六 15:00–22:00、周日 12:00–22:00，整点停靠；可用 MyStop Mobile app 查实时到站。提前 48 小时预约可免费乘 ATA 往返 Bradford Regional Airport 或 Bradford 汽车站，电话 866-743-3282。BFD 机场由 Southern Airways Express 开通往返 Pittsburgh（PIT）与华盛顿杜勒斯（IAD）航班，师生凭 ID 在线或致电 800-329-0485 购票可享最高 25% 折扣。Greyhound 在 Bradford South Avenue 的 Crosby Mart 发车，800-942-8287；Coach USA 在 Olean, NY 发车，800-352-0979；Premo Limousine（Olean）门到门至 Buffalo 机场约 $170（含小费），716-372-4546。假期 Buses Home 计划提供 Bradford 到 Pittsburgh 主校的免费长途大巴，衔接其他城市的接驳车收费。",
+      "rentnote": "不住在 Bradford 本地自己家或直系亲属家中的大一、大二学生须住校；大三、大四及年满 21 岁学生可校外租房。住校房型含 First Year Quad、Bradford 单/双人间、Garden 双人间、2/4/5 人套间与 Town House；2026-27 官方校内费率按学期计：Bradford Single $4,587、Bradford Double $3,831、Freshman Hall Double $3,962、Garden Double $3,896、Two-Person Suite $4,639、Four-Person Suite $4,424、Five-Person Suite $4,332。新生住校须购 260 block 餐计划。校外房源集中在 Bradford 城区，小镇租金按地段与户型差异较大，本表不列校外固定月租，签约前核对租约、押金、水电网络与退租条款。",
+      "link": {
+        "cal": [
+          "https://www.upb.pitt.edu/calendar/academics",
+          "https://www.upb.pitt.edu/academics/academic-schedules",
+          "https://catalog.upb.pitt.edu/content.php?catoid=228&navoid=23847&print"
+        ],
+        "ins": [
+          "https://www.hr.pitt.edu/students/student-health-plans",
+          "https://www.hr.pitt.edu/students/medical-coverage-students/enrolling-student-health-coverage",
+          "https://www.ois.pitt.edu/sites/default/files/docs/Health-Insurance-Requirements-for-F-1-and-J-1-Students.pdf"
+        ],
+        "reg": [
+          "https://www.upb.pitt.edu/admissions-aid/international-students",
+          "https://www.upb.pitt.edu/incoming-students",
+          "https://www.upb.pitt.edu/current-students/relocation-requirements"
+        ],
+        "police": [
+          "https://www.upb.pitt.edu/life-at-pitt-bradford/health-and-wellness/counseling-services/faculty-staff-guide-assisting",
+          "https://www.upb.pitt.edu/life-at-pitt-bradford/health-and-wellness/health-services/campus-resources"
+        ]
+      }
+    },
+    "commonwealthu": {
+      "short": "宾州联邦大学（Commonwealth University of Pennsylvania）",
+      "place": "Commonwealth University of Pennsylvania，主行政 400 East Second Street, Bloomsburg, PA 17815-1301；三校区：Bloomsburg 400 E. Second St, Bloomsburg PA 17815；Lock Haven 401 North Fairview Street, Lock Haven PA 17745；Mansfield 31 South Academy Street, Mansfield PA 16933",
+      "cityKey": "bloomsburg",
+      "calShort": "两学期制（秋/春）加 Winter Session 与夏季学期；秋季 8 月下旬开课、12 月上旬结束，春季 1 月中旬开课、5 月初结束。",
+      "calendar": "Fall 2026：2026-08-24 开课，10 月 12–13 日秋假，11 月 25 日起感恩节假，2026-12-12 宿舍关闭；Winter 2026：2026-12-14 至 2027-01-15；Spring 2027：2027-01-19 开课，3 月 8–12 日春假，2027-05-03 最后上课日，期末考试 2027-05-04 至 2027-05-07。",
+      "fulltime": "F-1/J-1 国际学生按 SEVIS 与校方注册口径维持全日制学籍：本科每学期至少 12 学分、研究生按项目要求；三校区注册与学籍口径统一由 Registrar 管理。",
+      "drop": "退课/退学截止按 2026-2027 官方校历与 Registrar 规定执行；Spring 2027 个体退课与退学截止以校历及 Banner Self-Service 标注为准，秋季对应截止日见课程表与账单退费安排；18 学分以上按超额学分加收。",
+      "ins1": "计划名与承保方：Global Engagement（CGE）公布的国际学生建议健康保险计划，由保险经纪平台对接多家美国合规承保公司，具体承保方与保单条款以学生所选保单为准，校方不设统一向学生账户扣费的强制 SHIP。是否自动加入与凭证：不自动加入、不从学费账户代扣保费；学生自行投保后，将保险卡正反面与保期起止证明交到 CGE（现场或 cge@commonwealthu.edu）完成核验，凭证由本人留存备用。豁免/合规窗口与条件：每学期注册前后的报到阶段提交凭证（秋季 8 月开学前后、春季 1 月开学前后）；最低承保要求为医疗保额每事故/疾病至少 $100,000、遗体遣返 $25,000、医疗转运 $50,000、免赔额每事故/疾病不超过 $500；旅行险、短期险或先自付后报销类计划不达标的不予受理。",
+      "ins2": "计划名与承保方：访问生与交换生（一学期至一年）建议健康保险计划，同一保险平台按短期在校时段对接承保公司，承保方以所选短期保单为准。是否自动加入与凭证：不自动加入；到校报到前完成投保，保险卡与起止日期交 CGE 留存核验。豁免/合规窗口与条件：交换生在入学注册阶段一次性提交凭证，保期须覆盖整个在校时段；保额、转运遣返与免赔额口径与本科生建议计划一致。",
+      "ins3": "计划名与承保方：校方未通过 CGE 渠道统一承保牙科与视力附加险；学生如需牙科、视力福利，应自行选购含相应承保责任的美国商业附加计划。是否自动加入与凭证：非强制、不自动加入，保单与凭证由本人保存，无校内凭证发放流程。豁免/合规窗口与条件：不参与主健康保险的豁免流程，无独立 waiver 窗口；校内 Health Center 就诊按当期收费，牙科视力需转社区诊所。",
+      "clinic": "三校区各设 Student Health Services：Bloomsburg Student Health Center，324 Kehr Union Building，570-389-4451（秋春 8:30–17:30）；Lock Haven Glennon Health Services，Glennon Building，570-484-2276（秋春周一至周五 8:00–16:00，午间 12:00–12:30 休）；Mansfield Campus Clinic，Spruce Hall 底层，570-662-4350。急症一律拨 911；校内另设跨三校区 Counseling Center 免费短程咨询。",
+      "commute": "主行政与主校区在 Bloomsburg 镇 Susquehanna 河北岸山坡上；三校区分属三座城市：Bloomsburg（Columbia County）、Lock Haven（Clinton County，Susquehanna 河畔）、Mansfield（Tioga County，北宾州）。Bloomsburg–Lock Haven 约 35 mi、驾车 45 分钟量级，走 I-80 W / US-220 S；Bloomsburg–Mansfield 约 60 mi、驾车 1 小时 10 分量级，走 I-80 E / US-15 N；Lock Haven–Mansfield 约 70 mi、驾车 1 小时 20 分量级。跨校区课程以面授/在线/混合形式提供，转校区由各校区 Student Success 团队与 Registrar 协调，无需重新申请。",
+      "scene": "Commonwealth University 2022 年由原 Bloomsburg、Lock Haven、Mansfield 三所 PASSHE 大学合并而成，授学位证书署 Commonwealth University of Pennsylvania 校名，注册记录标注所在校区。Bloomsburg 见长言语语言病理与听力学、护理、数字取证与网络安全、ASL 与英语口译、媒体新闻、特殊教育、专业销售与市场营销、国际商务；Lock Haven 见长医师助理（PA）、运动训练、体育管理、社会工作、健康与体育教育；Mansfield 见长音乐、渔业与水生生物学、呼吸治疗、心理学、刑事司法与 ACT120 警察学院、营养、护理、社会工作。三校区各自保留校队昵称 Huskies / Bald Eagles / Mountaineers。",
+      "safety": "三校区各设 Campus Police：Bloomsburg 570-389-2211（Andruss Library, Swisher Circle）、Lock Haven 570-484-2278（Glennon Building）、Mansfield 570-662-4900（Doane Center）；紧急一律 911。Bloomsburg 夜间 22:00–次日 01:00 提供步行护送，可在派出所或校园紧急/信息呼叫点请求；本地警方：Bloomsburg Town Police 570-784-4155、Lock Haven City Police 570-893-5911、Mansfield Borough Police 570-662-3093。",
+      "transit": "三校区均无轨道交通；校内以校车（shuttle）连接上下校区、宿舍与教学区，镇内步行可达 Main Street 商圈；县域公交班次有限，长距离出行以驾车为主。Bloomsburg 邻近 I-80；Lock Haven 沿 US-220/PA-120 河谷走廊；Mansfield 沿 US-15 走廊。校外购物与餐饮多需驾车或搭有限县公交。",
+      "rentnote": "校内覆盖传统宿舍、套房与公寓多种类型：Bloomsburg 有七所传统宿舍、三处公寓群与套房式社区，Lock Haven 含宠物友好与性别包容社区，Mansfield 为小型校园住宿；校外房源集中在各校区所在小镇近邻片区，租金随户型与学期浮动，以当期挂牌为准，本表不列固定数字。",
+      "link": {
+        "cal": "https://commonwealthu.catalog.prod.coursedog.com/info/calendar",
+        "ins": "https://www.commonwealthu.edu/offices-directory/global-engagement/medical-instruance-overview",
+        "police": "https://www.commonwealthu.edu/offices-directory/university-police",
+        "housing": "https://www.commonwealthu.edu/offices-directory/housing-and-residence-life/moving-in-and-out",
+        "clinic": "https://www.bloomu.edu/offices-directory/student-health-center",
+        "tuition": "https://www.commonwealthu.edu/cost-and-aid/tuition-cost",
+        "programs": "https://www.commonwealthu.edu/cu-academics"
+      }
+    },
+    "altoona": {
+      "short": "宾州州立大学阿尔图纳分校（Penn State Altoona, The Altoona College）",
+      "place": "宾夕法尼亚州 Blair County 阿尔图纳市，3000 Ivyside Park, Altoona, PA 16601；Allegheny 山脉中的多校区四年制学院，主校区 Ivyside Park 山林湖景，另有 downtown 教学点。开设 21 个本科专业与 5 个副学士专业，在校生 2,500 余人；可在本校完成学位，也可先读前两年再转 University Park 或其他 Penn State 校区，距 University Park 约 40 mi、车程约 45 分钟。2026-27 全年学费：宾州居民 $15,388、非宾州居民 $26,904，Student Fee $630，合计 $16,018 / $27,534；非全日制按学分计：低年级 $641（居民）/$1,121（非居民），高年级商科/EMS/理科/IST/工程 $775/$1,284，其他高年级 $696/$1,191。",
+      "cityKey": "altoona",
+      "calShort": "学期制（Fall/Spring 常规学期加两段 7 周短学期；夏季 Maymester 与两段 6 周课程）",
+      "calendar": "Fall 2026：注册截止 2026-08-23；2026-08-24 开课；常规退课截止 2026-08-29 23:59（ET），常规加课截止 2026-08-30 23:59；劳动节 2026-09-07 停课；Late Drop 截止 2026-11-13 23:59（ET）；感恩节 2026-11-22 至 2026-11-28；退学截止 2026-12-11 17:00（ET），当日结课；考试 2026-12-14 至 2026-12-18；毕业典礼 2026-12-20。Spring 2027：注册截止 2027-01-10；2027-01-11 开课；常规退课截止 2027-01-16 23:59，常规加课截止 2027-01-17 23:59；MLK 日 2027-01-18 停课；春假 2027-03-07 至 2027-03-13；Late Drop 截止 2027-04-09 23:59；退学截止 2027-04-30 17:00，当日结课；考试 2027-05-03 至 2027-05-07；毕业典礼 2027-05-07 至 2027-05-09。Summer 2027：Maymester 2027-05-10 开课；两段 6 周课程 2027-05-17 与 2027-06-30 开课。短学期退课与退学截止以 LionPATH 课程注册页和 registrar 动态校历为准。",
+      "fulltime": "F-1/J-1 全日制口径：本科每学期至少 12 学分、研究生至少 9 学分；混合远程/线上学分最多 3 学分计入最低要求；如需减载，须事先经 Global Programs 的国际学生顾问（ISSA）审批并保留书面备案。",
+      "drop": "按 Penn State 34-89 课程退课规则：常规退课期为学期前 6 个自然日（Fall 2026 至 2026-08-29 23:59 ET），无 $6 手续费、不进成绩记录；其后至 Late Drop 截止 2026-11-13 23:59 ET 退课收 $6.00/笔，成绩单记 LD；整学期退学截止 2026-12-11 17:00 ET，国际生退学须先咨询 ISSA 并完成 iStart Exit Form，否则 SEVIS 可能被终止。Change of Campus 仅基于学业安排（能否在现校区与目标校区排课并推进学业）审批；俱乐部/体育、就业、住房、修辅修等非学业理由不予批准；转 University Park 须先取得目标专业录取衔接。",
+      "ins1": "计划名与承保方：Student Health Insurance Plan for Penn State（SHIP for Penn State），UnitedHealthcare StudentResources 承保，Student Health Insurance Office 经办；2026-27 本科个人年保费 $4,365，分学期出账（秋季 $1,686，春/夏 $2,679）；研究生与法学学生 $5,295（秋季 $2,045，春/夏 $3,250）。Altoona 学生适用系统统一计划，账单与凭证均走 LionPATH 与 UHCSR 门户。",
+      "ins2": "自动加入与凭证：F/J 学生及随行家属须持续持有获批保险；注册后在 LionPATH Health Insurance 页填报现有保险信息。国际生若未在秋季截止 2026-09-01 前完成 Enroll 或 Waive，将被自动加入 SHIP 并把保费计入学生账户；春季 waiver 仅面向新生与转学生，截止 2027-01-19，返校生春季不可豁免。主动 Enroll 后可尽快取得医疗 ID 卡；家属豁免须邮件 uhs-insurance@psu.edu 领取 Dependent Waiver 表。",
+      "ins3": "豁免窗口与条件：Fall 2026 enrollment/waiver 截止 2026-09-01；Spring/Summer 2027 办理期 2026-11-01 至 2027-01-19。替代保单须：在美国获准营业并符合 PPACA；保单经宾州保险厅备案，或为学生医保办认可的赞助计划并附资金担保函；预防与避孕服务 100% 给付；既往症无等待期；自付额不超过 $500；覆盖处方药等全部必需福利；孕产、精神健康与物质滥用同等待遇；无酒精/药物/自杀相关除外；全球有效；网络内 OOP 上限 $3,000、网络外 $15,000/$30,000；或为美国雇主团体保险；并含医疗疏散 $100,000、遗体遣返 $50,000 最低限额。 waiver 经 LionPATH 提交后由 UHCSR 审核邮件批复。",
+      "clinic": "Health and Wellness Center 设在 Sheetz Family Health Center，电话 814-949-5540，提供常见疾病与轻伤诊治、心理咨询（CAPS）、残障资源、精神心理服务与健康教育；应急与非门诊时段联系校警 814-949-5222 或拨 911。24/7 危机资源：Penn State Crisis Line 1-877-229-6400，短信 LIONS 至 741741；988；UPMC Community Crisis Center 814-889-2141 或 800-540-4690。国际学生顾问 Global Programs：814-949-5110，109D Slep Student Center。",
+      "commute": "Ivyside Park 主校区在 Altoona 城东山坡林地，临校内湖景；downtown 教学点含 Aaron、Devorris Downtown Center、Penn Building 与 Slep Student Center，两片区之间靠 AMTRAN 公交与驾车衔接。城市坐落在 Juniata 河谷与 Allegheny 山脉之间，为老牌铁路工业城，校外生活圈沿 Pleasant Valley Blvd 与 downtown 走廊分布。",
+      "scene": "山林环绕的小型大学城氛围，校内住宿约 900 人；设 NCAA Division III 校队、学生社团、本科研究与教育海外项目。周边铁路文化资源集中：Horseshoe Curve National Historic Landmark、Altoona Railroaders Memorial Museum、Mishler Theatre、Southern Allegheny Museum of Art；休闲有 DelGrosso's Amusement Park、The Curve 棒球场与附近 Blue Knob 滑雪场（约 19 mi）。",
+      "safety": "Penn State Altoona 校警属 University Police & Public Safety 体系，校园电话 814-949-5222，警员为受过训练的第一响应人，协助危机与医疗急症；紧急拨 911；校内应急通知经 PSUAlert 推送；校警与 Altoona 市警方、Blair County 相关机构协作；Clery Act 年度公示见校方安保页面。",
+      "transit": "通勤以驾车加 AMTRAN 公交为主：AMTRAN 为全体 Penn State Altoona 学生提供免费乘车，#1 Crosstown、#3 Flash、#5 Pleasant Valley 串联 Ivyside 与 downtown，#14 Evening Flash 晚间运行，#15 Elevate Apts 连接 Elevate Apts 与 Maple/Oak Halls；周一至周六运营，周日与法定假日无班次，信息线 814-944-1200。downtown 停车凭 Altoona Parking Authority 许可（Altoona Transportation Center 停车楼、Red Lot 等），工作日 17:00 后与周末学生可停；无轨道交通；长途经 I-99 接 I-76 出行。",
+      "rentnote": "校办宿舍四座：Cedar Hall（Suites 双人间 $5,088/学期）、Maple Hall（翻新双人间 $4,525、三人间 $4,167）、Oak Hall（翻新双人间 $4,525）、Spruce Hall（Suites 双人间 $4,745），均为 2026-27 每学期费率。住宿生须购买 Campus Meal Plan，HFS 合同默认 Level 2，可在 eLiving 调档；2026-27 餐档 Level 1 $2,570、Level 2 $2,804、Level 3 $3,021 每学期。不住校学生在 Altoona 城区、Bellwood、Duncansville 一带校外租房；本表不列固定月租，以当期挂牌与租约为准。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "https://tattoo.our.psu.edu/faculty-staff/scheduling/class-scheduling/semester-begin-end-dates.cfm"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance/ship-penn-state",
+          "https://www.psu.edu/news/student-affairs/story/rates-announced-2026-27-student-health-insurance-plan"
+        ],
+        "reg": [
+          "https://altoona.psu.edu/student-success/help-tool",
+          "https://redfolder.psu.edu/campus-resources/"
+        ],
+        "police": [
+          "https://altoona.psu.edu/student-success/help-tool",
+          "https://www.police.psu.edu/contact-us"
+        ],
+        "housing": [
+          "https://liveon.psu.edu/altoona",
+          "https://altoona.psu.edu/tuition-financial-aid/tuition-costs"
+        ],
+        "tuition": [
+          "https://altoona.psu.edu/tuition-financial-aid/tuition-costs",
+          "https://tuition.psu.edu/2026-27-student-initiated-fee-semester"
+        ]
+      }
+    },
+    "abington": {
+      "short": "宾州州立大学阿宾顿分校（Penn State Abington, The Abington College）",
+      "place": "宾夕法尼亚州 Montgomery County 阿宾顿镇，1600 Woodland Road, Abington, PA 19001；45 英亩林地公园式校园，位于费城北缘、Center City 以北约 15 mi。Penn State 联邦校区（Commonwealth Campus），开设 26 个本科专业与 2 个副学士专业，本科生约 2,800 人；多数 Penn State 学位可先在此完成前两年（2+2 Plan），再转 University Park 或其他联邦校区。2026-27 本科学费：宾州居民低年级（Freshman/Sophomore）$14,684/年、非宾州居民 $25,584/年（全日制每学期分别 $7,342 与 $12,792）；高年级按专业档位 $15,846–$17,730/年（居民）或 $27,056–$29,252/年（非居民）；Student Initiated Fee 9 学分以上 $315/学期。",
+      "cityKey": "abington",
+      "calShort": "学期制（Fall/Spring 常规学期加两段 7 周短学期；夏季含 Maymester 与 6 周短学期）",
+      "calendar": "Fall 2026：注册截止 2026-08-23；2026-08-24 开课；常规退课截止 2026-08-29 23:59（ET），常规加课截止 2026-08-30 23:59；劳动节 2026-09-07 停课；Late Drop 截止 2026-11-13 23:59（ET）；感恩节假期 2026-11-22 至 2026-11-28；整学期退学截止 2026-12-11 17:00（ET），当日最后上课；考试日 2026-12-14 至 2026-12-18；毕业典礼 2026-12-20。Spring 2027：注册截止 2027-01-10；2027-01-11 开课；常规退课截止 2027-01-16 23:59，常规加课截止 2027-01-17 23:59；MLK 日 2027-01-18 停课；春假 2027-03-07 至 2027-03-13；Late Drop 截止 2027-04-09 23:59；退学截止 2027-04-30 17:00，当日最后上课；考试日 2027-05-03 至 2027-05-07；毕业典礼 2027-05-07 至 2027-05-09。Summer 2027：Maymester 2027-05-10 开课；两段 6 周课程分别 2027-05-17 与 2027-06-30 开课。各段短学期退课截止以 LionPATH 课程注册页与 registrar 动态校历为准。",
+      "fulltime": "F-1/J-1 全日制口径：本科每学期至少注册 12 学分、研究生至少 9 学分；混合远程/线上学分最多计 3 学分入最低全日制要求；低于全日制的 reduced course load 须事先经 ISSA 顾问审批并留存备案。",
+      "drop": "常规退课期为学期开始后前 6 个自然日（Fall 2026 至 2026-08-29 23:59 ET），不收 $6 退课手续费、课程不上成绩记录；常规退课期之后至 Late Drop 截止（2026-11-13 23:59 ET）退课，每笔 $6.00 手续费，成绩单记 LD 标注；整学期退学截止 2026-12-11 17:00 ET，国际生须先咨询 ISSA 并在 iStart 完成 Exit Form，未事先办理可能导致 SEVIS 记录终止。2+2 转 University Park：须先被目标专业录取，再提交 Change of Campus；非学业理由（社团、体育、就业、住房、辅修等）不予批准。",
+      "ins1": "计划名与承保方：Student Health Insurance Plan for Penn State（SHIP for Penn State），由 UnitedHealthcare StudentResources 承保，校内 Student Health Insurance Office 经办；2026-27 本科个人年保费 $4,365，按学期出账（秋季 $1,686，春/夏 $2,679）；研究生与法学学生年保费 $5,295（秋季 $2,045，春/夏 $3,250）。系统各校共用同一计划设计，Abington 在 LionPATH 门户出单，不套用 University Park 账单口径。",
+      "ins2": "自动加入与凭证：F/J 签证学生及随行家属须连续持有获批保险；注册课程后在 LionPATH 的 Health Insurance 页提交现有保险信息。国际生若未在秋季截止 2026-09-01 前完成 Enroll 或 Waive，将被自动加入 SHIP，保费计入学生账户；春季仅新生与转学生可在 2027-01-19 前办理，返校生春季不接受豁免。建议主动 Enroll 以尽快取得医疗 ID 卡；家属豁免须邮件 uhs-insurance@psu.edu 领取 Dependent Waiver 表格办理。",
+      "ins3": "豁免窗口与条件：Fall 2026 开放式 enrollment/waiver 截止 2026-09-01；Spring/Summer 2027 窗口 2026-11-01 至 2027-01-19。自备保单须同时满足：美国境内获准营业并符合 PPACA；保单在宾州保险厅备案，或为经学生医保办批准的赞助计划并附计划方资金担保函；预防性与避孕服务 100% 覆盖；既往症无等待期；自付额不高于 $500；含处方药在内的全部必需给付；孕产与精神健康/物质滥用同等待遇；无酒精、药物、自杀相关除外条款；全球保障；网络内自付上限 $3,000、网络外 $15,000/$30,000；或符合美国雇主团体保险口径；另须含医疗疏散 $100,000、遗体遣返 $50,000 最低限额。 waiver 申请经 LionPATH 提交后由 UnitedHealthcare StudentResources 审核并邮件批复。",
+      "clinic": "Health and Wellness Center，103 Lares Building，向在读学生提供免费基础医疗、健康教育与咨询转介；Counseling and Psychological Services（CAPS）位于 208–211 Lares，提供保密心理咨询、情绪支持与学业倡导。24/7 危机资源：Penn State Crisis Line 1-877-229-6400，短信 LIONS 至 741741；Abington Hospital-Jefferson Health 危机线 215-481-2525；Montgomery County Mobile Crisis 855-634-4673；急症拨 911。保险理赔凭证经 UnitedHealthcare StudentResources 会员门户下载。",
+      "commute": "校区坐落 Abington 镇 Woodland Rd 林地一带，Montgomery County 东南部、费城北郊；通勤圈覆盖 Abington、Roslyn、Willow Grove、Glenside、Jenkintown 与 Cheltenham 等北郊社区。校办住宿床位有限，多数学生为通勤走读，平日乘 SEPTA 公交、区域铁路或自驾往返；校园邻近 PA 611（Old York Rd）与 Moreland Rd 走廊。",
+      "scene": "45 英亩公园式校园，主要建筑包括 Sutherland、Lares、Rydal、Woodland 与 Academic Building；Lares Cafe 供餐，Mon–Thu 7:30–18:00、Fri 7:30–15:00；学生社团、志愿服务与实习以 Philadelphia 为城市枢纽；设有 NCAA Division III 校队与俱乐部体育；近 Fort Washington State Park 徒步与飞盘高尔夫、Wissahickon Valley Park 林径与 Morris Arboretum 92 英亩园林。",
+      "safety": "University Police and Public Safety 为宣誓警员编制，Rydal Building Room 106，电话 215-881-7575，24 小时值守；与 Montgomery County Communications Center 联勤调度，并与 Abington Township Police Department、Pennsylvania State Police 及其他州联邦机构协作训练；紧急拨 911；校园紧急通知经 PSUAlert 推送；Clery Act 年度犯罪公示见校警页面。",
+      "transit": "校区门口无轨道交通。SEPTA 区域铁路：邻近 Noble、Rydal 站（West Trenton Line）与 Glenside 站（Lansdale/Doylestown Line、Warminster Line），Glenside 站 49 W. Glenside Ave，215-580-6703；SEPTA 公交 Route 55 经 Abington Hospital 与 Penn State Abington 一带并衔接 Olney Transit Center，22、24、28、77、88、310、95 等线覆盖北郊。到 Center City Philadelphia 自驾约 15 mi，高峰时段约 30–45 分钟量级；自 Glenside 站乘火车到 Suburban Station/30th Street Station 约半小时量级；学校不安排机场接驳。",
+      "rentnote": "校办住宿仅 Lions Gate 学生公寓（约 400 床位，4 或 6 人单元内合租卧室），2026-27 费率每人每学期：双人卧室 $5,474、单人卧室 $6,197，费率含水电；Abington 不开设 Campus Meal Plan，住宿生可选购 Commuter Meal Plan（Level 1 $250 / Level 2 $500 / Level 3 $1,000 餐饮额度）。其余学生在 Abington、Roslyn、Willow Grove、Glenside、Jenkintown 一带校外租房；本表不列固定月租，按邮编查当期挂牌，签约前核对租约、押金、水电网络与退租条款。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "https://tattoo.our.psu.edu/faculty-staff/scheduling/class-scheduling/semester-begin-end-dates.cfm"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance/ship-penn-state",
+          "https://www.psu.edu/news/student-affairs/story/rates-announced-2026-27-student-health-insurance-plan"
+        ],
+        "reg": [
+          "https://www.abington.psu.edu/academics/global-programs/new-international-students",
+          "https://global.psu.edu/landing/enrollment-requirements"
+        ],
+        "police": [
+          "https://www.abington.psu.edu/police",
+          "https://www.police.psu.edu/contact-us"
+        ],
+        "housing": [
+          "https://liveon.psu.edu/abington",
+          "https://liveon.psu.edu/abington/rates",
+          "https://liveon.psu.edu/meal-plans"
+        ],
+        "tuition": [
+          "https://tuition.psu.edu/rates-effective-2026-fall-semester-abington",
+          "https://tuition.psu.edu/2026-27-student-initiated-fee-semester"
+        ]
+      }
+    },
+    "msutexas": {
+      "short": "中西州立大学（Midwestern State University，MSU Texas）",
+      "place": "威奇托 Falls（Wichita Falls），3410 Taft Blvd",
+      "cityKey": "wichitafalls",
+      "calShort": "学期制（Fall / Spring / Summer），长学期 16 周，另设 Term A / Term B 两个 8 周短学期与冬季 mini 学期",
+      "calendar": "Fall 2026：缴费 8/21/2026 截止；8/24/2026 开课；改课与晚注 8/24–27/2026；9/8/2026 为 census（第 12 教学日）；Term A 退课（W）10/7/2026 16:00 截止，Term A 10/16/2026 结束，Term B 10/17/2026 开始；长学期与 Term B 退课（W）11/23/2026 16:00 截止；最后正课 12/4/2026；期末 12/5–12/10/2026；研究生毕业礼 12/11/2026、本科 12/12/2026。Spring 2027：1/19/2027 开课；改课与晚注 1/19–22/2027；2/1/2027 为 census；Term A 退课（W）3/3/2027 16:00 截止，Term A 3/12/2027 结束，Term B 3/13/2027 开始；春假 3/15–21/2027；长学期与 Term B 退课（W）4/28/2027 16:00 截止；最后正课 5/7/2027；期末 5/8/2027 起；研究生毕业礼 5/14/2027、本科 5/15/2027。各段截止日以 Registrar 当期 Academic Calendar 为准。",
+      "fulltime": "长学期全日制：本科 ≥12 学分、研究生 ≥9 学分；国际生减修、暂停注册须经 Global Education 批准以维持 F-1/J-1 身份。",
+      "drop": "add/drop 与晚注按校历窗口；Term A 与长学期/Term B 的 W 截止分别为 10/7、11/23（Fall 2026）与 3/3、4/28（Spring 2027）16:00，逾期退课记 F；退学与身份维持先联系 Global Education 与 Registrar 指导。",
+      "ins1": "计划与承保：MSU Texas 学生健康保险计划（MSU SHIP），经办方 Academic HealthPlans（AHP），门户 msutexas.myahpcare.com；医疗承保方名称以 AHP 门户当期计划文件为准。",
+      "ins2": "强制与自动加入：F-1、F-2 签证的国际学生必须参加 MSU SHIP；未获批 waiver 的学生自动入保，保费计入学生账单。入保后经 msutexas.myahpcare.com 取会员号与电子卡；若学费到期时 waiver 尚未审批，先缴费，获批后按学生账户流程退款。",
+      "ins3": "豁免 waiver：Fall 2026 waiver 于 7/13/2026 开放，经 AHP 门户在线提交；仅美国雇主团体计划、Military/Tricare、使馆赞助计划可获批，个人计划与 Marketplace 计划不符合豁免要求。替代计划门槛：无既往症排除、预防保健 100% 覆盖、单次免赔 ≤$500、共保 ≤25%、医疗转运 ≥$50,000、遗体遣返 ≥$25,000；短期有限期限计划、旅行险与专为国际生/非移民设计的计划不接受；文件须在第 12 上课日前提交；审批 5–10 个工作日，已扣费退款 10–14 个工作日；豁免计划不含转运/遣返者将自动加购 AES。Spring/Summer waiver 起止日期以 AHP 门户当期开放公告为准。",
+      "clinic": "Vinson Health Center（VHC）：预约 940-397-4231，办公 940-397-4466，vinson@msutexas.edu；春秋季周一至周五 7:45–16:30，就诊须带学生 ID，新病人经 MyVHS 门户填表，取消预约至少提前 24 小时。心理咨询在 Student Wellness Center（Redwine），2609 Midwestern Parkway；940-397-4618；counseling@msutexas.edu；周一至周五 8:00–17:00，walk-in 13:00、14:00、15:00；紧急 911，Helen Farabee 热线 800-621-8504；另配 TimelyCare 24/7 平台。",
+      "commute": "主校区 3410 Taft Blvd, Wichita Falls TX 76308，位于北得州，邻近 Sheppard AFB；校区步行尺度紧凑，城区公交 Falls Ride Route 6 Sheppard Express 衔接机场方向与基地片区。",
+      "scene": "北得州公立大学，Mustangs 校队、Residence Hall Association 与院系社团构成主要学生活动；国际生支持经 Global Education 统筹；小城社区氛围，校园与城区商业、公园片区相连。",
+      "safety": "MSU Texas Police 校园巡逻，940-397-4239；即时危险拨 911；夜间住宿协助在 Legacy Hall 北侧一层 Legacy Commons Desk，24/7，940-397-6600；校园安全经 MSU Texas Safety App 与 MSU Texas Alert 发布；自杀与危机热线 800-621-8504。",
+      "transit": "城市公交 Falls Ride（City of Wichita Falls）共 7 条线路：Route 1 Eastside Blue、2 Central Red、3 Southeast、4 North Yellow、5 Southwest、6 Sheppard Express Orange、7 Connector Purple；调度 761-7433，Travel Center 306 Scott St；周一至周五 7:30–16:30，周六 10:00–17:00。就近机场 SPS（Wichita Falls Regional Airport，邻 Sheppard AFB）。",
+      "rentnote": "校内宿舍含 Legacy Hall 与 Sunwatcher Village；住房办公室在 Sunwatcher Village Clubhouse, 3704 Louis J. Rodriguez, Wichita Falls TX 76308；housing@msutexas.edu，940-397-4217。校外房源按所在邮编查询当期挂牌价，本页不写固定金额；签约前逐项核对押金退还、水电网杂费、车位、宠物限制与提前解约责任。",
+      "link": {
+        "cal": [
+          "https://www.msutexas.edu/registrar/schedule/fall_calendar.php",
+          "校历（Registrar Calendar）"
+        ],
+        "ins": [
+          "https://www.msutexas.edu/global-education/health-insurance.php",
+          "强制学生健康保险（Global Education）"
+        ],
+        "clinic": [
+          "https://msutexas.edu/healthcenter/appointments",
+          "Vinson Health Center 预约页"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/rate-tables/",
+          "得州税率查询（Comptroller）"
+        ]
+      }
+    },
+    "uhv": {
+      "short": "休斯敦大学维多利亚分校（University of Houston-Victoria，UHV）",
+      "place": "维多利亚（Victoria），3007 N Ben Wilson St",
+      "cityKey": "victoria",
+      "calShort": "学期制（Regular 16-Week，含 8wk1/8wk2 分段与夏季 3/5wk1/5wk2 短学期）",
+      "calendar": "Fall 2026 Regular：缴费截止 8/18 23:59，新生入住 8/19、老生 8/21，8/24 开课，add 截止 8/28 23:59，9/7 劳动节假日，9/9 23:59 census，9/10 注册欠费清退，11/6 23:59 退课（W）截止，11/8 毕业申请截止，11/26–27 感恩节，12/5–11 期末考试，12/16 23:59 成绩截止，12/17–18 毕业典礼，12/18 成绩公布，12/19 搬出。Spring 2027 Regular：缴费截止 1/12 23:59，1/15 入住，1/18 MLK 假日，1/19 开课，add 截止 1/22 23:59，2/3 23:59 census，2/4 注册欠费清退，3/15–20 春假，4/2 退课（W）截止，4/4 毕业申请截止，5/8–14 期末考试，5/15 毕业典礼，5/16 搬出，5/19 23:59 成绩截止，5/21 成绩公布。8wk1/8wk2 与夏季各短学期节点同页列示，以 Registrar 当期 Important Dates 为准。",
+      "fulltime": "F-1/J-1 长学期全日制：本科 ≥12 学分、研究生 ≥9 学分；国际学生服务费按学期计收。减修前必须先取得国际学生顾问的 Reduced Course Load（RCL）批准，未获授权先退课或减课视为失身份；夏季学期与短学期的最低学分要求以当期 ISSS/Registrar 口径为准。",
+      "drop": "各分段校历的退课分界如下：Fall 2026 Regular W 截止 11/6 23:59；Spring 2027 Regular W 截止 4/2；8wk1/8wk2 与夏季短学期截止日各不相同，以对应 Important Dates 页为准。退费比例、W 成绩记录与账单责任由 Student Accounts 当期口径确定，退课后低于全职学分须先取得 RCL 批准。",
+      "ins1": "AcademicBlue Student Health Plan，承保方 Blue Cross Blue Shield of Texas，经办方 Academic Health Plans（AHP），门户 tamus.myahpcare.com；计划面向在校国际学生，含医疗转运与遗体遣返保障。",
+      "ins2": "强制与自动加入：F-1/J-1 学生注册任意学分即自动加入学生健康计划，保费按学期计入学生账户；计划含 repatriation（遗体遣返）与 evacuation（医疗转运）保障。22 岁以下学生入学前 10 天须完成脑膜炎疫苗接种；加入计划后经 AHP 门户查看会员凭证与电子卡。",
+      "ins3": "豁免 waiver：可凭符合学校当期要求的其他保险提交豁免申请；备选计划须满足福利、免赔额、转运与遣返额度等当期条款，材料含保险卡、保单福利页与免责页。2026–27 豁免窗口起止日期以 AHP 门户与 UHV 保险公告当期公布为准；获批豁免仅当学期有效，每学期重新申请。",
+      "clinic": "校内健康服务外包给 Community Health Centers of South Central Texas，4206 Retama Circle, Victoria（距 UHV 不到 2 mi），电话 361-576-2110，周一至周五 8:00–17:00，每次就诊 copay ≤$25；首次就诊带 Texas 州 ID 或 UHV 学生 ID、myUHV 地址证明与 FAFSA 经济资格证明。Counseling Center 电话 361-570-4135，邮箱 CounselingCenter@uhv.edu；在线心理资源 TAO by UpLift 可经学生门户注册；校内生命危险急症拨 911。",
+      "commute": "主校区在 Victoria 城区北沿，3007 N Ben Wilson St 与 Houston Highway 一带；Victoria Transit 六条彩色固定线路覆盖 North Street、Ben Wilson Street、Houston Highway 与 South Walmart 一带；Lot S 与 Victoria College 共享，校园短途靠步行、公交与自驾，跨城出行以租车或长途客运为主。",
+      "scene": "University Commons 一层有美食广场、咖啡吧与 Jag Station 书店，图书馆、小企发展中心、健身实验室与 Jaguar 校队同区；50 余个学术项目，师生比 15:1，吉祥物 jaX the Jaguar；社团经 JagSync（workamajig 门户）注册，另有 Katy 教学点与在线项目。",
+      "safety": "UHV Security：校园安全电话 361-570-HELP；Jaguar Hall 前台 361-485-4404；生命危险危机拨 911 接 Victoria PD；校园安全报告 361-570-4858，邮箱 campussafety@uhv.edu；夜间在校园内结伴通行，紧急联络经前台或 Security。",
+      "transit": "Victoria Transit 由 GCRPC 运营，六条彩色线路（PINK/PURPLE/BLUE/GOLD/GREEN/RED），周一至周五 8:00–17:00，信息线 361-578-8775；另有 RTRANSIT 农村门到门服务覆盖周边八县。机场主用 SAT（San Antonio）与 IAH（休斯敦）两个枢纽量级，Victoria 在休斯敦西南约 120 mi 量级、距圣安东尼奥与休斯敦均约两小时车程上下；本地无商业支线机场，地面衔接靠租车、网约车或长途客运。",
+      "rentnote": "校内住宿为 Jaguar Village（Jaguar Hall、Jaguar Suites、Jaguar Court）与 Smith Hall；大一、大二学生强制住校；单元全家具、individual liability lease、含线缆与网络；Housing 办公室在 2705 Houston Highway，电话 361.485-4404，邮箱 housing@uhv.edu；校外租房按邮编与公寓挂牌价查询，本页不写固定数字。",
+      "link": {
+        "cal": [
+          "https://www.tamuv.edu/student-records/important-dates/",
+          "校历（Important Dates）"
+        ],
+        "ins": [
+          "https://www.uhv.edu/counseling-center/health-services/",
+          "学生健康服务与保险"
+        ],
+        "ahp": [
+          "https://tamus.myahpcare.com/",
+          "AHP 保险门户"
+        ],
+        "clinic": [
+          "https://www.uhv.edu/counseling-center/health-services/",
+          "健康中心与咨询中心"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/city.php",
+          "得州销售税地方税率查询"
+        ]
+      }
+    },
+    "uttyler": {
+      "short": "得州大学泰勒分校（The University of Texas at Tyler，UT Tyler）",
+      "place": "泰勒（Tyler），3900 University Blvd",
+      "cityKey": "tyler",
+      "calShort": "学期制（semester，含 15-Week、7-Week 短学期、冬季 session 与夏季各短学期）",
+      "calendar": "Fall 2026 15-Week：8/21 17:00 缴费截止，8/24 周一开课，9/7 劳动节假日，9/8 census，9/16 欠费清退，10/30 退课截止，12/7–11 期末考试，12/11–12 毕业典礼，12/12 学期结束，12/15 中午成绩截止。Spring 2027 15-Week：1/8 17:00 缴费截止，1/11 周一开课，1/18 MLK 假日，1/25 census，2/3 欠费清退，3/8–12 春假，3/29 退课截止，4/26–30 期末考试，4/30–5/1 毕业典礼，5/1 学期结束，5/4 中午成绩截止。护理、医学、药学与加速项目另有独立校历，7-Week 与夏季短学期截止日以 Registrar 当期 Academic Calendar 为准。",
+      "fulltime": "长学期全日制：本科 ≥12 学分（面授 ≥9）、研究生 ≥9 学分（面授 ≥6）；常规夏季学期研究生 6 学分；减修前须先拿到国际学生顾问签发的 RCL 批准并发送 intladvising@uttyler.edu，未获授权先退课视为失身份。",
+      "drop": "退课节点按所在 session 校历：Fall 2026 15-Week 退课截止 10/30；Spring 2027 15-Week 退课截止 3/29。7-Week、护理/医学/药学项目截止日各不相同，以对应校历页为准；退费比例、W 成绩记录与欠费责任以 Student Accounts 当期口径为准，国际生退课后低于全职学分须先取得 RCL 批准。",
+      "ins1": "UT System Student Health Insurance Program（UT-SHIP），Blue Choice PPO 网络，经办方 Academic Health Plans（AHP）；学生门户 uttyler.myahpcare.com；计划按 UT System Rule 50402 设立。",
+      "ins2": "强制与自动加入：F-1/J-1 学生每注册一学期自动加入 UT-SHIP，保费计入学生账户。2026–27 单人保费：Fall（8/15/2026–12/31/2026）$1,412；Spring & Summer（1/1/2027–8/14/2027）$2,295；Summer（5/15/2027–8/14/2027）$934；配偶同价，子女 Fall $2,264、Spring & Summer $3,682、Summer $1,499（照官网原文，不换算）。24/7 Nurseline 1.800.581.0368；牙科与视力为可选计划，经 AHP 单独投保。",
+      "ins3": "豁免 waiver：Fall 2026 窗口 7/28/2026–9/26/2026；Spring/Summer 窗口 12/15/2026–2/12/2027；Summer 1 与 Summer 2（返校）窗口 4/16/2027–6/17/2027；IELI、护理、药学与健康职业项目另有独立窗口。备选计划须为 PPACA 合规个人/雇主计划，免赔额 ≤$500、共保 ≤25%、无既往症排除、预防保健 100% 覆盖，医疗转运 ≥$50,000、遗体遣返 ≥$25,000；短期限期计划与专为国际学生设计的计划不受理。材料含 Patriots ID、保险卡扫描件、保单福利页与免责页；AHP 5–10 个工作日内邮件答复，获批后转发 oip@uttyler.edu；豁免仅当学期有效，每学期重新申请。",
+      "clinic": "University Health Clinic，3310 Patriot Drive, Tyler TX 75701，周一至周五 8:00–16:00（夏季与节假日 10:00–14:00）；预约电话 903.877.7935，总机 903.939.7870；诊所为 UT Health Northeast（UT Health East Texas）与 UT Tyler 合作项目。Student Counseling Center 24/7 危机线 903.566.7254，非紧急 903.565.5746；校内生命危险急症拨 911。",
+      "commute": "主校区在 Tyler 东南角，3900 University Blvd 与 Old Omen Road 一带；Tyler Transit 城市公交在主入口对面 Varsity Drive 设站，咨询 903.533.8057；校内五个住宿社区多为 gated 公寓，凭停车许可进出，短途出行靠步行、校车与自驾。",
+      "scene": "校区围绕 Herrington Patriot Center、R. Don Cowan 演艺中心与图书馆展开；100 个学生组织经 Patriots Engage 门户注册，4 个兄弟会与 4 个姐妹会，17 支 NCAA DII 校队属 Lone Star Conference；Health Science Center 与 UT Health East Texas 合作，医学、护理、药学与健康职业项目构成校园重要板块。",
+      "safety": "UT Tyler Police Department：紧急拨 911；Dispatch 24/7 903.566.7300（校内分机 7300）；行政办公室周一至周五 8:00–17:00，903.566.7060；警局在 University Service Center Room 125，3410 Varsity Drive；夜间应请求提供护送；校外紧急拨 911 接 Tyler PD。",
+      "transit": "城市公交 Tyler Transit 主入口 Varsity Drive 设站；机场主用 TYR（Tyler Pounds Regional），支线 American Eagle 每日飞 DFW；DFW 约 100 mi 量级、DAL（Dallas Love Field）约 90 mi 量级，地面约两小时上下；向东 SHV（Shreveport）约 97 mi 量级；航班与地面衔接以当期渠道为准。",
+      "rentnote": "校内五处住宿：Liberty Landing、Ornelas Hall、Patriot Village Apartments、University Pines Apartments、Victory Village；Housing & Residence Life 在 3088 Old Omen Rd，903.566.7008，housing@uttyler.edu；校外租房按邮编与公寓挂牌价查询，本页不写固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uttyler.edu/academics/academic-calendar-26-27/academic-calendar-15-week-and-summer.php",
+          "校历（15-Week 与夏季）"
+        ],
+        "ins": [
+          "https://www.uttyler.edu/offices/international-programs/insurance/",
+          "国际学生健康保险"
+        ],
+        "ahp": [
+          "https://uttyler.myahpcare.com/enrollment",
+          "AHP 保险门户"
+        ],
+        "clinic": [
+          "https://www.uttyler.edu/student-life/health-wellness/university-health-clinic/",
+          "University Health Clinic"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/city.php",
+          "得州销售税地方税率表"
+        ]
+      }
+    },
+    "tamut": {
+      "short": "得州农工大学特克萨卡纳分校（Texas A&M University-Texarkana，A&M-Texarkana）",
+      "place": "特克萨卡纳（Texarkana，得州一侧），7101 University Ave",
+      "cityKey": "texarkana",
+      "calShort": "学期制（16 周全学期 + 两个 8 周短学期，另设冬季/夏季 mini 学期）",
+      "calendar": "Fall 2026：8/24 周一开课；晚注册 8/24–8/28；9/8 Census（最后无成绩退课日）；11/25 最后带 W 退课；12/2 最后上课日；12/3–4 阅读/学习日；12/7–9 期末考。Spring 2027：1/19 周二开课；晚注册 1/19–1/22；2/3 Census；4/28 最后带 W 退课；5/5 最后上课日；5/6–7 学习日；5/10–12 期末考。各短学期截止日与最终安排以 Registrar 当期 Academic Calendar 为准。",
+      "fulltime": "春秋全日制：本科 ≥12 学分（其中 ≥9 面授），研究生 ≥9 学分（其中 ≥6 面授）；低于门槛前必须取得 International Admissions DSO/PDSO 的 Reduced Course Load 批准（学业困难限首学期且 ≥6 学分、医疗、最后学期等法定情形）。",
+      "drop": "add/drop 与退课分界见校历：Census 日前退课无成绩，之后至 W 截止日退课记 W；Fall 2026 为 11/25、Spring 2027 为 4/28。退课、退学与身份维持手续先联系 DSO/PDSO 指导，再走 Registrar，逾期按校规处理。",
+      "ins1": "计划与承保：Texas A&M University System Student Health Insurance Plan（SSHIP），A&M 系统统一 Academic Blue 计划体系，承保方 Blue Cross Blue Shield of Texas（BCBSTX），经办方 Academic HealthPlans（AHP）；学生门户 tamut.myahpcare.com。",
+      "ins2": "强制与自动加入：F1/J1 在籍期间须持续持批准保险，每学期自动注册 SSHIP 并由 Bursar 学费账单扣缴；J2 家属依美国国务院规定须有保险；配偶与 26 岁以下子女等家属可在开放注册或合格事件时加保，家属不自动加入；研究生雇员先经 iBenefits 选择 Grad Plan 或 A&M Care，再凭保险确认办理 SSHIP 豁免。",
+      "ins3": "豁免 waiver：Spring/Summer 2027 窗口 12/7/2026–2/1/2027；Fall 26-27 豁免申请已于 9/7/2026 截止，线上 waiver 系统不再受理新申请。替代计划须满足 ACA 基本福利且无年度限额、免赔额 ≤$500（雇主计划除外）、无既往症排除、预防保健 100% 覆盖、遣返 ≥$25,000、医疗转运 ≥$50,000；可豁免情形为美政府资助、外国政府/国际组织 ACA 担保计划、ACA 雇主团体计划、纯远程学习；缺转运/遣返可经 AHP 补等额 rider。逾期未提交或未通过即自动留在 SSHIP 并扣费；豁免咨询 International Admissions Office。",
+      "clinic": "Student Health Services 在 University Center 420：周一、周三 9:00–12:30，周五 9:00–12:00，walk-in 虚拟门诊连线 HealthCARE Express；咨询 Courtney Thomas（UC 420B）(903) 223-3186，courtney.thomas@tamut.edu；另可用 A&M System Care Hub（AcademicLiveCare）远程医疗。心理咨询 Student Counseling Services 在 Central Plant，(903) 334-6613，下班后 (903) 276-8276，counseling.services@tamut.edu；危机 AVAIL 热线 800-832-1009、988 / 1-800-273-TALK，危机短信 HELLO 至 741741；即时危险拨 911。",
+      "commute": "校区位于得州一侧 7101 University Ave，临 Bringle Lake；小城无成型城市公交承担校园通勤，日常以步行、自驾与拼车为主。部分学生住阿肯色州一侧，通勤沿 I-30 跨越 Red River 州界；跨州报税差别须注意：得州不征州个人所得税，阿肯色州征收州个税，住阿肯色一侧或取得阿州来源收入时，须按阿肯色州规定另行申报州税。",
+      "scene": "校园有 30 余个注册学生组织，经 EagleSync 平台浏览招新；Student Government Association、Eagle Leadership Program、Honors College 与 Greek Life 均在列；Eagles 校队属 NAIA Red River Athletic Conference；年度活动含 First Flight、Best Week Ever、Family Weekend、Homecoming 与 The Big Event 社区服务日。",
+      "safety": "校园由 University Police Department 巡逻，电话 (903) 334-6611，即时危险拨 911；移动端安防用 RAVE Mobile Security；校外按所在片区联系 Texarkana 得州侧警局或阿肯色侧警局；夜间走照明路段、结伴而行。",
+      "transit": "机场主用 TXK Texarkana Regional Webb Field，在 Downtown 东北约 3 mi，美鹰航（American Eagle）衔接 DFW；DFW 约 180 mi，沿 I-30 自驾约 3 小时；备选 SHV（Shreveport，路易斯安那）约 70 mi；跨城行程以租车、拼车或网约车衔接。",
+      "rentnote": "住校政策：完成学分不足 60 或未满 21 岁的学生须住校内宿舍；豁免情形含 60+ 学分/4 个全日制学期、年满 21、60 mi 内与父母或法定监护人同住、注册 ≤9 学分、已婚或抚养子女、经评审的困难情形；住校生须配餐计划。未获批 Housing Exemption 即自行安排校外居住的，仍可能被收住宿费。校外房源与租金按邮编、公寓挂牌价查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.tamut.edu/academic-calendar/",
+          "校历（Academic Catalog）"
+        ],
+        "ins": [
+          "https://catalog.tamut.edu/admissions/international-admissions/",
+          "国际生招生与保险要求"
+        ],
+        "ahp": [
+          "https://tamut.myahpcare.com/enrollment",
+          "AHP 保险门户"
+        ],
+        "clinic": [
+          "https://tamut.edu/campus-life/Student-Health-Services/index.html",
+          "Student Health Services"
+        ]
+      }
+    },
+    "tarleton": {
+      "short": "塔尔顿州立大学（Tarleton State University）",
+      "place": "斯蒂芬维尔（Stephenville），1333 W Washington St",
+      "cityKey": "stephenville",
+      "calShort": "学期制（semester），秋、春两长学期，含 16 周与 8 周分段，另设冬季迷你学期与夏季学期",
+      "calendar": "Fall 2026：16 周与第一 8 周 8/19/2026 开课；晚注册与 add/drop 8/19–8/26/2026；Q-drop / W 截止：第一 8 周 9/25/2026、16 周 11/13/2026、第二 8 周 11/30/2026；最后上课日 12/7/2026 周一；阅读日 12/8/2026；期末考核 12/9–12/15/2026；学期至 12/18/2026 结束。Spring 2027：16 周与第一 8 周 1/14/2027 开课；晚注册与 add/drop 1/14–1/21/2027；Q-drop / W 截止：第一 8 周 2/26/2027、16 周 4/16/2027、第二 8 周 4/30/2027；最后上课日 5/3/2027 周一；阅读日 5/4/2027；期末考核 5/5–5/11/2027；学期至 5/14/2027 结束。各分段截止日以 Registrar 当期公布的 Academic Calendar 为准。",
+      "fulltime": "长学期全日制：本科 ≥12 学分（至少 9 学分面授），研究生 ≥9 学分（至少 6 学分面授），博士 ≥6 学分（至少 3 学分面授）；夏季仅首学期在美、F-1 状态下夏季毕业或课程结构另有要求时须满足夏季全日制（本科 12、研究生 6、博士 6）。国际生减修须先经 DSO（International Services & Programs）批准，再办理选课。",
+      "drop": "add/drop 窗口见校历（Fall 8/19–8/26、Spring 1/14–1/21）；之后退课按分段记 W，Q-drop 与 W 截止按 16 周 / 8 周分段分别执行；涉及身份维持的退课、退学先经 DSO 指导，再走 Registrar 流程。",
+      "ins1": "计划与承保：Texas A&M University System Student Health Insurance Plan（SSHIP），即 Academic Blue Student Health Plan，承保方 Blue Cross Blue Shield of Texas（BCBSTX），经办方 Academic HealthPlans（AHP）；门户 tarleton.myahpcare.com，制度依据 A&M System Benefits Administration 健康保险规章。",
+      "ins2": "强制与自动加入：持 F1/J1 签证的国际生在籍期间须持续持有批准的健康保险，自动注册 SSHIP 并由 Bursar 计入学费账单；家属可在开放注册或合格事件时加保，家属不自动加入。入保后经 AHP 门户与 BCBSTX 账户获取会员号与电子保险卡；研究生雇员须自行 opt-in 研究生雇员计划，再凭确认向国际学生办公室申请 SSHIP 豁免。",
+      "ins3": "豁免 waiver：豁免情形限于美国政府资助、外国政府或国际组织 ACA 合规计划（缺转运/遣返须补等额 rider）、ACA 合规雇主团体计划，或纯远程学习项目；替代计划须 PPACA 基本福利且无年度限额、免赔额 ≤$500（雇主计划除外）、无既往症限制、遗体遣返 ≥$25,000、医疗转运 ≥$50,000。窗口：Spring/Summer 2027 为 12/7/2026–2/1/2027，PA 项目为 12/8/2026–1/8/2027；Fall 2026 豁免窗口已截止（9/7/2026），后续秋季窗口以 AHP 门户当期公布为准。逾期未批即留在 SSHIP 并照常扣费；豁免咨询 DSO：immigration@tarleton.edu / 254-968-9632。",
+      "clinic": "University Health Center：Traditions North Hall 一楼，Stephenville 主校区；周一至周五 8:00–17:00（校假日闭诊），可现场预约或按需 Telehealth；电话 254-968-9271 / 254-968-9936。学生另可用 TimelyCare App 24/7 免费远程医疗与心理服务。心理咨询：Stephenville 校区 Counseling Services（校总机转 T-0240），Fort Worth 站点心理咨询 (682) 703-7048；危重或危及生命的医疗、心理紧急情况拨 911 或就近急诊。",
+      "commute": "主校区在 Stephenville 镇中心北侧（1333 W Washington St），Hwy 281 与 Hwy 377 交汇。另有 Fort Worth 校外教学点：10850 Texan Rider Dr, Fort Worth TX 76036，(817) 732-7300，fortworth@tarleton.edu，位于 Chisholm Trail Parkway 西南段，距 Stephenville 主校区约 65 mi 东北向。Stephenville 为小城，校园通勤以步行为主、自驾为辅；夜间靠校警护送与免费校内接驳。",
+      "scene": "Tarleton 是 A&M 系统成员，百年小镇公立大学气质，保留 Texan Corps of Cadets、牛仔竞技（Rodeo）、The Sound and The Fury 军乐队等传统；校园有 100 余个注册学生组织，FSL 三个理事会下 21 个兄弟会姐妹会，学生会、活动板（SAB）与校际体育、校内运动构成社交主线；Fort Worth 站点以在职成人、混合与晚间/周末课程为主。",
+      "safety": "校园由 Tarleton State Police Department 巡逻，主办公室 895 N Harbin Dr, Stephenville TX 76401；即时危险拨 911；非紧急 254-918-1273；服务请求、夜间护送与免费校内乘车拨控制中心 254-968-9265（周日至周四 19:00–1:00）；Crime Stoppers 匿名线索 254-965-2274。校外 Stephenville PD 站址 356 N Belknap St，Erath County 警长办公室 254-965-3338；夜间走照明路段、结伴而行。",
+      "transit": "Stephenville 无成型城市公交承担校园通勤；校内免费乘车与步行护送经控制中心 254-968-9265 安排（19:00–1:00，周日至周四）。Fort Worth 站点与 Trinity Metro 有公交衔接计划，当期线路与学生票价以 Fort Worth 站点公布为准；跨校区往返以自驾、拼车为主，沿 Chisholm Trail Parkway 与 Hwy 377/281 通行。",
+      "rentnote": "FTIC（首次入读大学）新生须住校一年，经批准 Off-Campus Exemption 方可校外居住；校内含传统宿舍（Centennial、Hunewell、Legends、Heritage、Legacy、Honors、Integrity、Traditions North/South 等）与公寓式 Texan Hall、Texan Village；研究生、转学生与走读生多在校外租房。校外房源按邮编与公寓挂牌价查询，核对押金、水电网、停车与解约条款；本页不列固定房租数字。",
+      "link": {
+        "cal": [
+          "https://catalog.tarleton.edu/universitycalendarsandfinalexaminationschedules/",
+          "校历（Catalog Academic Calendar）"
+        ],
+        "ins": [
+          "https://www.tarleton.edu/international/health-insurance/",
+          "International Health Insurance"
+        ],
+        "clinic": [
+          "https://www.tarleton.edu/health-services/",
+          "University Health Center"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/city.php",
+          "得州销售税地方税率表"
+        ],
+        "ahp": [
+          "https://tarleton.myahpcare.com/waiver",
+          "AHP 保险门户（Waiver）"
+        ]
+      }
+    },
+    "txstate": {
+      "short": "得州州立大学（Texas State University，TXST）",
+      "place": "圣马科斯（San Marcos），601 University Dr",
+      "cityKey": "sanmarcostx",
+      "calShort": "学期制（semester，含秋、春长学期与夏季、短学期）",
+      "calendar": "Fall 2026 全学期：8/13 缴费截止，8/19 周三开课，8/26 全学期 add 截止，9/3 census（同日无记录退课截止），10/22 Automatic W/退课截止，11/18 全校退学截止，12/2 最后上课日，12/3 期末考试，12/10 学期结束，12/15 成绩公布，12/11 毕业典礼。Spring 2027 全学期：1/14 缴费截止，1/18 MLK 假日，1/19 周二开课，2/3 census，3/30 退课截止，4/22 全校退学截止，5/3 最后上课日，5/4 reading day，5/5 期末考试。各短学期与夏季学期截止日以 Registrar 当期 Academic Calendar 为准。",
+      "fulltime": "F-1/J-1 长学期全日制：本科 ≥12 学分（面授 ≥9，仅 1 门在线课可计入）；硕士 ≥6 学分（面授 ≥3）；博士 ≥9 学分（面授 ≥6）；低于全日制须先经 ISSS 批准 Reduced Course Load（RCL）并更新 SEVIS，未获授权先退课视为失身份。",
+      "drop": "退课与退学节点按所在学期校历：Fall 2026 census 为 9/3，Automatic W 截止 10/22，全校退学截止 11/18；Spring 2027 census 为 2/3，退课截止 3/30，退学截止 4/22。退费档位、W 标记与账单责任按 Student Accounts 当期公示执行；国际生退课后若低于全职学分，须先取得 ISSS 的 RCL 批准。",
+      "ins1": "Texas State University Student Health Insurance Plan（TXST SHIP），经办方 Academic Health Plans（AHP），门户 txstateintl.myahpcare.com；政策依据校规 UPPS 07.09.04；承保方名称以 AHP 门户当期保单页公布为准。",
+      "ins2": "强制与自动加入：F-1/J-1 学生注册即自动加入 SHIP，保费计入学生账户；I-20/DS-2019 有效期内持续投保，春秋夏联保、夏季不单独退费；交换生不可豁免。GA/TA 等福利岗可选 ERS 雇员保险，须邮件 ISSS 办理 waiver；备选计划若缺医疗运送/遣返，须另购 AES 补充险。保单生效后经 AHP 门户下载会员凭证与电子保险卡；免赔上限个人 $10,600、家庭 $21,200（照官网原文）。",
+      "ins3": "豁免 waiver：保障期 Fall 2026 为 8/15/2026–1/4/2027，enrollment 窗口 7/22/2026–9/16/2026；Spring/Summer 为 1/5/2027–8/14/2027，enrollment 窗口 12/2/2026–2/15/2027；Spring 研究生/交换生段 1/5/2027–5/17/2027；Summer 段 5/18/2027–8/14/2027，enrollment 窗口 3/26/2027–6/2/2027。可豁免情形为美国雇主（含父母/配偶雇主）ACA 合规计划，或美国/外国政府赞助且书面担保医疗、运送与遣返费用的计划；提交保险卡正反面与保单，AHP 约 7 个工作日内邮件答复；ISSS 不批也不驳豁免申请。",
+      "clinic": "Student Health Center，298 Student Center Drive, San Marcos TX 78666，电话 512.245.2161；周一 8:00–17:00、周二 9:00–17:00、周三 8:00–17:00、周四 9:00–17:00、周五 8:00–17:00；另有 Thorpe Lane 运动医学点（近 Summit 巴士站）与 Round Rock 点 100 Bobcat Way, Nursing Bldg #116。心理咨询危机线 512-245-2208（下班后 option 2），TimelyCare 833-484-6359。",
+      "commute": "校园通勤以 Bobcat Shuttle 为主：注册学生凭有效学生 ID 免费乘车；校园线 10 UFCU Stadium、12 Bobcat Village、14 Campus Loop、16 Campus/West（夏季），校外线 20 Aquarena Springs、21 Blanco River、22 Mill Street、23 Post Road、24 Craddock、25 Ranch Road、26 Wonder World、27 Craddock/Holland、28 Holland，夜线 40/42/44/45/46/47，周六 63/64/68。城市公交为 San Marcos Transit「The Bus」，与 CARTS（Capital Area Rural Transportation System）合作。",
+      "scene": "学校坐落在 I-35 走廊、Austin 与 San Antonio 之间的 San Marcos 河谷；社团经 Bobcat Organization Hub 注册于 Student Involvement & Engagement；24 栋宿舍围绕 LBJ Student Center、Sewell Park 与 San Marcos River 展开；校队 Bobcats、希腊生活与校内节庆是主要社交入口。",
+      "safety": "Texas State UPD：手机拨 911 先接 San Marcos PD 再转 UPD；非紧急与 24/7 护送 512.245.2805，邮箱 police@txstate.edu；警局在 Pecan Building, 1321 Academy Street；失物招领 512.245.8341。校外街区夜间结伴走照明路段，夜班车收班后打车更稳妥。",
+      "transit": "城市公交 San Marcos Transit「The Bus」免费固定线路，周一至周五 7:00–18:00，周末与法定假日停运；paratransit 512.805.7433。机场：AUS（Austin–Bergstrom）在北约 30 mi 量级，SAT（San Antonio）在南约 50 mi 量级，沿 I-35 衔接，里程与班车以当期方向页为准。",
+      "rentnote": "校内 24 栋宿舍；除 Bobcat Village 外，住校生强制配 Resident Dining Plan（Bronze Option 1 起）；研究生与走读生多在校外租房，房源沿 Aquarena Springs、Wonder World 与 Ranch Road 一带分布，租金按邮编与公寓挂牌价查询，本页不写固定数字。",
+      "link": {
+        "cal": [
+          "https://www.registrar.txst.edu/registration/ac/academic-calendar.html",
+          "校历（Registrar）"
+        ],
+        "ins": [
+          "https://www.international.txst.edu/current-f1-students/health-insurance.html",
+          "ISSS 健康保险"
+        ],
+        "ahp": [
+          "https://txstateintl.myahpcare.com/enrollment",
+          "AHP 保险门户"
+        ],
+        "clinic": [
+          "https://www.healthcenter.txst.edu/about-us.html",
+          "Student Health Center"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/city.php",
+          "得州销售税地方税率表"
+        ]
+      }
+    },
+    "utsa": {
+      "short": "得克萨斯大学圣安东尼奥分校（The University of Texas at San Antonio，UTSA）",
+      "place": "圣安东尼奥（San Antonio），One UTSA Circle；主校区（1604 环线）与市中心校区（Downtown Campus）",
+      "cityKey": "sanantonio",
+      "calShort": "学期制，秋季 2026/8/19 开课、春季 2027/1/19 开课",
+      "calendar": "学期制（semester）。2026 秋：8 月 19 日开课，9 月 3 日 census date，10 月 12–13 日秋假，10 月 23 日为 16 周课程单课退 W 截止，11 月 25–27 日感恩节停课，12 月 3 日最后上课日，12 月 7–11 日期末考试，12 月 11 日学期结束。2027 春：1 月 18 日 MLK 日停课，1 月 19 日开课，2 月 3 日 census date，3 月 8–13 日春假，3 月 29 日为 16 周课程单课退 W 截止，5 月 6 日最后上课日，5 月 7 日复习日，5 月 10–14 日期末考试。",
+      "fulltime": "F-1/J-1 长学期（秋/春）全职线：本科 12 学分、研究生 9 学分；首个学期落在夏季注册也须满足夏季全职要求。因毕业、健康或学业原因需低于全职，须先经 ISSS 批准 Reduced Course Load，注册前在 ISSS 门户提交材料。",
+      "drop": "2026 秋：9 月 3 日 census date；10 月 23 日前可在 myUTSA Account 退单课并记 W；12 月 1 日为全退（withdraw 全部课程）分界；12 月 3 日最后上课日，12 月 7–11 日期末考。2027 春：1 月 19 日开课，2 月 3 日 census date；3 月 29 日前可退单课记 W；5 月 6 日最后上课日，5 月 10–14 日期末考。退款比例、W 记录与学费责任以 Student Accounts 当期口径为准。",
+      "ins1": "UT System Student Health Insurance Plan（UT-SHIP），AcademicBlue 品牌、Blue Cross and Blue Shield of Texas（BCBSTX）承保、Academic HealthPlans（AHP）管理；F-1/J-1 注册时自动加入，保费计入 myUTSA 账单。2026 秋：续读生保费 1,239.00 美元（保障期 9/1–12/31），新入学学生 1,554.00 美元（含 8 月段 315.00 美元）；2027 春夏联保 2,468.00 美元（1/1–8/31）。牙科、配偶与子女保险须在当期规定期限内另购。",
+      "ins2": "凭证与豁免：先在 AHP 门户（utsa.myahpcare.com）注册账户，再注册 BCBSTX 账户领取电子保险卡；waiver 须每学期在线提交并获批，保费才从账单移除。2026 秋季豁免提交期 2026/7/13–9/13；2027 春夏豁免期 2026/12/3–2027/2/6；2027 夏季豁免期 2027/4/27–6/5。逾期不受理、不延期；豁免审核约 7 个工作日回邮。",
+      "ins3": "豁免条件：UT 雇员团体计划、母国政府全额担保且 ACA 合规计划、美国政府书面担保、其他满足要求的来源，或纯远程学习。备选保险须 PPACA 合规、英文单据、美元结算、覆盖整个在美时段、无年度赔付上限、无既往症排除、预防保健 100% 覆盖、每事故/疾病 deductible 不超过 500 美元、coinsurance 不超过 25%；短期有限期限计划（STLDP）与专为国际学生设计的计划不接受；疏散/遣返保额另计（医疗疏散不少于 5 万美元、遗体遣返不少于 2.5 万美元）。",
+      "clinic": "UT Health San Antonio Wellness 360 驻校医疗点，主校区 RWC 1.500，电话 210-458-4142，wellness360@utsa.edu；市中心校区 FS4.556 设分点。门诊周一至周五 8:00–17:00，可预约或 walk-in；MyHealth Portal 查检验结果与免疫记录。Wellbeing Services 在 RWC 1.810，210-458-4140（24 小时），含心理咨询、PEACE Center 与康复支持；心理危机可经 SafeZone App 接入。",
+      "commute": "主校区 1604 环线周边公寓以步行、骑行或校园校车为主；The Runner 校车连接校内各公寓片区与教学楼，市中心校区由 The Little Runner 环线接驳；VIA U-Pass 覆盖全市 regular VIA、Prímo、Express 与 VIA Link，凭 UTSA 邮箱在 goMobile+ App 领取。",
+      "scene": "Student Union 是活动、聚餐与社团碰面的核心空间；RowdyLink 门户注册 450+ 学生组织，覆盖学术、文化/国际、荣誉学会、专业社团、体育俱乐部、兄弟会姐妹会与信仰团体；Roadrunner Productions 策划大型校园活动，VOICES 组织社区志愿服务；市中心校区邻近 Riverwalk、Pearl 与 Southtown。",
+      "safety": "UTSA Police：紧急 210-458-4911（校内座机拨 911），非紧急与夜间护送 210-458-4242；SafeZone App 可一键报警、定位与接收紧急通知。校外事项报 San Antonio Police Department 非紧急 210-207-7273，Bexar County Sheriff's Office 210-335-6000；校外即时危险拨 911。",
+      "transit": "校内交通靠 The Runner 与 Little Runner 校车；跨校区与进城走 VIA U-Pass：Route 93 Roadrunner Express 串联主校区与市中心校区，VIA Link Mainland/Downtown 按需接驳。商业航班主用 SAT（San Antonio International Airport），主校区距机场约 15 英里（估算），VIA 5/7 路可达航站楼；跨州大票仓 DFW、IAH 需驾车 3–4 小时衔接。",
+      "rentnote": "校内宿舍集中在主校区 1604 环线沿线（见 house 页）；校外房源沿 UTSA Blvd、Babcock Rd、Medical Center 与西北 1604 一带分布，研究生与走读生合租公寓居多。校外房源由 off-campus 办公室列示，校方不审核不背书；本页不写固定租金数字，按邮编查当期挂牌价并核对押金、水电网与停车。",
+      "link": {
+        "cal": [
+          "https://www.utsa.edu/registrar/files/AcademicCal.pdf",
+          "UTSA Academic Calendar（Registrar）"
+        ],
+        "ins": [
+          "https://utsa.myahpcare.com/",
+          "UT-SHIP 保险与豁免门户"
+        ],
+        "clinic": [
+          "https://www.utsa.edu/students/wellbeing/services/health.html",
+          "Wellness 360 与 Wellbeing Services"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/index.php",
+          "得州销售与使用税"
+        ]
+      }
+    },
+    "uthscsa": {
+      "short": "得克萨斯大学圣安东尼奥健康科学中心（UT Health San Antonio，UTHSCSA）",
+      "place": "圣安东尼奥医学中心区（South Texas Medical Center），7703 Floyd Curl Dr（Long Campus）；另设 Greehey Campus 与公共卫生 RAB",
+      "cityKey": "sanantonio",
+      "calShort": "研究生与临床项目制；GSBS 新生 2026/8/17 开课、2027/1/11 开课",
+      "calendar": "各学院日历独立（Long School of Medicine、School of Dentistry、School of Nursing、School of Health Professions、Graduate School of Biomedical Sciences、School of Public Health）。GSBS 2026 秋：新生 8 月 17 日开课、9 月 1 日 census；老生 7 月 6 日开课、7 月 21 日 census；学期 12 月 11 日结束，期末成绩 12 月 15 日到期。2027 春：1 月 11 日开课、1 月 27 日 census；3 月 8–12 日春假；毕业班 5 月 14 日学期结束、成绩 5 月 18 日到期，非毕业班 6 月 25 日结束、成绩 6 月 29 日到期。医学、牙科、护理与健康职业项目按轮转和各院校历执行，不套用本科 16 周日历。",
+      "fulltime": "GSBS 全职线：博士每学期至少 12 学分、硕士至少 8 学分；最终学期仅注册论文/学位课程可按 final hours 至少 1 学分计全职。国际生选 final hours 前须先与项目 COGS 主任和 Office of International Services 沟通；低于全职须先获 OIS 批准。临床职业项目的学籍与出勤要求以所在学院规章为准。",
+      "drop": "退课、退项目与轮转分界按所在学院和 GSBS 当期校历执行；GSBS 学期内加退课期限见项目日历，博士/硕士最低学分以 Catalog 规章为准。F-1/J-1 学生因学业、健康或毕业原因需低于全职，须先经 OIS 批准 Reduced Course Load，再在 Registrar 处办理；学费责任与退款以 Bursar 当期口径为准。",
+      "ins1": "学生线：参加 UT 体系 Student Health Insurance Plan（UT-SHIP），保单为 AcademicBlue 条款，由 Blue Cross and Blue Shield of Texas（BCBSTX）承保、Academic HealthPlans（AHP）经办；健康机构与医学生为 hard waiver，注册即自动入保，国际学生强制参保，自愿本科每学期至少 7 学分、研究生至少 4 学分。雇员线：住院医、fellow 与符合资格的研究生雇员按 UT 雇员福利参加 UT SELECT Medical（BCBSTX 承保，UT System Office of Employee Benefits 管理），合格全职雇员个人医疗计划免费，家属经薪资扣款参保。",
+      "ins2": "学生凭证与豁免：在 AHP 门户（uthscsa.myahpcare.com）开户后领取会员号与电子保险卡；waiver 每学期在线提交并获批才出账。窗口：2026 秋 2026/5/8–9/11；2027 春夏 2026/10/1–2027/1/29；2027 夏季 2027/3/1–6/9。住院医/fellow 雇员线：入职时完成 I-9 与 benefit election，经 HR/benefits 登记 UT SELECT 及家属、牙科视力等选项，咨询 benefits@uthscsa.edu。",
+      "ins3": "豁免条件：UT 雇员团体计划、母国政府全额担保且 PPACA 合规、美国政府书面担保、其他达标来源或纯远程学习。备选保单同样须满足 PPACA：无年度赔付上限、不排除既往症、预防保健全额报销，自付额不超过 500 美元、共付比例不高于 25%；医疗疏散不少于 5 万美元、遗体遣返不少于 2.5 万美元；STLDP、专为国际学生设计的计划、健康共享计划与先付后报的报销计划均不接受。",
+      "clinic": "Wellness 360 学生与雇员诊所，School of Nursing 一楼，Long Campus（7703 Floyd Curl Dr），210-567-2788；周一至周四 7:00–18:00（当日末号 17:30），周五 8:00–17:00（12:00–13:00 午休），经 MyChart 预约；免疫记录须提交 SentryMD。Student Counseling Center 在 Dental Building Room 3.100R，210-567-2648，scc@uthscsa.edu，周一至周五 7:00–18:00；下班后危机来电按 2 转接。",
+      "commute": "学校没有本科式通勤圈，研究生、住院医与家属多住 Medical Center 周边；校内 orange 校车连接 Long Campus 与 Greehey Campus（约 15 分钟一班），blue 线在 Greehey 园区环线运行，Ride System App 查班车动态；VIA U-Pass 已扩展至 health campus 学生、住院医与 fellow，可免费乘 regular VIA 与 VIA Link。",
+      "scene": "Office of Student Life 在 Briscoe Library Room 3.094，210-567-2654，studentlife@uthscsa.edu；下设 Student Government Association 与注册学生组织，Recreational Sports 组织健身与团队活动，护理学院学生 Gold's Gym（Medical Center）会员含于学费。社交多按学院、实验室与住院医项目聚合，科研与临床社群为主。",
+      "safety": "UT Health Police：紧急 210-567-8911（校内座机拨 911），非紧急 210-567-2800 转 3；SafeWalk 夜间护送同一号码转 3；行为关切拨 210-567-CARE（2273）；HSC Alert 经学校邮箱推送紧急通知。师生须随身佩戴 ID badge；校外紧急拨 911，院区外由 SAPD 接警、非紧急 210-207-7273。",
+      "transit": "校园位于 South Texas Medical Center，紧邻 I-10 与 Loop 410；校内 orange/blue 校车连接各楼与园区，通勤靠步行、骑行、驾车与 VIA。商业航班主用 SAT（San Antonio International Airport），距医学中心约 7–8 英里（估算）；若 SAT 航班不合意，可绕行 DFW 或 IAH 两大枢纽，地面车程约 3–4 小时。",
+      "rentnote": "学校不提供校内宿舍；Office of Student Life 维护附近租房房源与 roommate 名单供参考，校方不审核不背书。常用片区在 Fredericksburg Rd 以西、Medical Center 周边，步行或短车程到 Long/Greehey 园区；本页不写固定租金数字，按邮编与公寓挂牌当期报价查询。",
+      "link": {
+        "cal": [
+          "https://students.uthscsa.edu/registrar/academic-calendars-2/",
+          "UTHSA 各学院 Academic Calendars（Registrar）"
+        ],
+        "ins": [
+          "https://uthscsa.myahpcare.com/",
+          "UT-SHIP 保险与豁免门户"
+        ],
+        "clinic": [
+          "https://wellness360.uthealthsa.org/",
+          "Wellness 360 学生健康诊所"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/index.php",
+          "得州销售与使用税"
+        ]
+      }
+    },
+    "tamusa": {
+      "short": "得州农工大学圣安东尼奥分校（Texas A&M University-San Antonio，A&M-SA）",
+      "place": "圣安东尼奥南区（South Side），One University Way, San Antonio, TX 78224",
+      "cityKey": "sanantonio",
+      "calShort": "学期制，秋季 2026/8/24 开课、春季 2027/1/19 开课",
+      "calendar": "学期制（semester），以常规 16 周学期为准。2026 秋：8 月 24 日开课，9 月 9 日 census date，11 月 13 日单课退自动 W 截止，11 月 25 日复习日，11 月 26–28 日感恩节停课，11 月 30 日全退（withdraw 全部课程）分界，12 月 4 日最后上课日，12 月 5–11 日期末考试，12 月 11 日学期结束。2027 春：1 月 19 日开课，2 月 3 日 census date，3 月 8–13 日春假，4 月 16 日单课退 W 截止，4 月 30 日全退分界，5 月 3 日最后上课日，5 月 5–11 日期末考试，5 月 11 日学期结束。",
+      "fulltime": "F-1 长学期（秋/春）全职线：本科 12 学分、研究生 9 学分；研究生完成课程、进入论文阶段可按 3 学分注册。低于全职须先联系 International Affairs 并提交 Reduced Course Load 表；每学期仅一门网课，本科 12 学分中至少 9 门面授或混合、研究生 9 学分中至少 6 门面授或混合。",
+      "drop": "2026 秋：9 月 9 日 census date；11 月 13 日前可退单课记自动 W；11 月 30 日前可全退；12 月 4 日最后上课日，12 月 5–11 日期末考。2027 春：2 月 3 日 census date；4 月 16 日前退单课记 W；4 月 30 日前全退；5 月 3 日最后上课日，5 月 5–11 日期末考。退款比例与 W 记录以 Student Accounts 当期口径为准。",
+      "ins1": "Texas A&M University System Student Health Insurance Plan（System SHIP），AcademicBlue 品牌、Blue Cross and Blue Shield of Texas（BCBSTX）承保、Academic HealthPlans（AHP）管理；F-1/J-1 学生注册即自动加入，保费经 bursar 账单扣缴。自愿参保线：学位本科每学期至少 9 学分、非雇员研究生至少 5 学分；家属可另购 dependent 保险。",
+      "ins2": "凭证与豁免：在 AHP 门户（tamusa.myahpcare.com）注册账户后领取会员号与电子保险卡；waiver 仅对国际学生开放，须在规定窗口在线提交并获批，保费才从账单移除。2027 春夏豁免期 2026/12/7–2027/2/1；2026 秋季豁免截止 2026/9/7，开放起始日以当期 AHP 门户公布为准，逾期不受理。",
+      "ins3": "豁免备选计划须持续覆盖整个在美时段、PPACA 合规、英文单据、美元结算、无年度赔付上限与既往症排除；短期有限期限产品以及面向非移民学生的专项保险不在豁免认可范围内。牙科、视力为自愿加购；豁免后若不含疏散遣返，相关险种按校方口径另行登记。",
+      "clinic": "校内不设综合医疗诊所，身体诊疗走校外社区诊所或 UT Health 医疗网络，凭 SHIP 理赔。Student Counseling Center（SCC）在 Madla Building Room 120，210-784-1331，周一至周五 8:00–17:00，提供简短个体/团体咨询、危机干预与预防服务；24/7/365 危机支持拨 210-784-1331（下班后选 2）或经 TELUS Student Support App。",
+      "commute": "校园位于南区，走读生比例高；凭 TAMUSA 学生证即可作为 VIA U-Pass 乘坐 regular VIA 巴士与 VIA Link，无需另购月票；校内宿舍与教学楼之间由校车接驳，驾车入校须先购停车许可。",
+      "scene": "学校以转学学生与西语裔学生为主，校园氛围贴近通勤型大学；JagSync 门户注册各认可学生组织，Student Involvement 统筹社团注册、校园活动与领导力项目；Transfer Student Center 在 Patriots' Casa Room 104，210-784-1452，transfer@tamusa.edu；另有兄弟会姐妹会、校内体育俱乐部与 Jaguar Game Room。",
+      "safety": "A&M-SA Police Department：紧急 210-784-1911（校内座机拨 911），非紧急 210-784-1900，驻地 Madla 120；Victim Services 与犯罪预防 210-784-1906；SafeZone App 一键报警，JagE Alert 推送紧急通知。离校后治安问题转 SAPD 非紧急线 210-207-7273，即时危险拨 911。",
+      "transit": "公共交通以 VIA U-Pass 为核心：学生证直接当票，覆盖 regular VIA、Prímo 与 VIA Link 按需车辆；南区进城沿 S Zarzamora Rd 与 SE Military Dr 走廊换乘。商业航班主用 SAT（San Antonio International Airport），距南区约 12–15 英里（估算），以网约车、拼车或 VIA 换乘为主。",
+      "rentnote": "校内有 Esperanza Hall 与 Estrella Hall 两栋宿舍（见 house 页）；校外房源集中在 Southside、S Zarzamora、Military Dr 与 Pleasanton 走廊，研究生、转学与通勤学生合租居多。本页不写固定租金数字，按邮编查当期挂牌价，签约前核对押金、水电网、停车与通勤。",
+      "link": {
+        "cal": [
+          "https://catalog.tamusa.edu/undergraduate/academic-calendar/",
+          "A&M-SA Academic Calendar（Catalog）"
+        ],
+        "ins": [
+          "https://tamusa.myahpcare.com/",
+          "System SHIP 保险与豁免门户"
+        ],
+        "clinic": [
+          "https://www.tamusa.edu/studentengagementsuccess/studentcounseling/index.html",
+          "Student Counseling Center"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/index.php",
+          "得州销售与使用税"
+        ]
+      }
+    },
+    "angelo": {
+      "short": "安吉洛州立大学（Angelo State University，ASU）",
+      "place": "圣安吉洛（San Angelo），2601 W Avenue N",
+      "cityKey": "sanangelo",
+      "calShort": "学期制（Fall / Spring / Summer），长学期外另设第一/第二 8 周短学期与冬季 mini 学期",
+      "calendar": "Fall 2026：缴费/首期 8/20/2026 17:00 截止；常规学期与第一 8 周 8/24/2026 开课；9/9/2026 为 census；W 退课期 9/10/2026 起；常规学期退课/退学 11/24/2026 17:00 截止；期末 12/7–12/11/2026；12/11/2026 结课；毕业典礼 12/12/2026。Spring 2027：常规学期与第一 8 周 1/19/2027 开课；2/3/2027 为 census；W 期 2/4/2027 起；春假 3/15–3/19/2027；常规学期退课/退学 4/29/2027 17:00 截止；期末 5/10–5/14/2027；5/14/2027 结课；毕业典礼 5/14–5/15/2027。短学期各段截止日见校历对应列，以 Registrar 当期 Academic Calendar 为准。",
+      "fulltime": "长学期全日制：本科 ≥12 学分、研究生 ≥9 学分；夏季注册学分要求按学期类别执行。国际生减修、暂停注册须经 Center for International Studies（CIS）批准，维持 F-1/J-1 身份。",
+      "drop": "add/drop 与 W 退课按校历分段；Fall 2026 常规学期退课/退学 11/24/2026 17:00 截止，Spring 2027 为 4/29/2027 17:00，8 周短学期截止更早；退课须在线提交 drop 表，退学与身份维持先经 CIS 与 Advising 指导，逾期按校规处理。",
+      "ins1": "计划与承保：ASU Student Health Insurance Plan（ASU-SHIP，AcademicBlue），承保方 Blue Cross Blue Shield of Texas（BCBSTX），经办方 Academic HealthPlans（AHP），学生门户 angelo.myahpcare.com。",
+      "ins2": "强制与自动加入：F-1 学生每学期注册须持医疗保险与医疗转运/遗体遣返保障；国际生自动入保 ASU-SHIP，除非提交 waiver 并获批。保费随学生账单扣缴；入保后在 AHP 门户取会员号与 BCBSTX 电子保险卡；计划含 AcademicLiveCare 远程医疗、AES 转运遣返与 24/7 Nurseline，家属可在资格期加保。",
+      "ins3": "豁免 waiver：豁免申请提交 Center for International Studies（cis@angelo.edu，325-942-2083），福利材料须在每学期开课第一天前提交并获批。可豁免情形：美国政府、外国政府或美方认可的指定机构/组织全额担保全部医疗与转运遣返费用；含医疗转运与遣返的雇主团体保险（含 ASU 雇员及研究生雇员计划）。入保期 Fall 7/6/2026–8/31/2026、Spring/Summer 11/13/2026–1/29/2027、Summer 3/23/2027–5/31/2027、Summer II 5/25/2027–6/25/2027；国内自愿入学门槛：本科长学期 ≥7 学分（夏季 ≥3）、研究生 ≥4 学分。",
+      "clinic": "University Health Clinic（Student Health Services by Shannon Clinic），2237 S Jackson St, San Angelo TX；325-942-2171；ASUhealthclinic@angelo.edu；24/7 Nurse Help Line 325-481-2002；账单咨询 Business Services 325-942-2021。心理咨询 Counseling Services，1901 Johnson St, San Angelo TX 76909；325-942-2371；counselingservices@angelo.edu；周一至周五 9:00–16:00，在线预约排程；ASU Crisis HelpLine 24/7：325-486-6345。",
+      "commute": "主校区 2601 W Avenue N, San Angelo TX 76909；校园位于 Concho Valley 城区，步行尺度紧凑。公交由 Concho Valley Transit District（CVTD）运营，设两条 ASU 专线；周末 Ram Tram 免费接驳 ASU 学生往返校园与城区。",
+      "scene": "校园氛围以 Rams 校队、100+ 学生组织与 Houston Harte University Center 周边活动为主；CIS 组织韩国、越南、柬埔寨、缅甸等学生协会，国际生融入活动经 Student Involvement 发布；城区围绕 Concho River 步道与历史街区展开。",
+      "safety": "Angelo State University Police（ASUPD）24/7 校园巡逻，325-942-2071，police@angelo.edu，驻地 Vanderventer Plaza；即时危险拨 911；心理危机走 ASU Crisis HelpLine 325-486-6345；夜间步行走照明路段、结伴而行，偏僻停车场与末班公交后打车更稳妥。",
+      "transit": "CVTD 固定线共 6 条主线、2 条 ASU 线与 1 条 Goodfellow 线；成人单程 $1.00，学生凭证减价 $0.50，全日票 $2.00，月票 $30（学生/长者/残障 $15）；周一至周五 6:30–19:30，周六 7:30–19:30，周日停运；Ram Tram 周二 16:00–20:00、周五 17:30–23:30、周六 11:30–23:30 免费；站点追踪用 Ride Systems App。就近机场 SJT（San Angelo Regional Airport, Mathis Field）。",
+      "rentnote": "一年级集群宿舍含 Carr Hall、Centennial Village、Mary and Robert Massie Halls、Plaza Verde、Texan Hall；Vanderventer Apartments 优先分配大二及以上学生；申请经 myhousing.angelo.edu，申请费 $100 不退。校外租房按邮编与公寓挂牌价查询，本页不列固定房租数字，签约前核对押金、水电网杂费、停车、宠物与解约条款。",
+      "link": {
+        "cal": [
+          "https://www.angelo.edu/current-students/registrar/academic_calendar.php",
+          "校历（Registrar Academic Calendar）"
+        ],
+        "ins": [
+          "https://www.angelo.edu/life-on-campus/explore/center-for-international-studies/apply/after-you-arrive.php",
+          "国际生保险要求（CIS）"
+        ],
+        "clinic": [
+          "https://www.angelo.edu/current-students/health-clinic/contact.php",
+          "University Health Clinic 联系页"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/rate-tables/",
+          "得州税率查询（Comptroller）"
+        ]
+      }
+    },
+    "utdallas": {
+      "short": "得州大学达拉斯分校（The University of Texas at Dallas，UTD）",
+      "place": "理查森（Richardson），800 W Campbell Rd",
+      "cityKey": "richardson",
+      "calShort": "学期制（semester），秋、春两长学期为主，另设 8 周分段学期与夏季学期",
+      "calendar": "Fall 2026：常规注册截止 8/20/2026；8/24/2026 周一开课；8/31/2026 截止晚注册与 add/swap；9/9/2026 为 Census Day、无 W 退课截止；全学期退学截止 11/9/2026；最后上课日 12/9/2026；阅读日 12/10/2026；期末考核 12/11–12/16/2026。Spring 2027：1/21/2027 开课，晚注册 1/21–1/25/2027；1/26/2027 Census Day、add/drop/swap 截止与无 W 退课截止；研究生自动 W 退课截止 4/26/2027；最后上课日 5/6/2027；阅读日 5/7/2027；期末考核 5/10–5/14/2027。各分段学期截止日以 Registrar 当期公布的 Academic Calendar 为准。",
+      "fulltime": "长学期全日制：本科 ≥12 学分（其中至少 9 学分面授），研究生 ≥9 学分（其中至少 6 学分面授）；夏季注册为可选，首学期在美、F-1 状态下夏季毕业或课程结构另有要求者除外。国际生减修须先经 ISSO（国际学生与学者办公室）批准，再在 Orion 办理选课。",
+      "drop": "add/drop/swap 窗口与退课分界见校历；Census Day 之前退课不记 W，之后按校规记 W，本科 Signature Required 阶段退课须取得任课教师与导师签字；研究生自动 W 退课有独立截止日。涉及身份维持的退课、退学先经 ISSO 指导，再走 Registrar 流程。",
+      "ins1": "计划与承保：UT Student Health Insurance Plan（UT SHIP），承保方 Blue Cross Blue Shield of Texas（BCBSTX），经办方 Academic HealthPlans（AHP）；学生门户 utdallas.myahpcare.com。",
+      "ins2": "强制与自动加入：持 F1/F2/J1/J2 签证的国际生每学期自动注册 UT SHIP，保费直接计入学费账单；其余签证类型不按国际生口径强制。入保后 BCBSTX 按学年向 Orion 登记地址邮寄实体保险卡，Census Day 后两到四周内收到；也可在 BCBSTX 账户下载电子 ID 卡，等待期内可在保险办公室开 Interim Coverage Letter 作为临时凭证。UT SHIP 学生在校内 Student Health Center 就诊 100% 覆盖、无自付。",
+      "ins3": "豁免 waiver：须在 AHP 电子门户提交等值保险证明，每学期重新申请。窗口：Fall 2026 为 7/22/2026–9/9/2026，Spring 2027 为 12/7/2026–2/3/2027（文件须于 2/3 23:59 前入系统），Summer 2027 为 5/10/2027–6/16/2027；逾期或审批不通过即留在 UT SHIP 并照常扣费。替代计划须 PPACA 合规、无限最高赔付、无既往症限制、免赔额 ≤$500、共保比例不超过 25%、遗体遣返 ≥$25,000、医疗转运 ≥$50,000，且覆盖整段保障期（Fall 8/1–12/31、Spring 1/1–5/31、Summer 6/1–7/31）；仅缺转运/遣返保障可另购 AES 补充险，春季费用 $40，须在豁免截止前付清。",
+      "clinic": "Student Health Center（SHC）：Student Services Building 4 楼 SSB 4.700，邮寄地址 800 W Campbell Rd, SSB43, Richardson TX 75080；电话 972-883-2747，传真 877-769-7514，healthcen@utdallas.edu；周一至周五 8:00–17:00，常规预约截止 16:00、紧急预约截止 16:20，经 Patient Portal 或电话预约，就诊带 Comet Card；非工作时间拨 972-883-2747 按提示转注册护士。心理咨询：Counseling Center，SSB 4.600，972-883-2575，counselingcenter@utdallas.edu；Wellness Center：SSA 14.270，972-883-4275，studentwellness@utdallas.edu；危机可拨 988 或校 24 小时热线 972-883-8255（972-UTD-TALK）。",
+      "commute": "校区位于 Richardson 的 Telecom Corridor 一带（800 W Campbell Rd）。主轴公共交通：DART Silver Line 区域铁路直达校园北侧的 UT Dallas Station（距校园约 0.3 mi）；DART 红线至 CityLine/Bush 站，换乘校车 Comet Cruiser Route 883 到校；另有 DART 232（Frankford）与 244（UTD/Campbell）公交停靠校园。自驾经 US 75、SH 190（Bush Turnpike）与 Campbell Rd 出入。",
+      "scene": "UTD 是北达拉斯走廊上的研究型大学，国际生比例高，工程、计算机、JSOM 商学院与艺术人文学院交流活跃；校园有 400 余个注册学生组织，学术荣誉、服务、宗教、族裔与兴趣类社团齐全，Student Union、Food Truck Park 与 SU 活动板（SUAAB）组织 Comet-Con、Springapalooza、HomeFest 等年度活动；FSL 兄弟会姐妹会与学生会构成主要社交场景，夏秋炎热时活动多在楼内与遮阴路段。",
+      "safety": "校园由 UT Dallas Police（UPD）24 小时巡逻，警员为 UT System Police 委任的州警；即时危险拨 911，非紧急与护送呼叫 972-883-2222，University Village 值班室 972-792-9100；匿名线索经 Silent Witness 表提交。校外与 Richardson PD 协作，RPD 总台 972-744-4800，站址 200 N Greenville Ave；夜间走照明路段、结伴而行，末班车后返校打车更稳妥。紧急天气与运营变动经 UTD Alert 短信推送。",
+      "transit": "DART 网络含公交、轻轨、Silver Line 区域铁路、GoLink 按需接驳与 TRE 通勤铁路。在校学生凭有效 Comet Card、当期注册且费用已缴，可在开课日起申请免费 DART GoPass（App 或实体贴纸二选一），覆盖本地 DART 公交与列车、Silver Line、GoLink 及 TRE Zone 1；Comet Cruiser Route 883 为免费校车，衔接 CityLine/Bush 站与校园周边公寓、购物区。教职工另有折扣年票。",
+      "rentnote": "校内不强制住校（无 live-on 要求）：新生选择住校分配至 University Commons 三床套房，非新生可选 University Village 未装修公寓或 Canyon Creek Heights 带家具公寓；研究生不进入新生住校优先序列，多数在校外租房。校外房源按邮编与公寓挂牌价查询，核对押金、水电网杂费、停车与解约条款；本页不列固定房租数字。",
+      "link": {
+        "cal": [
+          "https://utdallas.edu/academics/calendar/",
+          "校历（Academic Calendar）"
+        ],
+        "ins": [
+          "https://insurance.utdallas.edu/",
+          "Student Health Insurance"
+        ],
+        "clinic": [
+          "https://studenthealthcenter.utdallas.edu/",
+          "Student Health Center"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/city.php",
+          "得州销售税地方税率表"
+        ],
+        "ahp": [
+          "https://utdallas.myahpcare.com/waiver",
+          "AHP 保险门户（Waiver）"
+        ]
+      }
+    },
+    "pvamu": {
+      "short": "普雷里维尤农工大学（Prairie View A&M University，PVAMU）",
+      "place": "普雷里维尤（Prairie View，休斯敦西北乡间），100 University Dr",
+      "cityKey": "prairieview",
+      "calShort": "学期制（16 周全学期 + 两个 8 周短学期，另设 12 月/1 月与 5 月 mini 学期）",
+      "calendar": "Fall 2026：8/24 周一开课；晚注册本科 8/24–29、研究生 8/24–9/1；9/9 第 12 上课日 Census（最后无学术记录退课日）；9/10 起退课记 W；11/17 最后带 W 退课；11/30 最后上课日；12/1 学习日；12/2–12/9 期末考。Spring 2027：1/11 周一开课；晚注册 1/11–1/18；1/27 Census；1/28 起退课记 W；4/13 最后带 W 退课；4/27 最后上课日；4/28 学习日；4/29–5/6 期末考。短学期与最终安排以 Registrar 当期 Academic Calendar 为准。",
+      "fulltime": "春秋全日制：本科 ≥12 学分（其中 ≥9 面授），研究生 ≥9 学分（其中 ≥6 面授）；每学期在线/远程课最多计 3 学分入全日制负荷。低于门槛前必须取得 ISSS DSO 的 Reduced Course Load 批准（学业困难、医疗、最后学期等法定情形）。",
+      "drop": "add/drop 与退课分界见校历：Census 日前退课无学术记录，之后至 W 截止退课记 W；Fall 2026 为 11/17，Spring 2027 为 4/13。退课、退学与身份维持先联系 ISSS/DSO 指导，再走 Registrar 流程，逾期按校规处理。",
+      "ins1": "计划与承保：Texas A&M University System Student Health Insurance Plan（SSHIP），A&M 系统统一计划体系，承保方 Blue Cross Blue Shield of Texas（BCBSTX），经办方 Academic HealthPlans（AHP）；学生门户 pvamu.myahpcare.com。",
+      "ins2": "强制与自动加入：所有到校国际学生须持健康保险；F1 学生注册后自动计入 SSHIP 学费账单，注册前须提交保险凭证。研究生雇员若有雇员团体计划，由 Human Resources 对接保险方办理，不走学生 SSHIP 豁免；配偶与子女等家属可另行加保。",
+      "ins3": "豁免 waiver：Spring/Summer 2027 窗口 12/7/2026–2/1/2027；Fall 26-27 豁免申请已于 9/7/2026 截止，线上系统不再受理新申请。可豁免情形：美国政府资助、外国政府或特定国际组织 ACA 担保计划、ACA 合规雇主团体计划；替代计划须满足 PPACA 基本福利且无年度限额、免赔额 ≤$500（雇主计划除外）、无既往症排除、遣返 ≥$25,000、医疗转运 ≥$50,000；缺转运/遣返须补等额 rider。线上 waiver 需附保险卡、福利摘要与转运遣返证明；逾期未批即留在 SSHIP 扣费；咨询 ISSS：iss@pvamu.edu。",
+      "clinic": "Student Health Services，Owens-Franklin Bldg，1125 Reda Bland Evans and OJ Baker St, Prairie View, TX 77446；电话 936-261-1410，传真 936-261-1452，healthservices@pvamu.edu；周一至周五 8:00–17:00（每日 12:00–13:00 午休），经 Panther Portal 预约，另提供 TimelyCare 免费远程医疗；校内 EMT 936-261-1375（不负责校外转运）。心理咨询在 Owens Franklin 2 楼 Suite 226，虚拟咨询 936-261-3564，24 小时危机热线 936-553-0990；危机可拨 988。",
+      "commute": "校园位于休斯敦西北乡间、Hwy 290 旁，周边无城市公交线路承担校园通勤；校内 Transportation Services 运营 Black Route 等社区校车，可经 PVAMU Bus Tracker App 查班次；机场班车工作日 8:00–17:00 按航班分组往返 IAH 与 HOU；日常出行靠校车、自驾与拼车。",
+      "scene": "校园有 100 余个学生组织，含学术荣誉社团、专业与兴趣团体、服务团体与 Greek life；Student Government Association、Campus Activities Board、Marching Storm 行进乐队、Panther PhDs 与 Team SAFE 等活跃；Panthers 校队属 NCAA Division I / SWAC，校色紫金；HBCU 历史农工校传统是校园文化主线。",
+      "safety": "校园由 University Police Department（UPD）巡逻，非紧急/调度 936-261-1375，校园内拨 4911，即时危险拨 911；匿名线索线 936-261-2222；校内 EMT 936-261-1375；校外急救转运由 Waller County EMS 承担。",
+      "transit": "机场主用 IAH（George Bush Intercontinental，休斯敦）：经 John F Kennedy Blvd 接 Beltway 8/Sam Houston Tollway 转 Hwy 290 西行，距校园约 30 mi 量级；备选 HOU（William P. Hobby）：经 I-45 北、I-10 西、I-610 转 Hwy 290，距离更远；校内班车工作日 8–5 按航班分组接送两机场，其余时段以租车、拼车或网约车衔接。",
+      "rentnote": "校内住宿按年级分社区：新生 FYE 为 University College、University Square；二年级 SYE 为 University Village I & II；高年级为 University View I、View II Program Houses、University Village、University Square；申请缴 $150 押金并签租约。住校学生强制配餐计划；校外房源多在 Hempstead、Waller、Cypress 沿线，租金按邮编与公寓挂牌价查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.pvamu.edu/registrar/academic-calendars/fall-2026-full-term-16-week-session/",
+          "校历（Registrar）"
+        ],
+        "ins": [
+          "https://www.pvamu.edu/internationalprograms/medical-insurance/",
+          "ISSS 保险要求与豁免流程"
+        ],
+        "ahp": [
+          "https://pvamu.myahpcare.com/enrollment",
+          "AHP 保险门户"
+        ],
+        "clinic": [
+          "https://www.pvamu.edu/healthservices/medicalservices/hours-of-operation/",
+          "Health Center 门诊时间"
+        ]
+      }
+    },
+    "utpb": {
+      "short": "得州大学二叠纪盆地分校（The University of Texas Permian Basin，UTPB）",
+      "place": "敖德萨（Odessa），4901 E University Blvd",
+      "cityKey": "odessa",
+      "calShort": "学期制（Fall / Spring / Summer），长学期 16 周，另设第一/第二 8 周短学期",
+      "calendar": "Fall 2026：注册 3/30/2026 开放，学费 8/21/2026 截止，8/24/2026 开课，9/1/2026 最后 add，9/9/2026 为 census 与退费截止，10/30/2026 为长学期退课/退学截止，期末 12/7–12/10/2026，学期 12/11/2026 结束。Spring 2027：注册 11/2/2026 开放，学费 1/8/2027 截止，1/11/2027 开课，1/20/2027 最后 add，1/27/2027 为 census，3/26/2027 为长学期退课/退学截止，期末 5/3–5/6/2027，学期 5/7/2027 结束。8 周短学期各段截止日见校历对应列，以 Registrar 当期 Academic Calendar 为准。",
+      "fulltime": "全日制注册学分按所在学院与学籍规定执行；国际生减修、暂停注册须经 Global 学生管理部门批准。SHIP 自愿入学门槛：本科 ≥7 学分/学期、研究生 ≥4 学分/学期；夏季本科 ≥4 学分、研究生 ≥2 学分。",
+      "drop": "add/drop、退费截止与退学截止按校历分段执行；Fall 2026 长学期退课/退学 10/30/2026 截止，Spring 2027 为 3/26/2027，8 周短学期截止日更早；退课、退学与身份维持先经 Advising 与学籍办公室，逾期按校规处理。",
+      "ins1": "计划与承保：UT System Student Health Insurance Plan（UT SHIP，AcademicBlue），承保方 Blue Cross Blue Shield of Texas（BCBSTX），经办方 Academic HealthPlans（AHP），学生门户 utpb.myahpcare.com。",
+      "ins2": "强制与自动加入：持非移民签证的国际生强制入保以完成注册；健康机构与医学类学生为 hard waiver，注册时自动入保；未提交并获批 waiver 的国内学生同样自动入保并随学费账户计费。保费计入学费账单；入保后经 utpb.myahpcare.com 账户取会员号与电子卡；国际生、护理与 ELP 学生由校方自动注册，无需自行在线入保。",
+      "ins3": "豁免 waiver：在线经 AHP 门户提交审批。在线入保期 Fall 6/1/2026–9/16/2026、Spring 11/1/2026–2/9/2027、Summer 4/1/2027–6/15/2027；waiver 窗口 Fall 7/14/2026–9/8/2026、Spring 11/2/2026–1/22/2027、Summer 4/4/2027–6/14/2027，逾期不受理。国际生替代计划须 ACA/PPACA 合规：无既往症排除、预防保健 100% 覆盖、单次免赔 ≤$500、共保 ≤25%、医疗转运 ≥$50,000、遗体遣返 ≥$25,000；短期有限期限计划与专为国际生/非移民设计的计划不接受；豁免计划不含转运/遣返者将自动加购 AES 并计费。",
+      "clinic": "基础门诊签约 Trinity Family Medicine，6100 Eastridge Road, Odessa；周一至周五 8:00–17:00；432-272-1072；缴清 Medical Services Fee（至少注册一门面授课程）的学生可预约面诊或远程问诊，现场出示 UTPB 学生 ID 与另一份证件，基础门诊覆盖且无 co-pay。心理咨询在 MB Room 4178；432-552-3365；wellness@utpb.edu；另配 24/7 TimelyCare；心理危机拨 432-552-3365 转 2，校园内可联络校警。",
+      "commute": "主校区 4901 E University Blvd, Odessa TX 79762；Midland 分点 11105 W Hwy 191, Midland TX 79705，两城相距约 15 mi。Midland Campus Shuttle 从 Parker Ranch House（PRH）与 VA 发车接驳 Midland 校区，周一、周三及另定工作日按时刻表往返；跨城通勤另乘 EZ-Connect。",
+      "scene": "校园位于二叠纪盆地油气经济带，Odessa–Midland 都会区连片；本科与研究生项目并重，Falcon 体育、学生组织与 Wagner Noël 表演艺术中心构成主要活动场景；油区实习、能源与工程类项目对接本地产业，国际学生活动经 Global 学生办公室组织。",
+      "safety": "UTPB Police Department 校园巡逻 24/7/365，校园内紧急电话 2911（432-552-2911），非紧急 432-552-2786；即时危险拨 911；AYUDA 支持线 432-552-4357，ayuda@utpb.edu；夜间巡逻、护送与 blue-light 渠道见校警当期页面。",
+      "transit": "城市公交 EZ Rider（Midland Odessa Urban Transit District）固定线覆盖 Odessa 与 Midland，EZ-Connect 跨城通勤；成人单程 $1.25，学生/青少年 $1.00，全日票 $3.00；周一至周五 6:15–19:10，周六 8:15–16:10，节假日停运。就近机场 MAF（Midland International Air & Space Port）。",
+      "rentnote": "校内住宿含 Residence & Dining Hall（RDH）、Falcon House、Parker Ranch House；住房办公室 RDH 107, 3900 Circle UTPB, Odessa TX 79762，432-552-2745，housing@utpb.edu。校外可在 Odessa 城区或 Midland 片区租房，双城公交衔接；本页不列固定房租数字，按邮编与公寓挂牌价查询，签约前核对押金、水电网杂费、停车与解约条款。",
+      "link": {
+        "cal": [
+          "https://www.utpb.edu/academics/academic-calendar/",
+          "校历（Academic Calendar）"
+        ],
+        "ins": [
+          "https://utpb.myahpcare.com/enrollment",
+          "UT SHIP 入保与福利（AHP）"
+        ],
+        "clinic": [
+          "https://www.utpb.edu/life-at-utpb/health-and-wellness/health-services/medical-services/",
+          "学生医疗服务"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/rate-tables/",
+          "得州税率查询（Comptroller）"
+        ]
+      }
+    },
+    "sfasu": {
+      "short": "斯蒂芬奥斯汀州立大学（Stephen F. Austin State University，SFA）",
+      "place": "纳科多奇斯（Nacogdoches），1936 North St",
+      "cityKey": "nacogdoches",
+      "calShort": "学期制（semester，含 Fall I/Fall II、Spring I/Spring II 短学期与夏季学期）",
+      "calendar": "Fall 2026 全学期：8/18 缴费截止，8/20 教师报到，8/24 周一开课，8/27 免审批注册截止，9/10 census，11/9 退课/退学 W 截止，12/7–9 dead week，12/10–15 期末考试，12/15 最后上课日，12/17 中午成绩截止，12/18 毕业典礼。Spring 2027 全学期：1/13 缴费截止，1/15 教师报到，1/18 MLK 假日，1/20 周三开课，1/22 免审批注册截止，2/3 census，3/15–19 春假，4/12 退课/退学 W 截止，5/3 dead week，5/10 期末考试，5/13 最后上课日，5/17 中午成绩截止，5/13–14 毕业典礼。短学期、夏季学期与各科截止日以 Registrar 当期 Academic Calendar 为准。",
+      "fulltime": "长学期全日制：F-1 本科 ≥12 学分（面授 ≥9 学分）、研究生 ≥9 学分（面授 ≥6 学分）；低于全日制须先经 OIP 批准 Reduced Course Load（RCL）并更新 SEVIS，未获授权先退课视为失身份。",
+      "drop": "add/drop 与退课节点按所在学期校历：Fall 2026 census 为 9/10，W 截止 11/9；Spring 2027 census 为 2/3，W 截止 4/12。退款比例、W 记录与学费责任以 Student Accounts 当期口径为准；国际生退课后若低于全职学分，须先取得 OIP 的 RCL 批准。",
+      "ins1": "UT System Student Health Insurance Program（UT-SHIP），承保方 Blue Cross Blue Shield of Texas（BCBSTX），经办方 Academic Health Plans（AHP）；学生门户 sfasu.myahpcare.com。",
+      "ins2": "强制与自动加入：F-1/J-1 学生按 UT System Rule 50402 自动注册 UT-SHIP，保费计入 eBill 学生账单；2026–27 单人保费 Fall 2026 $1,412、Spring/summer 2027 $2,295（照官网原文）。入保后在 AHP 门户建立账户、取会员号，再注册 BCBSTX 账户领取电子保险卡。",
+      "ins3": "豁免 waiver：Fall 2026 窗口 7/28/2026–9/28/2026；Spring/summer 2027 窗口 12/1/2026–2/1/2027；Summer Only 新生窗口 5/1/2027–5/29/2027。豁免仅对申请当学期有效，每学期须重新提交；校队体育保险符合条件者可豁免。备选计划须满足 ACA 基本福利、含医疗转运与遗体遣返；材料为保险卡正反面与保单福利页、免责页；OIP 不审批备选保单取舍，审批由 AHP 完成。",
+      "clinic": "Health and Wellness Hub（Tucker Building，E College St 与 Raguet 街角）：周一至周五 7:00–18:00，电话 936.468.4482（4HUB），邮箱 thehub@sfasu.edu，经 mySFA 患者门户预约，急症可 walk-in；下班后就医去 Nacogdoches Medical Center、Nacogdoches Memorial Hospital 或 urgent care；危机拨 911，另有 24/7 心理热线（号码以 Hub 当期公布为准）。",
+      "commute": "校内通勤靠 Jack Track 校园班车：日间线周一至周五 7:30–16:00 接 Hall 20 停车场、Steen Library、Cole STEM；护理班车工作日由 Baker Pattillo Student Center 发往 DeWitt School of Nursing；Walmart 班车周五下午与每月第一、三周周日开行。校外出行以自驾为主，城市固定线路以 Nacogdoches 当期交通公告为准。",
+      "scene": "校园坐落在东得州 Piney Woods 林区小城，主轴沿 North St 与 Baker Pattillo Student Center 一带；200+ 注册学生组织，Involvement Center 设在学生中心三层，每学期第二个周四有招新博览会；校队 SFA Lumberjacks/Ladyjacks 参与 NCAA 赛事，另有 FSL 希腊生活、SGA 与传统活动构成主要社交场景。",
+      "safety": "SFA University Police Department（UPD）：紧急 936.468.9111（校园电话拨 911），非紧急 936.468.2608，行政 936.468.2607，应急管理 936.468.1667，邮箱 police@sfasu.edu；手机拨 911 由 Nacogdoches PD 转接校警；夜间出行结伴、走照明路段，班车收班后打车更稳妥。",
+      "transit": "机场量级：IAH（休斯敦乔治布什洲际）、SHV（Shreveport Regional）、TYR（Tyler Pounds Regional）三向均为一至两小时地面量级；航班与地面衔接以当期机场和租车/网约车渠道为准，官网未公布精确里程。",
+      "rentnote": "新生按校规强制住校；校内含 Griffith、Hall 14、Kerr、Lumberjack Landing、Lumberjack Lodge、Lumberjack Village 1/2/3、Steen、Wisely（Honors）等宿舍，申请费 $100，经 Residence Life Portal 办理；研究生与走读生多在校外租房，租金按邮编与公寓挂牌价查询，本页不写固定数字。",
+      "link": {
+        "cal": [
+          "https://www.sfasu.edu/registrar/about/calendars",
+          "校历（Registrar）"
+        ],
+        "ins": [
+          "https://www.sfasu.edu/international/current-students/insurance",
+          "国际学生健康保险"
+        ],
+        "ahp": [
+          "https://sfasu.myahpcare.com/enrollment",
+          "AHP 保险门户"
+        ],
+        "clinic": [
+          "https://www.sfasu.edu/thehub/health-clinic",
+          "Health and Wellness Hub"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/city.php",
+          "得州销售税地方税率表"
+        ]
+      }
+    },
+    "ttuhsc": {
+      "short": "得州理工大学健康科学中心（Texas Tech University Health Sciences Center，TTUHSC）",
+      "place": "拉伯克（Lubbock），3601 4th St",
+      "cityKey": "lubbock",
+      "calShort": "学期制（Fall / Spring / Summer），六大学院各自排课；生物医学研究生院（GSBS）秋、春长学期另设夏季学期",
+      "calendar": "GSBS 口径：Fall 2026 于 8/24/2026 开课，9/9/2026 为第 12 教学日（census），12/4/2026 结课，期末 12/7–12/11/2026，学期 12/11/2026 结束；Spring 2027 于 1/11/2027 开课，1/27/2027 为 census，4/30/2027 结课，期末 5/3–5/7/2027，学期 5/7/2027 结束。医学、护理、药学、健康职业与公共卫生学院按本院 Registrar 当期 Academic Calendar 排课，各段退课（W）截止日以所在学院日历为准。",
+      "fulltime": "研究生项目按所在学院与 GSBS 的全日制注册学分要求执行；国际生减修、暂停注册须经国际学生管理部门（Student Life / OISS）批准。住院医（resident）、fellow 与博士后属医学院 GME 雇员口径，不按学生 SHIP 注册，也不适用学生学分线。",
+      "drop": "add/drop、退课（W）与退学截止按所在学院当期校历；休学（Leave of Absence）先联系项目主任与 Student Life 审批；临床轮转学生退课或离开轮转还须经临床培训主管同意；逾期按校规与项目政策处理。",
+      "ins1": "计划与承保：TTUHSC 学生健康保险计划（SHIP，AcademicBlue），承保方 Blue Cross Blue Shield of Texas（BCBSTX），经办方 Academic HealthPlans（AHP），学生门户 ttuhsc.myahpcare.com。住院医/fellow 另走医学院 GME 雇员团体健康、牙科与视力计划，不在学生 SHIP 之内。",
+      "ins2": "强制与自动加入：OP 77.19 要求全体在读学生（100% 远程项目除外）持续持 ACA 合规健康保险；OP 77.03 要求 F-1 学生以入保为注册条件。未获批 waiver 的学生自动加入 SHIP，保费随学费账单扣缴；入保后在 AHP 门户取会员号并领取电子保险卡；配偶/家属须先缴清 SHIP 费再在门户加保，Fall 2026 家属加保截止 10/2/2026。",
+      "ins3": "豁免 waiver：在线经 AHP 门户提交并逐学期审批。Fall 2026 注册与豁免窗口 6/15/2026–10/2/2026（医学院三、四年级为 4/13/2026–10/2/2026）；Spring/Summer 2027 注册入保期 11/2/2026–1/29/2027， waiver 截止以 AHP 门户当期公告为准；夏季新生（不含医学院、药学院）窗口 4/5/2027–6/11/2027。F-1 学生仅雇员/父母/配偶美国雇主团体计划可豁免，须先邮件预约 keri.shiplet@ttuhsc.edu；短期险、旅行险、健康共享与报销返还式计划不接受；豁免未获批则账户留置，影响下一学期注册与毕业。",
+      "clinic": "Counseling Center，Room 1A300, 3601 4th St, Lubbock TX 79430；806-743-1327；counselingcenter@ttuhsc.edu。学生医疗通过 TTUHSC 院区门诊与 TTU 学生健康服务体系预约；心理危机可拨 988。门诊时段与预约方式以 Student Life 当期页面为准。",
+      "commute": "旗舰主校区 3601 4th St, Lubbock TX 79430；另设 Abilene、Amarillo、Midland、Odessa、Dallas、Mansfield 分点。Lubbock 主校区与 Texas Tech 主校区相邻；跨分点行程按项目轮转与临床实习安排，轮转期间住宿由项目通知。",
+      "scene": "健康科学导向，六大学院为 School of Medicine、School of Nursing、School of Health Professions、Jerry H. Hodge School of Pharmacy、Graduate School of Biomedical Sciences、Julia Jones Matthews School of Population and Public Health；校园活动以研究、临床见习、GME 培养和各学院专业学会为主，没有传统本科通识社团文化；学生组织按学院与项目分布，经 Student Life 与各学院办公室招新。",
+      "safety": "Texas Tech Police Department（TTPD）同时巡逻 TTU 与 TTUHSC 片区；即时危险拨 911；非紧急 806-742-3931；HSC Lubbock 站点位于 RM BA104, 3601 4th St，非紧急 806-743-2000；夜间护送与 blue-light 呼叫渠道见 TTPD 当期页面。",
+      "transit": "Lubbock 城市公交 Citibus 覆盖 TTU/HSC 片区（线路、班次与学生票政策以 Lubbock 城市公交页面为准）；就近机场为 LBB（Lubbock Preston Smith International Airport）；各分点之间的跨城交通按项目轮转安排或自驾衔接。",
+      "rentnote": "TTUHSC 不设面向健康科学学生的传统宿舍，学生多数在校外自租；可申请 TTU 校内宿舍，名额与资格以 TTU Housing 当期规则为准。校外房源按邮编与公寓挂牌价查询，本页不列固定房租数字，签约前核对押金、水电网杂费、停车与解约条款。",
+      "link": {
+        "cal": [
+          "https://www.ttuhsc.edu/biomedical-sciences/academic-calendar",
+          "GSBS 校历（Academic Calendar）"
+        ],
+        "ins": [
+          "https://www.ttuhsc.edu/student-life/health-insurance.aspx",
+          "学生健康保险（Student Life）"
+        ],
+        "clinic": [
+          "https://blog.ttuhsc.edu/international/pre-arrival-guide.aspx",
+          "国际生预抵达指南（Student Life）"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/rate-tables/",
+          "得州税率查询（Comptroller）"
+        ]
+      }
+    },
+    "ttu": {
+      "short": "德州理工大学（Texas Tech University，TTU）",
+      "place": "得州·拉伯克（Lubbock, TX），2500 Broadway, Lubbock, TX 79409",
+      "cityKey": "lubbock",
+      "calShort": "两学期制（秋/春）加 Summer I/II；秋季 8 月下旬开学、12 月初结束，春季 1 月中旬开学、5 月初结束。",
+      "calendar": "Fall 2026：2026-08-24 开课，2026-12-02 最后上课日，期末考试 2026-12-04 至 2026-12-09，毕业典礼 2026-12-11 至 2026-12-12；Spring 2027：2027-01-13 开课，2027-05-04 最后上课日，期末考试 2027-05-06 至 2027-05-11。",
+      "fulltime": "持非移民签证注册 1 个及以上学分的国际学生即被要求持有学生医保；学籍与全日制口径按 SEVIS 与 TTU 注册要求执行。",
+      "drop": "退课/退学截止按 2026-2027 官方校历标注；Spring 2027 学生主动退课（计退课上限）与退学截止为 2027-02-25；秋季对应截止日见官方校历与 MyTech 标注。",
+      "ins1": "计划名与承保方：Texas Tech University System Student Health Insurance Plan（PPO 学生医保），由 Blue Cross Blue Shield of Texas 承保，Academic HealthPlans（AHP）经办。是否自动加入与凭证：注册 1 学分及以上的非移民签证国际学生自动加入计划，保费计入学费账户；提交并获批替代保险证明后方可豁免；保险卡经 BCBSTX App（Blue Access for Members）与 AHP 账户领取。豁免窗口与条件：秋季 2026-06-18 至 2026-09-18；春/夏 2026-11-20 至 2027-02-19；仅夏季 2027-04-30 至 2027-06-17。替代保险须达到或超过 TTU 国际学生要求（含既往症接受、必要健康福利、最低价值比例、医疗转运/遣返等），旅行险、短期险、先自付后报销类计划不予受理；须在对应窗口内于 AHP 系统提交 waiver 并获批。",
+      "ins2": "计划名与承保方：自愿牙科保险（BCBSTX Adult Dental Plan），承保方 Blue Cross Blue Shield of Texas，AHP 经办。是否自动加入与凭证：非强制、不自动加入，在医保注册期内自愿选购；生效后经 BCBSTX 会员门户领取牙科凭证。豁免窗口与条件：自愿附加险，不参与强制医保豁免，无独立 waiver 窗口。",
+      "ins3": "计划名与承保方：自愿视力保险（BCBSTX Adult Vision Plan / Academic Vision Care 视力福利），承保方 Blue Cross Blue Shield of Texas，AHP 经办。是否自动加入与凭证：非强制、不自动加入，随医保自愿加保；生效后经 BCBSTX App 与 AVC 账户领取视力凭证。豁免窗口与条件：自愿附加险，无 waiver 窗口，不适用强制豁免。",
+      "clinic": "Student Health Services，Student Wellness Center 一层，1003 Flint Avenue（Flint 与 Main 交口），Lubbock, TX 79409；电话 806.743.2848；门诊周一至周四 8:00–12:30、13:00–17:30，周五 8:00–12:00；内设化验室、X光与零售药房。",
+      "commute": "主校位于 2500 Broadway / 15th St 一带，城区中部；无轨道交通，以驾车、校方校区巴士与 Citibus 为主；最近机场 LBB，在市区以北、距校区约 6 mi 量级。",
+      "scene": "Raiderland 校园氛围，红砖西班牙文艺复兴风格建筑群；以工程、Rawls 商科、农业与自然资源、法学、医学预科相关方向、大众传播、建筑见长。注意：Texas Tech University Health Sciences Center（Lubbock）与 Health Sciences Center El Paso 为独立机构，不与本校混同。",
+      "safety": "Texas Tech Police Department（TTPD），413 Flint Avenue，24 小时执法与安保；紧急 911，非紧急 806.742.3931；夜间可使用 Raider Ride 按需接送。",
+      "transit": "Citibus（官网 https://citibus.com），Red Raider、Double T 等线路经校园，持 TTU ID 可免费乘坐任意 Citibus 线路；校区巴士白天服务住宿区与通勤停车场；Raider Ride 夜间 18:00–次日 02:45（TechRide App）；Citibus On-Demand 7:00–23:00。",
+      "rentnote": "校内提供传统宿舍、Pod、Studio、套房与公寓多种类型；校外房源集中在 Overton、Tech Terrace、North Indiana 等校园周边片区；Lubbock 生活成本低于大城市，租金区间整体可控，随户型/学期浮动，以当期挂牌为准。",
+      "link": {
+        "cal": "https://www.depts.ttu.edu/officialpublications/calendar/26-27_cal_detailed.php",
+        "ins": "https://ttuintl.myahpcare.com",
+        "police": "https://www.depts.ttu.edu/ttpd/",
+        "housing": "https://www.depts.ttu.edu/housing/",
+        "clinic": "https://www.depts.ttu.edu/studenthealth/schedule/index.php"
+      }
+    },
+    "tamiu": {
+      "short": "德州农工国际大学（Texas A&M International University，TAMIU）",
+      "place": "得州·拉雷多（Laredo, TX），5201 University Boulevard, Laredo, TX 78041",
+      "cityKey": "laredo",
+      "calShort": "两学期制（秋/春），秋季 8 月下旬开学、12 月初结束，春季 1 月中旬开学；每学期分 7 周 Sub-Term I/II，另设夏季学期。",
+      "calendar": "Fall 2026：2026-08-24 开课，2026-12-01 最后上课日，2026-12-02 起期末考试；Spring 2027：2027-01-19（Sub-Term I）开课；完整日程见官网 Academic Calendar。",
+      "fulltime": "持 F-1 签证须按 SEVIS 要求全日制注册并保持在校学籍；身份或学籍状态变动须立即向国际学生顾问报告。",
+      "drop": "退课/退学截止按校历分 Sub-Term 执行：Fall 2026 Sub-Term I 退课/退学截止 2026-10-01，Sub-Term II 截止 2026-12-03；Spring 2027 Sub-Term I 截止 2027-02-25。",
+      "ins1": "计划名与承保方：AcademicBlue℠ Student Health Plan（学生医保），由 Blue Cross Blue Shield of Texas 承保，Academic HealthPlans（AHP）经办。是否自动加入与凭证：F-1/J-1 学生由学校自动加入计划，保费计入学费账单；注册后经 AHP 账户与 BCBS App（Blue Access for Members）下载电子保险卡。豁免窗口与条件：春/夏学期豁免窗口为 2026-12-07 至 2027-02-01；自行保险须满足 Texas A&M 系统要求（含既往症接受、必要健康福利、医疗转运与遣返等），在 AHP 豁免系统内在线提交 waiver 并获批准；秋季学期豁免在 AHP 系统当期开放窗口内提交，豁免条件同一套系统标准。",
+      "ins2": "计划名与承保方：自愿牙科保险（BCBSTX Adult Dental Plan），承保方 Blue Cross Blue Shield of Texas，AHP 经办。是否自动加入与凭证：非强制、不自动加入，学生在医保注册期内自愿选购；投保确认后经 BCBSTX 会员门户领取牙科保险凭证。豁免窗口与条件：属自愿附加险，不参与强制医保豁免，无独立 waiver 窗口。",
+      "ins3": "计划名与承保方：自愿视力保险（BCBSTX Adult Vision Plan / Academic Vision Care 视力福利），承保方 Blue Cross Blue Shield of Texas，AHP 经办。是否自动加入与凭证：非强制、不自动加入，随医保注册自愿加保；生效后经 BCBSTX App 与 AVC 账户领取视力保险凭证。豁免窗口与条件：属自愿附加险，无 waiver 窗口，不适用强制豁免。",
+      "clinic": "Student Health Services，Student Center 125；电话 956.326.2235，传真 956.326.2234；在校学生免费接种流感疫苗，结核皮试（TB skin test）预约收费 15 美元，注射后 48 小时需复诊读数。",
+      "commute": "校园位于 Laredo 西北侧 5201 University Boulevard，不在市中心；无轨道交通，通勤以驾车与 El Metro 公交为主；最近机场 LRD，距校园数英里量级。",
+      "scene": "A&M 系统内以西英双语教育、国际商务与贸易物流、边防与刑事司法、教育学、护理学见长；校园为 DustyDust 社区氛围，紧邻边境双语生活圈。",
+      "safety": "校内设 24/7 警察部门（TAMIU UPD），提供校园护送；SafeZone App 可一键连线警方并共享位置；紧急拨 911；年度 Clery 安保与消防报告在校内公布。",
+      "transit": "市内公交 El Metro（官网 https://www.elmetrotransit.com ，咨询 956.795.2280），12B Shiloh Express 等线路经停 TAMIU 方向；无轨交；跨城出行依赖驾车、城际巴士或 LRD 航班。",
+      "rentnote": "校内住宿为 Residential Learning Community（RLC）与 University Village；校外公寓沿 University Blvd 及北部社区分布，Laredo 物价低于大城市，租金区间整体偏低，随户型/学期浮动，以当期挂牌为准。",
+      "link": {
+        "cal": "https://www.tamiu.edu/academiccalendar/",
+        "ins": "https://tamiu.myahpcare.com",
+        "reg": "https://go.tamiu.edu/registration",
+        "police": "https://www.tamiu.edu/StudentConsumerInformation.shtml",
+        "housing": "https://housing.tamiu.edu/"
+      }
+    },
+    "tamuk": {
+      "short": "得州农工大学金斯维尔分校（Texas A&M University–Kingsville，TAMUK）",
+      "place": "得州 Kingsville（Kleberg 县，南得州墨西哥湾沿岸平原），700 University Boulevard, Kingsville, TX 78363-8202；Texas A&M University System 独立门户大学，以工程、农业与自然资源、野生动物研究见长；主校区在 Kingsville 西北侧；Citrus Center 位于 Weslaco（312 N. International Blvd, Weslaco, TX 78599）。",
+      "cityKey": "kingsville",
+      "calShort": "学期制（Fall/Spring 各 16 周 + 两段 8 周；夏季两个 5 周短学期）",
+      "calendar": "Fall 2026：16 周学期 8 月下旬开课；第一 8 周退课截止 2026-09-22，16 周退课截止 2026-10-27，第二 8 周退课截止 2026-11-20；期末考周 2026-12-04 至 2026-12-10（第一 8 周 2026-10-13/14，第二 8 周 2026-12-09/10）。Spring 2027：1 月中旬开课；第一 8 周退课截止 2027-01-27，第二 8 周退课截止 2027-03-29；期末考周 2027-05-07 至 2027-05-13。夏季两个 5 周学期 6 月初至 8 月初，10 周与 8 周段另有安排；各段具体开课日以 registrar 动态校历为准。",
+      "fulltime": "全日制口径：本科每学期 12 学分起、研究生 9 学分起，按 registrar 与 ICE 的 F-1 全日制标准执行；在线课比例与 reduced course load 须经 OISSS 事先审批。",
+      "drop": "退课与全校退学由学生本人在 Blue and Gold Connection 发起；Fall 2026 各段截止日如上表；超过截止日的退课成绩与退费按 registrar 政策执行；转入学分由 Admissions 与 Registrar 按转学指南认定。",
+      "ins1": "Texas A&M University System Student Health Insurance Plan（SSHIP）— AcademicBlue Student Health Plan，Blue Cross and Blue Shield of Texas 承保，Academic HealthPlans（AHP）管理；系统政策 26.99.01，计划面向系统各校统一设计，TAMUK 在独立门户出单，2026–2027 计划年。",
+      "ins2": "F-1/J-1（含英语语言中心 ESLI 学生）在校期间须连续持有获批保险；自动加入 SSHIP 并计入学费账单；J-2 家属按美国国务院规定投保；保险卡经 AHP/BCBSTX 门户获取；家属可另购 dependent 保障。",
+      "ins3": "豁免仅限国际学生：Spring/Summer 窗口 2026-12-07 至 2027-02-01；Fall 2026 豁免截止 2026-09-07（门户开放起始日以 AHP 当期通知为准）。自备保单须满足 ACA 要求并含医疗疏散与遗体遣返：每次事故/疾病医疗给付至少 $100,000，医疗疏散至少 $50,000，遗体遣返至少 $25,000；仅缺疏散/遣返条款者可向 AHP 加购补充保障，门户获批后保费方可免除或退还。",
+      "clinic": "Student Health and Wellness（SHW），1210 N. Retama Street, Health and Wellness Building，总机 361-593-3991；Javelina Health Clinic 361-239-0600，Counseling Services 361-593-5080，DRC 361-593-3024，Wellness Program 361-593-3499；周一至周五 8:00–17:00，诊所 12:00–13:00 午休。课后及周末危机拨 Coastal Plains MHMR 1-800-841-6467 或 UPD 361-593-2611；急症 911，最近医院 CHRISTUS Spohn Kleberg Memorial Hospital，361-595-1661。",
+      "commute": "主校区在 Kingsville 西北侧，Santa Gertrudis Ave 与 University Blvd 一带；小城内部以步行、自行车或短途自驾为主；无轨道交通，公交不进 Kleberg 县；去 Corpus Christi 约 40 mi，经 US-77 向北车程约 45–60 分钟量级。",
+      "scene": "历史棕榈大道校园与红瓦建筑；Frank H. Dotterweich 工程学院（1936 年起，ABET 认证专业）、Dick and Mary Lewis Kleberg 农业与自然资源学院；Caesar Kleberg Wildlife Research Institute 与野生动物中心、John E. Conner Museum；校队 Javelinas，参加 NCAA DII Lone Star Conference。",
+      "safety": "University Police Department（UPD）：非紧急 361-593-2611，紧急 911；Kingsville Police Department 361-592-4311，Kingsville Fire 361-592-6445；Dean of Students 361-593-3606；校园巡护、夜间护送与 Clery 报告经 UPD 办理。",
+      "transit": "Kingsville 无城市公交；Corpus Christi 的 RTA（The B）只服务 Nueces 与 San Patricio 县，不覆盖 Kleberg 县校园；跨城出行靠自驾、Greyhound（终到 Kingsville）或 Kleberg County 的 Paisano Transit 预约接送（361-595-8572，Transportation 部门）；无轨道交通。",
+      "rentnote": "校内宿舍分 Martin、Lynch、Lucio、Mesquite Village West 四类套房，住校且 21 岁以下须购餐计划；校外为 Kingsville 小城公寓与独栋，房源有限；租金按当期挂牌，本表不列固定月租。",
+      "link": {
+        "cal": [
+          "https://catalog.tamuk.edu/graduate/academic-calendar/",
+          "https://www.tamuk.edu/registrar/RGAD_ACADEMICPROCEDURES/Drops-and-Withdrawals.html"
+        ],
+        "ins": [
+          "https://tamuk.myahpcare.com/",
+          "https://tamuk.myahpcare.com/waiver?lang=en"
+        ],
+        "reg": [
+          "https://tamuk.edu/academicaffairssupport/oisss/new_students/ComingToKingsville.html"
+        ],
+        "police": [
+          "https://www.tamuk.edu/UPD/crime-prevention.html"
+        ],
+        "housing": [
+          "https://www.tamuk.edu/housing/rates.html",
+          "https://www.tamuk.edu/housing/meal-plan.html"
+        ]
+      }
+    },
+    "tamuct": {
+      "short": "中得克萨斯农工大学（Texas A&M University–Central Texas, A&M–Central Texas / TAMUCT）",
+      "place": "得州 Killeen（Bell 县，Central Texas），1001 Leadership Place, Killeen, TX 76549；Texas A&M University System 内的上部分校（upper-level），本科以转学生为主，面向在职成人、退役军人及军人家属，课程大量安排在晚间、线上与混合时段；另有 East Williamson County Higher Education Center（EWCHEC）分点。",
+      "cityKey": "killeen",
+      "calShort": "学期制（16 周常规学期 + 两段 8 周加速学期；夏季含 5/8/10 周短学期）",
+      "calendar": "Fall 2026：2026-08-24 开课；第二段 8 周课程 2026-10-19 开课；2026-11-27 16 周与第二 8 周课程结束调查开放；2026-12-11 秋季学期结束。注册截止 2026-08-28，缴费截止 2026-08-21；第二 8 周注册截止 2026-10-23、缴费截止 2026-10-16。Spring 2027：2027-01-19 开课；第一 8 周 2027-03-12 结束；2027-05-14 春季学期结束。Summer 2027：2027-06-01 第一 5/10/8 周开课；8 周课程 2027-07-23 结束；10 周与第二 5 周 2027-08-06 结束。各段退课截止与期末考安排以 registrar 动态校历为准。",
+      "fulltime": "全日制口径：本科每学期 12 学分起、研究生 9 学分起，按学校 registrar 与 ICE 的 F-1 全日制标准执行；加速 8 周课程按分段学期合并认定学分； reduced course load 须经国际生办公室事先审批。",
+      "drop": "Census Day 之后退课计入德州六门退课上限（TEC 51.907）；各段退 W 截止日与全校退学流程以 registrar 校历和学生政策为准；转入学分由 Transfer Central 按转学指南认定。",
+      "ins1": "Texas A&M University System Student Health Insurance Plan（System SHIP / SSHIP）— AcademicBlue Student Health Plan，Blue Cross and Blue Shield of Texas 承保，Academic HealthPlans（AHP）管理，2026–2027 计划年；A&M 系统各校同一计划设计，TAMUCT 在 AHP 独立门户出单，不套用 College Station 校区账单口径。",
+      "ins2": "F-1/J-1 学生在校期间须连续持有获批保险；由校方自动加入 SHIP 并 bursar billed 计入学费账单；保险卡经 AHP/BCBSTX 门户获取，家属可另购 dependent 保障。自愿投保口径：本科至少 9 学分、研究生（非受雇）至少 5 学分，每春秋学期由 registrar 按学籍核对学分。",
+      "ins3": "豁免仅限国际学生：Spring/Summer 窗口 2026-12-07 至 2027-02-01；Fall 2026 豁免截止 2026-09-07（门户开放起始日以 AHP 当期通知为准）。自备保单须同时满足 ACA 要求与医疗疏散、遗体遣返条款：每次事故/疾病医疗给付至少 $100,000，医疗疏散至少 $50,000，遗体遣返至少 $25,000；J 签证及家属标准另计；若仅缺疏散/遣返条款，可向 AHP 加购补充保障，门户获批后保费方可免除或退还。",
+      "clinic": "校内无常驻医疗诊所。Student Wellness & Counseling Center，Warrior Hall 207L，周一至周五 8:00–17:00，预约 254.501.5955，在读学生每周一次以内咨询不另收费；Community Counseling and Family Therapy Center，Warrior Hall 207，周一至周四 10:00–19:00，联系方式见中心公示页。普通就医走 Killeen 本地私人诊所或 urgent care；急症拨 911；Baylor Scott & White Medical Center，2401 S. 31st St, Temple, TX 76508，254-724-2111；保险理赔凭证经 AHP/BCBSTX 门户下载。",
+      "commute": "校园在 Killeen 城西 Leadership Place 一带，邻近 US 190；通勤圈为 Killeen–Harker Heights–Copperas Cove 三联市，跨城自驾为主；校区紧邻 Fort Cavazos（原 Fort Hood）大型陆军基地，基地为门禁管理区域，民用校园不依赖基地通行。",
+      "scene": "现代园区由 Founders Hall、Warrior Hall 与 CORE 楼等组成；学生群体中转学生、在职成人、现役军人、退役军人及军人家属比例高；Blue Coat Ambassadors 每周二早咖啡提供迎新导览；学校无传统 NCAA 校队，晚间与线上课程氛围突出。",
+      "safety": "University Police Department（UPD）：办公室 Founders Hall FH 104B / FH 103，254.501.5805，传真 254.501.5806；非紧急 254.501.5800；Clery 合规协调 254.501.5802，clerycompliance@tamuct.edu；紧急拨 911。本地协作警局：Killeen PD 254.501.8830，Copperas Cove PD 254.547.8222，Harker Heights PD 254.953.5420。",
+      "transit": "无轨道交通。Hill Country Transit District（The HOP）在 Killeen–Copperas Cove–Harker Heights 片区运营 microtransit，周一至周五 6:00–20:00，单程 $2.00，学生、军人等凭证半价；另有衔接 Temple–Belton 的 Regional Commuter 线路，客服 254.933.3700；无固定线路直达校园门口，其余出行靠自驾、Uber/Lyft、出租车或搭车，机场无校方接驳。",
+      "rentnote": "TAMUCT 不设校内宿舍，学生全部在 Killeen、Harker Heights、Copperas Cove 三联市校外租房；军人及家属房源渠道较多；校外房源与租金按地段、户型差异较大，本表不列固定月租，以当期挂牌为准。",
+      "link": {
+        "cal": [
+          "https://www.tamuct.edu/academic-calendars/",
+          "https://catalog.tamuct.edu/undergraduate_catalog/general-information/academic20calendars20and20final20exam20schedule/",
+          "https://www.tamuct.edu/academics/registrars-office-2/"
+        ],
+        "ins": [
+          "https://tamuct.myahpcare.com/",
+          "https://tamuct.myahpcare.com/enrollment?lang=en",
+          "https://tamuct.myahpcare.com/waiver?lang=en"
+        ],
+        "reg": [
+          "https://www.tamuct.edu/admissions/international/",
+          "https://www.tamuct.edu/admissions/international/health-insurance-immunizations/"
+        ],
+        "police": [
+          "https://www.tamuct.edu/police/campussecurityauthority.html"
+        ]
+      }
+    },
+    "shsu": {
+      "short": "山姆休斯顿州立大学（Sam Houston State University，SHSU）",
+      "place": "得州·亨茨维尔（Huntsville, TX），主校区 1905 University Avenue, Huntsville, TX 77340；总机 936-294-1111，toll-free 866-BEARKAT；综合大学，本科、研究生与专业学院并设，刑事司法学院为全国老牌旗舰，另设 Gordy College of Osteopathic Medicine。",
+      "cityKey": "huntsville",
+      "calShort": "学期制（semester）；Full Term 15 周，另有 7A/7B、5A/5B/5C 与夏季短学期；2026 秋 8/19 开课",
+      "calendar": "学期制（semester），本科为主并开设研究生、专业与证书项目。学年分秋、春、夏三季；Full Term 15 周，7A/7B 各 7.5 周，5A/5B/5C 各 5 周；夏季含 Mini 3 周、Full 10 周、Summer I 与 Summer II 各 5 周。2026 秋 Full Term 首课 8 月 19 日（周三）；Census Day 为第 12 上课日，退课全额退款与 Q-drop 计数均以该日为界；毕业典礼每年 5 月、8 月、12 月三次。各短学期的注册、census 与退课截止日以 Registrar 当期校历为准。",
+      "fulltime": "F-1/J-1 长学期（秋/春）须全职注册：本科 12 学分及以上、研究生 9 学分及以上；夏季研究生 6 学分及以上算全日制。学分上限：本科秋春 19 学分、夏季 14 学分，研究生 12 学分；超限须学院院长批准。F-1 口径：本科注册 12 学分中至少 9 面授、研究项目注册 9 学分中至少 6 面授，网课最多计入 3 学分；担任 GA 者 6 学分可算全日制。低于全职须先经 Global Engagement 的 DSO 批准 Reduced Course Load 并更新 SEVIS，未获授权先退课即视为失身份。",
+      "drop": "Q-drop：在校学业生涯最多退 6 门课；第 12 上课日之前退课不计入 6 门限额；达到 6 门上限后须向 University Registrar 申请批准，被拒须留在该课程（依据 Texas Education Code 51.907）。退费：秋/春 Full Term 与夏季 10 周学期前 12 上课日退课 100% 退款；夏季小学期前 4 天；全校退学按州法分档（首日前 100%、第 1–5 上课日 80%，其后按档递减），具体比例以 Registrar 退费表当期口径为准。国际生退课后若低于全日制，须先取得 DSO 的 RCL 批准。",
+      "ins1": "SHSU Student Health Insurance Plan（SHIP）：Aetna Student Health 承保（Aetna 优选网络），Academic HealthPlans（AHP）管理，hard waiver。按 Student Affairs policy SA-01，在美 F-1/J-1 国际学生强制投保，注册即自动加入、保费计入学期账单；持等效美国政府或雇主资助计划者可提交豁免申请评审。2026–27 国际生单人保费：秋季 $1,088（8/1–12/31/26）、春夏联保 $1,506（1/1–7/31/27）；配偶按学生同价投保；每名子女按学生费率的 2 倍计、子女保费总额封顶。计划福利：网络内个人免赔 $500、家庭 $1,000；个人 OOP 上限 $7,350、家庭 $14,700；门诊挂号 $30 挂号费（免免赔）；急诊 $150（住院则免挂号费）；处方药仿药 $20、优选品牌 $40、非优选品牌 $60；预防保健免免赔。另含 AcademicLiveCare 远程医疗/心理、Academic Vision Care 视力折扣、Academic Emergency Services 紧急撤离与遣返、ASAP 学生援助与 Kindly Human 同伴支持。",
+      "ins2": "保险门户按人群分入口：总入口 shsu.myahpcare.com，本国生、国际生、骨科医学生、PA、护理 BSN 各有独立子站。国际生豁免窗口：2026 秋 07/27/2026–09/13/2026；2027 春/夏 12/11/2026–01/30/2027。自动加入后保费出现在学费账单；在门户注册账户后申领电子保险卡，豁免只能在窗口期在线提交并获批，费用才从账单移除；逾期不受理、不延期。",
+      "ins3": "豁免条件：替代计划须为美国雇主或政府资助计划；个人年自付不超过 $10,600、家庭不超过 $21,200；伤病保障无限额；网络内预防保健 100% 覆盖；无既往症限制；覆盖 ACA 基本福利；计划有美国境内电话；材料须英文、美元标价；医疗撤离不少于 $50,000、遗体遣返不少于 $25,000；豁免须上传保险卡正反面与完整保单；审批结果于 7 个工作日内通知，获批后费用自账单移除；计划不含撤离/遣返时可另行购买 AES 附加。保险咨询 Student Health Services 936-294-1805；SHC 邮箱 shc@shsu.edu。",
+      "clinic": "Student Health Center（SHC）：1608 Avenue J，Avenue J 与 Bearkat Boulevard 路口；电话 936-294-1805，邮箱 shc@shsu.edu；秋春学期周一至周四 8:00–18:00、周五 8:00–17:00，夏季周一至五 8:00–17:00；预约制，提供全科、女性健康、免疫接种与院内 CLIA 实验室。门诊挂号费由每学期 Medical Service Fee 覆盖，化验、处方与部分处置按折扣价另收；SHC 只结算 SHSU 通过 AHP 购买的计划。另配 TimelyCare 24/7 虚拟健康与心理咨询；校园急症拨 911。",
+      "commute": "多校区办学：Huntsville 主校区（I-45 走廊）；The Woodlands Center，3380 College Park Drive, The Woodlands, TX 77384，(936) 202-5000，thewoodlandscenter@shsu.edu，四层 144,000 平方英尺，开设高年级本科（Accounting BBA、Business Administration BBA、Education BS、Nursing BSN）与硕士/博士项目（ABA MA、Counseling MA、School Counseling MEd、Sport Management MS、Special Education MEd、Counselor Education PhD）；Conroe 点：College of Osteopathic Medicine / Health Professions Building，925 City Central Ave., Conroe, TX 77304，Future Health Professions Building 2026 年启用，安排护理、PA、PT、营养师与运动训练项目。Huntsville 本地以步行、骑行与校内停车为主；官网未列固定城市公交线路号，跨城靠 I-45 驾车或网约车。",
+      "scene": "综合大学口径，校园围绕 Lowman Student Center、学术楼与餐饮设施展开；社团、校队 Bearkats、希腊生活、信仰团体与学术专业组织是常见社交入口；刑事司法学院（执法、矫正、司法、被害人服务、法医科学、国土安全）为旗舰特色，骨科医学院在 Conroe 培养面向乡村与医疗不足社区的 DO 医师；国际学生事务经 Global Engagement 对接。",
+      "safety": "Charles W. Tackett University Police Building，2424 Sam Houston Ave.；UPD 非紧急 936-294-1800，警员 24/7 在岗，办公室周一至五 7:30–16:30；紧急拨 911；提供夜间护送与蓝色紧急电话柱。停车：Parking Office 820 Bowers Blvd.，936-294-1800，parking@shsu.edu；ePermit 绑定车牌，两座停车楼与多片车场，支持 ParkMobile 计时付费；EV 充电桩位于 lot 23、lot 55、Coliseum 停车楼与 Conroe 骨科中心。",
+      "transit": "Huntsville 本地交通以校园步行、骑行与停车楼/停车场为主；公开官网未见命名固定公交线路，不标注线路号；对外走廊为 I-45，向北往达拉斯、向南往休斯敦。主用机场 IAH（休斯敦 George Bush Intercontinental），沿 I-45 向南约 60–70 英里量级；备选 CLL（Easterwood Airport，College Station），American Eagle 衔接 DFW；固定里程与时刻以当期导航和航司班次为准。",
+      "rentnote": "高中毕业一年内入学的一年级新生强制住校并购买大学餐计划（秋季与春季）；住校公寓（Bearkat Village、Campus Edge、Copper Village、San Jacinto Studios）餐计划口径不同。校外公寓多为 9 或 12 个月租约；本页不给固定数字，按邮编查当期挂牌价，核对押金、水电网、停车、通勤距离与租约条款。",
+      "link": {
+        "cal": [
+          "https://www.shsu.edu/dept/registrar/calendars/academic-calendar.html",
+          "SHSU 校历（Registrar）"
+        ],
+        "ins": [
+          "https://shsu.myahpcare.com/",
+          "SHSU 学生保险门户（AHP）"
+        ],
+        "clinic": [
+          "https://catalog.shsu.edu/undergraduate/support-services/student-support-services/",
+          "Student Support Services（SHC 口径）"
+        ],
+        "parking": [
+          "https://www.shsu.edu/offices-departments/parking/",
+          "Parking and Transportation"
+        ],
+        "twc": [
+          "https://www.shsu.edu/offices-departments/woodlands-center/degrees-offered",
+          "The Woodlands Center 项目"
+        ],
+        "conroe": [
+          "https://www.shsu.edu/about/locations/conroe",
+          "SHSU Conroe 校区"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/city.php",
+          "得州销售税地方税率表"
+        ]
+      }
+    },
+    "uhd": {
+      "short": "休斯敦大学市中心分校（University of Houston-Downtown，UHD）",
+      "place": "得州·休斯敦（Houston, TX）市中心，One Main Street, Houston, TX 77002",
+      "cityKey": "houston",
+      "calShort": "学期制，2026 秋 8/17 开课、2027 春 1/11 开课",
+      "calendar": "学期制（semester）。2026 秋 Regular Session：8 月 17 日开课，11 月 24 日最后上课日，11 月 30 日 Reading Day，12 月 1–7 日期末考试；9 月 1 日无成绩退课截止，10 月 26 日带 W 退学截止；11 月 26 日 17:00 后停课，11 月 27–29 日感恩节假。冬季学期 12 月 14 日/2026 开始，12 月 24 日/2026–1 月 1 日/2027 假，1 月 9 日/2027 最后上课日。2027 春 Regular Session：1 月 11 日开课，4 月 26 日最后上课日，4 月 27 日 Reading Day，4 月 28 日–5 月 4 日期末考试；1 月 9 日常规注册截止，1 月 27 日为 Census Day、无成绩退课截止与保险 waiver 截止，5 月 4 日学期结束。",
+      "fulltime": "F-1/J-1 长学期全职线：本科 12 学分、研究生 9 学分；网课每学期最多计 3 学分；W 不计入全职。低于全职须先经国际生顾问批准 RCL：学业困难最低 6 学分且仅允许一次，末学期 RCL 允许；若 I-20 自夏季起算，夏季按 9 学分口径。国际生办公室位于 Room GSB 308，713-221-8048。",
+      "drop": "2026 秋：9 月 1 日无成绩退课截止，10 月 26 日带 W 退学截止；2027 春：1 月 27 日 Census Day 前无成绩退课，带 W 退学截止日见注册处校历。F/J 学生低于全职或退学前必须先联系国际生顾问获批 RCL，不得自行退到非全职。",
+      "ins1": "AcademicBlue℠ Student Health Plan，UHD 背书计划，由 Blue Cross and Blue Shield of Texas（BCBSTX）承保、Academic HealthPlans（AHP）管理。F-1/J-1 不论学分强制投保并自动入账；本土自愿参保资格：本科 ≥6 学分（夏季 ≥3）、研究生 ≥3 学分。2026–27 单人费率以 AHP Plan Highlight Flyer/Cost Sheet 当期 PDF 为准，本页不填数字。",
+      "ins2": "强制与凭证提交：强制学生注册后自动加入计划，每个保障期须在门户完成参保激活或提交豁免；2026–27 窗口：秋 7/15–9/14/2026、春夏联保 12/2/2026–2/1/2027、夏季 4/30–7/5/2027；春夏分期截止 1/31/2027；豁免截止与校历 Census Day 对齐（春 1/27/2027）。电子保险卡经 AHP 门户与 BCBSTX App 领取；AHP 客服 855-824-9683。",
+      "ins3": "豁免条件：自保计划须含医疗疏散 ≥$50,000、遗返 ≥$25,000、无年度限额、无既往症排除，deductible 与 coinsurance 按 UH System 标准执行；材料须英文、美元计价；不接受旅行险、外国 NHS 或个人 marketplace 保单；豁免申请在 uhd.myahpcare.com 提交，未获批前保费仍挂账单。",
+      "clinic": "Student Health Services，One Main Street, Suite S445, Houston, TX 77002-1001；713-221-8137，fax 713-223-7419，HealthServices@uhd.edu；门诊周一至周五 8:00–17:00，预约 8:00–16:00。Student Counseling Services，OMB S280/S601；713-221-8121，UHDCounseling@uhd.edu；非工作时间危机线 713-500-3852 / 1-800-346-3549。",
+      "commute": "通勤型校园：步行为主，辅以 METRO 巴士；METRORail Red/Purple/Green 三线在 Downtown 交汇——Central Station Main（Red）、Central Station Rusk/Capitol（Green/Purple）、Downtown Transit Center（Red）均在步行范围。停车有 Vine Street Garage、Daly Street Lot、Washington Street Lot；Daly Lot 校车接驳 Commerce St Building 与 One Main，ETA SPOT App 追踪。",
+      "scene": "市中心校园由 One Main（OMB）、Academic、Commerce、Shea Street 等楼群组成；O'Kane Gallery、UHD Thespians 戏剧社团与 Academic Building 三层 Food Court 是日常社交点；90+ 注册学生组织、SGA 与 CAB 活动衔接 Downtown/EaDo/Midtown 餐饮娱乐带。",
+      "safety": "UHDPD 校内紧急 713-221-8911；非紧急/通讯中心/失物 713-221-8065；停车与交通 713-221-8127；邮件 UHDPolice@uhd.edu。黄色应急呼叫柱遍布楼门、电梯与车库；校外拨 911。夜间结伴、走照明主路，酒吧区周边留意财物。",
+      "transit": "Downtown 轻轨三线交汇加全网 METRO 巴士与 Park & Ride；校内停车场与 Daly Lot 校车接驳。机场：IAH 在市中心北约 23 英里，500 IAH Downtown Direct 可接 downtown；HOU 在市中心南/东南约 7–11 英里，METRO 接驳或驾车；高峰出行预留堵车时间。",
+      "rentnote": "UHD 无校办宿舍，通勤型校园住宿以校外私人公寓为主，片区见 house 页；本页不给固定数字，按邮编查当期挂牌价，核对押金、水电网杂费、停车与短租解约条款。",
+      "link": {
+        "cal": [
+          "https://www.uhd.edu/academics/registrar/Pages/academic-calendar.aspx",
+          "UHD 注册处校历"
+        ],
+        "ins": [
+          "https://uhd.myahpcare.com/",
+          "UHD AHP 保险门户"
+        ],
+        "clery": [
+          "https://uhsystem.edu/resources/compliance-ethics/clery-act/uh-downtown-clery-act/",
+          "UHD Clery 与校警官方页"
+        ],
+        "housing": [
+          "https://www.uhd.edu/student-life/Pages/housing.aspx",
+          "Student Life 住宿页"
+        ],
+        "orgs": [
+          "https://uhd.campusgroups.com/",
+          "学生组织门户"
+        ],
+        "gatorcard": [
+          "https://teamdynamix.uhd.edu/TDClient/90/Portal/Requests/ServiceDet?ID=3120",
+          "Gator Card 服务页"
+        ],
+        "metro": [
+          "https://www.ridemetro.org/riding-metro/transit-services/metrorail",
+          "METRORail 线路"
+        ]
+      }
+    },
+    "uhcl": {
+      "short": "休斯敦大学清湖分校（University of Houston-Clear Lake，UHCL）",
+      "place": "得州·休斯敦（Houston, TX），Clear Lake 东南郊，2700 Bay Area Boulevard, Houston, TX 77058",
+      "cityKey": "houston",
+      "calShort": "学期制（15 周 Regular + 两段 8 周 + Winter Mini），2026 秋 8/17 开课",
+      "calendar": "Fall 2026：Regular 15 周 8/17–12/7（Census 9/1，最后 Drop/Withdraw 11/2，末日正课 11/24，期末 12/1–7，学期关闭 12/7，毕业典礼 12/13）；1st 8 周 8/17–10/10（Census 8/24，最后退课 9/21）；2nd 8 周 10/12–12/5（Census 10/19，最后退课 11/16）。Spring 2027：Regular 1/11–5/8（Census 1/27，最后退课 4/5，末日正课 4/28，期末 5/3–9，关闭 5/8，毕业 5/8 暂定；MLK 1/18，春假 3/8–14）；Winter Mini 12/9/2026–1/9/2027；Spring 1st 8 周 1/11–3/4，2nd 8 周 3/15–5/7。",
+      "fulltime": "F-1/J-1 长学期本科与后学士至少注册 12 学时、研究生至少 9 学时；网课每学期最多计 3 学分（Online-Asynchronous 与 Hyflex 计入网课口径）；暑期非首学期不强制注册，暑期首学期本科 12、研究生 9；末学期至少保留一门面授课；减载须经 ISD 门户申请并获国际生顾问授权；成绩 W 不计入全日制；住址变更须在 10 天内经 E-Services/ISD 门户更新。",
+      "drop": "退课受得州 Six Drop Rule 约束：WQ 计入六退、WX 不计，例外须附证明并提交 Registrar 豁免表。Fall 2026 Regular 最后退课 11/2，Spring 2027 Regular 4/5。退费按 Refund Schedule：Fall 2026 Regular 100% 至 8/16，80% 8/17–21，70% 8/22–28，50% 8/29–9/4，25% 9/5–14；Drop 100% 截止 Regular 9/1。Spring 2027 Regular 100% 至 1/10，80% 1/11–15，70% 1/16–25，50% 1/26–2/1，25% 2/2–8；Drop 100% 截止 1/27。未办官方退学者不退费；行政/医疗 withdrawal 须在学期最后上课日后 9 周（45 个工作日）内提交 Student Appeal Form，获批记 WX（不计 GPA）；国际生退学前须先联系 OIAS。",
+      "ins1": "UH 系统背书的 Student Health Insurance Plan（SHIP），计划名 AcademicBlue Student Health Plan，承保方 Blue Cross and Blue Shield of Texas，经纪方 Academic HealthPlans（AHP）。F/J 国际生强制投保，不论注册学分多少；注册时自动加入 SHIP 并把保费计入学生账户。本国生自愿投保：本科 ≥6 学时（暑期 ≥3）、研究生 ≥3 学时。",
+      "ins2": "2026-27 国际生医疗费率（官方成本表）：Fall Early Arriving 8/1/2026–12/31/2026 $1,295.01；Fall Returning 8/27/2026–12/31/2026 $1,075.26；Spring/Summer 1/1/2027–8/26/2027 $2,015.24；Summer Only 6/1/2027–8/26/2027 $736.27；配偶与每名子女医疗同额；牙科为可选加险（学生 $110 / $92 / $171 / $63）。每个保障期学生须在线 ACTIVATE 投保或提交 waiver。",
+      "ins3": "Waiver 条件：美国政府、学生本国政府（受美国认可）或特定国际/政府/非政府组织资助且计划等效 SHIP 或出具全额医疗费用担保函；雇主团体计划等效；医疗转运 ≥$50,000、遗体遣返 ≥$25,000，不足须加购 rider；福利等效且无年度限额、无既往症排除、coinsurance 不超过 25%；F 免赔 ≤$1,500 个人 / $3,000 家庭，J 免赔 ≤$500/年；个人计划、旅行计划、先付后偿计划不受理。须上传保险卡正反面、英文美元完整保单（含保额、除外与限制）、转运遣返保障凭证；7 个工作日内邮件答复批准或拒绝，逾期不受理。在线窗口 Fall 7/17–9/12/2026、Spring/Summer 12/11/2026–2/10/2027、Summer 5/14–6/19/2027；学校口径 waiver 截止 Fall 9/19/2026、Spring 2/10/2027、Summer 6/19/2027。Student Health Center 就诊免赔 waive，保障内医疗费用 100% 支付。",
+      "clinic": "Health Services：SSCB 1.301，2700 Bay Area Blvd, Box 260, Houston, TX 77058-1002；电话 281-283-2626，传真 281-283-2624，healthservices@uhcl.edu；办公室周一至周五 8:00–17:00，门诊 9:00–17:00（按接诊量接受 walk-in）。TimelyCare 为全体学生免费的 24/7 虚拟健康平台（App 或浏览器）。心理咨询 CMHC：SSCB 3103, Box 331，281-283-2580；周一 9:00–17:00，周二至周五 8:00–17:00。",
+      "commute": "主校区 2700 Bay Area Blvd, Houston, TX 77058-1002，地处 Clear Lake 高科技社区，校园为 524 英亩自然保护区，距 NASA Johnson Space Center 约五分钟车程，邻近 Kemah/Seabrook 滨水带。无轨交直达，自驾为主；Hawk Express 校车为 Parking & Transportation 礼遇服务，固定线路、不接受个人点单，凭有效 UHCL ID 乘车；校内站 Police Building、Recreation Center、Hunter Hall、SSCB Entrance、Bayou Student Entrance，Blue Route 校外站含 Bay Area Park & Ride、United Way of Houston、Coastal Flow Measurement Co、Anytime Fitness、University Forest Apts、Delta、Arbor。到 UH 主校区与 Texas Medical Center 为约 25–30 mi 量级（自驾）。",
+      "scene": "UH 系统成员但独立门户与独立校历；1974 年创立，四年制大学，四个学院、90 余个本科与研究生学位项目、3 个博士项目。Fall 2025 注册 7,979 人：本科 6,131（76.84%）、研究生 1,848（23.16%）；全日制 4,007、非全日制 3,972；国际生 315（3.95%）。生源以上级转学学生、研究生与在职学生为主，本科低年级住校比例低。学生参与中心 CSE：281-283-2560，engagement@uhcl.edu，SSCB 1204 Box 198；活动与组织经 HawkLink 门户检索。",
+      "safety": "UHCL Police 全年 24/7/365 值守；校内紧急调度 281-283-2222，校外拨 911；紧急信息热线 281-283-2221；TTY 281-283-2223；Care Line 281-283-2273；policechief@uhcl.edu；驻地 2700 Bay Area Blvd, Houston, TX 77058。夜间与非常规时段护送拨 281-283-2222 或经 SafeZone App 蓝色 Help 按钮（Check In 定位），由校警或 Hawk Patrol 步行或乘车送至车辆、Hunter Hall 或各楼宇。校区位于 Clear Lake 郊区居住社区，治安环境与 downtown 不同，夜间独行仍应预约护送；Annual Security and Fire Safety Report 在校警首页下载。",
+      "transit": "校园无 METRORail 直达。近郊公共交通走 METRO Park & Ride 巴士：247 Fuqua/Bay Area P&R 周一至周五约 15 分钟一班（多数运营时段，首班 5 a.m.，末班在晚 8 点前），见 https://www.ridemetro.org/riding-metro/transit-services/park-and-ride-bus/route-details/247-fuqua-bay-area ；249 Bay Area/El Dorado/Fuqua/Monroe P&R 周一至周五约 60 分钟一班（9 a.m.–下午 4 点前），见 https://www.ridemetro.org/riding-metro/transit-services/park-and-ride-bus/route-details/249-bay-area-el-dorado-fuqua-monroe ；两条线路周末均无服务，自 Bay Area Park & Ride（Bay Area @ Feathercraft）开往 Downtown Transit Center，在 downtown 换乘 METRORail。民航机场以 HOU Hobby 为主、IAH Bush 为备选。",
+      "rentnote": "校内住宿为 Hunter Hall 校内宿舍与 University Forest 私管公寓，见 house 文件；校外租房集中在 Clear Lake、Webster、Seabrook、Nassau Bay 一带的 Bay Area Blvd 与 NASA Parkway 走廊。本页不给固定校外租金数字，签约前核对租约期限、押金、水电网、车位、宠物条款与校车/巴士通勤衔接。",
+      "link": {
+        "cal": [
+          "https://www.uhcl.edu/academics/resources/academic-calendar/index.aspx",
+          "UHCL 学术校历"
+        ],
+        "ins": [
+          "https://www.uhcl.edu/student-affairs/health-wellness/health-services/insurance-student.aspx",
+          "UHCL 学生健康保险说明"
+        ],
+        "clinic": [
+          "https://www.uhcl.edu/student-affairs/health-wellness/health-services/index.aspx",
+          "UHCL Health Services"
+        ]
+      }
+    },
+    "uh": {
+      "short": "休斯敦大学（University of Houston，UH）",
+      "place": "得州·休斯敦（Houston, TX），4800 Calhoun Road, Houston, TX 77004",
+      "cityKey": "houston",
+      "calShort": "学期制，2026 秋 8/24 开课、2027 春 1/19 开课",
+      "calendar": "学期制（semester）。2026 秋 Session 1：8 月 24 日开课，8 月 31 日加课截止，9 月 2 日加课最终截止，9 月 7 日劳动节停课，9 月 9 日为无成绩退课/退学截止（ORD），11 月 18 日为带 W 退课/退学截止，11 月 25–29 日感恩节停课，12 月 5 日最后上课日，12 月 8–14 日期末考试，12 月 14 日学期结束；Winter Mini 12 月 21 日/2026–1 月 16 日/2027。2027 春 Session 1：1 月 19 日开课，1 月 18 日 MLK 日停课，5 月 11 日学期结束；春季加课、退课与期末截止日以注册处校历子页为准。",
+      "fulltime": "F-1/J-1 长学期（秋/春）全职线：本科与 post-bac 12 学分、研究生 9 学分；网课每学期最多计 3 学分；首个或最后学期夏季按 6 学分口径；W 不计入全职。低于全职须事先经 ISSSO 批准 Reduced Course Load（RCL），学业困难、论文收尾与末学期等情形按目录条款申请。",
+      "drop": "2026 秋：9 月 9 日 ORD 前退课无成绩且不计入 6-W 上限；11 月 18 日为带 W 退课/退学截止；本科一生 6 个 W 上限，超过后必须完成所选课程；全校退学不计 6-W。F/J 学生低于全职或退学前必须先见 ISSSO 顾问；2027 春退课与 W 截止日见校历子页。",
+      "ins1": "AcademicBlue℠ Student Health Plan，UH System 背书的 SHIP，由 Blue Cross and Blue Shield of Texas（BCBSTX）承保、Academic HealthPlans（AHP）管理。F-1/J-1 不论学分强制投保，注册即自动入账；本土自愿参保资格：本科 ≥6 学分（夏季 ≥3）、研究生 ≥3 学分。2026–27 单人费率以 AHP Plan Highlight Flyer/Cost Sheet 当期 PDF 为准，本页不填数字。",
+      "ins2": "强制与凭证提交：强制学生注册后自动加入 SHIP，每个保障期须在截止前于 AHP 门户完成参保激活或提交豁免；2026–27 截止时间：秋 9/9/2026 17:00 CDT、春 2/3/2027 17:00、夏 6/10/2027 17:00；电子保险卡经 BCBSTX 会员账户与 App 领取；AHP 客服 1-855-824-9683；豁免结果约 7–10 个工作日邮件通知，逾期未获批豁免将自动加入 SHIP。",
+      "ins3": "豁免窗口与条件：秋 7/24/2026 8:00–9/9/2026 17:00、春 12/18/2026 8:00–2/3/2027 17:00、夏 5/24/2027 8:00–6/10/2027 17:00。自保计划须无年度限额、无既往症排除、coinsurance ≤25%、医疗疏散 ≥$50,000、遗返 ≥$25,000；J-1 deductible ≤$500/年，F-1 deductible ≤$1,500 个人/$3,000 家庭；材料须英文、美元计价；不接受旅行险、study-abroad 险、个人 marketplace 保单或外国 NHS。保障期：秋 8/1–12/31、春夏联保 1/1–8/31、仅夏 6/1–8/31。",
+      "clinic": "Student Health Center & Campus Pharmacy，4349 Martin Luther King Blvd, Room 2005；Health 713-743-5151，Pharmacy 713-743-5125，fax 713-743-5164；门诊周一至周五 8:00–17:00。CAPS 心理咨询 713-743-5454，Health 2 Building Room 2005，M-F 8:00–17:00。",
+      "commute": "校内 Cougar Line 校车工作日运行（UH GO App 查实时位置），Cougar Ride 提供夜间接驳；外围公寓靠校车与 METRO 巴士。轨道交通为 METRORail Purple Line，UH South/University Oaks 站（4455 Wheeler Ave）与 TSU/UH Athletics District 站服务主校区；周边巴士含 25、80 等线路。",
+      "scene": "主校区位于 University Oaks/Third Ward 一带，Student Center、Moody Towers 与 Cougar Woods 餐饮、Rec Wellness Center 是日常社交场；500+ 注册学生组织、CFSL 希腊生活与 SPB 校园活动集中在校园内；校队为 Houston Cougars。",
+      "safety": "UHPD 校警巡逻：紧急拨 911，非紧急与短信 713-743-3333，防犯办公室 713-743-4210；校内应急呼叫柱与护送服务覆盖主要步道。夜间走照明路段、偏僻街巷结伴；CAPS mobile team 工作日 14:30–23:30 经 UHPD 调度；校外出警走 Houston Police Department 911/311。",
+      "transit": "METRORail Purple Line 加 METRO 巴士与校内校车构成主校区通勤网；I-45 等走廊有 HOV/HOT 车道。商业航班双场：IAH 在校园北约 23–25 英里，正常车程 35–50 分钟（高峰更久）；HOU 在校园东南约 8–10 英里，车程 20–30 分钟；学生乘 METRO 享折扣票。",
+      "rentnote": "校内宿舍见 house 页；校外租房集中在 University Oaks、Third Ward、Montrose、Rice Village 等片区，本页不给固定数字，按邮编查当期挂牌价，核对押金、水电网杂费、停车与解约条款。",
+      "link": {
+        "cal": [
+          "https://www.uh.edu/registrar/academic-calendars/",
+          "UH 注册处校历索引"
+        ],
+        "ins": [
+          "https://uh.myahpcare.com/",
+          "UH AHP 保险门户"
+        ],
+        "insWaiver": [
+          "https://www.uh.edu/healthcenter/international/waivers/",
+          "国际生保险豁免要求"
+        ],
+        "clinic": [
+          "https://www.uh.edu/healthcenter/",
+          "Student Health Center"
+        ],
+        "issso": [
+          "https://www.uh.edu/oisss/",
+          "国际学生学者办公室"
+        ],
+        "housing": [
+          "https://www.uh.edu/housing/",
+          "UH 住宿"
+        ],
+        "parking": [
+          "https://www.uh.edu/parking/",
+          "停车与校车"
+        ],
+        "police": [
+          "https://www.uh.edu/police/",
+          "UHPD 校警"
+        ],
+        "metro": [
+          "https://www.ridemetro.org/riding-metro/transit-services/metrorail",
+          "METRORail 线路"
+        ]
+      }
+    },
+    "mdanderson": {
+      "short": "德州大学 MD 安德森癌症中心（UT MD Anderson Cancer Center）",
+      "place": "得州·休斯顿（Houston, TX），Texas Medical Center，1515 Holcombe Blvd., Houston, TX 77030",
+      "cityKey": "houston",
+      "calShort": "癌症中心/研究机构口径，仅研究生、临床培训与博士后，无传统四年制本科",
+      "calendar": "MD Anderson 是专注癌症诊疗、研究、教育与预防的癌症中心/研究机构，不是综合大学：学位教学为 MD Anderson UTHealth 联合 GSBS（PhD、MD/PhD、MS）与 School of Health Professions（高年级转入 B.S. 完成项目、MS、证书）；其余为 ACGME 住院医/fellow、轮转医学生、博士后与短期研究培训。GSBS 学位生一般每年仅秋季录取，PhD 与专项 MS 要求全日制；SHP 只开高年级课程（upper-level），不招传统本科新生。各项目按各自培训日历、临床轮转与实验室排期，注册、census 与加退课节点以项目办公室、GSBS/SHP 学生事务与培训通知为准；公开目录不设统一本科式秋/春校历与春假口径。",
+      "fulltime": "GSBS PhD 与专项 MS（SMS）项目要求全日制；Biomedical Sciences MS 可兼读，但若由导师资助、拿资助或为国际学生必须注册全日制；学位生一般每年仅秋季入学，非学位生春秋两季可申请。SHP 高年级 B.S./MS/证书项目按所在项目注册要求执行；住院医、fellow、博士后按雇员/培训人员口径管理，不套用学生注册学分线。",
+      "drop": "课程退选、轮转变更与实验室项目调整按所在项目、GSBS/SHP 学生事务与培训办公室政策办理；休学、延期与考核变更须项目主任审批。临床轮转排班、call 与休假按 GME/项目手册执行；目录未列统一本科式退课分档、W 截止与学费减免表。",
+      "ins1": "学生 SHIP：SHP 与 GSBS 学生参加 UT System 学生健康保险计划（AcademicBlue，Blue Cross Blue Shield of Texas 承保，AHP 门户管理，由 UTHealth Auxiliary Enterprises 计费）。按 TEC §51.952 全体学生须持健康保险，注册即自动评估 UT 保险计划费用，持合格同等证明可申请豁免。暑期/短期研究项目机构不提供保险，参与者须自备医疗保障；牙科、视力为可选团体计划，家属可另购。",
+      "ins2": "凭证与豁免：SHP 学生须在第 12 上课日前通过 UTHealth Auxiliary Enterprises 提交同等保险证明，否则费用保留在账单上；豁免在 AHP 门户（uthouston.myahpcare.com/waiver）提交保险卡、英文保单福利文件，国际生另须医疗运送/遣返证明。临床机构可随时查验保险凭证，无保障可被拒绝进入临床场所。保险咨询 713-500-8400、student-insurance@uth.tmc.edu；签证事务 Visa and Immigration Administration, 1400 Pressler Suite 6.5000, 713-792-1112, visa@mdanderson.org。",
+      "ins3": "雇员/GME 另一条线：住院医、fellow 属 workforce members，享受机构雇员福利（医疗团体险、退休计划、伤残险、停车补贴、健身中心、最多六周亲子/家庭假等）；福利合格博士后（聘任超过 4.5 个月、至少 50% 工时、薪酬由 MDA 发放）享医疗、牙科/视力/长短伤残团体险、健康照护与育儿支出账户、TRS 退休、EAP、EHWB、Ombuds 与健身会员；每周 30 小时以上者医疗保障首日零保费生效。学生 SHIP 与雇员福利两条线分开办理，不互抵、不退费。",
+      "clinic": "学生就诊：UT Health Services, 7000 Fannin St. Ste 1620, Houston, TX 77030（UTHealth 职业健康/学生服务体系）；GSBS 学生免疫与年度 TB 皮试在 UT Student Health Services, UT Professional Building, 6410 Fannin St. Ste 130，713-500-5171。心理咨询走 UT EAP, 7000 Fannin St. Ste 1670，713-500-3327 / 800-346-3549。机构 Employee Health and Well-Being（EHWB）保密管理培训人员健康筛查与疫苗合规。入学与进入临床/实验室前须完成背景审查、药筛、免疫记录（乙肝、脑膜炎等）与 TB 筛查，资料经 myUTH Holds/To Do 与项目办公室核验；随轮转附属机构合同可能重复药筛、背景审查或 TB 检查。急症就近 TMC 医院急诊。",
+      "commute": "主园区在 TMC 南片 Holcombe/Bertner 一带；院内地面患者班车（lavender 标识，M–F 6:00–19:00，mdabus.com 实时追踪，713-792-2338）连接 Main Building、Mays Clinic/Duncan Building、Proton Therapy Center、SCRB3、Radiology Outpatient Center 等；雇员班车工作日 7:00/7:30–18:30，须出示 badge。停车有 Garage 10、Garage 2（TMC 运营 24 小时）与 Mays Clinic/Duncan Garage（机构自有 24/7）；停车办 Pressler Garage PGA4.2000，713-563-7275，parking@mdanderson.org；GME 有优惠停车合同。",
+      "scene": "癌症专科研究与临床培训共同体，不是综合大学：无本科校园社团、校队与希腊生活口径。社交与网络按实验室、研究项目、GME 科室轮转、住院医 House Staff Senate、博士后协会 PDA（750 余名博士后，PDAEC 联合 OPAD）、GSBS 学生协会与机构雇员资源小组（ERG）展开；16,000 平方英尺健身中心与员工网络对培训人员开放。",
+      "safety": "UT Police at Houston 同一片区覆盖 MDA 与 UTHealth：紧急 911 或机构应急线 713-794-HELP (4357)；UT Police 非紧急 713-792-2890。机构总机 713-792-2121 或 1-800-889-2094，TMC 园区咨询 877-632-6789。楼宇门禁与监控由机构安保体系管理，badge 须随身佩戴；TMC 街区夜间结伴，校外紧急拨 911。",
+      "transit": "METRORail Red Line TMC 段最近站为 TMC Transit Center（近 MDA），另经 Dryden/TMC、Memorial Hermann Hospital/Houston Zoo 接 downtown；MDA 院内班车与 UTHealth 班车工作日 9:00–17:00 互通（凭 badge）；TMC 免费 Red/Green 班车接驳远端停车场。航空：IAH 乘 102 或 500 到 downtown 换 Red Line；HOU 乘 500 或 40 到 downtown 换乘；公交客服 713-635-4000，班次见 ridemetro.org。",
+      "rentnote": "机构不提供学生宿舍；培训人员自租 TMC 周边公寓，官方 relocation 指南列参考邮编 77030、77054、77025、77005、77004、77021。本页不给固定租金数字，按邮编查当期挂牌，核对押金、水电网、停车、通勤距离与租约；机构房源清单不审核不背书。",
+      "link": {
+        "cal": [
+          "https://gsbs.uth.edu/admissions/faqs",
+          "GSBS 招生与全日制口径 FAQ"
+        ],
+        "ins": [
+          "https://www.mdanderson.org/education-training/degree-granting-schools/school-of-health-professions/academic-catalog/general-regulations.html",
+          "SHP 目录保险与合规条款"
+        ],
+        "clinic": [
+          "https://www.mdanderson.org/education-training/research-training/postdoctoral-training/prospective-postdocs.html",
+          "博士后福利与支持资源"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/city.php",
+          "得州销售税地方税率表"
+        ]
+      }
+    },
+    "uthouston": {
+      "short": "得克萨斯大学休斯敦健康科学中心（UTHealth Houston）",
+      "place": "得州·休斯顿（Houston, TX），Texas Medical Center 核心，University Center Tower, 7000 Fannin St., Houston, TX 77030",
+      "cityKey": "houston",
+      "calShort": "研究生与专业学院口径；2026 秋 8/31 开课、2027 春 1/11 开课，各学院校历分列",
+      "calendar": "六大学院：McGovern Medical School（MD）、McWilliams School of Biomedical Informatics、School of Dentistry、School of Public Health、Cizik School of Nursing、Graduate School of Biomedical Sciences（与 MD Anderson 联合）；无传统四年制本科通识项目。Academic Programs（学术研究生与专业项目）统一校历：2026 秋 7/8 注册开放，8/28 缴费截止，8/31 学期开始，9/7 劳动节停课，8/31–9/11 迟到注册（中午截止），8/31–9/16 加退课，9/16 Census Day 与欠费除名，11/26–27 感恩节停课，12/11 最后上课日，12/14–18 期末考试，12/22 成绩截止，12/24–25 圣诞停课。2027 春 11/18/2026 注册开放，1/8 缴费截止，1/11 学期开始，1/11–1/22 迟到注册，1/11–1/27 加退课，1/18 MLK 日停课，1/27 Census Day，3/15–19 春假，4/30 最后上课日，5/3–7 期末考试，5/11 成绩截止。2027 夏 5/17 开课（12 周/6 周一期），5/20 Census；6 周二期 6/29 开课、7/2 Census，8/6 最后上课日，8/9–12 期末考试。McGovern Medical School（MD）按年级学年制排期（如 Year 1 于 8/3 开始、12/19–1/3 冬假、3/15–19 春假、5/14 学年结束）；School of Dentistry、Cizik School of Nursing 等另有独立校历。各学院注册、census 与退课节点以所在学院校历和 Registrar 通知为准。",
+      "fulltime": "研究生口径：秋/春学期全日制为 9 及以上学期学分，夏季全日制为 6 及以上学期学分；SBMI 的 F-1 学生秋/春须修满 9 学分（最多一门 3 学分网课可计入全日制），GSBS 秋/春 ≥9、夏季 ≥6。医学、牙科、护理等专业项目按所在学院注册要求执行；住院医、临床 fellow 与博士后按雇员/培训人员口径管理，不套用学生注册学分线。F/J 学生低于全日制须先经 Office of International Affairs 批准 Reduced Course Load，否则视为身份违规。",
+      "drop": "Academic Programs 加退课窗口：秋 8/31–9/16、春 1/11–1/27、夏季各期开课首 3–4 天；Census Day 后按欠费除名。W/WF 退课截止因学院而异，例如 Cizik 护理 2026 秋 W 截止 10/23、W/WF 截止 12/11；医学按学年与年级排期，牙科按牙科校历。退课、轮转变更、休学须项目主任审批后由 Registrar 办理；退款比例、W 记录与学费责任以 Student Accounts 当期账单为准。",
+      "ins1": "学生 SHIP：AcademicBlue Student Health Plan（UT System SHIP），Blue Cross Blue Shield of Texas（BCBSTX）承保，Academic HealthPlans（AHP）管理。UT System 校董会强制全体健康机构学生持有效保险，注册时自动纳入，费用计入 myUTH 账单。2026–27 学年基准年费 3,707.00 美元，按学院与学期分档（医学 1–4 年级、牙科、学术研究生/牙科卫生等档位费率见 AHP cost sheet）；计划含医疗保险与医疗运送/遗体遣返；可选 BlueCare 牙科与 EyeMed 视力，配偶子女在开放期另购。持 SHIP 在 Student Health Clinic 就诊时 deductible 豁免、Covered Expenses 按 100% 报销。",
+      "ins2": "凭证与豁免：每学期注册前须在 myUTH 完成 Health Insurance Certification；豁免经 uthouston.myahpcare.com/waiver 提交保险卡、英文保单福利文件与医疗运送/遣返证明。2026–27 waiver 窗口：秋季 2026/7/2–9/16；春季 2027/10/8/2026–1/26；夏季 2027/3/24–7/1；医学 1/2 年级 2026/5/18–7/31；医学 3/4 年级 2026/3/11–5/1；牙科 2026/6/1–8/14。截止后无例外、不延期；AES 疏散遣返不再自动入账，waiver 后自备保险不含该保障者须直接向 AHP 购买 AES。咨询 Auxiliary Enterprises 713-500-8400、student-insurance@uth.tmc.edu；AHP 1-855-247-7587。",
+      "ins3": "豁免条件：美国政府赞助；外国政府或国际组织赞助且计划 PPACA 合规；雇主团体或个人 PPACA 计划；UT System 雇员团体计划；纯远程学习。备选计划最低要求：提供 PPACA 基本福利且无年度上限、无既往症排除、100% 覆盖 PPACA 预防保健、deductible 不超过 500 美元/事故或疾病、coinsurance 不超过 25%、承保方符合 22 CFR 62.14(d)(1) 或为联邦合格 HMO/竞争医疗计划；国际生另须遗体遣返保额不低于 25,000 美元、医疗运送不低于 50,000 美元，保障日期覆盖整学期。短期有限期限计划（STLDP）、旅行险、赔偿返还式计划与医疗共享计划不接受。住院医/fellow 走 GME 雇员福利（UT Select Basic 等），不按学生 SHIP 办理。",
+      "clinic": "Student Health & Counseling Services，UT Professional Building, 6410 Fannin St. Suite 130, Houston, TX 77030；预约 713-500-5171，传真 713-500-0605；门诊 M–F 8:30–17:00（心理咨询 8:00–17:00），急症 walk-in 9:00–11:00、13:00–15:00；下班后护士分诊 713-500-5171，精神科值班 713-500-5173；24/7 危机热线 713-500-4688（IMUT）。UT Health Services（职业健康）7000 Fannin St. Ste 1620，713-500-3267。急症前往 TMC 各医院急诊或就近 ER。",
+      "commute": "校园在 TMC 核心（7000 Fannin 一带）；校内 UTHealth Shuttle 工作日 5:30–20:30，凭有效大学 ID 乘坐，站点覆盖 UCT East、医学院 Ross Sterling、Cizik 护理学院、研究生院、SPH/PHERB、口腔学院、Recreation Center 与 University Housing 等。TMC 免费 Red/Green 班车在 TMC Transit Center 等点接驳各楼宇与远端停车场。停车有 UCT Garage（7000 Fannin at Pressler）、UPB Garage（6414 Fannin）、PVAMU Garage（6436 Fannin）等；学生可办 UTHealth 或 TMC 合同停车，UTHealth Parking Services 713-500-3652，TMC 停车热线 713-791-6161，各车库日/月租价以官网 rates 页当期公布为准。",
+      "scene": "医学、科研与公共卫生导向的研究生/专业学院共同体，无本科通识校园文化与校队体系。社团按学院注册：GSBS 的 GSA、AMBR、ASC、Community Outreach、First-Gen、ISA、LGBTQ+ Student Alliance，SPH 学生协会，口腔学院各专业与荣誉社团等。Recreation Center（1832 West Road）与 MMS Fitness Center 对缴纳学生服务费者免费；Cooley University Life Center、各楼宇餐饮点为日常社交场。",
+      "safety": "UT Police at Houston：即时危险拨 911；非紧急 713-792-2890（7777 Knight Road, Houston, TX 77054）。楼宇巡逻、监控与应急报警按钮覆盖 TMC 各楼，按钮直通调度。EHS 主线 713-500-8100，下班后 EHS 热线 713-500-5832；学生轻伤 713-500-5171；心理健康与福祉线 713-500-9888；UTHealth ALERT 短信预警。TMC 街区夜间结伴走照明路段；校外紧急拨 911。",
+      "transit": "METRORail Red Line 沿 Main St/Fannin 连接 downtown 与 TMC，TMC 段站点为 Memorial Hermann Hospital/Houston Zoo、Dryden/TMC、TMC Transit Center；校内 UTHealth Shuttle 与 TMC Red/Green 免费班车接驳各楼宇与远端停车场；UTHealth 与 MDA 班车工作日 9:00–17:00 互通（凭 badge）。航空：IAH（George Bush Intercontinental）在 downtown 以北约 20 英里，可乘 102 Bush IAH Express（Terminal C，1.25 美元）或 500 IAH Downtown Direct（Terminal E，4.50 美元）到 downtown 换 Red Line；HOU（William P. Hobby）可乘 500 Downtown Direct（4.50 美元）或 40 Telephone/Heights（1.25 美元）到 downtown 再换 Red Line；METRO 咨询 713-635-4000。",
+      "rentnote": "校方 University Housing 分 Phase One/Two/Three，租赁办 1885 El Paseo, Houston, TX 77054，713-500-8444；Phase 1/2 面向 UTHealth、Baylor、MDA 附属全职学生与教职员，Phase 3 面向 UTHealth 学习者与教职员；等候名单每年 3 月开放两周。本页不给固定租金数字，校外按 77030、77054、77025、77005 等片区查当期挂牌价，核对押金、水电网、停车与租约长度；校方 off-campus 资源不审核不背书。",
+      "link": {
+        "cal": [
+          "https://www.uth.edu/registrar/current-students/student-information/academic-calendar/academic-programs",
+          "UTHealth Academic Programs 校历"
+        ],
+        "ins": [
+          "https://uthouston.myahpcare.com/",
+          "UTHealth 学生保险 AHP 门户"
+        ],
+        "clinic": [
+          "https://www.uth.edu/studenthealth/",
+          "Student Health & Counseling Services"
+        ],
+        "tax": [
+          "https://comptroller.texas.gov/taxes/sales/city.php",
+          "得州销售税地方税率表"
+        ]
+      }
+    },
+    "tsu": {
+      "short": "德州南方大学（Texas Southern University，TSU）",
+      "place": "得州·休斯敦（Houston, TX），Third Ward / TMC 边缘，3100 Cleburne Street, Houston, TX 77004",
+      "cityKey": "houston",
+      "calShort": "学期制（semester），2026 秋 8/17 开课",
+      "calendar": "Fall 2026：8/17 开课，8/17–21 加退课，9/1 Census I，9/7 劳动节，9/14 Census II，11/6 最后退课（withdraw），11/25–27 感恩节，12/3 末日正课，12/5–10 期末，12/10 学期结束，12/11 毕业典礼；Spring 2027：1/11 开课，1/11–15 加退课，1/18 MLK 纪念日，1/27 Census I，2/8 Census II，3/8–13 春假，3/26 Good Friday，4/2 最后退课，5/3–6 期末，5/6 学期结束，5/7 毕业；Summer 2026 分 Summer I（5/26 开课）、Summer II（6/29 开课）与 Full-term（5/26 开课）三段，Summer 2027 节点尚未在校历页发布。",
+      "fulltime": "F-1/J-1 长学期本科与后学士至少注册 12 学时、研究生至少 9 学时；网课每学期最多计一门（3 学分）；暑期两段合计 12 学时或仅修第二段暑期 6 学时；低于全日制须事先经国际学生顾问批准；成绩 W 不计入全日制要求。",
+      "drop": "退课与退费按 Registrar 校历节点办理：Fall 2026 Census I 9/1、Census II 9/14，最后 withdrawal 11/6；Spring 2027 Census I 1/27、Census II 2/8，最后退课 4/2。秋/春学期前 12 个上课日、暑期前 4 个上课日内退课按比例担费，依据 Texas Education Code 54.006 原则；官方 withdrawal 须经 Registrar 办理，不办手续弃课记 F；医疗 withdrawal 经 Medicat 门户在 5 个工作日内上传证明，申诉联系 ombudsman@tsu.edu（713-313-1360，Sterling Student Life Center Suite 218）。",
+      "ins1": "TSU Student Health Insurance Plan（SHIP）：国际生强制投保，医疗承保方为 UnitedHealthcare Insurance Company，国际生保单 2026-1350-4，走 UnitedHealthcare Student Resources / Choice Plus 网络；本国全日制学生自愿投保，保单 2026-1350-1。保险门户 insuranceforstudents.com/tsu。",
+      "ins2": "国际生注册时自动加入 SHIP 并把保费计入学生账户；须在第 20 个上课日前凭可比保险证明在线申请 waiver，获批后才减免费用。2026-27 国际生费率（原文费率表）：学生 Annual $2,352.00、Fall $967.00、Spring/Summer $1,385.00；配偶与一名子女同额；两名及以上子女 $13,508.00 / $5,552.00 / $7,957.00；配偶加两名及以上子女 $20,262.00 / $8,327.00 / $11,935.00。本国生自愿计划：学生 Annual $3,854.00、Fall $1,584.00、Spring/Summer $2,270.00。资格要求开课后前 31 天实际到课，函授、居家学习与网课不计入资格。",
+      "ins3": "计划为 Gold 级精算价值 84.930%：网络内免赔 $500/人、网络外 $1,000/人；自付上限 $7,900 / $15,800；coinsurance 80% / 60%。UHC 客服 1-888-799-7716，customerservice@uhcsr.com，电子卡与理赔经 uhcsr.com 门户办理；保险与健康中心事务联系 TSU Health Services（713-313-7173）。",
+      "clinic": "Student Health Center：4010 Tierwester St, Houston, TX 77004（Alley Mitchell Child Care Center 旁，Parking Lot M）；周一至周五 8:00–17:00；电话 713-313-7173；下班后护士咨询线 833-631-1072；预约与门户 tsu.medicatconnect.com；服务资格为当学期或暑期注册并缴纳 Medical Services Fee 的学生。",
+      "commute": "主校区 3100 Cleburne St，地处 Third Ward 街区、Texas Medical Center（TMC）边缘，与 UH 主校相邻；轨交最近站为 METRORail 紫线 TSU/UH Athletics District 站；校园校车往返 Cullen Oaks Apartments、The Icon 等合作公寓；另有 METRO 巴士接驳；步行可至 TMC 边缘地带，往 UH 主校步行或短车程可达。",
+      "scene": "TSU 为传统综合大学，覆盖本科、研究生与专业学院，含 Thurgood Marshall School of Law（法学院）与 College of Pharmacy & Health Sciences（药学院与健康科学）；校内 200 余个学生组织，分属 NPHC、IGOC、MGC 三个希腊理事会；学生政府 SGA 在 Sterling Student Life Center Suite 219，3100 Cleburne St, Houston, TX 77004，713-313-7182，sgapresident@tsu.edu；社团事务联络 Bobby Scott（Student Life Center Room 216，713-313-6745，Bobby.Scott@tsu.edu）。",
+      "safety": "Department of Public Safety（DPS）24 小时值守，办公室 3443 Blodgett St, General Services Bldg, Houston, TX 77004，电话 713-313-7000 / 713-313-7001，tsudps@tsu.edu；校内紧急拨 7000，校外拨 911；LiveSafe App 接收紧急通知。夜间安全护送可拨 713-313-7001 或经 LiveSafe App 预约。Third Ward 街区治安口碑参差，校园内有校警与护送机制，深夜偏僻路段仍应结伴出行或预约护送，不粉饰也不渲染。",
+      "transit": "对外公共交通走 METRO：紫线经 TSU/UH Athletics District 站（P3），往南接 Palm Center Transit Center，往北在 downtown 共享段换乘红线（通 TMC Transit Center）与绿线；绿线不经 TSU 附近，最近接入点在 downtown/EaDo 换乘，线路站点见 https://www.ridemetro.org/riding-metro/transit-services/metrorail 。普通票价 $1.25，学生折扣 $0.60（须折扣票卡），3 小时内免费换乘；支持 RideMETRO 实体卡/App、银行卡与 Apple/Google Pay。无轨交直达机场；民航机场为 HOU 与 IAH。",
+      "rentnote": "校内宿舍合同与费率见 house 文件；校外房源集中在 Third Ward、South Central Houston 一带（Sampson St、Rosewood St、Cullen Blvd、N MacGregor Way 等走廊），校方 Off-Campus Housing List 仅作便利信息，声明与列名公寓无附属或合作关系；本页不给固定校外租金数字，挂牌价、押金、水电网、车位与通勤班次须按当期租约逐项核对。",
+      "link": {
+        "cal": [
+          "https://tsu.edu/registrar/academic-calendar.php",
+          "TSU 学术校历"
+        ],
+        "ins": [
+          "https://tsu.edu/student-services/departments/health-services/student-health-insurance.php",
+          "TSU 学生健康保险说明"
+        ],
+        "clinic": [
+          "https://tsu.edu/student-services/departments/health-services/index.php",
+          "Student Health Center"
+        ]
+      }
+    }
+  },
+  "EXTRA": {}
+}

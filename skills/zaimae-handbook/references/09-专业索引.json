@@ -1,0 +1,5465 @@
+{
+  "MAJ": {
+    "ucsb": {
+      "name": "加州大学圣塔芭芭拉分校",
+      "short": "UCSB",
+      "status": "full",
+      "src": "https://admissions.sa.ucsb.edu/majors",
+      "note": "官网 Admissions 专业页，按文理／工程／创意研究三学院分组",
+      "rows": [
+        [
+          "文理学院",
+          "Actuarial Science",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Anthropology",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Applied Mathematics",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Aquatic Biology",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Art for College of Letters & Science",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Asian American Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Biochemistry",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Biological Sciences",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Biopsychology",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Black Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Chemistry",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Chicano & Chicana Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Classics",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Communication",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Comparative Literature",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Dance",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Earth Science",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "East Asian Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Ecology & Evolution",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Economics",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Economics & Accounting",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "English",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Environmental Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Feminist Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Film & Media Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Financial Mathematics & Statistics",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "French",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Geography",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "German",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Global Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "History",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "History of Art & Architecture",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "History of Policy, Law, & Governance",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Hydrologic Sciences & Policy",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Italian Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Language, Culture & Society",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Latin American & Iberian Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Linguistics",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Mathematics for College of Letters & Science",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Medieval Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Middle East Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Molecular & Cellular Biology",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Music Performance/Music Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Philosophy",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Physics for College of Letters & Science",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Physiology",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Political Science",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Portuguese",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Psychological & Brain Sciences",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Religious Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Russian & East European Studies",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Sociology",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Spanish",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Statistics & Data Science",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Theater",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Zoology",
+          "BA/BS"
+        ],
+        [
+          "工程学院",
+          "Artificial Intelligence",
+          "BA/BS"
+        ],
+        [
+          "工程学院",
+          "Chemical Engineering",
+          "BA/BS"
+        ],
+        [
+          "工程学院",
+          "Computer Engineering",
+          "BA/BS"
+        ],
+        [
+          "工程学院",
+          "Computer Science",
+          "BA/BS"
+        ],
+        [
+          "工程学院",
+          "Electrical Engineering",
+          "BA/BS"
+        ],
+        [
+          "工程学院",
+          "Mechanical Engineering",
+          "BA/BS"
+        ],
+        [
+          "创意研究学院",
+          "Art for College of Creative Studies",
+          "BA/BS"
+        ],
+        [
+          "创意研究学院",
+          "Biology",
+          "BA/BS"
+        ],
+        [
+          "创意研究学院",
+          "Chemistry and Biochemistry",
+          "BA/BS"
+        ],
+        [
+          "创意研究学院",
+          "Computer Science",
+          "BA/BS"
+        ],
+        [
+          "创意研究学院",
+          "Marine Science",
+          "BA/BS"
+        ],
+        [
+          "创意研究学院",
+          "Mathematics",
+          "BA/BS"
+        ],
+        [
+          "创意研究学院",
+          "Music Composition",
+          "BA/BS"
+        ],
+        [
+          "创意研究学院",
+          "Physics for College of Creative Studies",
+          "BA/BS"
+        ],
+        [
+          "创意研究学院",
+          "Writing and Literature",
+          "BA/BS"
+        ]
+      ]
+    },
+    "su": {
+      "name": "西雅图大学",
+      "short": "SU",
+      "status": "pending",
+      "src": "https://catalog.seattleu.edu/",
+      "note": "Catalog 对脚本抓取返回空页，需人工/浏览器逐页取，暂不收录",
+      "rows": []
+    },
+    "usc": {
+      "name": "南加州大学",
+      "short": "USC",
+      "status": "pending",
+      "src": "https://www.usc.edu/academics/majors/",
+      "note": "官网专业目录为分页渲染（55 页），静态抓取只拿到首页 5 条，暂不收录",
+      "rows": []
+    },
+    "ucla": {
+      "name": "加州大学洛杉矶分校",
+      "short": "UCLA",
+      "status": "full",
+      "src": "https://admission.ucla.edu/apply/majors",
+      "note": "官网 Admission 专业页，按学院分组、学位取括号内标注",
+      "rows": [
+        [
+          "The College",
+          "African American Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "African and Middle Eastern Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "American Indian Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "American Literature and Culture",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Ancient Near East and Egyptology",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Anthropology",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Anthropology",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Arabic",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Art History",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Asian American Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Asian Humanities",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Asian Languages and Linguistics",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Asian Religions",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Asian Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Astrophysics",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Atmospheric and Oceanic Sciences",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Atmospheric and Oceanic Sciences/Mathematics",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Biochemistry",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Biology",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Business Economics",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Central and East European Languages and Cultures",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Chemistry",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Chemistry/Materials Science",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Chicana/o and Central American Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Chinese",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Classical Civilization",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Climate Science",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Cognitive Science",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Communication",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Comparative Literature",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Computational Biology",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Data Theory",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Digital Humanities",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Disability Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Earth and Environmental Science",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Ecology and Evolutionary Biology",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Economics",
+          "B.A."
+        ],
+        [
+          "The College",
+          "English",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Environmental Science",
+          "B.S."
+        ],
+        [
+          "The College",
+          "European Language and Transcultural Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "European Languages and Transcultural Studies with French and Francophone",
+          "B.A."
+        ],
+        [
+          "The College",
+          "European Languages and Transcultural Studies with German",
+          "B.A."
+        ],
+        [
+          "The College",
+          "European Languages and Transcultural Studies with Italian",
+          "B.A."
+        ],
+        [
+          "The College",
+          "European Languages and Transcultural Studies with Scandinavian",
+          "B.A."
+        ],
+        [
+          "The College",
+          "European Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Gender Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Geography",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Geography/Environmental Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Geology",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Geology/Engineering Geology",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Geophysics",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Global Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Greek",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Greek and Latin",
+          "B.A."
+        ],
+        [
+          "The College",
+          "History",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Human Biology and Society",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Human Biology and Society",
+          "B.S."
+        ],
+        [
+          "The College",
+          "International Development Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Iranian Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Japanese",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Jewish Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Korean",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Labor Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Latin",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Latin American Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Linguistics",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Linguistics and Anthropology",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Linguistics and Asian Languages and Cultures",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Linguistics and Computer Science",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Linguistics and English",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Linguistics and Philosophy",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Linguistics and Psychology",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Linguistics and Spanish",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Linguistics, Applied",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Marine Biology",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Mathematics",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Mathematics, Applied",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Mathematics/Applied Science",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Mathematics/Economics",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Mathematics, Financial Actuarial",
+          "B.S"
+        ],
+        [
+          "The College",
+          "Mathematics for Teaching",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Mathematics of Computation",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Microbiology, Immunology, and Molecular Genetics",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Middle Eastern Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Molecular, Cell, and Developmental Biology",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Neuroscience",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Nordic Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Philosophy",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Physics",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Physics",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Physiological Science",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Political Science",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Portuguese and Brazilian Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Psychobiology",
+          "B.S."
+        ],
+        [
+          "The College",
+          "Psychology",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Religion, Study of",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Russian Language and Literature",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Russian Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Sociology",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Southeast Asian Studies",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Spanish",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Spanish and Community and Culture",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Spanish and Linguistics",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Spanish and Portuguese",
+          "B.A."
+        ],
+        [
+          "The College",
+          "Statistics and Data Science",
+          "B.S."
+        ],
+        [
+          "School of the Arts and Architecture",
+          "Architectural Studies",
+          "B.A."
+        ],
+        [
+          "School of the Arts and Architecture",
+          "Art",
+          "B.A."
+        ],
+        [
+          "School of the Arts and Architecture",
+          "Dance",
+          "B.A."
+        ],
+        [
+          "School of the Arts and Architecture",
+          "World Arts and Cultures",
+          "B.A."
+        ],
+        [
+          "School of the Arts and Architecture",
+          "Individual Field of Concentration in the Arts and Architecture",
+          "B.A."
+        ],
+        [
+          "Samueli School of Engineering",
+          "Aerospace Engineering",
+          "B.S."
+        ],
+        [
+          "Samueli School of Engineering",
+          "Bioengineering",
+          "B.S."
+        ],
+        [
+          "Samueli School of Engineering",
+          "Chemical Engineering",
+          "B.S."
+        ],
+        [
+          "Samueli School of Engineering",
+          "Civil Engineering",
+          "B.S."
+        ],
+        [
+          "Samueli School of Engineering",
+          "Computer Engineering",
+          "B.S."
+        ],
+        [
+          "Samueli School of Engineering",
+          "Computer Science",
+          "B.S."
+        ],
+        [
+          "Samueli School of Engineering",
+          "Computer Science and Engineering",
+          "B.S."
+        ],
+        [
+          "Samueli School of Engineering",
+          "Electrical Engineering",
+          "B.S."
+        ],
+        [
+          "Samueli School of Engineering",
+          "Materials Engineering",
+          "B.S."
+        ],
+        [
+          "Samueli School of Engineering",
+          "Mechanical Engineering",
+          "B.S."
+        ],
+        [
+          "Herb Alpert School of Music",
+          "Ethnomusicology",
+          "B.A."
+        ],
+        [
+          "Herb Alpert School of Music",
+          "Global Jazz Studies",
+          "B.A."
+        ],
+        [
+          "Herb Alpert School of Music",
+          "Musicology",
+          "B.A."
+        ],
+        [
+          "Herb Alpert School of Music",
+          "Music Composition",
+          "B.A."
+        ],
+        [
+          "Herb Alpert School of Music",
+          "Music Education",
+          "B.A."
+        ],
+        [
+          "Herb Alpert School of Music",
+          "Music Industry",
+          "B.A."
+        ],
+        [
+          "Herb Alpert School of Music",
+          "Music Performance",
+          "B.M."
+        ],
+        [
+          "Joe C. Wen School of Nursing",
+          "Nursing - Prelicensure",
+          "B.S."
+        ],
+        [
+          "Luskin School of Public Affairs",
+          "Public Affairs",
+          "B.A."
+        ],
+        [
+          "School of Theater, Film and Television",
+          "Film and Television",
+          "B.A."
+        ],
+        [
+          "School of Theater, Film and Television",
+          "Theater",
+          "B.A."
+        ],
+        [
+          "School of Theater, Film and Television",
+          "Individual Field of Concentration in Theater, Film and Television",
+          "B.A."
+        ],
+        [
+          "School of Education and Information Studies",
+          "Education and Social Transformation",
+          "B.A."
+        ],
+        [
+          "Fielding School of Public Health",
+          "Public Health",
+          "B.A."
+        ],
+        [
+          "Fielding School of Public Health",
+          "Public Health",
+          "B.S."
+        ]
+      ]
+    },
+    "uw": {
+      "name": "华盛顿大学",
+      "short": "UW",
+      "status": "full",
+      "src": "https://www.washington.edu/students/gencat/degree_programs.html",
+      "note": "官网 General Catalog 学位项目目录",
+      "rows": [
+        [
+          "各学院",
+          "American Ethnic Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "American Indian Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Anthropology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Applied and Computational Mathematical Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Applied Mathematics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Art, Art History, and Design",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Asian Languages and Literature",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Astrobiology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Astronomy",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Chemistry",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Cinema and Media Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Classics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Communication",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Comparative History of Ideas",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Computer Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Dance",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Digital Arts and Experimental Media",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Disability Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Drama",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Economics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "English",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "French and Italian Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Gender, Women, and Sexuality Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "General Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Geography",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "German Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "History",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Integrated Social Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Law, Societies, and Justice",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Linguistics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Mathematics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Microbiology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Music",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Neuroscience",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Philosophy",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Physics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Political Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Psychology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Scandinavian Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Slavic Languages and Literatures",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Sociology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Spanish and Portuguese Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Speech and Hearing Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Statistics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Architecture",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Built Environments",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Construction Management",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Landscape Architecture",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Real Estate",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Urban Design and Planning",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Business",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Endodontics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Oral Health Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Oral Medicine",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Orthodontics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Periodontics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Restorative Dentistry",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Aeronautics and Astronautics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Chemical Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Civil and Environmental Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Computer Science and Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Electrical and Computer Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Industrial and Systems Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Materials Science and Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Mechanical Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Earth and Space Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Marine Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Computational Molecular Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Individual Interdisciplinary PhD",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Molecular and Cellular Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Molecular Engineering and Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Neural Computation and Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Neuroscience",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Science, Technology and Society",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Second and Foreign Language Teaching",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Statistical Genetics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Textual and Digital Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Bioengineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Global Health",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Anesthesiology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Biochemistry",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Bioethics and Humanities",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Biomedical Informatics and Medical Education",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Comparative Medicine",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Family Medicine",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Genome Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Health Metrics Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Immunology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Laboratory Medicine and Pathology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Microbiology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Neurological Surgery",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Neurology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Obstetrics and Gynecology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Ophthalmology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Orthopaedics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Otolaryngology - Head and Neck Surgery",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Pediatrics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Pharmacology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Psychiatry and Behavioral Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Radiation Oncology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Radiology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Rehabilitation Medicine",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Urology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Medicinal Chemistry",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Pharmaceutics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Biostatistics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Environmental and Occupational Health Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Epidemiology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Health Systems and Population Health",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Public Health Genetics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Education, Learning, and Society",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Marine Biology",
+          "BA/BS"
+        ]
+      ]
+    },
+    "nyu": {
+      "name": "纽约大学",
+      "short": "NYU",
+      "status": "partial",
+      "src": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/",
+      "note": "仅文理学院（CAS）专业；其余学院待补",
+      "rows": [
+        [
+          "文理学院",
+          "Africana Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "American Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Anthropology",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Anthropology and Classical Civilization",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Anthropology and Linguistics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Art History",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Asian/Pacific/American Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Biochemistry",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Biology",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Biology/Chemical and Biomolecular Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Biology/Dentistry (BA/DDS)",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Chemistry",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Chemistry",
+          "BS"
+        ],
+        [
+          "文理学院",
+          "Chemistry/Chemical and Biomolecular Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Cinema Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Classical Civilization",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Classical Civilization and Hellenic Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Classics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Classics and Art History",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Comparative Literature",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Computer Science",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Computer Science/Computer Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Computer Science/Electrical Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Computer and Data Science",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Data Science",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Data Science and Mathematics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Download Page (PDF)",
+          "BA/BS"
+        ],
+        [
+          "文理学院",
+          "Dramatic Literature, Theatre History, and Cinema",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "East Asian Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Economics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Economics and Computer Science",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Economics and Mathematics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "English and American Literature",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Environmental Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "European and Mediterranean Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "French",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "French and Linguistics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Gender and Sexuality Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "German",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "German and Linguistics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Global Public Health and Anthropology",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Global Public Health and History",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Global Public Health and Science",
+          "BS"
+        ],
+        [
+          "文理学院",
+          "Global Public Health and Sociology",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Hebrew and Judaic Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Hellenic Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "History",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "International Relations",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Italian",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Italian and Linguistics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Journalism",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Language and Mind",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Latin American and Caribbean Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Latino Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Linguistics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Mathematics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Mathematics and Computer Science",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Mathematics/Civil Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Mathematics/Computer Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Mathematics/Electrical Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Mathematics/Mechanical Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Medieval and Renaissance Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Middle Eastern Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Music",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Neural Science",
+          "BS"
+        ],
+        [
+          "文理学院",
+          "Philosophy",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Physics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Physics",
+          "BS"
+        ],
+        [
+          "文理学院",
+          "Physics/Civil Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Physics/Computer Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Physics/Electrical Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Physics/Mechanical Engineering",
+          "BS/BS"
+        ],
+        [
+          "文理学院",
+          "Politics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Psychology",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Public Policy",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Religious Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Romance Languages",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Russian and Slavic Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Social and Cultural Analysis",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Sociology",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Spanish and Linguistics",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Spanish and Portuguese",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Urban Design and Architecture Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Urban Studies and Anthropology",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Urban Studies and History",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Urban Studies and Social and Cultural Analysis",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Urban Studies and Sociology",
+          "BA"
+        ]
+      ]
+    },
+    "columbia": {
+      "name": "哥伦比亚大学",
+      "short": "Columbia",
+      "status": "partial",
+      "src": "https://bulletin.columbia.edu/columbia-college/departments-instruction/",
+      "note": "按 Columbia College 系目录收录，专业名以系为单位",
+      "rows": [
+        [
+          "Columbia College",
+          "African American Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "American Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Ancient Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Anthropology",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Archaeology",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Architecture",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Art History Archaeology",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Astronomy",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Biological Sciences",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Business",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Chemistry",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Classics",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Cognitive Science",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Colloquia Interdepartmental Seminars Professional School Offerings",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Comparative Literature Society",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Computer Science",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Creative Writing",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Dance",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Drama Theatre Arts",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Earth Environmental Sciences",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "East Asian Languages Cultures",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Ecology Evolution Environmental Biology",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Economics",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Education",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "English Comparative Literature",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Ethnicity Race Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Film Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "French Romance Philology",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Germanic Languages",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Global Affairs Public Policy",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "History Philosophy Science",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "History",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Human Rights",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Departments Instruction",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Italian",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Jazz Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Jewish Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Language Resource Center",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Latin American Caribbean Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Latin American Iberian Cultures",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Linguistics",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Mathematics",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Medieval Renaissance Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Middle Eastern South Asian African Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Music",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Philosophy",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Physical Education Intercollegiate Athletics",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Physics",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Political Science",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Psychology",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Public Health",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Regional Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Religion",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Search",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Slavic Languages",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Sociology",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Statistics",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Sustainable Development",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Urban Studies",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Visual Arts",
+          "BA"
+        ],
+        [
+          "Columbia College",
+          "Women's Gender Studies",
+          "BA"
+        ]
+      ]
+    },
+    "neu": {
+      "name": "东北大学",
+      "short": "NEU",
+      "status": "full",
+      "src": "https://catalog.northeastern.edu/",
+      "note": "官网 Catalog 本科项目页（按 -bs/-ba 路径提取，已剔除辅修）",
+      "rows": [
+        [
+          "艺术、媒体与设计学院",
+          "Architectural Studies",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Architectural Studies Design",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Architecture",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Architecture English",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Communication  Media Studies",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Communication Studies",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Communication Studies Design",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Communication Studies Sociology",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Communication Studies Speech Language Pathology",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Communication Studies Theatre",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Design",
+          "BFA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Design Mathematics",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Design Theatre",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Film Creative Media",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Game ART Animation",
+          "BFA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Game Design",
+          "BFA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Game Design Music Concentration Music Technology",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Journalism",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Journalism AND International Affairs",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Journalism Communication Studies",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Journalism Cultural Anthropology",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Journalism Design",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Journalism English",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Journalism Political Science",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Journalism Sociology",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Arts",
+          "BFA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Arts Communication Studies",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Screen Studies",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Screen Studies English",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Screen Studies History",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Screen Studies Journalism",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Screen Studies Media ART",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Screen Studies Philosophy",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Screen Studies Political Science",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Screen Studies Sociology",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Screen Studies Theatre",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Media Screen Studies Theatre",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Music",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Music Concentration Industry",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Music Concentration Music Technology",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Performance Extended Realities",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Public Relations",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Studio ART",
+          "BFA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Theatre",
+          "BA"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Theatre",
+          "BS"
+        ],
+        [
+          "艺术、媒体与设计学院",
+          "Theatre Journalism",
+          "BA"
+        ],
+        [
+          "商学院",
+          "Business Administration Communication Studies",
+          "BS"
+        ],
+        [
+          "商学院",
+          "Business Administration Criminal Justice",
+          "BS"
+        ],
+        [
+          "商学院",
+          "Business Administration Psychology",
+          "BS"
+        ],
+        [
+          "商学院",
+          "Business Administration Public Health",
+          "BS"
+        ],
+        [
+          "商学院",
+          "Design",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Artificial Intelligence",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Behavioral Neuroscience",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Biology",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Business Administration",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Cognitive Psychology",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Communication Studies",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Concentration Music Composition Technology",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Criminal Justice",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Design",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science English",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Environmental Sustainability Sciences",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Game Development",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science History",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Journalism",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Linguistics",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Mathematics",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Media Arts",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Music",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Philosophy",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Physics",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Political Science",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Politics Philosophy Economics",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Sociology",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Speech Language Pathology Audiology",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computer Science Theatre",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Computing LAW",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Cybersecurity",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Cybersecurity Business Administration",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Cybersecurity Criminal Justice",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Cybersecurity Economics",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Economics",
+          "BS"
+        ],
+        [
+          "计算机与信息科学学院",
+          "Interdisciplinary Studies",
+          "BS"
+        ],
+        [
+          "工程学院",
+          "Chemical Engineering Biochemistry",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Health Science",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Health Science Business Administration",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Health Science Communication Studies",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Health Science LAW",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Health Science Psychology",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Health Science Sociology",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Health Science Spanish",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Interdisciplinary Studies",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Pharmaceutical Sciences",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Public Health",
+          "BA"
+        ],
+        [
+          "健康科学学院",
+          "Public Health AND Communication Studies",
+          "BA"
+        ],
+        [
+          "健康科学学院",
+          "Public Health Cultural Anthropology",
+          "BA"
+        ],
+        [
+          "健康科学学院",
+          "Public Health Journalism",
+          "BA"
+        ],
+        [
+          "健康科学学院",
+          "Public Health LAW",
+          "BA"
+        ],
+        [
+          "健康科学学院",
+          "Public Health Sociology",
+          "BA"
+        ],
+        [
+          "健康科学学院",
+          "Speech Language Pathology Audiology",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Speech Language Pathology Audiology Behavioral Neuroscience",
+          "BS"
+        ],
+        [
+          "健康科学学院",
+          "Speech Language Pathology Audiology Human Services",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Applied Physics",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Behavioral Neuroscience",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Behavioral Neuroscience Design",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Behavioral Neuroscience Philosophy",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Biochemistry",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Biology",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Biology English",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Biology Mathematics",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Biology Political Science",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Biomedical Physics",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Cell Molecular Biology",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Chemistry",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Ecology Evolutionary Biology",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Environmental Studies",
+          "BA"
+        ],
+        [
+          "理学院",
+          "Environmental Studies History",
+          "BA"
+        ],
+        [
+          "理学院",
+          "Environmental Studies International Affairs",
+          "BA"
+        ],
+        [
+          "理学院",
+          "Environmental Studies Philosophy",
+          "BA"
+        ],
+        [
+          "理学院",
+          "Environmental Studies Political Science",
+          "BA"
+        ],
+        [
+          "理学院",
+          "Environmental Sustainability Sciences",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Environmental Sustainability Sciences Chemistry",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Environmental Sustainability Sciences Economics",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Environmental Sustainability Sciences Journalism",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Environmental Sustainability Sciences Landscape Architecture",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Interdisciplinary Studies",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Linguistics",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Linguistics Communication Studies",
+          "BA"
+        ],
+        [
+          "理学院",
+          "Linguistics Cultural Anthropology",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Linguistics English",
+          "BA"
+        ],
+        [
+          "理学院",
+          "Linguistics Psychology",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Linguistics Speech Language Pathology",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Marine Biology",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Mathematics",
+          "BA"
+        ],
+        [
+          "理学院",
+          "Mathematics",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Mathematics Business Administration",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Mathematics Philosophy",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Mathematics Physics",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Mathematics Political Science",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Mathematics Psychology",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Mathematics Sociology",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Physics",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Physics Music",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Physics Philosophy",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Psychology",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Psychology Design",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Psychology Music",
+          "BS"
+        ],
+        [
+          "理学院",
+          "Psychology Theatre",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Africana Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Africana Studies English",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Africana Studies Human Services",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Africana Studies Journalism",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Africana Studies Media AND Screen Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Africana Studies Political Science",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "American Sign Language English Interpreting",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "American Sign Language Human Services",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "American Sign Language Linguistics",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "American Sign Language Psychology",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "American Sign Language Theatre",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Criminal Justice Journalism",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Criminal Justice Philosophy",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Criminal Justice Political Science",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Criminal Justice Psychology",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Criminal Justice Sociology",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Criminology Criminal Justice",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Cultural Anthropology",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Cultural Anthropology",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Cultural Anthropology Philosophy",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Cultural Anthropology Religious Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Cultural Anthropology Theatre",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Economics",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Economics",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Economics Business Administration",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Economics Human Services",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Economics International Business",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Economics Journalism",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Economics Mathematics",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Economics Philosophy",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Economics Psychology",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "English",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "English Communication Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "English Criminal Justice",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "English Cultural Anthropology",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "English Design",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "English Philosophy",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "English Political Science",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "English Theatre",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Global Asian Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "History",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "History",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "History Asian Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "History Criminal Justice",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "History Cultural Anthropology",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "History Economics",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "History Economics",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "History English",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "History Philosophy",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "History Political Science",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "History Religious Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Human Services",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Human Services",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Human Services Communications",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Human Services Criminal Justice",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Human Services International Affairs",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Human Services Psychology",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Human Services Sociology",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Human Services Sociology",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "International Affairs",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "International Affairs Criminal Justice",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "International Affairs History",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "International Affairs International Business",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Jewish Studies Religion",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Philosophy",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Philosophy ",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science Business Administration",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science Communication Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science Communication Studies",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science Economics",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science Economics",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science Human Services",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science Human Services",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science International Affairs",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science Philosophy",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Political Science Philosophy",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Politics Philosophy Economics",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Politics Philosophy Economics Business Administration",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Religious Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Religious Studies Africana Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Sociology",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Sociology",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Sociology Cultural Anthropology",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Sociology Cultural Anthropology",
+          "BS"
+        ],
+        [
+          "社会科学与人文学院",
+          "Sociology Environmental Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Sociology International Affairs",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Sociology Philosophy",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Sociology Political Science",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Sociology Religious Studies",
+          "BA"
+        ],
+        [
+          "社会科学与人文学院",
+          "Spanish",
+          "BA"
+        ]
+      ]
+    },
+    "bu": {
+      "name": "波士顿大学",
+      "short": "BU",
+      "status": "partial",
+      "src": "https://www.bu.edu/academics/degree-programs/",
+      "note": "官网页分页，本轮收到 19 条（文理／计算与数据科学／商学等），其余待补",
+      "rows": [
+        [
+          "文理学院",
+          "Middle East North Africa Studies",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Science Education",
+          "BA"
+        ],
+        [
+          "文理学院",
+          "Neuroscience",
+          "BA"
+        ],
+        [
+          "计算与数据科学学院",
+          "Data Science",
+          "BS"
+        ],
+        [
+          "大都会学院",
+          "Art History",
+          "BLS"
+        ],
+        [
+          "大都会学院",
+          "Biology",
+          "BS"
+        ],
+        [
+          "大都会学院",
+          "Economics",
+          "BS"
+        ],
+        [
+          "大都会学院",
+          "English American Literature",
+          "BLS"
+        ],
+        [
+          "大都会学院",
+          "History",
+          "BLS"
+        ],
+        [
+          "大都会学院",
+          "Interdisciplinary Studies",
+          "BLS"
+        ],
+        [
+          "大都会学院",
+          "Interdisciplinary Studies",
+          "BS"
+        ],
+        [
+          "大都会学院",
+          "Mathematics",
+          "BS"
+        ],
+        [
+          "大都会学院",
+          "Psychology",
+          "BS"
+        ],
+        [
+          "Questrom 商学院",
+          "Undergrad",
+          "BS"
+        ],
+        [
+          "Sargent 健康与康复学院",
+          "Behavior And Health",
+          "BS"
+        ],
+        [
+          "Sargent 健康与康复学院",
+          "Health Science",
+          "BS"
+        ],
+        [
+          "酒店管理学院",
+          "Hospitality Communication",
+          "BS"
+        ],
+        [
+          "酒店管理学院",
+          "Chelor Of Science In Hospitality Administration",
+          "BS"
+        ],
+        [
+          "Wheelock 教育学院",
+          "Education Human Development",
+          "BS"
+        ]
+      ]
+    },
+    "ucb": {
+      "name": "加州大学伯克利分校",
+      "short": "UCB",
+      "status": "full",
+      "src": "https://guide.berkeley.edu/undergraduate/degree-programs/",
+      "note": "官网 Degree Programs 目录（含联合专业），学位多为 BA/BS",
+      "rows": [
+        [
+          "各学院",
+          "Aerospace Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Aerospace Engineering and Business Administration",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "African American Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "American Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Analytics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Ancient Greek and Roman Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Anthropology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Applied Language Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Applied Mathematics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Arabic",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Architecture",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Armenian Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Art History",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Art Practice",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Asian American and Asian Diaspora Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Astrophysics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Atmospheric Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Bioengineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Bioengineering and Business Administration",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Bioengineering/Materials Science and Engineering Joint Major",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Buddhist Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Business Administration",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Celtic Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Chemical Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Chemical Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Chemical Engineering / Materials Science & Engineering Joint Major",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Chemical Engineering / Nuclear Engineering Joint Major",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Chemistry",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Chicanx Latinx Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Chinese Language",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "City Planning",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Civil Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Civil Engineering and Business Administration",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Climate Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Cognitive Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Comparative Literature",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Computer Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Conservation and Resource Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Creative Writing",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Dance and Performance Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Data Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Demography",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Digital Humanities",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Disability Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Dutch Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "EECS & Business Administration",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "EECS / Materials Science & Engineering Joint Major",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "EECS / Nuclear Engineering Joint Major",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Earth and Planetary Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "East Asian Humanities",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "East Asian Religion, Thought and Culture",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "East European/Eurasian Languages and/or Cultures",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Economics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Ecosystem Management and Forestry",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Education",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Electrical Engineering & Computer Sciences (EECS)",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Electronic Intelligent Systems",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Energy Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Energy and Resources",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Engineering Mathematics and Statistics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Engineering Physics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "English",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Entrepreneurship & Technology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Environmental Design & Urbanism in Developing Countries",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Environmental Earth Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Environmental Economics and Policy",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Environmental Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Environmental Engineering Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Environmental Sciences",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Ethnic Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Film & Media",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Food Systems",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "French",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Gender and Women's Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Genetics and Plant Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Geography",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Geology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Geophysics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Geospatial Information Science and Technology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Geotechnical Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "German",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Global Poverty and Practice",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Global Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Greek",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Greek and Latin",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Health and Wellness",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Hebrew",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Hispanic Languages, Linguistics, and Bilingualism",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "History",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "History of the Built Environment",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Human Rights Interdisciplinary",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Industrial Engineering & Operations Research",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Industrial Engineering & Operations Research & Business Administration",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Integrative Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Interdisciplinary Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Israel Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Italian Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Japanese Language",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Jewish Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Journalism",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Korean Language",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Landscape Architecture",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Latin",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Legal Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Lesbian, Gay, Bisexual, & Transgender Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Life Sciences, Business, and Entrepreneurship",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Linguistics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Logic",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Marine Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Materials Science & Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Materials Science & Engineering / Mechanical Engineering Joint Major",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Materials Science & Engineering / Nuclear Engineering Joint Major",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Materials Science & Engineering and Business Administration",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Mathematics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Mechanical Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Mechanical Engineering & Business Administration",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Mechanical Engineering / Nuclear Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Media Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Medieval Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Microbial Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Middle Eastern Languages & Cultures",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Molecular Environmental Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Molecular and Cell Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Music",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Native American Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Neuroscience",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "New Media",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Nuclear Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Nutritional & Metabolic Biology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Nutritional Sciences: Physiology & Metabolism",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Nutritional Sciences: Toxicology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Persian",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Philosophy",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Physics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Planetary Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Political Economy",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Political Science",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Politics, Philosophy, and Law",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Portuguese Language, Lit, & Cultures",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Professional Accountancy",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Psychology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Public Health",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Public Policy",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Race and the Law",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Rhetoric",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Russian Culture",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Russian Language",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Russian Literature",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Scandinavian",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Science and Math Education",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Science, Technology, and Society",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Slavic Languages and Literatures",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Social Welfare",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Society and Environment",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Sociology",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "South and Southeast Asian Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Spanish Languages, Literatures, & Cultures",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Spanish and Portuguese",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Statistics",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Structural Engineering",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Sustainable Business and Policy",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Sustainable Design",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Sustainable Environmental Design",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Theater and Performance Studies",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Tibetan",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Turkish",
+          "BA/BS"
+        ],
+        [
+          "各学院",
+          "Urban Studies",
+          "BA/BS"
+        ]
+      ]
+    },
+    "ucsd": {
+      "name": "加州大学圣地亚哥分校",
+      "short": "UCSD",
+      "status": "full",
+      "src": "https://catalog.ucsd.edu/undergraduate/degrees-offered/index.html",
+      "note": "官网 Catalog「Undergraduate Degrees Offered」，按系分组",
+      "rows": [
+        [
+          "Anthropology",
+          "Anthropological (Archaeology)",
+          "BA"
+        ],
+        [
+          "Anthropology",
+          "Anthropology (Biological Anthropology)",
+          "BA"
+        ],
+        [
+          "Anthropology",
+          "Anthropology (Climate Change and Human Solutions)",
+          "BA"
+        ],
+        [
+          "Anthropology",
+          "Anthropology (Sociocultural Anthropology)",
+          "BA"
+        ],
+        [
+          "Anthropology",
+          "Biological Anthropology",
+          "BS"
+        ],
+        [
+          "Bioengineering (be)",
+          "Bioengineering",
+          "BS"
+        ],
+        [
+          "Bioengineering (be)",
+          "Bioengineering: Biotechnology",
+          "BS"
+        ],
+        [
+          "Bioengineering (be)",
+          "Bioengineering: Bioinformatics",
+          "BS"
+        ],
+        [
+          "Bioengineering (be)",
+          "Bioengineering: BioSystems",
+          "BS"
+        ],
+        [
+          "Biological Sciences, School OF",
+          "General Biology",
+          "BS"
+        ],
+        [
+          "Biological Sciences, School OF",
+          "Biology with a Specialization in Bioinformatics",
+          "BS"
+        ],
+        [
+          "Biological Sciences, School OF",
+          "Ecology, Behavior, and Evolution",
+          "BS"
+        ],
+        [
+          "Biological Sciences, School OF",
+          "Human Biology",
+          "BS"
+        ],
+        [
+          "Biological Sciences, School OF",
+          "Microbiology",
+          "BS"
+        ],
+        [
+          "Biological Sciences, School OF",
+          "Molecular and Cell Biology",
+          "BS"
+        ],
+        [
+          "Biological Sciences, School OF",
+          "Neurobiology",
+          "BS"
+        ],
+        [
+          "Chemistry AND Biochemistry",
+          "Chemistry",
+          "BS"
+        ],
+        [
+          "Chemistry AND Biochemistry",
+          "Chemistry with Specialization in Earth Sciences",
+          "BS"
+        ],
+        [
+          "Chemistry AND Biochemistry",
+          "Biochemistry",
+          "BS"
+        ],
+        [
+          "Chemistry AND Biochemistry",
+          "Environmental Chemistry",
+          "BS"
+        ],
+        [
+          "Chemistry AND Biochemistry",
+          "Molecular Synthesis",
+          "BS"
+        ],
+        [
+          "Chemistry AND Biochemistry",
+          "Pharmacological Chemistry",
+          "BS"
+        ],
+        [
+          "Chemistry AND Biochemistry",
+          "Bioinformatics",
+          "BS"
+        ],
+        [
+          "Cognitive Science",
+          "Cognitive Science",
+          "BA/BS"
+        ],
+        [
+          "Cognitive Science",
+          "Cognitive Science with Specialization in Clinical Aspects of Cognition",
+          "BS"
+        ],
+        [
+          "Cognitive Science",
+          "Cognitive Science with Specialization in Design and Interaction",
+          "BS"
+        ],
+        [
+          "Cognitive Science",
+          "Cognitive Science with Specialization in Machine Learning and Neural Computation",
+          "BS"
+        ],
+        [
+          "Cognitive Science",
+          "Cognitive Science with Specialization in Neuroscience",
+          "BS"
+        ],
+        [
+          "Cognitive Science",
+          "Cognitive Science with Specialization in Language and Culture",
+          "BS"
+        ],
+        [
+          "Cognitive Science",
+          "Cognitive and Behavioral Neuroscience",
+          "BS"
+        ],
+        [
+          "Communication",
+          "Communication",
+          "BA"
+        ],
+        [
+          "Computer Science AND Engineering (cse)",
+          "Computer Science",
+          "BS"
+        ],
+        [
+          "Computer Science AND Engineering (cse)",
+          "Computer Engineering",
+          "BS"
+        ],
+        [
+          "Computer Science AND Engineering (cse)",
+          "Computer Science with Specialization in Bioinformatics",
+          "BS"
+        ],
+        [
+          "Economics",
+          "Economics",
+          "BA"
+        ],
+        [
+          "Economics",
+          "Joint Economics-Mathematics",
+          "BS"
+        ],
+        [
+          "Education Studies",
+          "Education Sciences",
+          "BS"
+        ],
+        [
+          "Electrical AND Computer Engineering (ece)",
+          "Computer Engineering",
+          "BS"
+        ],
+        [
+          "Electrical AND Computer Engineering (ece)",
+          "Electrical Engineering",
+          "BS"
+        ],
+        [
+          "Electrical AND Computer Engineering (ece)",
+          "Electrical Engineering and Society",
+          "BA"
+        ],
+        [
+          "Electrical AND Computer Engineering (ece)",
+          "Engineering Physics",
+          "BS"
+        ],
+        [
+          "Ethnic Studies",
+          "Ethnic Studies",
+          "BA"
+        ],
+        [
+          "Ethnic Studies",
+          "Data Science",
+          "BS"
+        ],
+        [
+          "History",
+          "History",
+          "BA"
+        ],
+        [
+          "Linguistics",
+          "Linguistics (Cognition and Language)",
+          "BA"
+        ],
+        [
+          "Linguistics",
+          "Linguistics (Language and Society)",
+          "BA"
+        ],
+        [
+          "Linguistics",
+          "Linguistics (Speech and Language Sciences)",
+          "BA"
+        ],
+        [
+          "Linguistics",
+          "Language Studies",
+          "BA"
+        ],
+        [
+          "Linguistics",
+          "Linguistics",
+          "BA"
+        ],
+        [
+          "Literature",
+          "Literatures in English",
+          "BA"
+        ],
+        [
+          "Literature",
+          "Literatures in Spanish",
+          "BA"
+        ],
+        [
+          "Literature",
+          "Literature/Writing",
+          "BA"
+        ],
+        [
+          "Literature",
+          "World Literature and Culture",
+          "BA"
+        ],
+        [
+          "Mathematics",
+          "Mathematics",
+          "BS"
+        ],
+        [
+          "Mathematics",
+          "Mathematics (Applied)",
+          "BS"
+        ],
+        [
+          "Mathematics",
+          "Mathematics—Computer Science",
+          "BS"
+        ],
+        [
+          "Mathematics",
+          "Mathematics—Applied Science",
+          "BS"
+        ],
+        [
+          "Mathematics",
+          "Joint Mathematics-Economics",
+          "BS"
+        ],
+        [
+          "Mathematics",
+          "Mathematics—Secondary Education",
+          "BA"
+        ],
+        [
+          "Mathematics",
+          "Probability and Statistics",
+          "BS"
+        ],
+        [
+          "Mechanical AND Aerospace Engineering (mae)",
+          "Aerospace Engineering",
+          "BS"
+        ],
+        [
+          "Mechanical AND Aerospace Engineering (mae)",
+          "Mechanical Engineering",
+          "BS"
+        ],
+        [
+          "Mechanical AND Aerospace Engineering (mae)",
+          "Mechanical Engineering with a Specialization in Controls and Robotics",
+          "BS"
+        ],
+        [
+          "Mechanical AND Aerospace Engineering (mae)",
+          "Mechanical Engineering with a Specialization in Fluid Mechanics and Thermal Systems",
+          "BS"
+        ],
+        [
+          "Mechanical AND Aerospace Engineering (mae)",
+          "Mechanical Engineering with a Specialization in Materials Science and Engineering",
+          "BS"
+        ],
+        [
+          "Mechanical AND Aerospace Engineering (mae)",
+          "Mechanical Engineering with a Specialization in Mechanics of Materials",
+          "BS"
+        ],
+        [
+          "Mechanical AND Aerospace Engineering (mae)",
+          "Mechanical Engineering with a Specialization in Renewable Energy and Environmental Flows",
+          "BS"
+        ],
+        [
+          "Music",
+          "Interdisciplinary Computing and the Arts",
+          "BA"
+        ],
+        [
+          "Music",
+          "Music",
+          "BA"
+        ],
+        [
+          "Music",
+          "Music/Humanities",
+          "BA"
+        ],
+        [
+          "Nanoengineering (ne)",
+          "Chemical Engineering",
+          "BS"
+        ],
+        [
+          "Nanoengineering (ne)",
+          "Nanoengineering",
+          "BS"
+        ],
+        [
+          "Philosophy",
+          "Philosophy",
+          "BA"
+        ],
+        [
+          "Physics",
+          "General Physics",
+          "BA"
+        ],
+        [
+          "Physics",
+          "General Physics/Secondary Education",
+          "BA"
+        ],
+        [
+          "Physics",
+          "Physics",
+          "BS"
+        ],
+        [
+          "Physics",
+          "Physics/Biophysics",
+          "BS"
+        ],
+        [
+          "Physics",
+          "Physics with Specialization in Computational Physics",
+          "BS"
+        ],
+        [
+          "Physics",
+          "Physics with Specialization in Earth Sciences",
+          "BS"
+        ],
+        [
+          "Physics",
+          "Physics with Specialization in Materials Physics",
+          "BS"
+        ],
+        [
+          "Physics",
+          "Physics with Specialization in Astrophysics",
+          "BS"
+        ],
+        [
+          "Political Science",
+          "Political Science",
+          "BA"
+        ],
+        [
+          "Political Science",
+          "Political Science (American Politics)",
+          "BA"
+        ],
+        [
+          "Political Science",
+          "Political Science (Comparative Politics)",
+          "BA"
+        ],
+        [
+          "Political Science",
+          "Political Science (International Relations)",
+          "BA"
+        ],
+        [
+          "Political Science",
+          "Political Science (Political Theory)",
+          "BA"
+        ],
+        [
+          "Political Science",
+          "Political Science (Public Law)",
+          "BA"
+        ],
+        [
+          "Political Science",
+          "Political Science (Public Policy)",
+          "BA"
+        ],
+        [
+          "Political Science",
+          "Political Science (Race, Ethnicity, and Politics)",
+          "BA"
+        ],
+        [
+          "Psychology",
+          "Business Psychology",
+          "BS"
+        ],
+        [
+          "Psychology",
+          "Cognitive and Behavioral Neuroscience Bachelor of Science",
+          "BS"
+        ],
+        [
+          "Psychology",
+          "Psychology",
+          "BA"
+        ],
+        [
+          "Psychology",
+          "Psychology",
+          "BS"
+        ],
+        [
+          "Psychology",
+          "Psychology Bachelor of Science with a Specialization in Clinical Psychology",
+          "BS"
+        ],
+        [
+          "Psychology",
+          "Psychology Bachelor of Science with a Specialization in Cognitive Psychology",
+          "BS"
+        ],
+        [
+          "Psychology",
+          "Psychology Bachelor of Science with a Specialization in Developmental Psychology",
+          "BS"
+        ],
+        [
+          "Psychology",
+          "Psychology Bachelor of Science with a Specialization in Human Health",
+          "BS"
+        ],
+        [
+          "Psychology",
+          "Psychology Bachelor of Science with a Specialization in Sensation and Perception",
+          "BS"
+        ],
+        [
+          "Psychology",
+          "Psychology Bachelor of Science with a Specialization in Social Psychology",
+          "BS"
+        ],
+        [
+          "Public Health",
+          "Public Health",
+          "BS"
+        ],
+        [
+          "Public Health",
+          "Public Health with Concentration in Biostatistics",
+          "BS"
+        ],
+        [
+          "Public Health",
+          "Health with Concentration in Medicine Sciences",
+          "BS"
+        ],
+        [
+          "Scripps Institution OF Oceanography",
+          "Geosciences",
+          "BS"
+        ],
+        [
+          "Scripps Institution OF Oceanography",
+          "Marine Biology",
+          "BS"
+        ],
+        [
+          "Scripps Institution OF Oceanography",
+          "Oceanic and Atmospheric Sciences",
+          "BS"
+        ],
+        [
+          "Sociology",
+          "Sociology",
+          "BA"
+        ],
+        [
+          "Sociology",
+          "Sociology—International Studies",
+          "BA"
+        ],
+        [
+          "Sociology",
+          "Sociology—American Studies",
+          "BA"
+        ],
+        [
+          "Sociology",
+          "Sociology—Science and Medicine",
+          "BA"
+        ],
+        [
+          "Sociology",
+          "Sociology—Economy and Society",
+          "BA"
+        ],
+        [
+          "Sociology",
+          "Sociology—Culture and Communication",
+          "BA"
+        ],
+        [
+          "Sociology",
+          "Sociology—Social Inequity",
+          "BA"
+        ],
+        [
+          "Sociology",
+          "Sociology—Law and Society",
+          "BA"
+        ],
+        [
+          "Structural Engineering (se)",
+          "Structural Engineering",
+          "BS"
+        ],
+        [
+          "Theatre",
+          "Dance",
+          "BA"
+        ],
+        [
+          "Theatre",
+          "Theatre",
+          "BA"
+        ],
+        [
+          "Urban Studies AND Planning",
+          "Urban Studies and Planning",
+          "BA"
+        ],
+        [
+          "Visual Arts",
+          "Visual Arts (Art History/Criticism)",
+          "BA"
+        ],
+        [
+          "Visual Arts",
+          "Visual Arts (Media)",
+          "BA"
+        ],
+        [
+          "Visual Arts",
+          "Visual Arts (Studio)",
+          "BA"
+        ],
+        [
+          "Visual Arts",
+          "Interdisciplinary Computing and the Arts",
+          "BA"
+        ],
+        [
+          "Visual Arts",
+          "Speculative Design",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Chinese Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Classical Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "College Special Individual Majors",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Critical Gender Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Environmental Systems—Earth Sciences",
+          "BS"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Environmental Systems—Ecology, Behavior and Evolution",
+          "BS"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Environmental Systems—Environmental Chemistry",
+          "BS"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Environmental Systems—Environmental Policy",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "German Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Global Health",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Global Health",
+          "BS"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Global South Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Human Developmental Sciences",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Human Developmental Sciences",
+          "BS"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Human Developmental Sciences with a Specialization in Equity and Diversity",
+          "BS"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Human Developmental Sciences with a Specialization in Healthy Aging",
+          "BS"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "International Studies—Anthropology",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "International Studies—Economics",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "International Studies—History",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "International Studies—International Business",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "International Studies—Linguistics",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "International Studies—Literature",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "International Studies—Philosophy",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "International Studies—Political Science",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "International Studies—Sociology",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Italian Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Japanese Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Jewish Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Latin American Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Latin American Studies with a Concentration in Mexico",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Latin American Studies with a Concentration in Migration and Border Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Real Estate and Development",
+          "BS"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Russian, East European, and Eurasian Studies",
+          "BA"
+        ],
+        [
+          "Interdisciplinary Majors",
+          "Study of Religion",
+          "BA"
+        ]
+      ]
+    },
+    "penn": {
+      "name": "宾夕法尼亚大学",
+      "short": "Penn",
+      "status": "pending",
+      "src": "https://catalog.upenn.edu/",
+      "rows": [],
+      "note": "官网专业目录本轮未抓，四大学院（文理、工程、Wharton、护理）专业逐条待抄"
+    },
+    "purdue": {
+      "name": "普渡大学",
+      "short": "Purdue",
+      "status": "pending",
+      "src": "https://catalog.purdue.edu/",
+      "rows": [],
+      "note": "官网专业目录本轮未抓，各学院专业逐条待抄"
+    }
+  },
+  "MAJL": {
+    "ucsb": {
+      "colleges": {
+        "文理学院": [
+          {
+            "g": "system",
+            "k": "学分与全职线",
+            "tag": "本院",
+            "v": "文理学院建议每季 12–16 units；少于 12 units 的选课单须经文学院院长（Dean of Undergraduate Education）批准。学院每两个常规学期查一次 MCP（最低累计进度），未达标进 MCP Probation，连续两次未达标可能被取消资格。",
+            "l": "https://catalog.ucsb.edu/pages/zGeZk3QIyoeM7jFJeLRu"
+          },
+          {
+            "g": "prep",
+            "mode": "add",
+            "k": "转专业流程",
+            "tag": "本院",
+            "v": "多数情况系里批准即可；系批准后等学院（L&S）审批约 4–6 周，通过后 GOLD 自动更新。少数情形需本科学院院长（Dean of Undergraduate Education）批。",
+            "l": "https://www.duels.ucsb.edu/petitions/change-majorcollege-process"
+          }
+        ],
+        "工程学院": [
+          {
+            "g": "system",
+            "k": "学分与全职线",
+            "tag": "本院",
+            "v": "工程各专业为 BS，毕业学分普遍高于 180 units，按入学校历年的 curriculum sheet 计；最后 45 units 中至少 35 units 须在本学院完成（UC Extension 不算住校）。",
+            "l": "https://engineering.ucsb.edu/undergraduate/academic-advising/undergraduate-requirements"
+          },
+          {
+            "g": "prep",
+            "mode": "add",
+            "k": "工程排课起点",
+            "tag": "本院",
+            "v": "先修链从第一学期开始（微积分、物理、化学），排课按 curriculum sheet 顺序走；转入工程需系里审批，热门专业另设 GPA 门槛。",
+            "l": "https://engineering.ucsb.edu/undergraduate/majors-programs"
+          },
+          {
+            "g": "office",
+            "mode": "add",
+            "k": "两类学术顾问",
+            "tag": "本院",
+            "v": "工程学生有两类专业顾问：Major Advisor 管专业要求与选课，College Advisor 管其余学业事务；转学院或转专业请约本专业的 major advisor，不要约 College Advisor。",
+            "l": "https://engineering.ucsb.edu/undergraduate/academic-advising"
+          }
+        ],
+        "创意研究学院": [
+          {
+            "g": "prep",
+            "mode": "add",
+            "k": "CCS 入学方式",
+            "tag": "本院",
+            "v": "创意研究学院须单独提交申请；学位同时受 university、college 与 major 三套要求约束，各专业有单独的 major sheet（PDF）。",
+            "l": "https://catalog.ucsb.edu/pages/yvOaPEegKjFLarzjiGfZ"
+          }
+        ]
+      },
+      "majors": {
+        "Computer Science": [
+          {
+            "g": "prep",
+            "mode": "add",
+            "k": "CS 申报门槛",
+            "tag": "本专业",
+            "v": "转入或申报计算机科学：UCSB 累计 GPA ≥3.0；CS 16、24、40（可用 MATH 8 替代）三门累计 ≥3.2；MATH 3A&3B、4A&4B 累计 ≥3.0。用于申报的转学分课程须 B 及以上。",
+            "l": "https://www.cs.ucsb.edu/education/undergraduate/prospective-students"
+          }
+        ],
+        "Economics": [
+          {
+            "g": "prep",
+            "mode": "add",
+            "k": "经济学申报门槛",
+            "tag": "本专业",
+            "v": "先修 ECON 1、2、10A 的 GPA ≥2.85 才可申报 full major；只计在 UC 校区修的课。经济系设 Economics（BA）与 Economics & Accounting（BA）两个专业。",
+            "l": "https://www.econ.ucsb.edu/programs/undergraduate/prospective"
+          }
+        ],
+        "Biological Sciences": [
+          {
+            "g": "prep",
+            "mode": "add",
+            "k": "生物申报门槛",
+            "tag": "本专业",
+            "v": "二年级末申报 full major：完成 11 门先修课且 UC GPA ≥2.0；其中 MCDB 1A/1B、EEMB 2/3 各需 ≥2.0，实验课 MCDB 1LL 与 EEMB 2LL 亦需 ≥2.0。",
+            "l": "https://undergrad.biology.ucsb.edu/current"
+          },
+          {
+            "g": "gpa",
+            "mode": "add",
+            "k": "生物专业 GPA",
+            "tag": "本专业",
+            "v": "高年级专业课程与全部专业课程（先修＋高年级）UC 平均 ≥2.0。",
+            "l": "https://catalog.ucsb.edu/programs/BSPRBIO/program-requirements-kn5uw"
+          }
+        ]
+      }
+    }
+  }
+}

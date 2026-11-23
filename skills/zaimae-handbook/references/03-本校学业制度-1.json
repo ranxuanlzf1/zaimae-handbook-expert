@@ -1,0 +1,1737 @@
+{
+  "SCHOOL": {
+    "usma": {
+      "short": "美国军事学院（西点军校）",
+      "place": "西点 · West Point, NY 10996（USMA）",
+      "cityKey": "westpoint",
+      "calShort": "按四年制军校学年排课；2026 秋 8 月 17 日开课，2027 春 1 月 5 日开课。",
+      "calendar": "2026 夏：Cadet Leader Development Jun 19–21；Cadet Basic Training Jun 21–Aug 9；I-Day Aug 10。Fall 2026：8 月 17 日开课；Founders Day 9 月 17 日；秋假 10 月 12–13 日；感恩节假 11 月 25–29 日；学期 12 月 17 日结束；冬假 12 月 18 日–1 月 4 日。Spring 2027：1 月 5 日开课；春假 3 月 20–28 日；学期 5 月 28 日结束；毕业典礼 5 月 29 日；夏季项目 5 月 28 日–8 月 8 日；下届 BLD 2027 年 6 月 17–19 日。",
+      "fulltime": "全体 cadet 为四年制全日制军事学员；课程、体能训练、队列与纪律要求绑定注册；学分与年级晋升按军校学术与体能标准执行。",
+      "drop": "退课、请假与淘汰/转校按军校学术、体能与纪律程序办理；普通高校的 W/退课规则不适用；相关决定由学院学术与军事主管部门审定。",
+      "ins1": "学员学费、住宿、伙食由军队承担；医疗与牙科由军队卫生体系覆盖，不在外购学生健康保险计划；入学前须通过 DoDMERB 体检合格。",
+      "ins2": "医疗与牙科服务在 Keller Army Community Hospital、Mologne Cadet Health Clinic 与 Saunders Dental Clinic；学员事务与福利见 Cadet Wellness 页面。",
+      "ins3": "不适用普通保险豁免流程；个人补充商业保险非强制；家属与访客医疗安排另按军队医院与地方医疗体系办理。",
+      "clinic": "Mologne Cadet Health Clinic 处理学员日常医疗，Saunders Dental Clinic 处理牙科，Keller Army Community Hospital 为基地医院；紧急情况联系军校警卫值班，校外拨 911。",
+      "commute": "校园在 Hudson River 西岸 Orange County 高地，607 Cullum Road；经 Route 9W 与 Route 218 进入 Thayer Gate；不设走读学员，全体住校内营房。",
+      "scene": "学院 1802 年设立，为美国陆军联邦军校；约 4,300 名 cadet 完成四年本科教育，毕业授现役陆军军官；录取须国会提名并通过 DoDMERB 体检；免学费、住宿与伙食，学员每月领取津贴。",
+      "safety": "军校由 Military Police / 基地安保体系管理，校门（Thayer Gate、Stony Lonesome Gate）与 Visitor Control Center 查验身份；访客通行与车辆限制见 Gateway for Visitors 页面；校外归 Orange County 警与 911 体系。",
+      "transit": "校内营房、教学楼与体育设施步行通行；到访与探亲经 Route 9W/218；公共交通有限，铁路接驳 Metro-North Hudson Line 至 Beacon/Tarrytown 后驾车，详见城市页。",
+      "rentnote": "全体学员住校内营房（barracks），统一伙食（mess hall），无校外租房选项；住宿、伙食与制服由军队承担，不按普通大学房租合同办理；学员津贴按年级发放。",
+      "link": {
+        "cal": [
+          "https://www.westpoint.edu/about/academic-calendar?navigMW=mm",
+          "军校学年校历"
+        ],
+        "ins": [
+          "https://www.westpoint.edu/cadet-journey/cadet-wellness",
+          "Cadet Wellness 医疗福利"
+        ],
+        "police": [
+          "https://www.westpoint.edu/gateway-for-visitors",
+          "访客门禁与安保"
+        ],
+        "housing": [
+          "https://www.westpoint.edu/admissions/tuition-and-service-commitment",
+          "学费与服役义务"
+        ],
+        "clinic": [
+          "https://www.westpoint.edu/cadet-journey/cadet-wellness",
+          "学员医疗与牙科"
+        ],
+        "transit": [
+          "https://www.westpoint.edu/gateway-for-visitors/directions-and-road-conditions",
+          "到校路线与道路条件"
+        ]
+      }
+    },
+    "poly": {
+      "short": "纽约州立大学理工学院",
+      "place": "尤蒂卡 · 100 Seymour Road, Utica, NY 13502（另有 Rome 校区，落点见分片）",
+      "cityKey": "utica",
+      "calShort": "两学期制；2026 年秋学期 8 月 24 日开课，2027 春季学期 1 月 19 日开课。",
+      "calendar": "2026 秋季学期：8 月 24 日开课；其余结课、考试与毕业日期见 Registrar 校历。2027 春季学期：1 月 19 日开课；春假 3 月 14–21 日；4 月 30 日结课；5 月 3–6 日期末考；5 月 8 日毕业典礼；成绩 5 月 11 日截止录入。",
+      "fulltime": "注册达到每学期 12 学分及以上即按全日制计；工程、健康科学与商学院各专业有先修课与学分上限要求；减修、请假与豁免走项目顾问和 Registrar。",
+      "drop": "加退与 W 截止按 Registrar 校历节点办理；退课退费依据 Student Accounts liability schedule 按比例折算；专业必修课退课须经顾问签字；Rome 校区课程安排见学院通知。",
+      "ins1": "注册学生均须维持有效健康保险；持 F-1/J-1 国际学生按 ISS 指引办理保险或提交可比保单证明；免疫与健康材料交 Wellness Center。",
+      "ins2": "保险、签证与到校咨询找 International Student Services，315-792-7524，ISS@SUNYPoly.edu，周一至周五 8:30–16:30。",
+      "ins3": "替代保单经 ISS/Wellness Center 核验；保额、承保方及豁免窗口期以当期通知为准；未通过核验按学校规定处理。",
+      "clinic": "Wellness Center，Campus Center 217 室，315-792-7172，wellnesscenter@sunypoly.edu，学期内周一至周五 8:30–16:30；课后紧急拨校警后夜班电话（见 EHS/安全页面），校外拨 911。",
+      "commute": "主校区在 Utica 100 Seymour Road；另有 Rome 校区；接 Route 12 与 Utica 近郊公路；校园位于山坡林地，宿舍区在 Residential Drive 一带。",
+      "scene": "学院前身 1966 年设立的 Upper Division College at Herkimer/Rome/Utica，2014 年由 CNSE 与 SUNYIT 合并为 SUNY Poly；设 Arts & Sciences、Business、Engineering、Health Sciences 四个学院；在校生 3,000 人以上，师生比约 13.6:1；体育校队称 Wildcats。",
+      "safety": "University Police 提供 24 小时值守，后夜班紧急电话见环境健康与安全报告页面；校园照明路径、应急电话与安全提示经校方公告；校外归 Utica 警方与 911 体系。",
+      "transit": "校内步行连通 Campus Center、宿舍与各教学楼；出城经公路接 Utica 市区；长途铁路靠 Amtrak Empire Service 的 Utica Union Station，详见城市页。",
+      "rentnote": "Residential Life & Housing，Hilltop 办公点 315-792-7810，reslife@sunypoly.edu；宿舍含 Adirondack、Mohawk、Hilltop 等楼群；单人间 $5,600、双人间 $4,954；一年级强制餐计划，Wildcat Hospitality 提供三餐；邮寄地址 755 Residential Drive, Utica, NY 13502；校外租 Utica/Rome 社区，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.sunypoly.edu/student-life/student-resources/registrar/academic-calendars.html",
+          "校历"
+        ],
+        "ins": [
+          "https://www.sunypoly.edu/student-life/student-resources/student-handbook.html",
+          "学生手册（保险与健康要求）"
+        ],
+        "police": [
+          "https://www.sunypoly.edu/environmental-health-safety/report.html",
+          "环境健康安全与警务"
+        ],
+        "housing": [
+          "https://www.sunypoly.edu/student-life/housing-dining/residential-life.html",
+          "住宿生活"
+        ],
+        "clinic": [
+          "https://www.sunypoly.edu/student-life/student-resources/wellness-center/health-requirements-medical-insurance-information.html",
+          "Wellness Center 健康与保险"
+        ],
+        "transit": [
+          "https://sunypoly.edu/iss/international-student-services/faqs.html",
+          "ISS 资源与到校信息"
+        ]
+      }
+    },
+    "maritime": {
+      "short": "纽约州立大学海事学院",
+      "place": "布朗克斯 · 6 Pennyfield Avenue, Throgs Neck, Bronx, NY 10465",
+      "cityKey": "throggsneck",
+      "calShort": "军校式学期安排；2026 年秋季段 8 月 24 日开课，2027 春季段 12 月 14 日接续开始。",
+      "calendar": "2026 年秋季：8 月 24 日开课；12 月 7 日当周为 USCG License Exam Week；12 月 14 日 Spring 2027 段接续开始；2027 年 1 月 4 日为校历标注节点；其余结课、考试与毕业日期以 Registrar 当期通知与校历为准。学院实行 regimental 日程，含夏季 Sea Term 与航海实训，训练船安排见 Regimental Affairs 页面。",
+      "fulltime": "全体 cadet 按全日制注册；专业课程、航海实训与 regimental 考勤绑定；学分上限、减修与请假须经 Regimental Affairs 与项目顾问批准。",
+      "drop": "退课与请假按 Registrar 表格（Drop/Add、Withdrawal Form）办理；regimental 生活与训练义务不随退课免除；退费按 Student Accounts liability schedule 折算。",
+      "ins1": "全日制本土学生由校方列入 Aetna 学生健康保险账单；持 F-1/J-1 的国际学生自动纳入 UnitedHealthcare 计划；保险计划与保费见 Health Insurance 页面。",
+      "ins2": "保险豁免经电子投保/豁免门户办理；账单与保险咨询找 Student Accounts，718-409-7400 option 2，studentaccounts@sunymaritime.edu；Aetna 客服 877-480-4161，UHC 客服 888-714-6544。",
+      "ins3": "替代保单须通过门户核验；保额、医疗运送/遣返与豁免窗口以当期通知为准；未通过豁免的学生按账单缴纳对应保费。",
+      "clinic": "Health Services，718-409-7347，healthservices@sunymaritime.edu；周一至周五 7:00–16:00，sick call 7:00–11:00；课后与周末由 University Police 转接急诊安排。",
+      "commute": "校园在 Bronx 东端 Throgs Neck，6 Pennyfield Avenue（Fort Schuyler），俯瞰 Throgs Neck 与 Long Island Sound；接 Bruckner Blvd/I-95 与 Pennyfield Ave；全体住校，周末进城靠公路与纽约公交体系。",
+      "scene": "学院 1874 年设立，为纽约州公立海事院校；约 1,400 名住校 cadet；专业覆盖工程、船舶设计、海运运输、海事研究、海洋环境科学、国际运输与贸易；夏季在 Training Ship Empire State VII 上完成 Sea Term 航海实训。",
+      "safety": "University Police，718-409-7311（紧急与非紧急）；RAVE 应急 672-83 / 718-409-7200；regimental 纪律与校园安保由校警、Regimental Affairs 协同；校外归 NYPD 45/49 分局方向与 911 体系。",
+      "transit": "校园内部按 regimental 集合点步行通行；进城经 Bruckner Blvd/I-95 接 Bronx 公交与 Metro-North/LIRR 方向铁路；自驾接 Hutchinson River Parkway 与 New England Thruway。",
+      "rentnote": "全体 cadet 住校；Housing Office，Baylis Hall 一层，718-409-7488，housing@sunymaritime.edu；2026-27 双人间 $5,020/学期、双人间 buyout $6,520、三人间 $3,980；Summer Ashore I/II $1,425；房型与分配按 regimental 安排；校外租房不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.sunymaritime.edu/academics/registrar",
+          "Registrar 与校历入口"
+        ],
+        "ins": [
+          "https://www.sunymaritime.edu/admissions/health-insurance",
+          "学生健康保险"
+        ],
+        "police": [
+          "https://www.sunymaritime.edu/university-police/reporting/crimes-emergencies",
+          "University Police 与应急"
+        ],
+        "housing": [
+          "https://www.sunymaritime.edu/student-life/residential-life",
+          "住宿生活"
+        ],
+        "clinic": [
+          "https://sunymaritime.edu/student-life/health-services",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.sunymaritime.edu/quick-links/emergency-notification-systems",
+          "应急通知与到校信息"
+        ]
+      }
+    },
+    "upstate": {
+      "short": "纽约州立大学上州医科大学",
+      "place": "锡拉丘兹 · 750 East Adams Street, Syracuse, NY 13210",
+      "cityKey": "syracuse",
+      "calShort": "按医学院/护理/健康职业/研究生院各项目排课；2026-27 校历以各学院当期公布为准。",
+      "calendar": "Upstate 为学术医学中心，学期、轮转与见习安排按 College of Medicine、College of Nursing、College of Health Professions 与 Graduate Studies 各自项目日历执行；2026-27 全校汇总校历页面在校方更新前，具体开课、假期、考试与毕业日期以各项目 Registrar 通知为准。",
+      "fulltime": "各学院对全日制注册学分有不同规定；本科阶段仅招收转学生与高年级学生，研究生与健康职业项目按院内方案注册；减修、请假与学分豁免走项目顾问与 Registrar。",
+      "drop": "退课、休学与请假须按所在学院政策办理；医学与护理轮转类课程的退出、退费与学分记录由学院审定；保险、停车与住宿资格随学籍状态调整。",
+      "ins1": "健康保险对所有全日制与非全日制学生强制；持 F-1/J-1 的国际学生须纳入 SUNY 国际保险计划，或提供可比保单证明；当前国际计划为 GeoBlue International Student Insurance。",
+      "ins2": "保险、签证与到校咨询找 Bursar 办公室或 International Student Advisor，地点 Campus Activities Building 二层；研究生助教所获福利含低成本医疗包。",
+      "ins3": "替代保单经 Student Health Office 与 Bursar 核验；保额、医疗运送/遣返条款与豁免窗口以当期通知为准；年度健康评估时须出示保险证明。",
+      "clinic": "Student Health（ESH），175 Elizabeth Blackwell Street, Jacobsen Hall 四层，315-464-4260，ESHealth@Upstate.edu，7:00–16:30；Counseling Services，Room 311, 713 Harrison Street，315-464-3120；课后紧急拨 University Police 315-464-4000，校外拨 911。",
+      "commute": "主校区在 Syracuse University Hill 南侧，750 East Adams Street，接 East Adams Street、Harrison Street 与 Elizabeth Blackwell Street；与 ESF、Syracuse University 同处 University Hill 生活圈，但学籍、保险与校警体系各自独立。",
+      "scene": "Upstate 是纽约州中部唯一的学术医学中心，设 Medicine、Nursing、Health Professions、Graduate Studies 四个学院；2025-26 学年共 1,442 人（全日制 1,324、非全日制 118），其中本科生约 253 人，以研究生与健康职业学生为主；教学、见习与 Upstate University Hospital 衔接。",
+      "safety": "SUNY Upstate University Police，315-464-4000；主校区总机 315-464-5540，Upstate Connect 315-464-8668；医院院区与教学楼分区管控；校外事务归 Syracuse 警局管辖，应急拨 911。",
+      "transit": "校园步行连接各学院楼、医院与宿舍；周边公交连通 Syracuse 城区与 University Hill 各点；机场与长途交通详见 Syracuse 城市页。",
+      "rentnote": "Office of Residential Life 管理 Geneva Tower 公寓，含一/两/四居室，距医院一个街区，配家具、站内洗衣与平板电视；联系电话 315-464-5106；房型与费率以 ResLife 当期公布为准；校外住宿可选 Syracuse Hill 及其邻近社区，租金不给固定数字。",
+      "link": {
+        "cal": [
+          "https://www.upstate.edu/current-students/registrar/academic-calendars",
+          "学生校历入口"
+        ],
+        "ins": [
+          "https://www.upstate.edu/current-students/student-health-insurance",
+          "学生健康保险"
+        ],
+        "police": [
+          "https://www.upstate.edu/about/contact/locations-directions",
+          "校区联系与警务"
+        ],
+        "housing": [
+          "https://www.upstate.edu/currentstudents/campuslife/residence/clark.php",
+          "校内住宿"
+        ],
+        "clinic": [
+          "https://www.upstate.edu/current-students/student-health-services",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.upstate.edu/about/contact",
+          "联系与校区位置"
+        ]
+      }
+    },
+    "esf": {
+      "short": "纽约州立大学环境科学与林业学院",
+      "place": "锡拉丘兹 · 1 Forestry Drive, Syracuse, NY 13210",
+      "cityKey": "syracuse",
+      "calShort": "两学期制；2026 秋 8 月 27 日开课，2027 春季段 1 月 19 日开课。",
+      "calendar": "Fall 2026：8 月 27 日开课；Labor Day 9 月 7 日放假；期中假 10 月 19 日；感恩节 11 月 25–29 日；12 月 15 日期末考开始；宿舍 12 月 19 日关闭。Spring 2027：1 月 19 日开课；春假 3 月 1–6 日；5 月 10 日期末考开始；毕业典礼 5 月 16 日；宿舍 5 月 19 日关闭。",
+      "fulltime": "全日制身份以每学期注册 12 学分为下限；林业、环境工程等专业的实习、野外实训与学分要求按 Catalog 各专业方案执行。",
+      "drop": "加退与 W 截止以 Registrar 校历与 Catalog 政策为准；分段课程另有截止；退费按 Bursar liability schedule 折算；野外实训与专业必修课退课须经顾问签字。",
+      "ins1": "全日制学生须持健康保险；持 F-1/J-1 的国际学生自动纳入 SUNY 学生健康保险计划，除非在 30 天内向 Bursar 提交可比保单证明。",
+      "ins2": "保险凭证与免疫材料交 Health and Wellness；保险、签证与到校咨询找 Office of International Education（OIE）。",
+      "ins3": "替代保单经 Bursar/OIE 核验；承保计划、保额与豁免窗口以当期通知为准；未通过核验按 Bursar 账单处理。",
+      "clinic": "Health and Wellness，1 Forestry Drive，315-470-6660；Counseling Center，110A Bray Hall，315-470-4716，周一至周五 8:00–16:30；危机情况拨 988 或联系 Division of Student Affairs，110 Bray Hall，315-470-6660。",
+      "commute": "校园在 Syracuse University Hill 一带，1 Forestry Drive，与 Syracuse University 校园相邻；两校学籍、保险、校警与食堂体系各自独立，共享 Syracuse 城市交通与周边生活设施。",
+      "scene": "学院 1911 年设立，前身为纽约州立林业学院；本科生约 1,843 人、研究生约 376 人，开设 24 个本科与 30 个研究生项目；林业、环境科学、环境工程、木材与造纸、生态保护等方向见长。",
+      "safety": "ESF University Police，19 Bray Hall；紧急 315-470-6666，非紧急 315-470-6667，24 小时值守；SU 公共安全为独立体系，电话 315-443-2224，两校不可互替；校外归 Syracuse 警方与 911 体系。",
+      "transit": "校园步行连接 Bray Hall、Centennial Hall 与 SU Hill 片区；周边公交接 Syracuse 市区与 University Hill；进城与机场靠 Syracuse 公交与公路，详见城市页。",
+      "rentnote": "Centennial Hall 为主要校内宿舍；大一新生原则上住校；住宿费区间 $4,150–7,620/学期，另收押金 $200，单人间升级 $775、双人间/单人间 $980；床位不足时可申请 SU 宿舍（315-443-3637）；校外租 Syracuse Hill 与周边社区，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.esf.edu/catalog/current/calendar.php",
+          "当前校历"
+        ],
+        "ins": [
+          "https://www.esf.edu/tuition-aid/bursar/costs.php",
+          "费用与保险口径"
+        ],
+        "police": [
+          "https://www.esf.edu/catalog/handbook/appendix-a.php",
+          "学生手册附录 A（警务与安全）"
+        ],
+        "housing": [
+          "https://www.esf.edu/tuition-aid/bursar/costs.php",
+          "住宿与餐费"
+        ],
+        "clinic": [
+          "https://www.esf.edu/student-life/counseling/resources.php",
+          "心理咨询与健康资源"
+        ],
+        "transit": [
+          "https://www.esf.edu/contact/index.php",
+          "联系与校园位置"
+        ]
+      }
+    },
+    "stonybrook": {
+      "short": "石溪大学",
+      "place": "石溪 · 100 Nicolls Road, Stony Brook, NY 11794",
+      "cityKey": "stonybrook",
+      "calShort": "两学期制；2026 秋季学期 8 月 24 日开始上课，2027 春季学期 1 月 25 日开始上课。",
+      "calendar": "Fall 2026 学期：8 月 24 日开始上课；9 月 7 日为大学假日；11 月 24–26 日秋假/感恩节；12 月 15 日结课；12 月 16–18 日期末考；12 月 21 日–1 月 3 日冬假。Spring 2027：1 月 25 日开课；3 月 22–28 日春假；5 月 7 日结课；5 月 10–14 日期末考；2027 毕业典礼 5 月 15–16 日。",
+      "fulltime": "全日制以每学期 12 学分注册量为基准；研究型大学学分上限、减修与豁免按 Registrar 与各学院当期规则办理。",
+      "drop": "加退与 W 截止以 Registrar 校历各节点为准；期末前按 Academic Calendar 不再受理退课；退费按 liability schedule 折算；研究生与专业学院另有院内规定。",
+      "ins1": "持 F-1/J-1 的国际学生自动纳入校方学生健康保险计划，可在规定窗口内提交可比保单申请豁免；保险凭证与免疫材料交 Student Health Services。",
+      "ins2": "保险、签证与到校咨询找 International Student Support（IEC）；保险计划与账单细节见 SHS Insurance 页面。",
+      "ins3": "替代保单经 SHS/IEC 核验；保额、承保方、牙科与眼科条款及豁免窗口以当期通知为准；若核验未获通过，相应费用由 Bursar 账单列支。",
+      "clinic": "Student Health Services，1 Stadium Road，631-632-6740；Counseling & Psychological Services，West Campus SHS 二层，631-632-6720；课后紧急拨 UPD 631-632-3333，校外拨 911。",
+      "commute": "主校区在 Suffolk County Long Island 北岸 100 Nicolls Road，分 West/East 校区与科研园区；接 Nicolls Road、Route 25A 与 LIE；LIRR Port Jefferson 支线 Stony Brook 站在校园北端。",
+      "scene": "SUNY 研究型旗舰之一；全校 26,000 人以上、本科生 18,000 以上；33 栋宿舍与 27 栋公寓楼，住校约 10,514 人；工科、医学、海洋科学与基础研究实力较强，体育校队称 Seawolves。",
+      "safety": "Stony Brook University Police Department，总部 Dutchess Hall South Campus；紧急 631-632-3333（校内 x3333），非紧急 631-632-6350；24 小时值守；校外归 Suffolk County 警与 911 体系。",
+      "transit": "校内 campus shuttle 连通 West/East 校区、宿舍区与停车场；LIRR Port Jefferson 支线 Stony Brook 站接 Long Island 各站与 Penn Station/Grand Central 方向；公路接 Nicolls Road、Route 25A 与 LIE。",
+      "rentnote": "Campus Residences 管理 33 栋宿舍与 27 栋公寓楼，住校约 10,514 人；房型、费率与餐计划以 Campus Residences 当期公布为准；校外租 Stony Brook、Setauket、Port Jefferson Station 等 Suffolk 社区，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.stonybrook.edu/registrar/academic-calendar/university-calendars/fall2026-summer2027.html",
+          "2026 秋–2027 夏校历"
+        ],
+        "ins": [
+          "https://www.stonybrook.edu/commcms/studentaffairs/shs/insurance/international",
+          "国际生健康保险"
+        ],
+        "police": [
+          "https://www.stonybrook.edu/commcms/police/index.html",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.stonybrook.edu/commcms/studentaffairs/res/",
+          "Campus Residences"
+        ],
+        "clinic": [
+          "https://www.stonybrook.edu/commcms/studentaffairs/shs/about/contact.php",
+          "Student Health Services 联系方式"
+        ],
+        "transit": [
+          "https://www.stonybrook.edu/iec/about/resources.html",
+          "到校与学生资源"
+        ]
+      }
+    },
+    "purchase": {
+      "short": "纽约州立大学帕切斯学院",
+      "place": "帕切斯 · 735 Anderson Hill Road, Purchase, NY 10577",
+      "cityKey": "purchase",
+      "calShort": "两学期制；2026 秋季段 8 月 24 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：周一 8 月 24 日开课；Labor Day 9 月 7 日闭校；9 月 14 日为加退截止；10 月 12 日放假；感恩节 11 月 26–29 日闭校；12 月 13–15 日为考试前安排，12 月 18 日期末考结束；12 月 21 日起闭校。Spring 2027：1 月 18 日排课启动、1 月 19 日开课；2 月 16 日放假；3 月 15–17 日春假，3 月 22 日复课；4 月 6–8 日、12–13 日、16 日、19 日、23 日、26 日为校历标注节点；5 月 9–11 日考试前安排，5 月 14 日期末考结束；5 月 15 日与 17 日闭校；毕业典礼日期以当期公布为准。",
+      "fulltime": "全日制标准为一学期修读 12 学分或更多；减修、双专业与学分豁免以 Catalog Academic Policies 与 Registrar 当期口径为准。",
+      "drop": "秋季加退截止 9 月 14 日；之后的 W 与退课按 Catalog 与 Registrar 当期政策办理；已缴费用按 liability schedule 表比例退回；分段课程另有截止日。",
+      "ins1": "持 F-1/J-1 的国际学生须持校方认可的健康保险；国际生保险计划含牙科，2026-27 参考金额 $1,893；保险凭证与免疫材料交 Health Services。",
+      "ins2": "保险、签证与到校咨询找 Office for Global Education；联系人 Beatriz Martin-Ruiz，beatriz.martin-ruiz@purchase.edu，914-251-6300。",
+      "ins3": "替代保单经 Global Education 核验；承保计划、保额、牙科条款与豁免窗口以当期 Global Education 通知为准；核验未通过的替代保单，保费计入 Bursar 账单。",
+      "clinic": "Health Services，Campus Center South 底层，914-251-6380；Counseling Services，914-251-6390；周一至周五按校历办公，课后紧急拨 NYSUP (914)251-6911，校外拨 911。",
+      "commute": "校园在 Westchester County Purchase 镇，735 Anderson Hill Road，占地约 500 英亩，距 Manhattan 北约 35 英里；接 I-684、Hutchinson River Parkway 与 Route 120；艺术 conservatory 学生住校比例较高。",
+      "scene": "学院 1967 年设立，以舞蹈、音乐、戏剧、电影、设计、视觉艺术与艺术管理见长；在校本科生约 3,257 人，师生比约 11:1；校园邻近 Purchase 艺术区与表演场馆。",
+      "safety": "NYS University Police 驻校；紧急电话 (914)251-6911，总台 (914)251-6900；校园照明路径、Blue Light 与安全提示见 Personal Safety 页面；校外归 Harrison/Rye 方向 Westchester 县警体系。",
+      "transit": "校内步行连通 Campus Center、宿舍与艺术楼；出城靠公路接 Metro-North New Haven Line Harrison 站方向；公交接驳按 Westchester 公车当期班次。",
+      "rentnote": "Residence Life 管理 Outback、Fort Awesome 等宿舍；住校生默认 19 Plus 餐计划；住宿申请截止 8 月 1 日（秋）与 1 月 15 日（春）；具体房型与费率以 RSL 当期通知为准；校外租 Westchester 各村镇，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.purchase.edu/offices/registrar/academic-calendar/2026-27/",
+          "2026-27 校历"
+        ],
+        "ins": [
+          "https://www.purchase.edu/admissions/accepted-students/international/",
+          "国际生保险与到校信息"
+        ],
+        "police": [
+          "https://www.purchase.edu/offices/nysup/personal-safety-committee/",
+          "校警与安全委员会"
+        ],
+        "housing": [
+          "https://www.purchase.edu/offices/living-on-campus/",
+          "在校住宿"
+        ],
+        "clinic": [
+          "https://www.purchase.edu/offices/health-services/",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.purchase.edu/about/contact-us/",
+          "联系与到校"
+        ]
+      }
+    },
+    "oldwestbury": {
+      "short": "纽约州立大学老韦斯特伯里分校",
+      "place": "老韦斯特伯里 · 223 Store Hill Road, Old Westbury, NY 11568",
+      "cityKey": "oldwestbury",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：8 月 24 日开课（含 Part of Term A，逾期注册费 $50）；期中周 10 月 5–9 日；Fall Break 10 月 12–13 日；Term A 10 月 16 日结课，Term B 10 月 19 日开课；感恩节假 11 月 25–28 日，11 月 30 日复课；Fall W（任课教师许可）12 月 3 日截止；复习日 12 月 8–9 日；期末考 12 月 10–16 日，宿舍 12 月 16 日考完关闭。Spring 2027：宿舍 1 月 24 日开放；1 月 25 日开课；加退期至 1 月 31 日；Presidents Day 2 月 15 日停课；期中周 3 月 8–12 日；春假 3 月 13–20 日，3 月 22 日复课；Term B W 截止 4 月 16 日；W（任课教师许可）5 月 5 日截止；复习日 5 月 10–11 日；期末考 5 月 12–18 日；2027 毕业典礼日期以校方当期公布为准。",
+      "fulltime": "全日制按一学期 12 学分及以上注册；减修、网课与学分豁免规则以 Catalog Academic Policies 与注册办公室当期口径为准。",
+      "drop": "逾期注册费 $50；Spring 加退截止 1 月 31 日；分段 Term A/B 各有 W 截止；期末前按 Catalog 规定不再受理 withdraw；W 记法与退费按 Bursar liability schedule 折算。",
+      "ins1": "SUNY 董事会健康费覆盖校内 Student Health Center 与心理咨询；持 F-1/J-1 的国际学生须持强制外籍学生健康保险，由 International Enrollment Services 核验；本土学生可经 New York State of Health Marketplace 自购足额保障。",
+      "ins2": "保险凭证与免疫材料交 Student Health Center；签证、保险与到校咨询找 Office of International Enrollment Services，Campus Center Room I-210，516-628-5020，overseas@oldwestbury.edu。",
+      "ins3": "替代保单经 International Enrollment Services 核验；承保计划、保险额度与豁免窗口以学校当期 Bursar/IES 通知为准；未通过核验的国际生按 Bursar 账单处理。",
+      "clinic": "Student Health Center，Campus Center I-Wing Room I-109，516-876-3250，studenthealth@oldwestbury.edu；周一/三/四/五 8:30–17:00，周二 8:30–19:00。Counseling & Psychological Wellness Services，516-876-3053，周一至周五 9:00–17:00；课后紧急拨 UPD 516-876-3333，校外拨 911。",
+      "commute": "校园在 Nassau County 长岛北岸 223 Store Hill Road，占地 604 英亩林地；接 Northern State Parkway、Long Island Expressway 与 Route 107；通勤比例高，公共交通靠 NICE 巴士接 LIRR，就近在 Westbury/Hicksville 方向换乘。",
+      "scene": "学校为长岛 Nassau County 的公立文理学院；Fall 2023 共 4,448 人（本科 4,063、研究生 385），开设 45 个本科专业与 16 个研究生项目；体育校队称 Panthers。",
+      "safety": "NYS University Police Department，驻地在 Student Union 停车场北侧；紧急与非紧急 516-876-3333（校内分机 x3333），police@oldwestbury.edu，24 小时 365 天值守；设 Blue Light 应急电话；校外归 Nassau County 警与 911 体系。",
+      "transit": "校内步行与校园班车连通宿舍区、Campus Center 与停车场；出城靠 NICE 巴士接 LIRR Westbury/Hicksville 站，进 Manhattan 经 Jamaica 方向换乘；公路接 Northern State Parkway 与 LIE。",
+      "rentnote": "Residential Life：Woodlands 三至四层传统楼，双人间/三人间供新生与大二；Academic Village 四层套间供高年级；2026-27 Woodlands 双/三人间 $4,445/学期、单人间 $4,700/学期；Panther's All-Access 餐档 $3,225/学期，新生强制；住宿押金 $50；校外租 Nassau 各村镇，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.oldwestbury.edu/programs-courses/academic-calendars",
+          "校历页"
+        ],
+        "ins": [
+          "https://www.oldwestbury.edu/division/division-business-finance/bursar/undergraduate-costs/2026-2027-undergraduate-tuition-fees",
+          "2026-2027 费用与保险口径"
+        ],
+        "police": [
+          "https://www.oldwestbury.edu/university-police/safety-reports-records/annual-security-and-fire-safety-report-2026",
+          "年度安全与消防报告"
+        ],
+        "housing": [
+          "https://www.oldwestbury.edu/division/office-student-affairs/residential-life",
+          "学生住宿"
+        ],
+        "clinic": [
+          "https://www.oldwestbury.edu/division/office-student-affairs/residential-life/2026-fall-mid-semester-bulletin",
+          "Student Health Center 信息"
+        ],
+        "transit": [
+          "https://www.oldwestbury.edu/visit",
+          "到校与参观信息"
+        ]
+      }
+    },
+    "empirestate": {
+      "short": "帝国州立大学（纽约州立大学）",
+      "place": "多地办学／线上 · 行政总部 Saratoga Springs, NY",
+      "cityKey": "empirestate",
+      "calShort": "线上学制，15 周 Full-Term、8 周 Accelerated 与 Self-Paced 并行；重要日期见 Important Dates 页",
+      "calendar": "学校按 Full-Term（15 周）、Accelerated 8 周与 Self-Paced 三种节奏开课；逐学期注册、开课、退课与成绩截止日期以 Important Dates 页当期公布为准；无统一校园校历。",
+      "fulltime": "线上/独立学习为主；全日制与非全日制负荷按学位项目与注册学分认定；F-1 口径仅适用于加拿大边境通勤学生，其余国际生走远程学习，减修与身份事项经 Center for International Education 确认。",
+      "drop": "加退课与 withdrawal 截止按所选课程节奏（15 周/8 周/自学）与 Important Dates 页当期日期执行；记 W 与退费按 Registrar 政策办理。",
+      "ins1": "无强制校属 SHIP，学校不提供统一健康保险计划；学生按居住地自行购买保险。",
+      "ins2": "Health & Wellness，healthandwellness@sunyempire.edu；资源领取不要求健康保险；保险选择与市场办理指引经 Health & Wellness 页面。",
+      "ins3": "纽约州居民走 NY State of Health 市场 nystateofhealth.ny.gov，1-855-355-5777；州外走 healthcare.gov/get-coverage/；无校内豁免门户。",
+      "clinic": "无校内门诊；Health & Wellness 提供免费基本需求资源、心理健康服务与教育项目；领取资源不要求健康保险；healthandwellness@sunyempire.edu；Student Health Advisory Committee 管理 health fee。",
+      "commute": "线上/多地办学，行政总部 Two Union Avenue, Saratoga Springs, NY 12866-4390；无单一主校区；海外学习点为 Tirana、Prague、Santo Domingo、Athens、Thessaloniki、Beirut、Eskişehir；I-20 仅限加拿大边境通勤学生，多数国际生全程线上。",
+      "scene": "Empire State University（SUNY Empire）为 SUNY 线上与独立学习院校；100% 在线课程、独立学习与加速路径；设本科、研究生与证书项目；学生社群经线上 Empire Connects 组织。",
+      "safety": "Office of Public Safety 管全州安全事务；仅工作时间有人，无 24 小时覆盖、无巡逻力量；属行政职能、无执法权；与地方/州执法签 MOU；SUNY Empire Alert 警报；学校为 nonresidential；Clery 年度报告按联邦要求发布。",
+      "transit": "无校园公交与宿舍班车；线上课程按个人地点接入；面授/混合学习点与 mentor 会面按项目安排；交通由学生自行衔接。",
+      "rentnote": "无校属宿舍，不提供住校安排；通勤或线上学习；房源与租赁由学生自行安排，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.esc.edu/academics/classes-and-registration/important-dates.html",
+          "Important Dates"
+        ],
+        "ins": [
+          "https://www.esc.edu/student-support/health-wellness/student-health-insurance.html",
+          "Student Health Insurance"
+        ],
+        "police": [
+          "https://www.esc.edu/about/safety-security/index.html",
+          "Safety & Security"
+        ],
+        "housing": [
+          "https://www.esc.edu/student-experience/studying-at-suny-empire/study-online.html",
+          "Ways to Study Online"
+        ],
+        "clinic": [
+          "https://www.esc.edu/student-support/health-wellness/index.html",
+          "Health and Wellness"
+        ],
+        "transit": [
+          "https://www.esc.edu/admissions-and-aid/international-students/",
+          "International Students"
+        ]
+      }
+    },
+    "binghamton": {
+      "short": "宾汉姆顿大学",
+      "place": "宾厄姆顿 · 4400 Vestal Parkway East, Vestal, NY 13902",
+      "cityKey": "binghamton",
+      "calShort": "学期制，2026 秋 8 月 18 日开课，2027 春 1 月 19 日开课",
+      "calendar": "2026 秋：8 月 14–15 日入住与欢迎周；8 月 18 日开课；8 月 31 日加退课截止；9 月 7 日劳动节；9 月 11 日 Rosh Hashanah；10 月 10–18 日秋假，10 月 19 日返校；10 月 29 日 withdrawal 截止；11 月 25–29 日放感恩节假，11 月 30 日恢复上课；12 月 8 日最后上课；12 月 10–11 日、12 月 14–16 日期末。2027 春：1 月 16 日入住；1 月 19 日开课；2 月 1 日加退课截止；3 月 6–14 日春假，3 月 15 日返校；3 月 29 日 withdrawal 截止；4 月 21–23 日 Passover；5 月 5 日最后上课；5 月 7 日、5 月 10–13 日期末；5 月 13–15 日毕业典礼。",
+      "fulltime": "全日制学生每学期注册量须达到 12 学分及以上；F-1 维持身份的注册学分标准由 ISSS 当期公布；减修课程须经 ISSS 事先同意，按 Reduced Course Load 流程办理。",
+      "drop": "秋 8 月 31 日加退课截止，10 月 29 日 withdrawal 截止；春 2 月 1 日加退课截止，3 月 29 日 withdrawal 截止；W 记录和退费档位对照 Registrar 校历当期安排。",
+      "ins1": "国际学生与学者强制 UnitedHealthCare Student Resources 保险；注册后自动入册，除非获学校批准豁免；含医疗/安全撤离与遣返保障；按学期计入学生账单；牙科另册；OPT/AT 可续保 UHC。",
+      "ins2": "ISSS，Old Champlain Building Floor 1R Room 142；咨询时段周一、周二 10:00–11:45，周三、周四 13:30–15:30；607-777-2510；保险邮箱 intl.insure@binghamton.edu，通用 isss@binghamton.edu；UHCSR 门户打印保险 ID 卡、查福利与网络医院。",
+      "ins3": "豁免须经 Binghamton University 授权；替代保单标准与材料经 ISSS 核验；OPT/Academic Training 可继续通过 UHC Student Resources 续保；联系 intl.insure@binghamton.edu。",
+      "clinic": "Decker Student Health Services Center；学期内工作日 8:00–16:15，学期间隙 8:00–16:00；预约经患者门户（精神科预约除外）；服务含急症外伤、女性健康、旅行医学、免疫、HIV 检测、精神科会诊与检验；心理咨询另见 University Counseling Center；门诊直线电话未在页面列出。",
+      "commute": "主校区在 Vestal（非 Binghamton 市中心），4400 Vestal Parkway East；Southern Tier 片区，距 Binghamton 市以西约 1 英里；车程量级：纽约约 3 小时、费城约 3 小时、波士顿约 5 小时、Montréal 约 5 小时、Toronto 约 5 小时、尼亚加拉瀑布约 4 小时、华盛顿约 5 小时。",
+      "scene": "Binghamton University 为 SUNY 研究型旗舰；学生来自 100 余个国家，450 余个学生组织；校队 NCAA D-I；商学院、工程、护理与文理等院系规模以官网当期公布为准。",
+      "safety": "New York State University Police at Binghamton，Couper Administration Building 地下室 AD-G24；校内紧急 911，手机 607-777-2222；非紧急与失物 607-777-2393，传真 607-777-3376，police@binghamton.edu；Blue Light 电话；24/7 值守；邮寄地址 PO Box 6000, Binghamton, NY 13902-6000。",
+      "transit": "校园 shuttle 衔接校内与 Vestal/Binghamton 片区；城际巴士与铁路经 Binghamton 市交通枢纽衔接；最近民航 Greater Binghamton Airport（BGM）；长途车程量级见 commute。",
+      "rentnote": "六个住宿社区：Newing College、Dickinson Community、CIW、Hinman College、Mountainview College、Apts Community；住宿费率未在公开页面核实；校外租房在 Vestal 与 Binghamton 片区，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.binghamton.edu/academics/academic-calendar.html",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.binghamton.edu/international/student-scholar-services/health-insurance/index.html",
+          "Health Insurance"
+        ],
+        "police": [
+          "https://www.binghamton.edu/police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.binghamton.edu/residential-life/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.binghamton.edu/health/",
+          "Decker Student Health Services Center"
+        ],
+        "transit": [
+          "https://www.binghamton.edu/admissions/undergraduate/visit/",
+          "Visit Binghamton"
+        ]
+      }
+    },
+    "potsdam": {
+      "short": "纽约州立大学波茨坦分校",
+      "place": "波茨坦 · 44 Pierrepont Avenue, Potsdam, NY 13676",
+      "cityKey": "potsdam",
+      "calShort": "学期制，2026 秋 8 月 31 日开课，2027 春 1 月 19 日开课",
+      "calendar": "2026 秋：8 月 27 日新生入住；8 月 29 日–9 月 4 日 Welcome Week，老生 8 月 29–30 日入住；8 月 31 日开课；9 月 6 日免审批加课截止；9 月 20 日审批加课/退课截止；10 月 10–13 日秋假，10 月 14 日返校；11 月 6 日 withdrawal 截止；11 月 25–29 日感恩节假期，11 月 30 日返校上课；12 月 11 日最后上课，12 月 12–13 日复习日，12 月 14–18 日期末。2027 春：1 月 15 日新生入住，老生 1 月 17–18 日入住；1 月 19 日开课；1 月 25 日免审批加课截止；2 月 8 日加/退课截止；2 月 25–28 日冬假，3 月 1 日返校；3 月 27 日–4 月 4 日春假，4 月 5 日返校并为 withdrawal 截止；5 月 7 日最后上课，5 月 8–9 日复习日，5 月 10–14 日期末；5 月 15 日毕业典礼。",
+      "fulltime": "每学期 12 学分以上属全日制注册负荷；F-1 身份学分要求由国际教育办公室当期核定；减修先经批准再办 Reduced Course Load。",
+      "drop": "秋 9 月 6 日免审批加课截止，9 月 20 日审批加课/退课截止，11 月 6 日 withdrawal 截止；春 1 月 25 日免审批加课截止，2 月 8 日加/退课截止，4 月 5 日 withdrawal 截止；记 W 与否及退费档位按 Registrar 校历规定执行。",
+      "ins1": "适用国际学生须满足学校健康保险要求；承保方与当期费率未在公开页面列出，经 Student Health Services 与 Office of International Education & Programs 办理。",
+      "ins2": "Student Health Services，Van Housen Hall 一楼，(315) 267-2377；国际教育与项目办公室设于 Sisson Hall，EVA 315-267-3150 / 315-267-2507，parkerba@potsdam.edu；网络医院与福利按承保方账户查询。",
+      "ins3": "替代保单核验与豁免经 Health Services 与国际教育办公室办理；页面未列独立豁免门户；联系 (315) 267-2377 或 parkerba@potsdam.edu。",
+      "clinic": "Student Health Services，Van Housen Hall 一楼；(315) 267-2377；学期中周一至周五 8:30–16:30，暑期与假期周一至周五 8:00–16:00；BearPAWS 门户或电话预约；Counseling Center，counseling@potsdam.edu，315-267-2330。校外 Urgent Care 49 Lawrence Avenue，315-261-5525；急诊 St. Lawrence Health ER，50 Leroy Street，315-265-3300。",
+      "commute": "校园在 North Country 的 Potsdam 镇，44 Pierrepont Avenue；南依 Adirondack Mountains，北临 Thousand Islands；邻近 Clarkson University 与 St. Lawrence University；冬季严寒积雪，城际出行经 Route 11 与县公交衔接。",
+      "scene": "SUNY Potsdam 为 St. Lawrence County 公立文理学院，校队称 Bears；Crane School of Music 为知名音乐学院；专业及社团名单以学校官网当期信息为准。",
+      "safety": "University Police，Van Housen Hall Extension；校内拨 2222，校外或手机 (315) 267-2222，传真 315-267-2002，police@potsdam.edu；24 小时值守；DJCS 认证；停车组工作日 7:00–15:00。",
+      "transit": "Bear Shuttle 校园/镇内接驳；St. Lawrence County Public Transit 衔接县内；First Mile Last Mile 计划 315-644-6944（提前 48 个工作小时预约）；长途经 Route 11 与城际巴士，冬季班次留余量。",
+      "rentnote": "ResLife，Draime Hall Extension，(315) 267-2350，reslife@potsdam.edu；新生住校两年（四学期），转学生一年（两学期），四年住宿保证；房型含传统宿舍、suite 与 townhouse，配高速网、免费洗衣、小厨房与公共自习厅。2026–27 每学期/年：Standard Double、Medical Single、Triple $4,890/$9,780；Single 加 $2,000/学期 → $6,890/$13,780；Lehman Apartment $6,675/$13,350；Townhouse $5,800/$11,600；Suite with Bath $5,100/$10,200（Single $7,100/$14,200）；校外租房不给固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.potsdam.edu/academics/academic-calendar",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.potsdam.edu/studentlife/wellness/healthservices",
+          "Student Health Services"
+        ],
+        "police": [
+          "https://www.potsdam.edu/about/safety/police",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.potsdam.edu/studentlife/housing",
+          "Residence Life & Housing"
+        ],
+        "clinic": [
+          "https://www.potsdam.edu/studentlife/wellness/healthservices",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.potsdam.edu/about/location",
+          "校园位置"
+        ]
+      }
+    },
+    "plattsburgh": {
+      "short": "纽约州立大学普拉茨堡分校",
+      "place": "普拉茨堡 · 101 Broad Street, Plattsburgh, NY 12901",
+      "cityKey": "plattsburgh",
+      "calShort": "秋春两学期；2026 秋学期 8 月 24 日开课，2027 春学期 1 月 25 日开课",
+      "calendar": "2026 秋：8 月 24 日开课；8 月 30 日加退课截止；9 月 7 日劳动节（照常上课）；9 月 9 日五周退课截止；10 月 12–13 日原住民日假；10 月 30 日不限 withdrawal 截止；11 月 24 日上课结束；11 月 25–27 日感恩节假；11 月 30 日返校；12 月 5 日起期末周；12 月 11 日学期结束；12 月 12 日毕业典礼，宿舍当日关闭。2027 春：1 月 25 日开课；1 月 31 日加退课截止；3 月 12 日上课结束；3 月 13–21 日春假；3 月 22 日返校；4 月 9 日不限 withdrawal 截止；5 月 8 日起期末周；5 月 14 日学期结束；5 月 15 日主校区毕业典礼。",
+      "fulltime": "全日制身份以每学期至少 12 学分的注册量为基准；F-1 身份学分标准以 GEO/ISSS 当期规定为准；减修须先经国际生办公室同意并完成 Reduced Course Load 流程。",
+      "drop": "秋 8 月 30 日加退课截止、9 月 9 日五周退课截止，10 月 30 日不限 withdrawal 截止；春 1 月 31 日加退课截止，4 月 9 日不限 withdrawal 截止；W 标注与退费档位以 Registrar 校历当期节点为准。",
+      "ins1": "非居民国际学生被征收健康保险费，年均约 $2,600；公开页面未列承保方名称。",
+      "ins2": "Global Education Office，geo@plattsburgh.edu，518-564-3287；招生办 Kehoe Administration Building 10 楼，518-564-2040，888-673-0012，传真 518-564-2045，admissions@plattsburgh.edu；就医网络在承保方账户内查询。",
+      "ins3": "替代保单核验与豁免经 GEO/财务处办理；页面未列独立豁免门户；豁免条件以当期回复为准，联系 geo@plattsburgh.edu。",
+      "clinic": "Student Health & Counseling Center，位于校园书店后、UPD 旁；医疗预约 518-564-2187；周一至周五 8:00–16:00，按预约时段就诊；BHS Student Assistance Program 24/7 1-800-327-2251（portal.BHSonline.com，用户名 SUNYPlattsburgh）；CVPH 急诊 75 Beekman Street，518-561-2000；Clinton County Crisis 1-866-577-3836；988；741741；患者门户预约。",
+      "commute": "校园在 Plattsburgh 市中心 Broad Street；I-87 Northway 37 号出口；Plattsburgh International Airport（PBG）约 3 英里；Greyhound 站 22 Durkee Street 约 1 英里；Amtrak 站在 downtown 约 1 英里；Lake Champlain 轮渡接 Vermont 侧 Burlington。",
+      "scene": "SUNY Plattsburgh 为 Clinton County 公立综合学院，校队称 Cardinals；在校国际生 325 人以上、来自 60 余个国家；专业与社团一览按官网当期公告；另有 Queensbury 分校。",
+      "safety": "University Police，101 Broad Street；紧急 911；日常 518-564-2022，传真 518-564-4025；Hazing Hotline 518-564-5555，Vandalism Hotline 518-564-2677；24/7 护送 518-564-2022；Blue Light 电话；协同 Plattsburgh Police Department、Clinton County Sheriff 与 NYSP；OEM 应急管理。",
+      "transit": "PBG 机场约 3 英里（I-87 36 号出口）；Greyhound 22 Durkee Street 约 1 英里；Amtrak Adirondack 线往 Albany 与 Penn Station；Grand Isle 轮渡跨 Lake Champlain；BTV 机场学校提供收费面包车；市内有出租车、Uber/Lyft 与租车行。",
+      "rentnote": "Campus Housing & Community Living，103 Algonquin Hall，101 Broad Street；518-564-3824，传真 518-564-3817，housing@plattsburgh.edu；住校四学期；新生可能被安排三人房（triple）；非居民本科住校口径 Housing & Food $9,500/学期；校外租房在镇内与周边，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.plattsburgh.edu/about/offices-divisions/registrar/academic-calendar.html",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.plattsburgh.edu/cost-aid/tuition/index.html",
+          "Tuition & Fees"
+        ],
+        "police": [
+          "https://www.plattsburgh.edu/plattslife/health-safety/university-police/index.html",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.plattsburgh.edu/plattslife/housing/index.html",
+          "Campus Housing & Community Living"
+        ],
+        "clinic": [
+          "https://www.plattsburgh.edu/plattslife/health-safety/health-counseling-center/index.html",
+          "Student Health & Counseling Center"
+        ],
+        "transit": [
+          "https://www.plattsburgh.edu/about/directions/index.html",
+          "Directions & Campus Maps"
+        ]
+      }
+    },
+    "oswego": {
+      "short": "纽约州立大学奥斯威戈分校",
+      "place": "奥斯威戈 · 7060 State Route 104, Oswego, NY 13126",
+      "cityKey": "oswego",
+      "calShort": "常规学期制；秋 2026 于 8 月 24 日开课，春 2027 于 1 月 25 日开课",
+      "calendar": "2026 秋：8 月 24 日开课；9 月 2 日加课截止；9 月 14 日无 W 退课截止；9 月 15 日–12 月 4 日为 W 记分期；9 月 7 日劳动节；10 月 8–9 日秋假；11 月 23–27 日感恩节假；12 月 4 日最后上课；12 月 7–11 日期末；12 月 12 日 12 月毕业典礼。2027 春：1 月 25 日开课；2 月 3 日加课截止；2 月 12 日无 W 退课截止；W 记分期自 2 月 13 日起；3 月 15–19 日春假；5 月 7 日最后上课；5 月 10–14 日期末；5 月 15 日毕业典礼。",
+      "fulltime": "每学期修满 12 学分及以上方计为全日制；F-1 学生的身份学分要求以 ISSS 当期口径为准；课程负荷低于标准前，先经 ISSS 批准并完成 Reduced Course Load 备案。",
+      "drop": "秋 9 月 2 日加课截止、9 月 14 日无 W 退课截止，9 月 15 日起记 W；春 2 月 3 日加课截止、2 月 12 日无 W 退课截止，2 月 13 日起记 W；退课是否记 W、退费落在哪个档位，按 Registrar 校历当期节点执行。",
+      "ins1": "适用国际学生被强制征收健康保险，$1,080 每学期；承保方名称在学费页未公开。",
+      "ins2": "International Student and Scholar Services，102 Sheldon Hall，isss@oswego.edu；保险凭证、福利覆盖与就医网络在承保方账户内查询。",
+      "ins3": "豁免申请与母国替代保单的核验归口 ISSS；页面未列独立豁免门户；豁免条件以 ISSS 当期回复为准，联系 isss@oswego.edu。",
+      "clinic": "Mary Walker Health Center / Health Services，7060 State Route 104；315-312-4100，传真 315-312-5409；周一至周五 9:00–15:00 预约制，午休 12:00–13:00；患者门户预约；Counseling Services Center 为独立咨询点。",
+      "commute": "校园在 Route 104 旁、安大略湖岸，主入口 1 Sweet Road，招生办 301 Washington Boulevard；Centro 提供校园与市内公交，区域线接 Syracuse RTC；湖效应雪天气冬季通勤须留余量。",
+      "scene": "SUNY Oswego 为安大略湖岸公立综合学院，校队称 Lakers；国际教育传统逾 150 年；专业和学生组织名单以官网最新公布为准。",
+      "safety": "University Police，Pathfinder Hall；24 小时 315-312-5555（校内拨 5555），police@oswego.edu；紧急 911；校外归 Oswego City Police 与 Oswego County Sheriff；NY-Alert 与 Rave Guardian 警报渠道。",
+      "transit": "Centro 校园/市内公交凭学生 ID 乘车；区域线接 William F. Walsh Regional Transportation Center（Syracuse RTC），衔接航空、铁路与城际巴士；冬季雪天班次以当期公布为准。",
+      "rentnote": "ResLife，303 Culkin Hall，315-312-2246，reslife@oswego.edu；一、二年级住校；13 个住宿社区，含 Village Townhouses；5 个餐饮中心。2026–27 标准双人间 $5,456/学期（年 $10,912），餐计划 $3,890/学期（年 $7,780）；费率表另列 Single $6,961、1BR Graduate Apartment $5,462、Plus $4,885；含水电网、洗衣、假期间住宿与健身；校外房源租金不写固定数字。",
+      "link": {
+        "cal": [
+          "https://ww1.oswego.edu/registrar/2026-2027-academic-calendar",
+          "2026–2027 校历"
+        ],
+        "ins": [
+          "https://ww1.oswego.edu/tuition-and-aid/undergraduate-tuition",
+          "本科费用与健康保险"
+        ],
+        "police": [
+          "https://www.oswego.edu/police",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.oswego.edu/residence-life-and-housing/",
+          "Residence Life and Housing"
+        ],
+        "clinic": [
+          "https://www.oswego.edu/walker-health-center/",
+          "Mary Walker Health Center"
+        ],
+        "transit": [
+          "https://ww1.oswego.edu/about/maps-parking-directions",
+          "地图、停车与到校指引"
+        ]
+      }
+    },
+    "oneonta": {
+      "short": "纽约州立大学奥尼昂塔分校",
+      "place": "奥尼昂塔 · 108 Ravine Parkway, Oneonta, NY 13820",
+      "cityKey": "oneonta",
+      "calShort": "两学期制；2026 秋季 8 月 24 日开学，2027 春季 1 月 25 日开学",
+      "calendar": "2026 秋：8 月 24 日开课；8 月 30 日加退课截止；9 月 4 日最后加课；9 月 7 日劳动节；11 月 5 日 W 截止；11 月 23–27 日感恩节假；12 月 11 日复习日；12 月 13 日毕业典礼；12 月 14–18 日期末。2027 春：1 月 25 日开课；1 月 31 日加退课截止；3 月 22–26 日春假；4 月 13 日 W 截止；5 月 17–21 日期末；5 月 21 日硕士毕业典礼，5 月 22 日本科毕业典礼。",
+      "fulltime": "全日制注册标准为每学期 12 学分及以上；F-1 身份学分要求以 OGE 当期规则为准；减修课程须先经 OGE/ISSS 批准并完成 Reduced Course Load 备案。",
+      "drop": "秋 8 月 30 日加退课截止、9 月 4 日最后加课，11 月 5 日学期 W 截止；春 1 月 31 日加退课截止，4 月 13 日 W 截止；W 记录与退费比例依 Registrar 公布的校历节点确定。",
+      "ins1": "F-1/J-1 学生强制 UnitedHealthcare（UHC）Student Health Insurance，注册后自动入册；不接受母国保单替代；2026–27 费率 Fall 8/15/26–1/14/27 $1,006.73，Spring/Summer 1/15/27–8/14/27 $1,396.28，月保 $200.25（16 天以内 $105）；年免赔额 $200。",
+      "ins2": "Office Global Education，Hunt Union 128，108 Ravine Parkway，607-436-3369，globaled@oneonta.edu，传真 607-436-2760；保险卡经 UHC Student Account 门户下载，查福利与网络医院。",
+      "ins3": "替代保单须符合 UHC/SUNY 标准并经 OGE 核验；豁免申请经 OGE 办理；页面未列独立豁免门户；联系 607-436-3369 或 globaled@oneonta.edu。",
+      "clinic": "Health & Wellness Center，607-436-3573，传真 607-436-2074，预约制；周一至周三、周五 8:00 起，周四 8:00–20:00；Counseling Center 同楼。校外网络：Bassett Convenient Care，1 Associate Drive，607-433-6400；WellNow Urgent Care，5001 NY-23，607-431-5052；急诊 AO Fox Hospital，1 Norton Avenue，607-431-5000。",
+      "commute": "校园在 Oneonta 镇 Ravine Parkway；I-88 接 Route 23，距 Albany 约 90 分钟量级；市内 OPRides 公交；城际 Trailways 往纽约 Port Authority 方向；最近民航 Albany International Airport（ALB）。",
+      "scene": "SUNY Oneonta 为 Otsego County 公立文理综合学院，校队称 Red Dragons；专业设置与社团名录见官网当期公布；Hunt Union 为学生活动中心。",
+      "safety": "University Police Department，Emergency Services Building；紧急 607-436-3550，传真 607-436-2402；O-Alert 警报与 Blue Light 电话；协同 City of Oneonta Police、Otsego County Sheriff 与 NYSP；Silent Witness 匿名报告。",
+      "transit": "OPRides 市内公交凭学生 ID 乘车；Trailways 往返城际；ALB 机场经 Albany 地面衔接；学期内接驳班次以学校与公交当期公布为准。",
+      "rentnote": "Residential Experience and Housing，106 Wilsbach Hall，607-436-3182 / 607-436-2514；新生住校四学期；房型含 double、quad、六人 suite 与 Higgins Hall 公寓；住宿与餐计划打包费率未在本次页面核实，校外租房不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://suny.oneonta.edu/academics/academic-calendar",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://suny.oneonta.edu/about/university-offices/office-global-education/health-insurance",
+          "国际学生健康保险"
+        ],
+        "police": [
+          "https://suny.oneonta.edu/university-police",
+          "University Police"
+        ],
+        "housing": [
+          "https://suny.oneonta.edu/why-oneonta/student-life/campus-living",
+          "Campus Living"
+        ],
+        "clinic": [
+          "https://suny.oneonta.edu/health-wellness-center",
+          "Health & Wellness Center"
+        ],
+        "transit": [
+          "https://suny.oneonta.edu/why-oneonta/visit-campus/directions",
+          "到校交通指引"
+        ]
+      }
+    },
+    "newpaltz": {
+      "short": "纽约州立大学新帕尔茨分校",
+      "place": "新帕尔茨 · 1 Hawk Drive, New Paltz, NY 12561",
+      "cityKey": "newpaltz",
+      "calShort": "学期制，2026 秋 8 月 24 日开课，2027 春 1 月 21 日开课",
+      "calendar": "2026 秋：8 月 24 日（周一）开课；8 月 30 日免费加课截止；9 月 6 日退课无 W；9 月 7 日劳动节；10 月 12–13 日秋假；11 月 16 日学期 withdrawal 截止；11 月 25–27 日感恩节假；12 月 7 日最后上课，12 月 8–9 日复习日，12 月 10 日统考日，12 月 11–17 日期末，12 月 17 日学期结束，宿舍 12 月 18 日关闭。2027 春：1 月 21 日开课；1 月 27 日加课截止；2 月 3 日退课截止；3 月 15–19 日春假；4 月 21 日 withdrawal 截止；5 月 10 日最后上课，5 月 11–12 日复习日，5 月 13 日统考日，5 月 14–20 日期末，5 月 20 日学期结束；5 月 21 日研究生毕业典礼，5 月 22–23 日本科毕业典礼。",
+      "fulltime": "本科全日制身份按每学期不少于 12 学分注册维持；F-1 身份所需学分由 ISSS 按当期规则核定；想少修课程须先取得 ISSS 核准，再办 Reduced Course Load 手续。",
+      "drop": "秋 8 月 30 日免费加课截止，9 月 6 日前退课无 W，11 月 16 日学期 withdrawal 截止；春 1 月 27 日加课截止，2 月 3 日退课截止，4 月 21 日 withdrawal 截止；是否记 W 及退费档位对照 Registrar 校历对应日期确定。",
+      "ins1": "适用的 inbound 国际学生被征收 International Health Insurance；2026–27 费率表列 Fall $1,006.73、Spring $1,396.28（另有 outbound 与 J1N 档位）；学费页未列明承保机构。",
+      "ins2": "International Student Services，van den Berg Hall Room 201，845-257-3595，international@newpaltz.edu；保单凭证下载与福利、就医网络查询走承保方自己的账户门户。",
+      "ins3": "自备保单能否替代、豁免如何申请，均由 ISSS 受理核验；页面未列独立豁免门户；豁免条件与材料以 ISSS 当期回复为准，联系 845-257-3595 或 international@newpaltz.edu。",
+      "clinic": "Student Health Service，1 Hawk Drive；845-257-3400；学年内周一至周五 8:30–16:30；课后与周末可拨 845-257-3400 联系分诊护士；急诊拨校警 845-257-2222 或 911；Medicat 门户 newpaltz.medicatconnect.com 预约与取报告。",
+      "commute": "校园在 New Paltz 村 Hawk Drive；公路接 I-87 Thruway 18 号出口；Trailways 站在 Main Street 与 Prospect Street 路口，845-255-6520；铁路经 Metro-North Hudson Line 至 Poughkeepsie，再接 Amtrak；最近民航为 Stewart International Airport（SWF，Newburgh）。",
+      "scene": "SUNY New Paltz 为 Hudson Valley 公立综合学院，下设文理学院、商学院、教育学院、艺术与表演学院、科学与工程学院及研究生院；校队称 Hawks；在校人数以官网当期公布为准。",
+      "safety": "University Police；校内紧急拨 x911 或 845-257-2222，匿名举报 845-257-2230，可提交匿名线索表；DCJS 认证；校外辖区归 Village/Town of New Paltz 与州警，紧急 911。",
+      "transit": "村中心为步行圈；Trailways 往返纽约与 Albany 方向；铁路与 Amtrak 在 Poughkeepsie 衔接；SWF 机场地面接驳经 Newburgh；学期内校车与接驳班次以 Campus Life 当期公布为准。",
+      "rentnote": "10 个月宿舍为 Bliss、Bouton、Ashokan、Awosting，其余假期关闭；Disability Resource Center 845-257-3020；2026–27 费率表每学期 Room Rent Double $6,057、Single $7,692、Superior Single $9,084，Food Service $2,970（全部餐档，新生须选 Carte Blanche）；校外租房在村中与周边乡镇，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://webapps.newpaltz.edu/calendars/academic/202609/1",
+          "2026 秋校历"
+        ],
+        "ins": [
+          "https://www.newpaltz.edu/admissions/tuition.html",
+          "学费与费用（国际健康保险）"
+        ],
+        "police": [
+          "https://www.newpaltz.edu/police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.newpaltz.edu/reslife/housing.html",
+          "Residence Life 住宿"
+        ],
+        "clinic": [
+          "https://www.newpaltz.edu/healthcenter/",
+          "Student Health Service"
+        ],
+        "transit": [
+          "https://www.newpaltz.edu/about/directions.html",
+          "到校交通指引"
+        ]
+      }
+    },
+    "cunylaw": {
+      "short": "纽约市立大学法学院（CUNY）",
+      "place": "纽约州·纽约市长岛市（2 Court Square, Long Island City, NY 11101）",
+      "cityKey": "lic",
+      "calShort": "JD 学期制，2026 秋 8 月 26 日开课",
+      "calendar": "CUNY Law 为三年制 JD（另有晚间非全日制项目），仅秋季入学。2026 秋：8 月 17–21 日一年级 pre-law week；8 月 25 日免费用期内最后 add/drop；8 月 26 日开课；9 月 1 日含费用最后加课；9 月 7 日劳动节停课；9 月 15 日含费用最后退课且不留成绩单记录；9 月 21 日无课；10 月 12 日停课；11 月 3 日最后退课记 W；11 月 26–27 日感恩节停课；12 月 1 日最后上课日，12 月 2–4 日阅读期，12 月 7–18 日期末；2027 年 1 月 7 日秋季学期 CR/NCL 截止。2027 春：1 月 18 日免费用期最后 add/drop；1 月 19 日开课；1 月 25 日含费用最后加课；2 月 8 日含费用最后退课；2 月 15 日停课；2 月 16 日立法周一；2 月 22–3 月 5 日期中；春季假期 3 月 8–12 日；3 月 26 日无课；4 月 2 日最后退课记 W；4 月 22 日无课；4 月 28 日立法周五；4 月 29 日最后上课日，4 月 30–5 月 3 日阅读期，5 月 4–18 日期末；毕业典礼定于 5 月 20 日。",
+      "fulltime": "JD 注册口径：全日制项目按法学院排课；每学期 16 学分内可自行注册，17 学分须 Academic Dean 批准；注册低于 12 学分须提交 Visiting Student Less Than 12 Credits 申请并经批准；一年级学生由校方统一行政注册；毕业须完成 86 学分。",
+      "drop": "退课与退学费：开课后退课先记 WD（非惩罚性、不上成绩单），退课截止后退出记 W 且不退费；未参与任何学术活动的非正式退出记 WU。2026 秋 add/drop 节点 8 月 25 日、9 月 1 日、9 月 15 日，11 月 3 日退 W 截止；2027 春节点 1 月 18 日、1 月 25 日、2 月 8 日，4 月 2 日退 W 截止。",
+      "ins1": "CUNY 统一口径：法学院不设强制学生 SHIP，注册后不会自动加入校内保险；F-1/F-2 不在强制之列但校方建议自购；J-1/J-2 必须按 22 CFR 62.14 持险，并向本校 Responsible Officer 出示证明。",
+      "ins2": "法学院未设 waiver 门户与豁免截止日；纽约州 Public Health Law 2165 要求注册 6 学分及以上学生提交麻腮风（MMR）免疫证明，2167 要求脑膜炎疫苗知情记录，这与商业保险是两套材料。",
+      "ins3": "建议自购计划含医疗运送与遗体遣返保障；校内咨询服务面向在读 JD 学生开放，健康与免疫材料按免疫要求页提交。",
+      "clinic": "Student Wellness 办公室 Rm 5-112/113，(718) 340-4207，studentwellness@law.cuny.edu；Registrar Office 4|109，718-340-4237，registraroffice@law.cuny.edu，周一–周五 9:00–16:00。免疫要求材料交健康服务渠道，按 Public Health Law 2165/2167 办理。",
+      "commute": "法学院为 2 Court Square 单栋高楼内办学，教室、诊所、图书馆与办公室集中楼内；楼群位于 Court Square 商务区，隔东河与曼哈顿相望。",
+      "scene": "纽约市唯一公立法学院，1983 年创办，定位公益法律教育；临床教育是项目顶点，设 in-house 与 practice 两类诊所；学生办有 CUNY Law Review、Moot Court 与多个族群/公法方向学生组织；规模紧凑，师生围绕诊所与公法实践活动。",
+      "safety": "Public Safety 办公室 1-102；主任 Steve Katz 718-340-4271；办公室 718-340-4270；楼内医疗紧急情况 718-340-4440 或 4270；警方/急救拨 911；校外归 NYPD 108 分局 718-784-5411；Student Affairs 718-340-4207，Dean's Office 718-340-4201。",
+      "transit": "E/F/7/G/M 线 Court Square 站；N/W 线 Queensboro Plaza 站；LIRR Hunters Point 站，7 号线一站衔接；PATH M 线可往曼哈顿方向；运营时刻以 MTA 官网 mta.info 为准。",
+      "rentnote": "法学院不提供校属宿舍，也无统一餐计划；助学金预算把住房列为 2026–27 九个月估算 $17,604（非租金报价）。学生多在 LIC、Astoria、Sunnyside 或曼哈顿跨河租房；校外租金按挂牌价核对押金、杂费与租期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.law.cuny.edu/academics/academic-calendar/",
+          "CUNY Law 校历"
+        ],
+        "ins": [
+          "https://sph.cuny.edu/students/student-services/student-wellness/healthcare-resources/",
+          "CUNY 国际学生保险口径"
+        ],
+        "clinic": [
+          "https://www.law.cuny.edu/admissions-and-aid/immunization-requirements/",
+          "免疫要求"
+        ]
+      }
+    },
+    "yorkcuny": {
+      "short": "约克学院（CUNY）",
+      "place": "纽约州·纽约市皇后区 Jamaica（94-20 Guy R. Brewer Blvd, NY 11451）",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 28 日开课",
+      "calendar": "York College 实行学期制（semester），校区在皇后区 Jamaica。2026 秋：8 月 28 日开课；10 月 12 日学院停课；11 月 25 日无课，11 月 26–27 日感恩节停课，11 月 28 日无课；12 月 14 日最后上课日，12 月 15–21 日期末考试，12 月 21 日秋季学期结束；12 月 24–25 日、12 月 31 日与 1 月 1 日学院停课。2027 春：1 月 28 日开课。",
+      "fulltime": "F-1/J-1 全职线按 CUNY 统一标准：本科每学期注册至少 12 学分、研究生至少 9 学分；须人在美国境内完成注册；网课计入面授比例有上限，低于全职注册前须先咨询国际学生顾问，否则影响 SEVIS 身份。",
+      "drop": "2026 秋：8 月 27 日前退课可避免学费责任；9 月 4–5 日退课记 WD 时段开始；11 月 6–7 日为最后退课记 W 日。2027 春：1 月 27–28 日 100% 退款；2 月 3–4 日 75% 退款、最后加课日；2 月 10–11 日 50% 退款；2 月 17–18 日普查日、25% 退款、最后无 W 退课；2 月 18–19 日起承担 100% 学费责任并记 WN，退课记 W 时段开始。退款档位以校历页当期公布为准。",
+      "ins1": "CUNY 统一口径：学校不设面向学生的强制 SHIP，注册后不会自动加入任何校内保险计划；F-1/F-2 身份不强制投保，但校方强烈建议本人与家属在美期间自购学生健康保险；J-1/J-2 按交流项目强制持险并向本校 Responsible Officer 出示保单证明。",
+      "ins2": "学校没有 waiver 门户，也未列豁免提交窗口与截止日期；F-1/F-2 自行安排保险即可。York 健康服务页列出 International Student Insurance、ISP、ISO 等可比较的学生保险计划；面向美国本地人的公共福利计划不适用于国际生与外州生。",
+      "ins3": "建议所选计划含医疗运送（medical evacuation）与遗体遣返（repatriation）保障；校内 Health Services Center 对在读学生提供基础临床服务，记录保密。",
+      "clinic": "Student Health Services Center：Academic Core Building, Room 1F01；718-262-2050，传真 718-262-2099，StudHealthSvcCtr@york.cuny.edu。Counseling Center：AC-1G03，718-262-2272，counseling@york.cuny.edu；周一–周四 9:00–19:00，周五 9:00–17:00；另经合作方 Uwill 提供远程心理与健康服务。",
+      "commute": "校园核心为 Academic Core 一栋主楼，教学楼、图书馆、实验室与健康服务中心集中楼内；南门面对 Guy R. Brewer Blvd，毗邻 Jamaica Center 一带的商业街区。",
+      "scene": "York 提供 60 余个本科专业，强项覆盖护理与健康科学（含职业治疗、医师助理）、商科与航空管理、社会工作方向；CUNY Aviation Institute 设在本校，另有航空管理、临床试验管理、医师助理、社会工作等研究生项目；学生来自 50 多个国家，校内有 40 余个学生社团。",
+      "safety": "Public Safety 办公室 AC-1M02，电话 718-262-2222、备用 929-802-2415，publicsafety@york.cuny.edu；校内即时危险拨 911；校园安保值守与门禁按 Public Safety 页当期安排执行。",
+      "transit": "E/J/Z 线 Jamaica Center–York College 站出站即达校区；LIRR Jamaica 站同枢纽换乘；AirTrain JFK 在 Jamaica 衔接机场；地面公交 Q4、Q5、Q42、Q83 等线路沿周边走行；线路班次以 MTA 官网 mta.info 为准。",
+      "rentnote": "官方目录未列校属宿舍，学生以走读与校外租房为主；助学金预算中住房按 2025–26 九个月校外居住估算 $18,630（非租金报价）。CUNY 体系内 Brooklyn College Residence Hall 与 Queens College Summit Apartments 对各 CUNY 校在读生开放申请；校外房源按邮编查挂牌价，核对押金、杂费与转租条款，本页不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.york.cuny.edu/registrar/calendar",
+          "York 校历"
+        ],
+        "ins": [
+          "https://www.york.cuny.edu/health/health-insurance",
+          "York 学生健康保险页"
+        ],
+        "clinic": [
+          "https://www.york.cuny.edu/health",
+          "York Health Services Center"
+        ]
+      }
+    },
+    "usmma": {
+      "short": "美国商船学院（USMMA）",
+      "place": "国王角 · 300 Steamboat Road",
+      "cityKey": "kingspoint",
+      "calShort": "三学期制（每学期 13 周），2026 级 7 月 9 日报到入伍，7 月 29 日第一学期开课",
+      "calendar": "学年为 7 月下旬至 6 月下旬的 11 个月，分三个 13 周学期。2030 级：7 月 9 日 0700–0830 报到，Indoctrination 至 7 月 24 日结束；第一学期 7 月 29 日开课；Family Weekend 9 月 11–13 日。参照 2025–2026：第一学期 7 月 23 日开课、10 月 23 日结课、10 月 27–31 日期末；第二学期 11 月 12 日开课、2 月 27 日结课、3 月 2–6 日期末；第三学期 3 月 17 日开课、6 月 15–18 日期末、6 月 22 日毕业典礼。",
+      "fulltime": "军校 Regiment 编制内按三学期学制注册；每学期课程、Naval Science、体育与 Sea Year 训练均为必修；学业负荷按学院课程表执行，无普通大学自助减修概念。",
+      "drop": "退课与学籍调整按军校校规与 Department of Naval Science 程序办理；Sea Year 与学期安排按 Regiment 分裂（A/B/C Split）执行；Midshipman Fee 在学期内入住后不退该学期费用，Indoc 期间退学者退第二、三学期费用。",
+      "ins1": "校内 DHS 提供基础医疗与牙科；超出校内范围的就医须有学院批准的健康保险；全员须购买学院承保方 SHIP，或出示符合 USMMA 最低要求的现有保单证明。",
+      "ins2": "保险凭证随保单留存；Northwell Health 系统 North Shore University Hospital（距校不到 5 英里）为主要上转医院；校内 24 小时 EMS 由 Midshipmen EMS 项目运行，成员为 NYS 认证 EMT。",
+      "ins3": "豁免方式两种：持符合最低要求的现有保单（家庭、本人或配偶计划）；或自选符合全部最低要求的学生保险计划；最低要求见 Health Services FAQ 与 Logging In 手册。",
+      "clinic": "Department of Health Services（DHS/OHS），Patten Hall；Patten Health Clinic 电话 516-726-5680 转 4；周一至周五 0700–1530（节假日除外），隔周末开诊；含医疗、牙科、MCPD 心理咨询与 Sea Year/USCG 体检，对接 DoDMERB 安排。",
+      "commute": "校园在 Nassau County Kings Point，长岛北岸 Long Island Sound 畔，300 Steamboat Road；经 Northern Boulevard（Route 25A）转 Kings Point Road/Steamboat Road；距 Queens 方向 JFK/LGA 约 20–30 英里量级；封闭营区，访客经 Vickery Gate 登记。",
+      "scene": "联邦军校，隶属 DOT Maritime Administration；Regiment 编两个营五个连；授予 BS 学位，专业限 Marine Transportation、Marine Engineering、Marine Engineering Systems、Marine Engineering & Shipyard Management、Maritime Logistics and Security；三年在校加约一年 Sea Year；统一制服、宿舍检查与体能考核（PFA）贯穿全程。",
+      "safety": "Department of Public Safety and Security，Vickery Gate/Furuseth Hall 一层；紧急 x5911 / 516-726-5911 或 911；医疗紧急 x5858 / 516-726-5858；非紧急 x5847 / 516-726-5847；部门长 x5846 / 516-726-5846；门岗 516-726-5860；Blue Light 电话接 Command Center 24/7；与 Kings Point 村警、Nassau County 警互助。",
+      "transit": "营区无市域公交；出入经 Vickery Gate 车辆登记；公路接 Northern Boulevard（25A）、Cross Island Parkway 与 Long Island Expressway；最近铁路为 LIRR Port Washington 支线 Great Neck/Port Washington 方向，到校需驾车或预约；JFK/LGA 为最近主要机场。",
+      "rentnote": "全体 midshipman 四年住校内 Barry、Rogers、Cleveland、Murphy、Palmer 五栋宿舍，房间标准化并定期检查；伙食在 Delano Hall 统一供应；联邦拨款覆盖学费、食宿、制服与教材，无月饷；自费项含 Midshipman Fee、洗衣裁缝、Plebe/Educational Kit、差旅与个人杂费；无校外租房概念。",
+      "link": {
+        "cal": [
+          "https://www.usmma.edu/academics/registrar/2025-2026-academy-calendar",
+          "2025–2026 校历"
+        ],
+        "ins": [
+          "https://cms.usmma.edu/buildamerica/academy-life/activitiesservices/health-services",
+          "健康服务与保险要求"
+        ],
+        "clinic": [
+          "https://cms.usmma.edu/buildamerica/academy-life/activitiesservices/health-services",
+          "DHS Patten Hall 诊所"
+        ],
+        "housing": [
+          "https://www.usmma.edu/academy-life/barracks-life",
+          "宿舍与团部生活"
+        ],
+        "police": [
+          "https://cms.usmma.edu/sites/usmma.dot.gov/files/2023-10/Annual%20Security%20and%20Fire%20Safety%20Report%202022-23.docx.pdf",
+          "年度安全与消防报告"
+        ]
+      }
+    },
+    "geneseo": {
+      "short": "纽约州立大学杰纳苏分校",
+      "place": "杰纳苏 · 1 College Circle",
+      "cityKey": "geneseo",
+      "calShort": "学期制，2026 秋 8 月 24 日开课，2027 春 1 月 26 日开课",
+      "calendar": "2026 秋：8 月 16 日国际生入住，8 月 18 日新生入住与导引，8 月 24 日开课、加退课开始；8 月 30 日 23:55 加退课结束、单科 100% 退费截止；9 月 6 日 70%、9 月 13 日 50%、9 月 20 日 30% 退费档；10 月 10–13 日秋假；11 月 25–28 日感恩节假；11 月 30 日全日制学期退课截止；12 月 7 日最后上课，12 月 8 日学习日，12 月 9–15 日期末，12 月 16 日宿舍关闭，12 月 18 日出成绩。2027 春：1 月 22 日新生导引，1 月 26 日开课；2 月 1 日加退课结束、单科 100% 退费；2 月 8 日 70%、2 月 15 日 50%、2 月 22 日 30%；3 月 13–20 日春假；5 月 5 日退课截止；5 月 12 日最后上课，5 月 13 日学习日，5 月 14–20 日期末，5 月 22 日毕业典礼，5 月 23 日出成绩。",
+      "fulltime": "全日制负荷为注册并缴费至少 12 学分；F-1 本科每学期至少 12 学分；减修须先经 ISSS 批准并办理 Reduced Course Load；助学金学分要求另查 Financial Aid。",
+      "drop": "秋 8 月 30 日 23:55 前单科 100% 退费，其后 70%/50%/30% 按 9 月 6 日、9 月 13 日、9 月 20 日档；11 月 30 日全日制学期退课截止；春 2 月 1 日 100%，其后 2 月 8 日 70%、2 月 15 日 50%、2 月 22 日 30%；5 月 5 日全日制退课截止；退课记 W 与退费比例按 Registrar 校历。",
+      "ins1": "SUNY United Healthcare（UHC）保险计划对所有国际学生强制；每学期开始前由 ISSS 自动登记并计入学生账单；计划在 8 月 15 日生效。",
+      "ins2": "保单满足国务院与 SUNY 最低要求，含疾病意外、医疗运送与遣返；UHC app 与 myaccount.uhcsr.com 门户下载保险卡、查福利与网络医院；Health and Counseling 协助保单与账单问题。",
+      "ins3": "豁免须经 Haylor Freyer and Coon 门户提交材料；条件为美国本土保险商签发、ACA 合规、保障达到或超过 SUNY 计划；保单秋不晚于 8 月 15 日、春新生不晚于 1 月 15 日生效；被拒豁免不可申诉。",
+      "clinic": "Student Health and Counseling，Lauderdale Health Center，1 College Circle；Health Services 585-245-5736（传真 585-245-5744），Counseling 585-245-5716；邮箱 health@geneseo.edu；周一至周五 8:00–16:15；非开诊时段护士咨询热线 245-5736；South Village Onondaga Hall 设健康卫星点。",
+      "commute": "校园在 Livingston County Geneseo 村，1 College Circle，220 英亩；I-390 接 NYS Thruway 46 号出口往 Rochester；US-20A、NY-63 连接村镇；Rochester 在北约 30 英里；小镇步行圈，进城要坐车或驾车。",
+      "scene": "纽约公立文理学院（New York's Public Honors College），1871 年建校；本科专业与辅修覆盖文理工商，高注册专业含心理学、传播、生物、政治科学与国际关系；商学院与教育学院见长，物理 STEM 博士产出居全国前列；MacVittie College Union 为活动中心。",
+      "safety": "University Police Department（UPD），Schrader Hall Room 19；校内紧急 585-245-5222 或 911，行政 585-245-5651，police@geneseo.edu；心理危机拨 585-245-5716 或 988；辖区为 Village of Geneseo 与 Livingston County 警后备。",
+      "transit": "本地 LATS（Livingston Area Transportation Service）每日在校园与村镇商业区循环，学期内凭 College ID 免费；周末有 Geneseo–Rochester 班车，停 RIT、Rochester 机场、Rochester 巴士/火车站、Eastview Mall 与 U of R；往返 Rochester 无铁路直达。",
+      "rentnote": "校内房型含标准双人间、套房双人间、Townhouse、单人套房与走廊单人间；2026–2027 每学期 Standard Double $5,167、Suite Double $5,282、Townhouse $5,836、Deluxe Single Suite $6,817、Deluxe Corridor Single $5,791；住宿押金 $150；住校生强制餐计划；校外租房在 Geneseo 村与周边乡镇，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://www.geneseo.edu/registrar/academic-calendar",
+          "2026–2027 校历"
+        ],
+        "ins": [
+          "https://www.geneseo.edu/international/health-insurance-international-students/",
+          "国际学生健康保险"
+        ],
+        "clinic": [
+          "https://www.geneseo.edu/health/contact",
+          "健康与咨询中心"
+        ],
+        "housing": [
+          "https://www.geneseo.edu/residence-life/residence-hall-room-rates",
+          "宿舍费率"
+        ],
+        "police": [
+          "https://www.geneseo.edu/police/",
+          "University Police Department"
+        ]
+      }
+    },
+    "fredonia": {
+      "short": "纽约州立大学弗雷多尼亚分校",
+      "place": "弗雷多尼亚 · 280 Central Avenue",
+      "cityKey": "fredonia",
+      "calShort": "学期制，2026 秋 8 月 31 日开课、12 月 18 日期末，2027 春 1 月 25 日开课、5 月 14 日期末",
+      "calendar": "2026 秋：8 月 27–28 日新生导引，8 月 31 日开课；9 月 4 日全日制学期在线改课/退课；9 月 7 日劳动节停课；9 月 9 日免罚加课截止；9 月 18 日 Pass/Fail 截止；10 月 8–9 日秋假；11 月 6 日全日制学期退课截止；11 月 23–27 日 11 月假；11 月 30 日完全退课截止；12 月 11 日最后上课，12 月 14–18 日期末，12 月 22 日出成绩。2027 春：1 月 22 日新生导引，1 月 25 日开课；1 月 29 日改课/退课；2 月 2 日免罚加课；2 月 12 日 Pass/Fail；3 月 15–19 日春假；4 月 7 日退课截止；4 月 19 日完全退课；5 月 7 日最后上课，5 月 10–14 日期末，5 月 15 日毕业典礼，5 月 19 日出成绩。",
+      "fulltime": "本科全日制最低 12 学分，常规学业负荷 15–16 学分；超过 18 学分须系主任或项目协调人批准；F-1 每学期至少 12 学分，减修须经 ISSS 批准并办理 Reduced Course Load。",
+      "drop": "改课与退课窗口按校历：秋 9 月 4 日在线退全日制学期课，9 月 9 日免罚加课；退课记 W 截止 11 月 6 日（全日制学期），11 月 30 日为完全退课最后日；春 1 月 29 日改课退课，2 月 2 日免罚加课，4 月 7 日退课截止，4 月 19 日完全退课；退费比例按 Student Accounts 当期退费表。",
+      "ins1": "所有国际学生与学者强制参加 SUNY United Healthcare 学生保险；J-1 持 SUNY GA 保单者可豁免；保费按学期计入 e-bill（秋/春）。",
+      "ins2": "保单由学校登记并入账；UHCSR 门户下载保险卡、查网络医院与保障；暑期与 OPT 经在线店头加保；配偶与 18 岁以下家属可另投保；ISSS 协助保险问题。",
+      "ins3": "能证明现有保单同等或更优可申请豁免；J-1 持 SUNY GA 保险属豁免情形；联系 ISSS 办理；豁免窗口与条件以 ISSS 当期通知为准。",
+      "clinic": "Health Center（LoGrasso Hall）；电话 716-673-3131，传真 716-673-4722，邮箱 health.center@fredonia.edu；周一至周五 8:00–16:30；提供初级保健、疫苗与转诊；Counseling Center 同在 LoGrasso Hall，716-673-3424。",
+      "commute": "校园在 Chautauqua County 弗雷多尼亚村，280 Central Avenue；西纽约州靠近伊利湖；I-90 Thruway 59 号出口接 Southern Tier Expressway（17/86 号公路）；距 Buffalo 约 45 英里西南；村镇步行圈，进城需驾车或坐车。",
+      "scene": "公立寄宿文理大学，1826 年建校；Fredonia School of Music 约 500 名学生，开设音乐教育、表演、音乐治疗、录音技术与作曲；教育、理科与传播为强项；Division III 校际体育；University Commons 含书店、便利店与 Starbucks。",
+      "safety": "University Police Department，Gregory Hall 二层；电话 716-673-3333，传真 716-673-3462，邮箱 University.Police@fredonia.edu；24 小时值守；校外紧急拨 911；Fredonia 村警 716-679-1531；NYS 州警与 Chautauqua County 警为辖区后备。",
+      "transit": "村内步行圈；公共交通为 CHQ Transit 区域公交，Dunkirk–Fredonia 沿线设站；Williams Center 票务点可买线路票；往 Buffalo 需 Coach USA 等城际巴士或驾车经 I-90；班次有限，周末进城要提前查表。",
+      "rentnote": "校内宿舍含双人间、单人间、Kitchen Suite、University Commons 与 University Village Townhouse；2026–2027 每学期房价双人 $4,400、单人 $5,100、Kitchen Suite 双人 $4,550/单人 $5,250、Commons 双人 $4,600/单人 $5,300、Village Townhouse $5,450；校外租房在 Fredonia/Dunkirk 村镇，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.fredonia.edu/about/offices/academic-affairs/academic-calendars",
+          "2026–2027 校历"
+        ],
+        "ins": [
+          "https://www.fredonia.edu/student-life/international-student-services/health-insurance",
+          "国际学生健康保险"
+        ],
+        "clinic": [
+          "https://www.fredonia.edu/student-life/health-center/services",
+          "健康中心服务"
+        ],
+        "housing": [
+          "https://www.fredonia.edu/about/offices/student-accounts/tuition",
+          "学费与住宿餐费"
+        ],
+        "police": [
+          "https://www.fredonia.edu/about/safety",
+          "校园安全"
+        ]
+      }
+    },
+    "farmingdale": {
+      "short": "纽约州立大学法明代尔州立学院",
+      "place": "法明代尔 · 2350 Broadhollow Road",
+      "cityKey": "farmingdale",
+      "calShort": "学期制，2026 秋 8 月 31 日开课，2027 春 1 月 25 日开课",
+      "calendar": "2026 秋：8 月 27–28 日注册，8 月 31 日开课，9 月 7 日劳动节停课；10 月 30 日全日制学期退课截止；11 月 25–28 日感恩节假；12 月 15–21 日期末考试，12 月 21 日学期结束。2027 春：1 月 20–21 日注册，1 月 25 日开课；3 月 22–27 日春假；4 月 2 日退课截止；5 月 13–19 日期末考试，5 月 19 日学期结束，5 月 21 日毕业典礼。",
+      "fulltime": "本科每学期 12 学分及以上为全日制（国际账单页 12+ Credits）；研究生全日制为 12 学分；F-1 低于全日制须先经国际教育办公室批准并办理 Reduced Course Load。",
+      "drop": "2026 秋：9 月 4 日 17:00 前线下改课，9 月 6 日 23:59 在线截止；7 周一段 9 月 24 日退课，全日制学期 10 月 30 日截止，7 周二段 11 月 16 日截止；退费按 Student Accounts Refund Schedule 执行，100% 退费期过后 College Fee、Transcript Fee 等不退；学籍退课截止日与费用责任截止日不同。",
+      "ins1": "所有 F-1/J-1 国际学生自动加入 SUNY 批准、United Healthcare（UHC）承保的学生健康保险，保费计入学生账单；计划含牙科、医疗运送与遗体遣返。",
+      "ins2": "学期开始前自动登记并入账，学生无需另行申请；承保方 UHCSR 发出欢迎邮件，在 myaccount.uhcsr.com 建立账户后可下载保险卡、查保障与网络医院；配偶与子女须另投保；学生援助计划 SAP 24/7 电话 866-671-9302。",
+      "ins3": "仅在 SUNY 批准豁免时可退出本计划；符合条件的 F-1/J-1/M-1 与访问学者经国际教育办公室提交申请，由 SUNY 计划承保方审核；页面未列独立 waiver 门户起止日期，按办公室当期通知办理。",
+      "clinic": "Health & Wellness Center 位于校园内；电话 934-420-2009，邮箱 wellness@farmingdale.edu；周一至周五 9:00–16:00；提供初级保健、疫苗与健康咨询，心理健康经 CMHS 934-420-2006 对接，化验外送 LabCorp。",
+      "commute": "校园坐落在 Nassau County 与 Suffolk 县交界的 Broadhollow Road（Route 110）旁，占地 380 英亩；驾车走 Southern State Parkway 出口 32N、Northern State Parkway 出口 40、Long Island Expressway 出口 49；地处长岛中部，距纽约市不到 30 英里量级；最近商用机场 ISP 在以南 Islip/Ronkonkoma 方向。",
+      "scene": "SUNY 体系州立学院，下设工程技术学院、商学院与文理学院；强项含航空（Aeronautical Science Professional Pilot 等 AABI 认证项目）、工程技术、建筑工程技术、护理、生物科学与航空管理；校区 380 英亩，邻近 BioScience Park。",
+      "safety": "University Police 24/7/365 驻校巡逻；紧急电话 934-420-2111；停车与交通 934-420-2561；行政 934-420-2702，邮箱 police@farmingdale.edu；警员为纽约州认证；校外紧急拨 911，辖区含 Village of Farmingdale 与 Nassau/Suffolk 县警。",
+      "transit": "铁路乘 LIRR Ronkonkoma 支线到 Farmingdale 站；校车从 Nold Hall 往返车站约 5 分钟；公交有 NICE N70/N71 与 Suffolk County 公交 1 路、12 路及 Clipper 线，站点在东侧 4B 停车场附近；时刻以 mta.info 与 Suffolk Transit 当期表为准。",
+      "rentnote": "校内宿舍分单、双、三人间，2026–2027 每学期房价单人间 $5,418、双人间 $4,829、三人间 $4,142；住校生强制餐计划；住房押金 $50；校外租房集中在 Farmingdale、Melville、Hicksville 一带，依赖驾车或 LIRR，租金随户型区位浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.farmingdale.edu/calendar/academic/",
+          "2026–2027 校历"
+        ],
+        "ins": [
+          "https://www.farmingdale.edu/international-education/int-health-insurance.shtml",
+          "国际学生健康保险"
+        ],
+        "clinic": [
+          "https://www.farmingdale.edu/health-wellness-center/index.shtml",
+          "健康与保健中心"
+        ],
+        "housing": [
+          "https://www.farmingdale.edu/residence-life/roomselection.shtml",
+          "住宿与餐计划费率"
+        ],
+        "police": [
+          "https://www.farmingdale.edu/university-police/index.shtml",
+          "校警部门"
+        ]
+      }
+    },
+    "delhi": {
+      "short": "纽约州立大学德里分校",
+      "place": "德里 · 454 Delhi Drive, Delhi, NY 13753",
+      "cityKey": "delhi",
+      "calShort": "两学期制；秋季 2026 年 8 月 31 日开课，春季 2027 年 1 月 25 日开课。",
+      "calendar": "Fall 2026：全学期 8 月 31 日（周一）–12 月 18 日（周五）；新生 8 月 25 日入住，老生 8 月 29–30 日 9:00–20:00 入住；账单 8 月 21 日截止；加 full-semester 课截止 9 月 4 日（周五）；免费退课截止 9 月 25 日（周五），其后退课 $20/门；记 W 退课截止 11 月 20 日（周五）；改餐截止 9 月 11 日 16:00。Spring 2027：Bronco Ready Orientation 1 月 16–18 日；学期自 1 月 25 日（周一）起；退费档 1/25–1/31 100%、2/1–2/7 70%、2/8–2/14 50%、2/15–2/21 30%、2/22 后不退；毕业申请 3 月 15 日，步行仪式申请 4 月 4 日。",
+      "fulltime": "F-1 全日制以 12 学分及以上为标准；住校须注册全日制，豁免经 Residence Life 事先批准；减修影响资助资格，联系 Student Financial Services。",
+      "drop": "秋季 9 月 4 日前可加 full-semester 课；9 月 25 日前退课免费，之后 $20/门；11 月 20 日为记 W 退课截止；退学填 Petition for Withdrawal，经 One Stop、Academic Advisement、Health & Counseling 对接；学费退费按 withdraw 日期档位；餐计划第 10 周后不退。",
+      "ins1": "所有国际学生自动计入 Student Health for SUNY，承保 UnitedHealthcare（UHC）；首学期初邮件发放电子保险卡；orientation 讲解保障基础。",
+      "ins2": "保险卡与保单经 UHC 会员门户查询；校内工作与身份维护经 ISS/CISS 对接；家属保险安排咨询 ISS。",
+      "ins3": "豁免门户与截止日在校方页面未见单列；替代保单与豁免事项咨询 International Student Services（MOSAIC）。",
+      "clinic": "Health & Counseling Services，Foreman Hall（Alumni 与 Gerry 楼之间）；周一至周四 8:30–17:00，周五 8:30–16:30；607-746-4690，传真 607-746-4141，healthservices@delhi.edu；NP/PA/RN 初诊与执业咨询师个体及团体咨询；办公就诊免费，强制健康费 $170/学期；课后与急诊转 O'Connor Hospital，607-746-0300。",
+      "commute": "454 Delhi Drive，Delaware County Catskill 山麓村；官网地图口径：Albany 1 小时 40 分、Binghamton 1 小时、Schenectady 1 小时 30 分、Syracuse 2 小时 20 分、纽约约 3 小时；Trailways 从 NYC、Utica、Oneonta 方向抵 Delhi 村与校园站，800-858-8555。",
+      "scene": "SUNY 技术学院之一；3,000 余名学生，60 余个项目（副学士、学士、硕士、证书），30 余个学生组织，20 支校际竞技队；两大学院：College of Applied Professions（Applied Technologies & Architecture；Business, Hospitality & Recreation）与 College of Health, Liberal Arts and Sciences（Nursing；Liberal Arts and Sciences；Veterinary Science）；Professional Golf Management、Hospitality、Architectural Technology、Nursing、兽医技术见长。",
+      "safety": "NYS University Police，North Hall；24/7 徒步、车辆、自行车巡逻；紧急 607-746-4700，校内电话拨 746-4700 或 911；传真 607-746-4393；delhiupd@delhi.edu；蓝灯电话、开锁与搭电服务；Silent Witness；Rave Mobile Safety 警报；辖区为学校所有或控制的物业及相邻道路；校外归 Delaware County Sheriff's Office。",
+      "transit": "Trailways 城际巴士抵 Delhi 村与 Delhi (Suny) 站；县域公交班次有限；日常步行校园与村内，跨镇出行靠自驾或巴士接驳；停车证 $162（含税），半年 $81，截止 9 月 7 日 15:00，在 North Hall 校警处领取。",
+      "rentnote": "六栋宿舍 Catskill/Gerry/DuBois/Murphy/O'Connor/Russell 加 Riverview Townhouses；ResLife：607-746-4630，reslife@delhi.edu；2026-27 标准双人间 $9,580/学年；14 餐/周餐档 $6,680/学年；Riverview Townhouses 免强制餐计划；Catskill Hall 面向 15 学分以上高年级、转学生与国际生；校外租 Delhi 村或 Oneonta 方向，依赖驾车；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.delhi.edu/academics/provost/newsletter/index.php",
+          "Provost 校历与通知"
+        ],
+        "ins": [
+          "https://www.delhi.edu/academics/international-students/current-students.php",
+          "在读国际学生（保险）"
+        ],
+        "police": [
+          "https://www.delhi.edu/campus-life/police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.delhi.edu/campus-life/residence/on-campus/index.php",
+          "校内住宿"
+        ],
+        "clinic": [
+          "https://www.delhi.edu/campus-life/health-counseling/",
+          "Health & Counseling"
+        ],
+        "transit": [
+          "https://www.delhi.edu/admission/visit-delhi/directions/",
+          "校园方向与交通"
+        ]
+      }
+    },
+    "cortland": {
+      "short": "纽约州立大学科特兰分校",
+      "place": "科特兰 · P.O. Box 2000, Cortland, NY 13045-0900",
+      "cityKey": "cortland",
+      "calShort": "两学期制；2026 秋 8 月 31 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：学期 8 月 31 日–12 月 18 日；课程 8 月 31 日（周一）开始；劳动节 9 月 7 日；Fall Break 10 月 19 日 8:00–10 月 21 日 8:00；感恩节 11 月 25 日 8:00–11 月 30 日 8:00；期末周 12 月 14–18 日。Spring 2027：学期 1 月 25 日–5 月 14 日；课程 1 月 25 日（周一）开始；春假 3 月 15–19 日，3 月 22 日 8:00 返校；期末周 5 月 10–14 日；研究生毕业典礼 5 月 14 日，本科毕业典礼 5 月 15 日。",
+      "fulltime": "本科与研究生均按 12 学分及以上全日制注册；减修须经相关办公室批准；网课计入规则以注册办公室当期规定为准。",
+      "drop": "full-semester 课程加退期为学期第一周，期内 dropped 无罚；quarter 课程在 10 月与 3 月各有两天加退期；期末前三周（秋季 11 月 15 日后、春季 4 月 15 日后）不得 withdraw；记 W/X 口径见 Catalog Academic Policies。",
+      "ins1": "F-1/J-1 入境国际生与交换生须满足 SUNY 董事会最低保险标准；可能被要求购买 SUNY Board of Trustees 指定强制计划，承保方由 SUNY Central 选定；体系内医疗由 UnitedHealthcare Student Resources、牙科由 First Reliance Standard 承保。",
+      "ins2": "保险凭证经承保方会员账户领取；出境交换豁免经 International Programs Office 办理；国际学生每学期按要求出示保险证明。",
+      "ins3": "waiver 与替代保单核验经 International Programs Office（Old Main Room 219，607-753-2209，international@cortland.edu）；计划与豁免安排以学校当期通知为准。",
+      "clinic": "Student Health Service，Van Hoesen Hall Room B-26；607-753-4811，传真 607-753-2486；学年内 8:15–12:00 预约、12:00–13:00 午休、13:00–16:30 预约；失约记 $25；经 Student Health Portal 预约；Counseling Center 607-753-4728；课后 Emergency Squad 607-753-4111、TLC Ambulance 607-756-7564。",
+      "commute": "校园在 Cortland 镇中心步行圈，I-81、Route 11/281/41/13 交汇；Syracuse 方向沿 I-81 南约 50 分钟量级；Binghamton 沿 I-81 南；Ithaca 沿 Route 13；Greyhound/Trailways 停靠 60 Central Ave。",
+      "scene": "1868 年 Normal School 起源的师范院校；Fall 2025 共 6,981 人（5,891 本科、1,090 研究生），国际生 66；体育教育、早教与儿童教育、商业经济、运动科学、体育管理、心理学、犯罪学、言语听力科学见长；校队称 Red Dragons，年度 Cortaca Jug 对垒 Ithaca College。",
+      "safety": "University Police Department，Whitaker Hall Room 110；Emergency 911；非紧急 607-753-2111；传真 607-753-5752；19 名宣誓警官，持纽约州执法认证；推行社区警务；设 Silent Witness 匿名报告；Crime Alert 多渠道广播；校外归 Cortland County Sheriff's Office。",
+      "transit": "市内 Cortland Transit 与 Way2Go；校园巴士半小时一班连通西停车场与主要建筑；另有深夜 shuttle、Sunday Bus、周末购物巴士与周五六 Downtown Shuttle；城际 Greyhound/Trailways 停 60 Central Ave；Amtrak 到 Syracuse 再接巴士或出租。",
+      "rentnote": "ResLife：Winchell Hall Room 1002，607-753-5570；房型含传统走廊式双人间/单人间、suite（Alger 六人套、Casey Tower 四人/六人套）与 West Campus Apartments（公寓式，不强制餐计划，可自炊或自选餐）；2026-27 每学期 Double $4,695、Suite Double $4,865、Designed Single $5,450、Suite Single $5,605；West Campus Designed Single $4,645；住宿押金 $150。校外租 Cortland 市街区；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www2.cortland.edu/offices/srrs/academic-calendars-exam-schedule/calendars/2026-academic-calendar",
+          "2026 学术校历"
+        ],
+        "ins": [
+          "https://www2.cortland.edu/offices/publications/handbook/part-four/",
+          "学生手册第四部分（保险）"
+        ],
+        "police": [
+          "https://www2.cortland.edu/offices/university-police-department/",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www2.cortland.edu/offices/residence-life/housing-information/residence-halls",
+          "住宿与宿舍楼"
+        ],
+        "clinic": [
+          "https://www2.cortland.edu/offices/student-health-service/",
+          "Student Health Service"
+        ],
+        "transit": [
+          "https://www2.cortland.edu/visitors-guide/maps-and-directions/",
+          "地图与方向"
+        ]
+      }
+    },
+    "cobleskill": {
+      "short": "纽约州立大学科布尔斯基尔分校",
+      "place": "科布尔斯基尔 · 106 Suffolk Circle, Cobleskill, NY 12043",
+      "cityKey": "cobleskill",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：新生 8 月 21 日入住、老生 8 月 23 日入住，课程 8 月 24 日（周一）开始；Fall Break 10 月 10–13 日；感恩节 11 月 25–29 日；结课 12 月 11 日，宿舍 12 月 12 日 10:00 关闭。Spring 2027：入住 1 月 17 日 9:00–13:00，课程 1 月 19 日（周二）开始；春假 3 月 6–14 日；结课 5 月 7 日；毕业典礼 5 月 8 日。",
+      "fulltime": "全日制按 12 学分及以上注册；减修须经批准；学费与费表均按 12 学分及以上口径计算。",
+      "drop": "add/drop 期由 Registrar 公布，通常在第二周周五；期内加课无罚；期后加课每门 $20 并须填表签字；期后只能 withdraw；退课截止与退费按 Bursar 当期条款。Registrar：518-255-5521，registrar@cobleskill.edu。",
+      "ins1": "SUNY 董事会要求国际学生持有健康保险，医疗由 UnitedHealthcare Student Resources 承保、牙科由 First Reliance Standard 承保；2026-27 秋季学期保险费 $1,076.14，计入国际学生账单。",
+      "ins2": "电子保险卡与保单经承保方会员门户领取；国际学生与交换学生均纳入 SUNY 董事会保险计划；保障范围与办理细节联系 Office of International Students。",
+      "ins3": "官网未公布独立 waiver 门户与截止日；持符合要求替代保单者向 Office of International Students 咨询办理。",
+      "clinic": "Beard Wellness Center，130 Albany Ave, Cobleskill, NY 12043；周一至周五 8:00–16:15；518-255-5225，传真 518-255-5819，wellnesscenter@cobleskill.edu；护理从业者与 RN 初诊、急症处理，心理咨询师预约制；FT Wellness Center Fee $157.50/学期；中心是纽约州仅 20 所获 AAACHC 认证的高校健康中心之一。",
+      "commute": "主校区 Knapp Hall, 106 Suffolk Circle，农业与技术学院在 114 Rockland Avenue；校园贴 NY-7（Main Street）；Albany 方向约 1 小时；Schenectady 站约 30 分钟、Albany-Rensselaer 站约 1 小时；村外为农场与林地。",
+      "scene": "SUNY College of Agriculture and Technology at Cobleskill，1911 年创立，校园 902 英亩；2,200 余名学生，54 个学位项目，师生比 16:1；动物科学、植物科学、渔业与野生动物、环境与能源技术、烹饪、商科与计算机技术、组织学技术见长；校内有连续农场、马术中心、学生运营餐厅与冷水鱼苗场；校队参加 NCAA DIII NAC，称 Fighting Tigers；50 余个社团。",
+      "safety": "NYS University Police，Johnson Hall, 137 West Main Street；Emergency 911 / 518-255-5555 / 校内分机 x5555；非紧急 518-255-5317；unipol@cobleskill.edu；24/7 徒步、自行车、汽车与骑马巡逻；警官持纽约州执法认证；NY-Alert 多渠道警报；校外归 Schoharie County Sheriff's Office。",
+      "transit": "Trailways 巴士到校，800-776-7548；Schoharie County Public Transportation，518-234-0952，ridescpt.com；FT $90/学期交通费支持县域巴士到村庄与购物区以及周末赴 Albany 的安排；Amtrak 接 Schenectady 或 Albany-Rensselaer；自驾沿 NY-7 与 Schoharie Parkway。",
+      "rentnote": "十栋宿舍 Davis/Parsons/Fake/Ten Eyck/Dix/Draper/Pearson/Vroman/Wieting/Alumni Commons Suites & Townhomes；校内住宿保证，一年级必须住校；2026-27 每学期 Standard Double $4,947、Deluxe Double $5,044、Standard Single $5,697、Deluxe Single $5,940、Vroman Suite Double $5,443、Alumni Commons Suite Single $6,116、Townhome Single $6,172、Triple $4,461；ResLife：100 Fake Hall，518-255-5215，ResLife@cobleskill.edu。校外租 Cobleskill 村沿线，依赖驾车；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://dining.cobleskill.edu/campus-life/residential-life/calendar.aspx",
+          "Res Life 校历"
+        ],
+        "ins": [
+          "https://cobleskill.edu/admissions/financial-aid/tuition-and-fees.aspx",
+          "学费、费用与保险费"
+        ],
+        "police": [
+          "https://www.cobleskill.edu/campus-life/university-police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://cobleskill.edu/campus-life/residential-life/costs.aspx",
+          "住宿与餐计划费用"
+        ],
+        "clinic": [
+          "https://www.cobleskill.edu/campus-life/wellness-center/index.aspx",
+          "Beard Wellness Center"
+        ],
+        "transit": [
+          "https://cobleskill.edu/about/map-and-directions.aspx",
+          "地图与自驾路线"
+        ]
+      }
+    },
+    "canton": {
+      "short": "纽约州立大学坎顿分校",
+      "place": "坎顿 · 34 Cornell Drive, Canton, NY 13617",
+      "cityKey": "canton",
+      "calShort": "两学期制；2026 秋 8 月 27 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：新生 8 月 24 日入住、8 月 25–26 日迎新，老生 8 月 26 日入住，课程 8 月 27 日（周四）开始；加退课与注册截止 8 月 31 日 23:59；100% 退费退课截止 8 月 28 日 23:59，其后按 70%/50%/30% 递减；全学期课程全额退课最后日 11 月 20 日；感恩节 11 月 23 日–12 月 1 日；结课 12 月 11 日，期末 12 月 15–19 日。Spring 2027：新生 1 月 21 日入住、1 月 22 日迎新，老生 1 月 24 日入住，课程 1 月 25 日（周一）开始；100% 退费截止 1 月 31 日 23:59；春假 3 月 8–16 日，3 月 21 日 8:00 返校；退课最后日 4 月 23 日 16:00；结课 5 月 7 日，期末 5 月 10–14 日；毕业典礼 5 月 15 日。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；校内住宿资格同样要求 12 学分及以上；减修须经学业顾问与学校批准后在 UCanWeb 办理。",
+      "drop": "学期内加退课按校历日期在 UCanWeb 办理；退课逾期每门收 $20；全学期课程全额退费退课最后日为秋季 11 月 20 日；记 W/WD 口径与退费比例以 Registrar 校历和 Bursar 当期条款为准。",
+      "ins1": "SUNY International Student Insurance（SUNY 体系国际学生保险），医疗由 UnitedHealthcare Student Resources 承保、牙科由 First Reliance Standard 承保；全日制学生保费自动计入账单，国际学生必须购买该保险。",
+      "ins2": "保险卡与保单信息经承保方会员账户或移动应用领取；持其他合格保险者须在 waiver 截止日前提交证明申请豁免，保费方可从账单移除；经 Davis Health Center 初诊或转诊，保险免赔额降为 $0。",
+      "ins3": "豁免窗口为校历公布的截止日之前；替代保单须合格且覆盖在美停留，由 Health Center（315-386-7333）核验；无合格替代保单者不适用豁免。",
+      "clinic": "Davis Health Center，Miller Campus Center 004；周一至周五 8:00–16:30；315-386-7333，传真 315-386-7932，healthcenter@canton.edu；提供咨询、评估、检查、治疗与转诊，有限化验与常备药品；Student EMS 学年内响应；咨询中心位于 Miller Campus Center 225，315-386-7314。",
+      "commute": "校区在 St. Lawrence County 的 Canton 村，34 Cornell Drive；自驾经 I-81 北至 Exit 48，转 Route 342、Route 11 北再转 Route 68 西半英里到校；距 Syracuse 约 2.5 小时、Albany 约 4 小时量级；村内步行可到 Main Street 一带，去 Potsdam 方向约 12 英里。",
+      "scene": "SUNY College of Technology at Canton，2025 秋约 2,800 名本科生；下设 Business & Liberal Arts、Canino School of Engineering Technology、School of Science, Health & Criminal Justice 三大学院；刑事司法、护理、工程技术、兽医技术、体育管理、网络安全见长；师生比 17:1；校队参加 NCAA DIII SUNYAC，称 Roos。",
+      "safety": "University Police，Dana Hall Suite 108；24/7 值守，紧急 315-386-7777，校内电话拨 911 先到校警；传真 315-386-7949，police@canton.edu；10 名宣誓警官加 1 名支持人员；校园设蓝灯紧急电话并提供护送服务；校外归 St. Lawrence County Sheriff's Office。",
+      "transit": "St. Lawrence County Public Transit 有线路连通 Canton 与 Potsdam，站点含 SUNY Miller Campus Center；县域公交工作日班次有限；城际靠自驾或预约接驳，铁路与长途巴士需在 Potsdam 或低级别枢纽转接。",
+      "rentnote": "校内五栋 Heritage、Rushton、Mohawk、Smith、Kennedy Hall（公寓式套房，高年级）；住校须全日制并按学年提交住宿申请或 waiver；2026-27 每学期官方费率：Standard Double $4,810、Esports Double $5,695、Standard Single $5,695、Kennedy Hall Suite $6,360；传统房型初始按 $5,695 计，有室友分三次退 $295 差额，标 ** 房间另收强制洗衣费 $65。校外就近租 Canton 村或 Potsdam 村，依赖驾车或县域公交；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.canton.edu/media/pdf/Academic-Calendar-2024-28.pdf",
+          "校历 PDF（2024–2028）"
+        ],
+        "ins": [
+          "https://www.canton.edu/health_center/insurance.html",
+          "国际学生保险说明"
+        ],
+        "police": [
+          "https://www.canton.edu/university_police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.canton.edu/fin_aid/tuition_fees.html",
+          "学费、住宿与餐计划费率"
+        ],
+        "clinic": [
+          "https://canton.edu/policies/procedures/stud/health-center/",
+          "Health Center 政策页"
+        ],
+        "transit": [
+          "https://www.canton.edu/rooshouse/about/directions.html",
+          "自驾路线与距离"
+        ]
+      }
+    },
+    "ub": {
+      "short": "纽约州立大学布法罗分校",
+      "place": "布法罗 · North Campus, Flint Entrance, Amherst, NY 14260",
+      "cityKey": "buffalo",
+      "calShort": "学期制；Fall 2026 于 2026 年 8 月 24 日开课，Spring 2027 于 2027 年 1 月 20 日开课，5 月 13 日期末结束。",
+      "calendar": "Fall 2026：8 月 24 日开课，8 月 31 日最后退加课日；9 月 7 日劳动节；10 月 12–13 日秋假；11 月 25–28 日感恩节；12 月 7 日最后上课日，12 月 9–16 日期末。Spring 2027：1 月 20 日开课，1 月 27 日最后退加课日；3 月 15–20 日春假；4 月 13 日 resign 截止；5 月 4 日最后上课日，5 月 6–13 日期末；5 月 14–16 日毕业典礼。",
+      "fulltime": "F-1 全日制：本科每学期至少 12 学分；研究生通常每学期至少 12 学分，有助教/助研岗位者可按每学期至少 9 学分执行；夏季学期至少 6 学分、冬季学期至少 3 学分；低于全日制须先经 International Student Services 批准。",
+      "drop": "Fall 2026 15 周课程财务责任：8 月 24–31 日 0%，9 月 1–6 日 30%，9 月 7–13 日 50%，9 月 14–20 日 70%，9 月 21 日起 100%；在 HUB 系统 resign 的课程在成绩单留 R 标记，罚金比例按上述责任档执行。春季责任档按当期 Student Accounts 表公布。",
+      "ins1": "计划为 SUNY 强制 International Student Health Insurance Plan，承保方 UnitedHealthcare Student Resources，牙科经 First Reliance Standard；注册一学分及以上后自动加入，保费计入学生账户，F-1/J-1 国际学生与学者均须参保。",
+      "ins2": "2026-2027 保费：Fall（2026 年 8 月 15 日–2027 年 1 月 14 日）$993.48；Spring+Summer（2027 年 1 月 15 日–8 月 14 日）$1,377.73；Summer only $581.20；Monthly $197.60。保险凭证经 UHCSR 门户与移动应用获取；保险办公室 Student Medical Insurance Office 在 1Capen Hall（North Campus），broker Haylor, Freyer & Coon，866-535-0456，student@haylor.com。",
+      "ins3": "Waiver 仅限雇主提供的美国境内 ACA 合规可比保单、无理赔上限；NYS Essential Plan 与 Medicaid 不合资格，豁免须按年度重新申请。Fall 2026  waiver 截止 9 月 25 日，Spring 2027 截止 2 月 26 日；获批豁免后仍须缴纳医疗撤离与遣返险（Fall $41.60、Spring $58.24），保单须不晚于 9 月 1 日（秋季）/ 2 月 1 日（春季）生效。",
+      "clinic": "Student Health Services 在 4350 Maple Road, Amherst, NY 14226；电话 716-829-3316，传真 716-829-2564，student-health@buffalo.edu；春秋学期周一 9:00–19:00，周二至周五 9:00–17:00，课后拨选项 7 联系值班护士。Counseling Services 在 120 Richmond Quadrangle（North Campus），电话 716-645-2720，传真 716-645-2175，课后拨选项 2 接危机咨询师。",
+      "commute": "North Campus 在 Amherst 郊区学术园区，South Campus 在 North Buffalo 的 3435 Main Street，Downtown 校区为 Jacobs 医学院方向；三校区间由 UB Stampede 校车循环连接；最近机场 BUF 在城市东北，车行约 20–30 分钟量级，UB 不提供机场班车。",
+      "scene": "全校学生约 31,000 人，其中本科约 21,188 人；设 13 个学院与学部、150 余个本科项目，学生社团 500 余个；属 AAU 成员与 SUNY 旗舰研究型大学，师生比 12:1；NCAA D1 16 支校队；工程、医学、商学、信息、建筑与药学等方向规模齐备。",
+      "safety": "University Police 驻 Bissell Hall（North Campus，邻 Alumni Arena）；紧急电话 716-645-2222，非紧急 716-645-2227，ub-police@buffalo.edu；管辖 North、South、Downtown 三校区，蓝灯电话与 UB Guardian 应用可用；校外拨 911 接 Amherst 镇 police 与 Erie County Sheriff。",
+      "transit": "UB Stampede 校车分 All-Stops 环线、Yellow Line 南北 express（Flint Loop ↔ South）、Red Line（Lee Loop/Student Union ↔ Ellicott）、Blue Line（South ↔ Downtown），班次经 Passio GO 应用查询；校门外另有 NFTA 公交，Metro Rail 通 downtown 方向。",
+      "rentnote": "校内住宿含 Ellicott Complex、Governors Complex、South Campus Halls 与 Flickinger Court 公寓；校外可看 Amherst、Tonawanda、Cheektowaga 方向，靠近校车与 NFTA 站点的房源通勤更稳，校外租金不列固定月租。",
+      "link": {
+        "cal": [
+          "https://www.buffalo.edu/registrar/calendars/current-academic-calendar.html",
+          "校历"
+        ],
+        "ins": [
+          "https://www.buffalo.edu/studentlife/life-on-campus/health/medical-care/health-insurance/international-students.html",
+          "国际学生保险"
+        ],
+        "police": [
+          "https://www.buffalo.edu/police.html",
+          "校园警务"
+        ],
+        "housing": [
+          "https://www.buffalo.edu/campusliving/apply-for-housing/rates.html",
+          "宿舍费率"
+        ],
+        "clinic": [
+          "https://www.buffalo.edu/studentlife/who-we-are/departments/health.html",
+          "学生健康服务"
+        ],
+        "iss": [
+          "https://www.buffalo.edu/international-student-services/about-us/contact-us.new-incoming-student.html",
+          "国际学生办公室"
+        ]
+      }
+    },
+    "buffalostate": {
+      "short": "纽约州立大学布法罗州立学院",
+      "place": "布法罗 · 1300 Elmwood Avenue（Elmwood Village 街区）",
+      "cityKey": "buffalo",
+      "calShort": "学期制；Fall 2026 于 2026 年 8 月 31 日开课，Spring 2027 于 2027 年 1 月 25 日开课，5 月 13 日结课。",
+      "calendar": "Fall 2026：8 月 31 日开课，10 月 12–13 日秋季停课，11 月 25–28 日感恩节；12 月 11 日为退课/退学记档截止，12 月 17 日学期结束。财务责任：至 9 月 8 日 0%，9 月 9–15 日 30%，9 月 16–22 日 50%，9 月 23–29 日 70%，9 月 29 日之后 100%。Spring 2027：1 月 25 日开课，7 周二段 1 月 25 日–3 月 12 日，5 月 13 日学期结束；春季退费档按当期 Student Accounts 表执行。",
+      "fulltime": "F-1 全日制：本科每学期 12 学分及以上、研究生每学期 9 学分及以上；低于全日制须先经 ISSS 批准并取得减修授权，助教/助理岗位的学分口径按研究生院规定执行。",
+      "drop": "Fall 2026 退课财务责任：至 9 月 8 日 0%，9 月 9–15 日 30%，9 月 16–22 日 50%，9 月 23–29 日 70%，其后 100%；12 月 11 日为大学退学与课程记档最后日。退费按 SUNY 批准政策，退学日期以 Registrar 收件盖章或 Banner 系统处理日期为准。",
+      "ins1": "计划为 SUNY 强制国际学生健康保险，承保方 UnitedHealthcare；所有国际学生不论签证类别均自动加入 SUNY Buffalo State United Healthcare Insurance Program，保费计入学生账户账单。",
+      "ins2": "2026-2027 学年国际健康保险 $2,371.21/学年；保险卡经 UnitedHealthcare 渠道获取；J-1 交换学生按要求住校、购买餐计划并参加 SUNY 保险；保险与身份问题联系 ISSS，South Wing 410，716-878-5331。",
+      "ins3": "无 waiver 门户与豁免截止日：依 SUNY 规定，无论学生是否持有本国或其他可比健康保险，均不能豁免该强制保险要求；Essential Plan、Medicaid 类计划同样不能替代校保。",
+      "clinic": "Weigel Health Center 位于 Academic Drive, Lot R6，邻 Chase Hall，地址 1300 Elmwood Avenue, Buffalo, NY 14222；电话 716-878-6711，预约另可拨 716-878-6712，传真 716-878-6727，Weigel@buffalostate.edu；周一至周五 8:30–16:30，课后 FONEMED 护士热线；心理咨询中心在 Weigel 楼二层，716-878-4436，counselingcenter@buffalostate.edu。",
+      "commute": "校园在 Buffalo 市区北缘 Elmwood Village，沿 Elmwood Avenue 与近邻街区展开；NFTA 公交 20-Elmwood、3-Grant、32-Amherst 到校；最近机场 BUF 在城市东北方向，车行约 20–30 分钟量级；到 UB South Campus 可经 Main Street 方向公交衔接。",
+      "scene": "校园占地约 125 英亩，本科生 5,200 余人，开设 70 余个本科专业，师生比 14:1；视觉艺术为 SUNY 体系内规模较大的方向之一，师范教育与工程技术、传媒表演同样有积累；校队属 NCAA DIII，吉祥物 Benji the Bengal；校内 11 栋宿舍楼、3,000 余人住校。",
+      "safety": "SUNY Buffalo State University Police 驻 Karner Hall 106，24 小时值守；紧急电话 716-878-6333，传真 716-878-3135，police@buffalostate.edu；校园设蓝灯电话与巡逻；校外警情拨 911 接 Buffalo Police Department 与 Erie County Sheriff。",
+      "transit": "NFTA Metro 公交 20-Elmwood、3-Grant、32-Amherst 经停校区周边；Metro Rail 沿 Main Street 运行，连接 UB South Campus、Amherst Street 方向与 downtown；MetGo 公交卡在校园书店发售，单次票价与转乘按 NFTA 当期规定；校内短距离步行可达。",
+      "rentnote": "校内住宿含 Bengal、Bishop、Neumann、Perry 走廊式宿舍，Towers 1–4 与 North Wing 套间，Moore Complex 公寓与 STAC 学生公寓；校外可看 Elmwood Village 及近邻街区、North Buffalo 方向；距校 35 英里以上的学生按政策须住校四学期或 60 学分，校外租金不列固定月租。",
+      "link": {
+        "cal": [
+          "https://suny.buffalostate.edu/academic-calendar",
+          "校历"
+        ],
+        "ins": [
+          "https://isss.buffalostate.edu/life-buffalo-state",
+          "国际学生保险"
+        ],
+        "police": [
+          "https://police.buffalostate.edu/",
+          "校园警务"
+        ],
+        "housing": [
+          "https://residencelife.buffalostate.edu/",
+          "住宿生活"
+        ],
+        "clinic": [
+          "https://weigel.buffalostate.edu/contact-us",
+          "Weigel 健康中心"
+        ],
+        "isss": [
+          "https://isss.buffalostate.edu/international-admissions",
+          "国际学生办公室"
+        ]
+      }
+    },
+    "brockport": {
+      "short": "纽约州立大学布罗克波特分校",
+      "place": "布罗克波特 · 350 New Campus Drive",
+      "cityKey": "brockport",
+      "calShort": "学期制；Fall 2026 于 2026 年 8 月 31 日开课，Spring 2027 于 2027 年 1 月 25 日开课，5 月 13 日期末结束。",
+      "calendar": "Fall 2026：8 月 27 日分批入住，8 月 31 日开课；Add Period 9 月 8 日截止，Late Add 9 月 18 日截止，退课 9 月 28 日截止；10 月 19–21 日期中休息；11 月 25–29 日感恩节停课；退课记 W 期 12 月 4 日截止；12 月 12 日最后上课日，12 月 14–19 日期末考试。Spring 2027：1 月 20 日入住，1 月 25 日开课；Add 2 月 2 日截止，Late Add 2 月 12 日，退课 2 月 22 日截止；3 月 14–21 日 recess；记 W 退课 4 月 30 日截止；5 月 8 日最后上课日，5 月 10–13 日期末；5 月 13–14 日毕业典礼。",
+      "fulltime": "F-1 全日制：本科每学期至少 12 学分（其中至少 9 学分线下），研究生至少 9 学分（其中至少 6 学分线下）；低于全日制须先经 International Student Services（ISS）批准并留存减修授权记录。",
+      "drop": "Fall 2026 全额退款至 9 月 8 日；9 月 9–15 日退课退 70%，9 月 16–22 日退 50%，9 月 23–29 日退 30%，第四周之后不再退款；12 月 4 日为记 W 退课截止日。Spring 2027 退费档按当期 Student Accounts 退款表执行，记 W 截止 4 月 30 日。",
+      "ins1": "计划为 SUNY 强制国际学生保险（SUNY-mandated international policy），UnitedHealthcare Student Resources 为理赔管理方；F-1 与 J-1 学生、学者强制投保，保费按学期计入学生账户账单，OPT 期间也须保持保险覆盖。",
+      "ins2": "2026-2027 学年 Cost of Attendance 列示 International Health Insurance $2,371/学年；保险卡通过 UHCSR 门户查询，注册时选择 The College at Brockport – Int'l Student and Scholar；牙科经 Reliance Standard；保险与投保问题联系 ISS，iss@brockport.edu，585-395-5899。",
+      "ins3": "Waiver 通过 SUNY waiver 门户提交：保单须美国总部承保、ACA 合规、保障不低于 SUNY 计划、无理赔上限并含医疗撤离与遣返；获批后须把保险公司批准邮件上传至 ISS Waiver Notification Form；暑期保费豁免申请须在 3 月 15 日前提交。",
+      "clinic": "Hazen Center for Integrated Care（Hazen Hall）集健康中心、心理咨询与健康促进于一体，电话 585-395-2414；学期内周一至周五 8:00–16:45，寒暑假时段 8:00–16:00；可处理初诊、疫苗、转诊与预约咨询，病历经 Secure Patient Portal 管理。",
+      "commute": "校园在 Brockport 村东 New Campus Drive，沿 NY-19（North Street）接入 Monroe County 路网；距 ROC 机场约 18.6 英里、车行约 24 分钟量级，ISS 开学日提供预订制接驳班车；到 Rochester 市区约 16 英里，村外出行以校车、自驾与网约车为主。",
+      "scene": "在校本科生约 6,239 人、研究生约 1,879 人；强势本科方向含 Nursing、Psychology、Physical Education Teacher Education、Business Administration、Exercise Science；注册社团 120 余个，校队为 NCAA DIII Golden Eagles；校园沿 Erie Canal 与 Empire State Trail 展开，是典型运河小镇校区。",
+      "safety": "SUNY Brockport University Police 驻 Lathrop Hall；校内紧急电话 585-395-2222，校外拨 911；非紧急报案 585-395-2226，夜间护送 585-395-SAFE（7275）；管辖校区与宿舍楼，村外治安归 Village of Brockport Police 与 Monroe County Sheriff。",
+      "transit": "校内 Eagle Run 循环校车（Valet Park of America 运营）连接教学区、宿舍区与村边停车点，咨询 585-729-8020；村内商店沿 Main Street 步行可达；去 Rochester 市区与 ROC 机场须搭校车转城际交通或自驾，NY-19 与帝国州步道为主要步行与骑行通道。",
+      "rentnote": "校内住宿含 Thompson、McLean、McFarlane、MacVicar、Harmon、Gordon、Eagle、Briggs、Bramley、Dobson、Benedict、Mortimer、Perry、Morgan 等宿舍楼与 Townhomes；校外可租 Brockport 村与 Sweden 乡房源，村外需自备交通，租金按区位房型浮动，本页不列固定月租。",
+      "link": {
+        "cal": [
+          "https://www.brockport.edu/academics/calendar/2026-2027/",
+          "校历"
+        ],
+        "ins": [
+          "https://www.brockport.edu/academics/international-education/student-services/international-student-insurance/",
+          "国际学生保险"
+        ],
+        "police": [
+          "https://www.brockport.edu/support/university-police/",
+          "校园警务"
+        ],
+        "housing": [
+          "https://www.brockport.edu/life/residential-life/",
+          "住宿生活"
+        ],
+        "clinic": [
+          "https://www2.brockport.edu/life/hazen-care-center/",
+          "Hazen 健康中心"
+        ],
+        "iss": [
+          "https://www.brockport.edu/academics/international-education/",
+          "国际学生办公室"
+        ]
+      }
+    },
+    "albany": {
+      "short": "纽约州立大学奥尔巴尼分校",
+      "place": "奥尔巴尼 · 1400 Washington Avenue（Uptown 主校区）",
+      "cityKey": "albany",
+      "calShort": "学期制；Fall 2026 于 2026 年 8 月 24 日开课，Spring 2027 于 2027 年 1 月 20 日开课，5 月 12 日期末结束。",
+      "calendar": "Fall 2026：8 月 24 日开课；8 月 30 日为学期课退课 0% 财务责任截止日；8 月 31 日（8 周课）与 9 月 4 日（学期课）先后为退课不记 W 截止日；9 月 6 日 30%、9 月 20 日 70% 责任档；10 月 12–13 日 Fall Break；12 月 7 日最后上课日，当日可退课记 W 并可自愿退学；12 月 8 日 Reading Day；12 月 9–15 日期末考试。Spring 2027：1 月 20 日开课；2 月 2 日退课不记 W；2 月 2 日 30%、2 月 9 日 50% 责任档；3 月 13–19 日春假；5 月 4 日最后上课日并可记 W 退学；5 月 5 日 Reading Day；5 月 6–12 日期末；5 月 13–16 日毕业典礼。",
+      "fulltime": "F-1 全日制：本科每学期至少 12 学分，研究生至少 9 学分；每学期至多一门网课可计入全日制；低于全日制须先经 International Student & Scholar Services 批准后方可减修。",
+      "drop": "Fall 2026 学期课 8 月 30 日前退课 0% 财务责任，9 月 6 日起 30%、9 月 20 日起 70%；12 月 7 日为记 W 退学最后日。Spring 2027 2 月 2 日 30%、2 月 9 日 50% 责任档；5 月 4 日为记 W 退学最后日。责任比例与日期按校历与 Student Account 口径执行。",
+      "ins1": "计划为 SUNY 强制国际学生健康保险（SUNY-mandated International Student Health Insurance），承保方 UnitedHealthcare Student Resources；F-1、J-1 及其他非移民身份学生均须参保；注册一学分及以上后自动加入，保费自动记入 Student Account 账单。",
+      "ins2": "2026-2027 学年保费：Fall 2026（2026 年 8 月 15 日–2027 年 1 月 14 日）International Insurance $965.13、Medical Evacuation & Repatriation Insurance $41.60；Spring 2027（2027 年 1 月 15 日–8 月 14 日）$1,338.04、$58.24。牙科另经 Ameritas；UHC 凭证经 UHCSR 门户注册获取，UHC 客服 1-888-714-6544。",
+      "ins3": "Waiver 仅限本人或在美家庭成员雇佣福利险：保单须基于美国境内且为 ACA 合规；NYS Essential Plan 与 Medicaid 不符合资格。符合条件者须提交 International Student Health Insurance Waiver Application 与保险公司承保确认信至 InsuranceWaivers@albany.edu；雇佣险获批后仍须缴纳医疗撤离与遣返险保费。官网未公布统一 waiver 截止日，须按账单截止时间办理。",
+      "clinic": "Student Health Services 位于 Health & Counseling Services Building（Dutch Quad 南侧、面向运动场一层），地址 1400 Washington Avenue, Albany, NY 12222；预约 518-442-5229，一般咨询 518-442-5454，传真 518-442-5444，healthforms@albany.edu。春秋学期周一至周五 9:00–12:00，周一/三/四/五 13:00–16:30、周二 14:00–16:30；不接受 walk-in，须预约；另提供 TimelyCare 24/7 线上医疗与心理服务。",
+      "commute": "Uptown 主校区位于 Washington Avenue，与 Downtown 校区、Health Sciences 校区分处城内不同片区；校区到 ALB 机场车行约一刻钟量级；凭 UAlbany ID 可免费乘坐 CDTA 公交往返校区、商场与市区。",
+      "scene": "在校学生 17,000 余人，设 9 个学院与学部，提供 50 余个本科专业与 150 余个研究生项目，学生社团 250 余个；属 R1 研究型大学，师生比 18:1；NCAA D1 19 支校队，吉祥物 Great Dane；公共政策、刑事司法、公共卫生、社会福利、商科与工程应用科学为传统优势方向。",
+      "safety": "University at Albany Police Department（UPD）驻 University Police Building；紧急电话 518-442-3131（校内座机拨 911），非紧急 518-442-3132，行政 518-442-3130；管辖 Uptown、Downtown、Health Sciences 三校区；现场急救联合 Five Quad Volunteer Ambulance；校外报警拨 911 接 Albany Police。",
+      "transit": "凭 UAlbany ID 免费乘坐 CDTA 公交，连接 Uptown 校区、Crossgates 购物中心与 Albany 市区；Uptown 校区周边步行可达餐饮与便利店；长途铁路走 Amtrak Albany–Rensselaer 站，可接纽约与布法罗方向。",
+      "rentnote": "校内宿舍含 Quads 传统宿舍楼与 Empire Commons、Liberty Terrace、Freedom Apartments、Great Dane Apartments 等公寓；校外可看 Albany 市区、Colonie 郊区与 Crossgates 商场周边，租金按区位与房型浮动，本页不列固定月租金额。",
+      "link": {
+        "cal": [
+          "https://www.albany.edu/registrar/academic-calendar",
+          "校历"
+        ],
+        "ins": [
+          "https://www.albany.edu/international-education/international-insurance",
+          "国际学生保险"
+        ],
+        "police": [
+          "https://www.albany.edu/police",
+          "校园警务"
+        ],
+        "housing": [
+          "https://www.albany.edu/residential-life/room-rates",
+          "宿舍费率"
+        ],
+        "clinic": [
+          "https://www.albany.edu/health-well-being/medical-services",
+          "学生健康中心"
+        ],
+        "isss": [
+          "https://www.albany.edu/international-student-scholar-services/general-information",
+          "国际学生办公室"
+        ]
+      }
+    },
+    "psuyork": {
+      "short": "Penn State York",
+      "place": "宾夕法尼亚州·York（York County 约克）",
+      "cityKey": "yorkpa",
+      "calShort": "学期制（Fall / Spring），Penn State 统一校历",
+      "calendar": "York 为通勤型校区、不设校内宿舍，开学无入住环节，通勤生按 Student Affairs 指引完成到校报到后进入统一学期节奏；2026 秋季 2026-08-24 开课，2026-08-29 23:59 常规退课截止，2026-08-30 常规加课截止，2026-09-07 劳动节假，2026-11-13 退课/注册/加课晚截止，2026-11-22 至 11-28 感恩节假，2026-12-11 17:00 全校退课截止、当日最后上课日，2026-12-12 至 12-13 复习日，2026-12-14 至 12-18 期末考试，2026-12-20 毕业典礼；2027 春季 2027-01-10 注册截止，2027-01-11 开课，2027-01-16 退课截止，2027-01-17 加课截止，2027-01-18 马丁·路德·金日假，2027-03-07 至 03-13 春假，2027-04-09 晚截止，2027-04-30 17:00 退课截止、当日最后上课日，2027-05-01 至 05-02 复习日，2027-05-03 至 05-07 期末考试，2027-05-07 至 05-09 毕业典礼；报到与开学安排以校区 Student Affairs 当期页面为准。",
+      "fulltime": "York 注册学生以本科前两年与通勤项目为主：本科全日制按 12 学分计，研究生 9 学分仅为全校口径、本校无对应注册场景；每学期仅 3 学分或一门在线课程可计入全日制，旁听课程不计入；部分时间注册会影响签证全日制状态与相关资助，F-1/J-1 减修先经本校国际学生顾问对接，再向 ISSA 提交 Reduced Course Load（RCL）申请并获批准。",
+      "drop": "本校无住宿合同，退课后果只涉及学分、学费退费与签证全日制状态，不牵动宿舍或餐计划；RCL 表须在 add/drop 截止日前经学术导师签字，交本校国际学生顾问对接 ISSA；未经 ISSA 批准不得低于全日制注册，退费比例与退课截止日以 University Registrar 与 Bursar 当期公布为准。",
+      "ins1": "全校 Student Health Insurance Plan（SHIP）由 UnitedHealthcare Student Resources 承保；York 的 F-1/J-1 学位生及随行家属须投保 SHIP，或提交达标的替代保险证明。保险材料对接本校国际学生联络窗口：International Student Adviser Takashi Iwasaki，215 Ruhl Student Center，tzi101@psu.edu，717-718-6753；Global Engagement Coordinator Nikki Rosario-Flores，213 Ruhl Student Center，nar165@psu.edu，717-771-8419。SHIP 按学期入账，秋季注册后春季自动续保。",
+      "ins2": "自动加入节点：2026-09-01 前未在 LionPATH 选择 waive 或 enroll 的国际学生将被自动加入 SHIP，保费计入学生账户；春季新生/转学生截止 2027-01-19；研究生助理、研究员与培训生自动加入医疗、牙科与视力保障。本校处于最后运营学年、仅面向在读学生过渡，保险疑问先到 Ruhl SCC 国际学生联络窗口，enroll/waive 系统操作在 LionPATH 完成。",
+      "ins3": "替代保单与豁免：可在秋季开放投保期内通过 LionPATH 保险页提交 waiver，由 UnitedHealthcare Student Resources 审核；替代保单须为美国合规 ACA carrier、宾州保险部备案批准，预防与避孕保障 100%、既往症无等待期、自付额不超过 500 美元、含处方药等全部基本给付，生育与精神健康及物质滥用按同等标准覆盖，无酒精、药物、自杀相关排除，具备全球保障；网络内自付上限 3,000 美元，网络外 15,000/30,000 美元，或属于美国雇主团险；医疗撤离不低于 100,000 美元、遣返不低于 50,000 美元。豁免仅秋季办理，春季返校生不接受 waiver，春季新生/转学生可提交；家属 waiver 联系 uhs-insurance@psu.edu。",
+      "clinic": "York 校区未设独立的常驻校医诊室页面；疫苗与健康记录材料经 myUHS 渠道提交，保险咨询邮箱 UHS-Insurance@psu.edu；校内心理咨询师 Sarah Bender，Ruhl Student Community Center 216 室，电话 717-771-4088；危及生命的紧急情况拨打 911，其他医疗资源以 Penn State University Health Services 当期指引为准。",
+      "commute": "校区地址 1031 Edgecomb Avenue, York, PA 17403-3326；总机 717-771-4000；York 为通勤型联邦校区，校园不设校内宿舍，约一成学生住校外；本地生活与通勤以 York 市区及周边居民区为主。",
+      "scene": "Penn State 联邦校区（Commonwealth Campus），York 校区定位为 commuter campus；注册学生社团 20 个以上，Student Affairs 与 SGA 设于 Ruhl SCC，校区配套两处健身房、游戏室、健身中心、网球场与足球场。校区调整：2025 年春季校董会批准关闭包括 York 在内的 7 个联邦校区，2026-27 学年为最后运营学年，2027 年春季学期结束后关闭；本校已停止招收新生与转学生，页面信息仅供在读学生过渡参考。",
+      "safety": "Penn State University Police and Public Safety（UPPS）驻 York 站点在 Pullo Family Performing Arts Center / Lee R. Glatfelter Library 101 室；紧急事件拨打 911，校警电话 717-771-4103，无线电/值班联络 717-771-8444，传真 717-771-4195，值班警官分机 8444；校外一般警务归 York 市及约克县辖区执法。",
+      "transit": "Rabbit Transit 10S 路经停校园，折扣乘车卡在 Student Affairs 购买；York Bus Transfer Center（213 W. King St）汇集 16 条固定线路，rabbitEXPRESS 83N/15N 接驳 Harrisburg Amtrak 站；去 Baltimore 可乘 Greyhound，去 Philadelphia 经 Harrisburg 站转 Amtrak Keystone 或 Greyhound；巴士与列车班次以 Rabbit Transit、Amtrak 与 Greyhound 官网当期时刻表为准。",
+      "rentnote": "校区无校内宿舍，学生自行在 York 市区及周边租房；校外租金、押金与杂费按邮编 17403 查当期挂牌价，租约与通勤距离、停车及 Rabbit Transit 班次一并评估；室友与房源线索经 Student Affairs 渠道获取。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 健康保险要求与豁免"
+        ],
+        "plan": [
+          "https://roadmap.psu.edu/our-commonwealth-campuses/",
+          "校区调整公告"
+        ],
+        "planBul": [
+          "https://bulletins.psu.edu/undergraduate/campuses/",
+          "招生与关闭公告（Seven campuses scheduled for closure after Spring 2027）"
+        ]
+      }
+    },
+    "psuworld": {
+      "short": "Penn State World Campus",
+      "place": "宾夕法尼亚州·University Park（纯线上注册项目，无实体校园）",
+      "cityKey": "universitypark",
+      "calShort": "学期制（15 周 Regular Session，另设 7 周小学期）",
+      "calendar": "2026 秋季：8 月 23 日注册截止，8 月 24 日开课，12 月 11 日课程结束，期末考试按各课程大纲安排，12 月 20 日毕业典礼；2027 春季：1 月 10 日注册截止，1 月 11 日开课，4 月 30 日课程结束，5 月 7–9 日毕业典礼；学期内另设两段 7 周小学期，开课、退课与考试日期按各 session 日程表执行，以 Registrar 当期校历为准。",
+      "fulltime": "World Campus 为线上学位项目；F-1/J-1 学生不能把身份转至 World Campus 并留美，在美全日制就读 World Campus 课程违反身份状态；项目学分与毕业要求按各学位目录，线上选课的全日制口径以 World Campus 录取与注册页为准。",
+      "drop": "加退课、late drop 与全退截止按当期学期日程表执行；7 周小学期截止日与 15 周学期不同，退费比例与 W 标记以 World Campus Registrar 当期页面为准；线上课程不适用实体校区的 RCL 流程。",
+      "ins1": "SHIP for Penn State 由 UnitedHealthcare StudentResources 承保，但资格范围明确排除 World Campus 学生；线上项目学生不自动加入校方健康计划，也不走 LionPATH 的 SHIP 投保／豁免流程。",
+      "ins2": "World Campus 学生按所在国家或州的要求自行安排健康保险；校内保险咨询入口为 Student Affairs 保险页与 Chaiken Center；若同时在实体校区注册达到面授学分要求，方可按实体校区规则评估 SHIP 资格。",
+      "ins3": "替代保单的承保标准（自付额、撤离、遣返等）列于系统级保险要求页，仅适用于有资格走实体校区豁免流程的学生；World Campus 纯线上选课不满足 SHIP 投保资格，具体保险要求以当期页面为准。",
+      "clinic": "World Campus 无驻校诊所，也不设实体医务室；学生在居住地就医，常规医疗按当地医疗机构安排；心理健康与权益支持经 Chaiken Center 线上渠道对接，危机时段走 Penn State 危机热线。",
+      "commute": "纯线上项目没有固定通勤线路与校园报到日；课程经线上平台完成，偶发的毕业典礼、线下见面会或实践环节由项目单独通知，往返 University Park 的交通自行安排。",
+      "scene": "面向在职成人与远程学习者的线上学位项目，课程师资与学位证书同 Penn State 体系；同学与校友分布全美及海外，学术支持、社团与求职服务全部线上化。",
+      "safety": "World Campus 没有实体校园，也没有划定的校警辖区；注册地 University Park 的 UPPS 服务主校实体场地，不覆盖线上学生所在住所；学生在所在国家或地区遇紧急情况拨当地急救／报警电话（美国境内 911）。",
+      "transit": "无固定进城路径；日常学习在家或就近学习场所完成；若赴 University Park 参加毕业典礼或活动，地面交通参照 universitypark 城市页：SCE 机场、CATA 环线与校西城际巴士车站。",
+      "rentnote": "无校内宿舍、无餐计划；学生居住安排自理，线上项目不分配房源、不签 HFS 住宿合同；校外租金按居住地邮编查当期挂牌价，合同与押金条款自行核验。",
+      "link": {
+        "cal": [
+          "https://www.worldcampus.psu.edu/admissions/academic-calendar",
+          "官网"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "官网"
+        ]
+      }
+    },
+    "psu": {
+      "short": "Penn State University Park",
+      "place": "宾夕法尼亚州·University Park（State College，森特县）",
+      "cityKey": "universitypark",
+      "calShort": "学期制（Fall / Spring，另设 7 周小学期）",
+      "calendar": "2026 秋季（Regular Session）：8 月 23 日注册截止，8 月 24 日开课，8 月 29 日 23:59 (ET) 常规退课截止，8 月 30 日 23:59 (ET) 常规加课截止，9 月 7 日劳动节无课，11 月 13 日 23:59 (ET) late drop 截止，11 月 22–28 日感恩节假，12 月 11 日 17:00 (ET) 全退截止、当日上课结束，12 月 12–13 日学习日，12 月 14–18 日期末考试，12 月 20 日毕业典礼；2027 春季：1 月 10 日注册截止，1 月 11 日开课，1 月 16 日 23:59 (ET) 常规退课截止，1 月 18 日 MLK 日无课，3 月 7–13 日春假，4 月 9 日 23:59 (ET) late drop 截止，4 月 30 日 17:00 (ET) 全退截止、上课结束，5 月 1–2 日学习日，5 月 3–7 日期末考试，5 月 7–9 日毕业典礼；另设 First／Second 7 周小学期，具体日期以 Registrar 当期校历为准。",
+      "fulltime": "身份与负荷：F-1/J-1 本科与法律学位每学期至少注册 12 学分、研究生至少 9 学分，方满足 DHS 全日制要求；主校本科、研究生与专业学院并行，本科生典型学期负荷为 12–19 学分，超过 19 学分属 credit overload，须顾问审核并对超出学分加收学费；每学期最多 3 门 hybrid-remote/online 学分可计入全日制。学期中拟减修或转为部分时间，须先经 Penn State Global 国际学生顾问批准 Reduced Course Load (RCL)，未经批准不得低于身份学分线。来源：https://global.psu.edu/landing/enrollment-requirements ；https://bulletins.psu.edu/undergraduate/general-information/academic-information/registration-academic-records/credits/ ；https://senate.psu.edu/students/policies-and-rules-for-undergraduate-students/34-00-course-scheduling/",
+      "drop": "常规 add/drop、late drop 与全退（withdrawal）截止见当期校历；退课后的退费比例与 W 标记规则按 Bursar／Registrar 当期表执行；国际学生计划低于全日制学分线前，须先完成 RCL 审批，否则影响身份状态。",
+      "ins1": "Penn State 校方健康计划为 Student Health Insurance Plan (SHIP) for Penn State，由 UnitedHealthcare StudentResources 承保并管理，面向符合资格的学生及合格家属，服务网络覆盖全美 50 州；SHIP 资格不包含 World Campus 学生。保险办公室：Student Health Insurance，228 Bank of America Career Services Center, 566 Eisenhower Rd., University Park, PA 16802，电话 814-865-4847，邮箱 uhs-insurance@psu.edu。",
+      "ins2": "合规要求：F-1/J-1 国际学生及随行家属必须投保 SHIP，或提交满足全部要求的第三方保单证明；注册课程后在 LionPATH 的 Health Insurance 页面办理 Enroll 或 Waive。2026 秋季操作截止 9 月 1 日、2027 春季新生截止 1 月 19 日，逾期未操作将自动加入 SHIP 并把保费计入学生账单；研究生助理、fellow 与 trainee 由 Workday 自动投保医疗、牙科与视力保险。",
+      "ins3": "豁免条件与标准：替代保单须由在美合规营业、符合 PPACA 的承保方出具，在宾州保险部备案或经 Student Health Insurance Office 批准；自付额不超过 500 美元，既往症无等待期，含处方药、生育、精神科与物质滥用治疗，全球保障，网络内自付上限 3,000 美元、网络外 15,000／30,000 美元，并含医疗撤离 100,000 美元、遣返 50,000 美元最低限额；家属豁免经保险办公室办理；不满足标准的境外保单、旅行险不被接受，细则以当期保险页为准。",
+      "clinic": "University Health Services (UHS)，Student Health Center, 542 Eisenhower Rd., University Park, PA 16802；电话 814-865-4UHS (4847)，邮箱 uhs-info@psu.edu；就诊经 myUHS 预约，工作日可排约，24/7 Advice Nurse 拨 4847 转 3；危及生命的紧急情况拨打 911。",
+      "commute": "校园位于 University Park 与 State College 交界，主入口沿 Pollock Road 与 University Drive；校内与镇内靠 CATA 免费环线（Blue Loop、White Loop、Red Link）与两条免费 Campus Shuttle（College Avenue 线、Beaver Avenue 线）；城际巴士停靠校西 Atherton Street 一带车站；State College 无客运铁路，最近 Amtrak 站为 Tyrone 与 Lewistown，余程需另约接驳。",
+      "scene": "宾州州立旗舰主校，校园开阔、院系与体育规模大，HUB-Robeson Center 为学生活动中心；East、North、Pollock、South、West 各宿舍组团经班车与步行连接，校门外 Beaver Avenue、Allen Street 一圈是小镇餐饮零售，四周为森林丘陵，整体是典型 Big Ten 大学城气质。",
+      "safety": "University Police and Public Safety (UPPS) 总部 8 University Drive, University Support Building I, University Park, PA 16802；紧急拨 911（Call or Text）或 814-863-1111；辖区为 Penn State 自有、控制、租赁或管理的场地及周边 500 码，并与周边警署签互助协议；Clery 年度安全与消防安全报告在 police.psu.edu 公布。",
+      "transit": "进城跨城主路径：校西巴士车站乘 Fullington Trailways、Greyhound、FlixBus 往 Philadelphia、Pittsburgh、New York City、Baltimore、Washington DC 等方向；铁路须先到 Tyrone（西约 26 英里）或 Lewistown（东约 32 英里）转 Amtrak，Harrisburg 站才有较多班次与巴士衔接；班次票价以各运营商当期时刻表为准。",
+      "rentnote": "校内住校分 East、North、Pollock、South、West 宿舍区及 Eastview Terrace、Nittany Apartments & Suites、White Course Apartments，房型双人／三人／四人／套间／supplemental 不等，住校生每学期须购 Campus Meal Plan；校外学生在 State College 镇内及周边租房，租金自行议价，本表不列固定月租数字，按邮编 16801／16802／16803 查当期挂牌价。",
+      "link": {
+        "cal": [
+          "https://www.registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "官网"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "官网"
+        ]
+      }
+    },
+    "slipperyrock": {
+      "short": "Slippery Rock University of Pennsylvania",
+      "place": "宾夕法尼亚州·Slippery Rock（巴特勒县 Butler County）",
+      "cityKey": "slipperyrock",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "2026 秋季：2026-08-24 周一 8:00 开课，2026-09-07 劳动节停课、09-08 8:00 复课，2026-11-25 至 11-29 感恩节假，2026-12-07 最后上课日，2026-12-08 起期末考试周，2026-12-12 11:00 毕业典礼，2026-12-15 下午 3:00 前秋季成绩提交；全学期 drop/add 截止 2026-08-31，全学期 W 成绩退课截止 2026-10-29。2027 春季：2027-01-19 周二 8:00 开课，全学期 drop/add 截止 2027-01-26，W 退课期 2027-01-27 开始，2027-03-07 至 03-13 春假、03-15 8:00 复课，全学期 W 退课截止 2027-03-30，2027-05-03 最后上课日，2027-05-04 至 05-08 期末考试周，2027-05-07 18:00 研究生毕业典礼、2027-05-08 本科毕业典礼；各短学期 drop/add 与 W 截止见 Academic Records 当期截止表。",
+      "fulltime": "F-1/J-1 全日制认定：本科每学期注册 12 学分及以上为全日制；研究生通常每学期 9–12 学分，研究生助理每学期至少注册 9 门研究生学分；因健康、最后一学期等原因需要低于全日制选课，须事先向 Office for Global Engagement 提交减修（reduced course load）申请并获批准，未获批不得低于全日制；校内打工学期中每周不超过 20 小时。",
+      "drop": "退课与退费：全学期课程 drop/add 截止为 2026-08-31 与 2027-01-26，W 成绩退课截止为 2026-10-29 与 2027-03-30；各五周、十周、十二周与 Session A/B 短学期截止日期由 Academic Records 当期表格公布；课程退费比例、罚扣与 W 成绩规则以 Academic Records 与 Student Accounts 当期页面为准；身份相关的减修须先取得 OGE 同意。",
+      "ins1": "Slippery Rock University 不向普通学生提供校方统一的学生健康保险计划，普通学生也不被强制投保；F-1/J-1 签证的国际学生必须在整个学习期内购买医疗保险。学生可经 ACA 市场 healthcare.gov 或自选保险公司购买；历届国际学生选用过的承保方包括 CISI、ISO、International Student Insurance 与 GeoBlue；Student Health Center 电话 724-738-2052。",
+      "ins2": "强制投保与合规核验：法律上仅 J-1 学生被强制投保，校方要求所有 F-1/J-1 国际学生在到校前或当期 Orientation 页面公布的日期前提交保险证明；保险咨询联系 Noora Alie，Assistant Director for International Student Services，邮箱 noora.alie@sru.edu；International Admissions 电话 724-738-2057，邮箱 international.admissions@sru.edu。",
+      "ins3": "保障范围与替代渠道：校医院基础诊疗之外的化验、X光、专科转诊、急诊与住院费用多由学生先行自付，再凭私人保险报销；可经 healthcare.gov 比对不同计划的自付额、网络与保障地域；境外保单、旅行险或纯应急保障能否通过 OGE 核验，以 Office for Global Engagement 当期审核口径为准。",
+      "clinic": "Student Health Center 位于 Campus Success Center（103 Campus Loop），电话 724-738-2052；全日制学生缴 Health Fee 每学期 172.50 美元，非全日制按学分折算；off-campus 与纯线上学生可选 44 美元/次就诊；爽约或迟到取消费 25 美元；护士、执业护士与医师按预约就诊，化验与 X 光在站外完成、费用学生自担。Student Counseling Center 同楼，电话 724-738-2034，邮箱 scc@sru.edu，提供免费保密咨询；课后危机联系校警 724-738-3333 或健康中心 724-738-2052。",
+      "commute": "校区地址 1 Morrow Way, Slippery Rock, PA 16057；校园内通勤依靠 SRSGA Happy Bus 全天绕校停靠，办公室在 Robert M. Smith Student Center 二楼 Student Engagement and Leadership Suite，电话 724-738-2755；驾车通勤学生须经 Parking Office 办理停车许可；Aebersold Student Recreation Center 等校内场馆凭 SRU 身份卡进入。",
+      "scene": "Slippery Rock University 是宾州州立系统（PASSHE）十所公立院校之一，1889 年建校，坐落在巴特勒县北部乡村小镇 Slippery Rock，镇区约 3,500 名居民、距 Pittsburgh 以北约一小时车程；2026-27 学年在册 8,654 人（本科 7,077、研究生 1,577），开设 150 余个本科专业与 40 余个研究生项目；全校有 200 余个获认可的学生组织；107,000 平方英尺的 Robert M. Smith Student Center 是社交与活动中心，校园食堂为 Boozel 与 Weisenfluh，另在 Smith Center 内设有 Starbucks、Rocky's 美食广场与 Quaker Steak & Lube，Bailey Library 内有一家 Starbucks We Proudly Serve。",
+      "safety": "校园警务为 University Police Department（UP），24 小时值守，电话 724-738-3333，警长 Chief Kevin Sharkey，警务地址 145 Kiester Road, Slippery Rock, PA 16057；校园遍布 Blue Light 安全站与各教学楼内呼叫盒，可直连校警；保密犯罪举报线 724-738-2778，Title Coordinator 724-738-2953，环境健康与应急管理 724-738-2055；医疗、消防、警务紧急情况拨 911；校园以外归 Slippery Rock 镇警 724-738-6388 与宾州州警 Butler 站 724-284-8100；Clery 年度安全与消防报告可向校警索取。",
+      "transit": "进城与跨城主路径：Butler Transit Authority 提供 Butler 至 Pittsburgh 的通勤巴士，电话 1-888-819-6110；Pittsburgh Greyhound 汽车站电话 412-392-6514；校园周边无直达公交、地铁或火车；Orientation 期间校方提供 Pittsburgh International Airport 到校园的免费班车（须先填写 Arrival Information Form），其余时段落地后可使用 Uber（约 65–80 美元）、Lyft（约 72 美元）、Tina's Taxi（约 100 美元），或经 Fly Pittsburgh 412-472-3500、zTrip 412-777-7777 预约；自驾至 Pittsburgh 约一小时，巴士班次以 Butler Transit Authority 与 Greyhound 官网当期时刻表为准。",
+      "rentnote": "校内为 8 所大学管理宿舍加 1 栋公寓楼（ROCK Apartments），约容纳 2,800 名学生：6 所套间式宿舍套内带卫浴，2 所传统式宿舍使用楼层公共卫浴，全部空调，配床、床垫、衣柜、书桌与椅；住校须缴 House Council Fee 20 美元。住校政策：自美国境内其他大学转入的学生、研究生与 21 岁以上本科生不强制住校；其余本科国际生、自海外转学学生、非学位交换与赞助学生须住校；住宿咨询 Housing and Residence Life，电话 724-738-2082，邮箱 housing@sru.edu。校外租房自行签约，租金按邮编 16057 查询当期挂牌价，本表不列固定月租数字。",
+      "link": {
+        "cal": [
+          "https://catalog.sru.edu/academic-calendar/2026-2027/2026-2027.pdf",
+          "SRU 2026-27 校历"
+        ],
+        "ins": [
+          "https://www.sru.edu/life-at-sru/health-and-wellness/student-health-center/health-insurance-for-students",
+          "国际学生保险要求"
+        ]
+      }
+    },
+    "shippensburg": {
+      "short": "Shippensburg University of Pennsylvania",
+      "place": "宾夕法尼亚州·Shippensburg（坎伯兰县 Cumberland County）",
+      "cityKey": "shippensburg",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "2026 秋季：新生 2026-08-20 到校，Welcome Weekend 08-20 至 08-23，2026-08-24 周一开课，2026-09-07 劳动节校机关闭，2026-10-09 16:00 秋假开始，2026-10-14 8:00 复课，2026-11-25 8:00 感恩节假开始，2026-11-30 复课，2026-12-04 最后上课日，2026-12-07 至 12-11 期末考试，2026-12-11 研究生毕业典礼、2026-12-12 本科毕业典礼；全学期 drop/add 截止 2026-08-31，W 成绩退课截止 2026-11-02。2027 春季：新生 2027-01-15 到校，迎新 01-15 至 01-17，2027-01-18 MLK Day 关闭，2027-01-19 周二开课，2027-03-05 16:00 春假开始，2027-03-15 8:00 复课，2027-04-30 最后上课日，2027-05-03 至 05-07 期末考试，2027-05-07 研究生毕业典礼、2027-05-08 本科毕业典礼；全学期 drop/add 截止 2027-01-26，W 成绩退课截止 2027-03-30；短学期安排以 Registrar 当期学期信息页为准。",
+      "fulltime": "F-1 全日制认定：本科每学期注册 12 学分及以上、研究生 9 学分及以上；每学期（session）在线或远程教育不得超过一门研究生课程或 3 学分；减修或低于全日制须事先经 International Student Advisor（ISA）批准，学生不允许整学期休学；校内打工学期中每周不超过 20 小时。",
+      "drop": "退课与退费：全学期课程 drop/add 截止为 2026-08-31 与 2027-01-26，W 成绩退课截止为 2026-11-02 与 2027-03-30；因身份需要低于全日制选课，须先取得 ISA 同意；课程退费比例、罚扣与 W 成绩规则以 Registrar 与 Student Accounts 当期页面为准。",
+      "ins1": "Shippensburg University 已不再提供校方统一的学生健康保险计划；所有学生须自行持有可覆盖 Etter Health Center 以外服务（化验、X光、专科转诊等）的健康保险。国际学生须能证明持有学生健康保险公司出具的医疗保障，保单保障水平须与面向本校学生的计划相当；保险咨询经 Global Education Center（Mowery Hall 246-251），电话 717-477-1279，邮箱 meburnett@ship.edu。",
+      "ins2": "强制投保与合规核验：国际学生每学期须填写 International Student Information Sheet 并完成保险核验；若自购校外保单，保险方须在次学期注册前向学校寄送资格证明信（letter of eligibility），信件须用英文书写并以美元列明保障金额；此后每学期保险方均须出具持续资格与保障证明；未完成核验将无法注册后续学期课程。",
+      "ins3": "替代保单渠道与标准：可通过 ACA 健康保险市场 healthcare.gov 自行选购不同档次计划；校队成员另由大学 athletic insurance 覆盖团队相关意外；私人承运商基本计划信息可经 University Health Services 咨询；境外保单、旅行险或纯应急保障能否满足核验标准，以 GEC 当期审核口径为准。",
+      "clinic": "Etter Health Center 位于 Naugle Hall 一楼（Wellness Center），与 WellSpan Health 合作，电话 717-477-1458，传真 717-477-4042；当期开放时间为周一、周三 9:00–19:00，周二、周四 9:00–16:00，周五 10:00–16:00，周末闭馆，学期假期时间另行调整；护士与驻校医师提供基础诊疗。University Counseling Center 同楼一楼，电话 717-477-1481，邮箱 counctr@ship.edu，周一至周五 8:30–17:00；危及生命的紧急情况拨 911 或校警 717-477-1444。",
+      "commute": "校区地址 1871 Old Main Drive, Shippensburg, PA 17257；本地公交为 Raider Regional Transit（RRT），Red Line 周一至周五、Blue Line 周六运行，SU 学生免费乘坐，可覆盖校园、镇区与周边；另有 ShipShare 免费自行车共享计划；自驾经 I-81 Exit 29 进入校区，通勤学生须在校警处登记停车许可。",
+      "scene": "位于宾州中南部 Cumberland Valley、俯瞰 Blue Ridge Mountains 的公立州立大学（PASSHE），校园约 200 余英亩缓坡林地；1871 年建校，150 余个学生社团组织（含校内体育、俱乐部队伍与希腊生活），校内 9 处餐饮点位含 Dunkin、Starbucks、Chick-fil-A 与餐车；Cumberland Valley Rail Trail 穿校而过，连接 Shippensburg Township Park。",
+      "safety": "校园警务为 Shippensburg University Police Department（SUPD，隶属 Department of Public Safety），驻 Reed Operations Center，1871 Old Main Drive；电话 717-477-1444，邮箱 police@ship.edu；12 名全职校警经宾州 Act 120 培训并由州长与教育部长委任；紧急（医疗、消防、警务）拨 911，校园内可拨 1444；校区设 30 余部室外紧急电话直连校警调度室，宿舍入口监控由 SUPD 值守；SU-Alert 用于危机即时预警；校外一般警务归 Shippensburg 镇与坎伯兰县地方执法。",
+      "transit": "进城主路径：Capital Area Transit（CAT）巴士自 Shippensburg Wal-Mart 发往 Harrisburg Transportation Center（Amtrak 火车站），周一至周五运行、州联邦假日除外，成人单程 2.95 美元（须自备零钱），班次见 CAT 当期时刻表；RRT 红线/蓝线覆盖镇区与校园；自驾至 Harrisburg 约 45 分钟、Gettysburg 约 30 分钟、Baltimore 与 Washington, D.C. 约 2 小时、Philadelphia 约 2.5 小时；往 Chambersburg、Hagerstown 方向多为自驾或拼车，长途班线时刻以承运商官网当期页面为准。",
+      "rentnote": "校内为套间式宿舍：McLean Hall 双人房按翼分层男女同住，Mowrey Hall 三、四层为研究生住宿；2026-2027 学年本科新生双人房每学期 2,785 美元，单人房每学期 4,177 美元；住校生须订餐计划。本科国际学生须住校并提交 200 美元不可退住宿押金，研究生可申请校内住宿但不保证；住宿咨询 housing@ship.edu；校外租房自行签约，租金按邮编 17257 查询当期挂牌价，本表不列固定月租数字。",
+      "link": {
+        "cal": [
+          "https://www.ship.edu/academics/academics-resources/academic-calendar/2026_2027_academic_year_calendar22/",
+          "Shippensburg 校历"
+        ],
+        "ins": [
+          "https://www.ship.edu/admissions/international/current_students/health_insurance_for_international_students/",
+          "国际学生保险要求"
+        ]
+      }
+    },
+    "psushenango": {
+      "short": "Penn State Shenango",
+      "place": "宾夕法尼亚州·Sharon（默瑟县 Mercer County）",
+      "cityKey": "sharon",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "本校为通勤型校区、不设校内宿舍，无入住环节；报到与过渡安排按 Student Affairs 当期通知办理，学期日期执行系统校历。2026 秋学期 08-24 开始上课，drop/add 窗口分别为 08-29、08-30 的 23:59，2026-09-07 劳动节停课，2026-11-13 23:59 late drop 截止，2026-11-22 至 11-28 感恩节假，2026-12-11 课程结束、17:00 截止 withdraw，2026-12-14 至 12-18 期末考试；2027 春季 2027-01-11 开课，drop 2027-01-16 23:59、add 2027-01-17 23:59，2027-01-18 MLK Day 停课，2027-03-07 至 03-13 春假，2027-04-09 late drop 截止，2027-04-30 课程结束，2027-05-07 至 05-09 期末考试；半学期课以 LionPATH 与 Registrar 当期校历为准，过渡学年其他安排以官方当期通知为准。",
+      "fulltime": "F/J 身份下本科与法学生每学期注册不少于 12 学分、研究生不少于 9 学分；远程或混合在线课程每学期最多 3 门计入全日制下限；减修（RCL）必须事先由 International Student Adviser 在 iStart 批准，自行降载影响合法身份。",
+      "drop": "本校无住宿合同，退课只涉及学分、退费与签证全日制状态，不牵动住房或餐计划。节点以系统校历为准：regular drop 2026-08-29、2027-01-16 23:59，regular add 2026-08-30、2027-01-17 23:59；late drop 2026-11-13、2027-04-09，withdraw 2026-12-11 17:00。退费阶段比例不同；影响身份的减修须先经 International Student Adviser 批准，细则以 Registrar 与 Bursar 页面为准。",
+      "ins1": "本校区不设校内健康服务室，也无校内宿舍；处于 2026–27 停招过渡学年，在读学生的保险材料不经过校内健康室，而由 Student Affairs（103C Sharon Hall，724-983-2828）转接系统 UHS 办理。保险制度仍为 Penn State SHIP，由 UnitedHealthcare StudentResources 承保、全美网络覆盖，F-1/J-1 学生及随行家属须持 SHIP 或达标替代保单；过渡期具体办理节点按当期通知与系统页面执行。系统保险办公室 228 Bank of America Career Services Center, 566 Eisenhower Rd., University Park, PA 16802，814-865-4847，uhs-insurance@psu.edu。",
+      "ins2": "校区不设校内健康室，保险材料由 Student Affairs（103C Sharon Hall，724-983-2828）转接后进入系统 LionPATH 流程；截止前未完成 enroll 或 waiver 的过渡学年在读学生会被自动录入 SHIP 并扣费。秋季窗口 2026-07-14 至 2026-09-01；春季窗口 2026-11-11 至 2027-01-19，春季 waiver 资格按系统规则限定；保单年度 2026-08-13 至 2027-08-12。",
+      "ins3": "豁免由 UHCSR 审核；替代保单须为美国 PPACA 合规承运商：自付额不高于 500 美元、全球保障、网络内自付上限 3,000 美元、网络外 15,000/30,000 美元、预防与避孕 100%、既往症无等待期、孕产及精神健康与物质滥用同等待遇、医疗撤离 ≥10 万美元、遗体送返 ≥5 万美元；雇主团体健康计划可替代，境外保单与旅行险不受理。",
+      "clinic": "心理咨询与残障服务由 Campus Counselor & Disability Coordinator Carmen Nocera 负责，办公室 207B Sharon Hall，电话 724-983-2841；系统 UHS Advice Nurse 814-865-4847，8:00–17:00；校区健康服务室与门诊安排以当期页面公布为准，急症拨 911，校外就医就近选择 Mercer County 沿线医院。",
+      "commute": "校区地址 147 Shenango Avenue, Sharon, PA 16146-1537；电话 1-724-983-2803，邮箱 psushenango@psu.edu，传真 724-983-2839；招生与注册管理办公室 225 Lecture Hall。校园位于 downtown Sharon 的 Shenango Valley 片区；自驾自 I-80 / I-376 接 PA-760 North 再转 US 62 Business，俄亥俄方向自 I-80 Exit 234B 接 US 62。",
+      "scene": "Shenango 是默瑟县 Shenango Valley 的通勤型小校区，地处 Sharon 镇中心；开设 Business（management/marketing）、Corporate Communication、Criminal Justice、Human Development and Family Studies、Health Policy and Administration、Multidisciplinary Studies、Nursing RN-BSN、Occupational Therapy Assistant、Physical Therapist Assistant、Project and Supply Chain Management 等项目；6 支校际校队，SHARC Learning Center 提供辅导，另有荣誉项目与 Lion's Den Food Court。该校区不再招收新生与转学生，在读学生服务持续至 2026–27 学年，过渡安排以官方当期页面为准。该校区将于 2027 年春季学期结束后关闭（2025-05-22 校董会批准，2026-27 为最后运营学年）。",
+      "safety": "校区安全纳入 Penn State University Police and Public Safety（UPPS）体系；危及生命事件拨 911；非紧急事务经 Student Affairs 办公室转接（Regional Director Andy Puleo，103C Sharon Hall，724-983-2828）。UPPS 按 Clery Act 发布年度安全与消防安全报告、及时预警与事件记录；Clery 邮寄：University Police and Public Safety - Clery Compliance, 8 University Drive, University Support Building 1, Suite 150, University Park, PA 16802；校外归 Mercer County 地方警务。",
+      "transit": "本地公交为 Shenango Valley Shuttle Service（SVSS），覆盖 Sharon、Farrell、Hermitage、Sharpsville、Wheatland 五地，提供 Shenango Valley 内固定线路；另有 Rural Mercer County Public Bus Service（偏离式固定线路，连接 Shenango Valley 至 Mercer、Greenville、Grove City）与 Mercer County Community Transit 全县需求响应 para-transit。无直达 Pittsburgh 的公交线路；最近跨州大都市为俄亥俄 Youngstown；线路号、班次与票价以 https://www.mcrcog.com/tdp.php 当期公布与承运方时刻表为准。",
+      "rentnote": "Penn State Shenango 不提供校内宿舍；校外租房名单经 Student Affairs 提供；通勤生可经 id+ 网站购买 Lion's Den Food Court 的两档通勤餐计划。租房合同由学生与房东签订，租金按邮编 16146 查询当期挂牌价，本表不列固定月租。",
+      "link": {
+        "cal": [
+          "https://scranton.psu.edu/registrar/academic-calendar",
+          "Penn State 系统校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 学生健康保险"
+        ],
+        "plan": [
+          "https://roadmap.psu.edu/our-commonwealth-campuses/",
+          "校区调整公告"
+        ],
+        "planBul": [
+          "https://bulletins.psu.edu/undergraduate/campuses/",
+          "招生与关闭公告"
+        ]
+      }
+    },
+    "psuschuylkill": {
+      "short": "Penn State Schuylkill",
+      "place": "宾夕法尼亚州·Schuylkill Haven（斯库尔基尔县 Schuylkill County）",
+      "cityKey": "schuylkillhaven",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "2026 秋季（Regular Session）：2026-08-24 开课，2026-08-29 23:59 ET regular drop 截止，2026-08-30 23:59 ET regular add 截止，2026-09-07 劳动节无课，2026-11-13 23:59 ET late drop / late add 截止，2026-11-22 至 11-28 感恩节假，2026-12-11 17:00 ET withdraw 截止并当日课程结束，2026-12-12 至 12-13 学习日，2026-12-14 至 12-18 期末考试，2026-12-20 毕业典礼；2027 春季：2027-01-11 开课，2027-01-16 23:59 ET drop 截止，2027-01-17 23:59 ET add 截止，2027-01-18 MLK Day 无课，2027-03-07 至 03-13 春假，2027-04-09 23:59 ET late drop 截止，2027-04-30 17:00 ET withdraw 截止并当日课程结束，2027-05-01 至 05-02 学习日，2027-05-03 至 05-07 期末考试，2027-05-07 至 05-09 毕业典礼；短学期与校区另行安排以 LionPATH 与 Registrar 当期校历为准。",
+      "fulltime": "全日制口径按 Penn State 全校标准：F-1/J-1 本科每学期不少于 12 学分，研究生不少于 9 学分；每学期最多 3 学分（一门）混合远程/在线课程可计入全日制最低要求，旁听课程不计入；减修（Reduced Course Load）须事先经 Penn State 国际学生顾问在 iStart 提交 RCL 并获批准，未经批准不得低于全日制学分线。",
+      "drop": "Regular drop/add 截止见系统校历（秋季 2026-08-29 / 08-30，春季 2027-01-16 / 01-17，均为 23:59 ET）；late drop 与全学期 withdraw 截止分别为 2026-11-13、2026-12-11 与 2027-04-09、2027-04-30；因身份需要减修须先获 ISSA 批准，课程退费比例与罚扣规则以 Registrar/Bursar 当期页面为准。",
+      "ins1": "Penn State 的学生健康保险为 Student Health Insurance Plan for Penn State（SHIP），面向符合资格的学生及合格家属；国际 J/F 签证学生及随行家属必须投保 SHIP，或提交满足全部要求的替代保单证明。保险办公室：228 Bank of America Career Services Center, 566 Eisenhower Rd., University Park, PA 16802；电话 814-865-4847；邮箱 uhs-insurance@psu.edu。",
+      "ins2": "强制投保与自动参保：F-1/J-1 学生及家属须在 LionPATH 的 Health Insurance 页面完成投保或豁免操作；国际学生若未在秋季截止日（2026-09-01）前操作，将被自动加入 SHIP，保费计入学生账户；春季学期仅新生与转学生可提交豁免，2027-01-19 为春季截止日；SHIP 为学年保单，秋季投保后春季自动续入，保费按学期在学生账户扣缴。",
+      "ins3": "豁免申报路径与替代保单口径：持符合全部要求替代保单的 F-1/J-1 学生，在 LionPATH 的 Health Insurance 页面选择 Waive 录入保单信息，申请由 UnitedHealthcare Student Resources 审核并以邮件答复批准或驳回。Schuylkill 本地先由 Office of Admissions（102 Administration Building，570-385-6252，sl-admissions@psu.edu）或 Office of Student Affairs（570-385-6115）受理咨询，再转系统 Student Health Insurance 办公室（uhs-insurance@psu.edu，814-865-4847）核验；住校生可在同一学生事务窗口一并办理住宿合同与保险豁免材料。替代保单须达到系统核定标准：在美国获准营业并符合 PPACA；自付额不高于 500 美元；保障全球有效；网络内自付上限 3,000 美元，网络外 15,000/30,000 美元；预防接种与避孕保障 100%；既往症不设等待期；孕产、住院与门诊精神健康及物质滥用保障与其他疾病同等待遇；医疗撤离与遗体遣返最低限额分别为 10 万与 5 万美元；或为美国雇主团体健康计划。境外签发保单、旅行险与纯应急保障均不予认可；系统标准见 https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+      "clinic": "Health Services 位于 Health and Wellness Building 210C，电话 570-385-6248，协调员 Michele Bachman，邮箱 mvb6721@psu.edu；护士值守中心开放周一至周五，处理小病小伤并对接校园医师与校外转介，医师仅接受预约；另设个人心理咨询与心理健康资源；多数服务对学生免费或仅收少量费用；危及生命的紧急情况拨 911。",
+      "commute": "校区地址 200 University Drive, Schuylkill Haven, PA 17972，校园停车全部免费；本地公交为 Schuylkill Transportation System（STS）30 路 Pottsville–Schuylkill Haven，周一至周六运行；校区无客运铁路直达；迎新周设前往 Hamburg 沃尔玛的班车，班次与集合点以当期 Welcome Weekend 公告为准；长途出行靠 Pottsville 长途车站或自驾。",
+      "scene": "斯库尔基尔河谷丘陵地带的小型 Penn State 联邦校区，在校学生约 625 人，校园有林荫步道与开阔草坪；提供 10 个学士学位与 4 个副学士学位，另有 2+2 计划可衔接 University Park 等校区；独有的 Penn State Schuylkill Co-Op 让学生在毕业前完成三次全职工作经历；30 余个学生组织、免费健身中心、校内 Starbucks 与 Hidden Stream Cafe，校队参加 USCAA 与 PSUAC 联赛。",
+      "safety": "校园由 Penn State University Police and Public Safety（UPPS，大学警察与公共安全部）派驻全职宣誓校警值守；紧急情况拨 911（接入 Schuylkill County 911 Center）；非紧急县调度线 570-628-3792，全天候 24/7；校警办公室 570-385-6144，警员驻 Administration Building 014A / 13A；提供步行护送、失物招领与校内车辆援助；校外一般警务归 Schuylkill Haven 镇与县地方执法部门。",
+      "transit": "跨城主路径：自驾沿 PA-61 南行约 30 分钟到 Reading，经 I-78、I-476 往 Philadelphia 方向约一个半小时至两小时车程；STS 30 路连接 Schuylkill Haven 与 Pottsville Union Station（300 S. Centre St, Pottsville, PA 17901），Pottsville 长途班线往 Harrisburg、Scranton 等方向，承运商与班次以 Fullington Trailways / Trailways 官网当期时刻表为准；校园无直达 SEPTA 铁路，铁路接驳方案与班次以 septa.org 当期时刻表为准。",
+      "rentnote": "校内住宿为 Nittany Apartments 公寓式住宅，毗邻校园，五栋公寓楼共 308 个床位；Fall 2025/Spring 2026 估算住宿费每年 9,006 美元（学费页估算口径，不含餐）；住宿咨询 Director Linda MacDuff（lmm120@psu.edu）与 Housing Manager Gina Greppin（mcg5466@psu.edu）；校外租房自行与房东签约，租金按邮编 17972 查询当期挂牌价，本表不列固定月租数字。",
+      "link": {
+        "cal": [
+          "https://www.registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 系统校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 学生健康保险"
+        ]
+      }
+    },
+    "psuberks": {
+      "short": "Penn State Berks",
+      "place": "宾夕法尼亚州·Reading（Wyomissing，伯克斯县）",
+      "cityKey": "readingpa",
+      "calShort": "学期制（Fall / Spring，同 University Park 校历框架）",
+      "calendar": "2026 秋季与 2027 春季按 Penn State Registrar 校历执行：秋季 8 月 24 日开课、11 月 13 日 late drop 截止、12 月 11 日上课结束、12 月 14–18 日期末考试；春季 1 月 11 日开课、4 月 30 日上课结束、5 月 3–7 日期末考试；Berks 校区的报到、加退课与考试安排可能微调，以 Registrar 当期校历为准。",
+      "fulltime": "身份与负荷：Berks 以本科低年级教学为主，F-1/J-1 本科生每学期至少注册 12 学分方满足 DHS 全日制要求；少于 12 学分按部分时间注册，可能影响身份认定、学费档位与奖助学金资格，排课前先找 Berks Registrar 与 Penn State Global 顾问核对，研究生口径为每学期至少 9 学分，每学期最多 3 门 hybrid-remote/online 学分可计入全日制。学费按低年级全日制学期费率或按学分计，12 学分以下按 part-time per credit 计费；按 2+2 安排，前两年在 Berks 修读，之后可转 University Park 或其他 Penn State 校区完成后两年，所修学分进入 Penn State 统一学籍与成绩单衔接；减修须事前获批 RCL。来源：https://berks.psu.edu/international-student-admissions ；https://tuition.psu.edu/rates-effective-2026-fall-semester-altoona-berks-erie-harrisburg ；https://global.psu.edu/landing/enrollment-requirements",
+      "drop": "加退课、late drop 与全退截止以 Registrar 当期表为准；Berks Registrar 610-396-6085，BK-registrar@psu.edu，142-144 Franco Building；计划低于全日制学分线前，须先完成 RCL 审批，退费比例与 W 标记按 Bursar／Registrar 当期规则执行。",
+      "ins1": "Berks 学生适用 Penn State SHIP 体系（SHIP 资格不含 World Campus）；计划由 UnitedHealthcare StudentResources 承保并管理，学生保险办公室在 University Park：228 Bank of America Career Services Center, 566 Eisenhower Rd., 814-865-4847，uhs-insurance@psu.edu。",
+      "ins2": "F-1/J-1 国际学生及随行家属须投保 SHIP 或提交达标第三方证明，注册后在 LionPATH Health Insurance 页面办理 Enroll/Waive；2026 秋季操作截止 9 月 1 日、2027 春季新生截止 1 月 19 日，逾期自动加入 SHIP 并把保费计入账单；国际生报到周的保险讲解见 International Student Welcome 安排。",
+      "ins3": "替代保单须 PPACA 合规、在宾州保险部备案或经保险办公室批准，自付额不超过 500 美元，含既往症、处方药、生育、精神科与物质滥用治疗，并含医疗撤离 100,000 美元、遣返 50,000 美元最低限额；境外保单与旅行险不满足标准，细则以当期保险页为准。",
+      "clinic": "Berks Health Services，8 Perkins Student Center，610-396-6075，BKHealthServices@psu.edu，周一至周五 8:00–17:00，暑期与校历假日闭诊；Counseling Services 在 6 Perkins Student Center，610-396-6082；下班后危及生命的紧急情况拨打 911。",
+      "commute": "校区 2100 Stoudt Road, Wyomissing, PA 19610，主入口在 Harper Road 与 Broadcasting Road 交叉口；BARTA Route 16 Broadcasting Square 经停 Penn State Berks；校区无铁路站点，驾车与校园停车为主要到校方式。",
+      "scene": "林地环绕的分校校园，位于 Spring Township／Wyomissing 近郊；多数本科生前两年在 Berks 就读，之后可转 University Park 或其他 Penn State 校区完成后两年，也有学生留满四年攻读学士学位；校内活动以 Perkins Student Center、Beaver Athletics and Wellness Center 与 Thun Library 为中心。",
+      "safety": "UPPS Berks 驻站 112 Luerssen Science Building；紧急拨 911，Police Services 610-396-6111，非紧急 610-396-6911；校园外归 Reading／Wyomissing 属地警署；Clery 年度安全与消防安全报告经 police.psu.edu 按期发布。",
+      "transit": "进城靠 BARTA 16 路至 Reading 的 BARTA Transportation Center；往 Philadelphia、Harrisburg、New York 方向经城际巴士或驾车，Reading 无客运铁路；班次、票价与无障碍条件以 bartabus.com 当期时刻表为准。",
+      "rentnote": "校内 The Village／The Woods 套间供住校生，Housing & Food Services 在 106 Perkins Student Center，610-396-6353；校外学生在 Wyomissing、West Lawn、Reading 一带租房，本表不列固定月租数字，按邮编 19610／19609／19601 查当期挂牌价，押金、杂费与通勤距离逐项核对。",
+      "link": {
+        "cal": [
+          "https://www.registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "官网"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "官网"
+        ]
+      }
+    },
+    "psunewkensington": {
+      "short": "Penn State New Kensington",
+      "place": "宾夕法尼亚州·New Kensington（威斯特摩兰县 Westmoreland County）",
+      "cityKey": "newkensington",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "2026 秋季学期 2026-08-24 开课，regular drop 与 add 分别在 2026-08-29、2026-08-30 的 23:59 截止，2026-09-07 劳动节停课，2026-11-13 23:59 late drop 截止，2026-11-22 至 11-28 感恩节假，2026-12-11 课程结束并于 17:00 截止 withdraw，2026-12-14 至 12-18 期末考试；2027 春季 2027-01-11 开课，drop 与 add 截止 2027-01-16、01-17 23:59，2027-01-18 MLK Day 停课，2027-03-07 至 03-13 春假，2027-04-09 late drop 截止，2027-04-30 课程结束，2027-05-07 至 05-09 期末考试；半学期课程与期末安排以 LionPATH 与 Registrar 当期校历为准。",
+      "fulltime": "F-1/J-1 身份下全日制要求：本科与法学生每学期注册不少于 12 学分，研究生不少于 9 学分；远程或混合在线课程每学期最多 3 门可计入全日制下限；任何低于全日制的安排（RCL）必须事先由 International Student Adviser 在 iStart 批准，自行减修影响合法身份。",
+      "drop": "退课节点以系统校历为准：regular drop 截止 2026-08-29 23:59 与 2027-01-16 23:59，regular add 截止 2026-08-30 23:59 与 2027-01-17 23:59；late drop 截止 2026-11-13 与 2027-04-09，withdraw 截止 2026-12-11 17:00；不同退费阶段比例不同，减修影响 I-20/DS-2019 须先获顾问批准，具体规则以 Registrar 与 Bursar 当期页面为准。",
+      "ins1": "Penn State 统一的学生健康保险为 SHIP（Student Health Insurance Plan for Penn State），承保方为 UnitedHealthcare StudentResources，网络覆盖美国全境；符合资格的学生及家属均可参加，国际 F/J 学生与随行家属必须持有 SHIP 或提交经审核合格的替代保单。系统保险办公室位于 228 Bank of America Career Services Center, 566 Eisenhower Rd., University Park, PA 16802，电话 814-865-4847，邮箱 uhs-insurance@psu.edu。",
+      "ins2": "投保与入账：未在截止日期前于 LionPATH 完成投保或豁免流程的国际学生，将被自动录入 SHIP 并由账单扣缴保费。2026 秋季投保窗口 2026-07-14 至 2026-09-01；2027 春季窗口 2026-11-11 至 2027-01-19，春季豁免只适用于新生与转学生；当期保单年度 2026-08-13 至 2027-08-12。",
+      "ins3": "替代保单审核：豁免申请在 LionPATH 提交，由 UHCSR 复核；合格保单须为美国承运商出具的 PPACA 合规计划，含自付额上限 500 美元、全球保障、网络内自付上限 3,000 美元、网络外 15,000/30,000 美元、预防与避孕 100% 保障、既往症无等待期、孕产及精神健康与物质滥用同等待遇，并有医疗撤离 10 万、遗体送返 5 万美元以上限额；雇主团体健康计划亦可作为替代，旅行险与境外保单不受理。",
+      "clinic": "校区 Campus Health Services 位于 101 Athletic Center，护士 Stella Milburn，邮箱 sum697@psu.edu，电话 724-334-6066，电话咨询时间 8:00–16:30；服务含急救箱处理、常见病治疗与转介、健康咨询、健康教育项目、校队体检、健康教育资料与社区机构转介；系统 UHS Advice Nurse 814-865-4847，8:00–17:00。心理咨询由 Robyn Chotiner 负责，邮箱 rlc39@psu.edu，电话 724-334-6006；24/7 危机线 1(877)229-6400，可发短信 LIONS 至 741741，另有 Well Track 自助门户；急症拨 911。",
+      "commute": "校区地址 3550 7th Street Road, New Kensington, PA 15068，总机 1-724-334-5466，招生邮箱 nkadmissions@psu.edu；校园位于 Upper Burrell Township，占地 72 英亩，距 Pittsburgh 市区东北约 17 英里。本地公交由 Westmoreland County Transit Authority（WCTA）提供，自驾进城走 PA 76 / 公路衔接至 Pittsburgh；车站与机场接驳细节见交通条目。",
+      "scene": "New Kensington 是威斯特摩兰县河谷工业带上的小型联邦校区，在校生约 500 人，平均班额 25 人，师生比 10:1，全职与兼职教师约 72 人；提供 10 个四年制学士学位与 4 个两年制副学士项目。该校区已不再招收新生与转学生，在读学生的学业与服务支持持续至 2026–27 学年，过渡安排以 Penn State Roadmap 官方公布为准。该校区将于 2027 年春季学期结束后关闭（2025-05-22 校董会批准，2026-27 为最后运营学年）。",
+      "safety": "校区安全纳入 Penn State University Police and Public Safety（UPPS）体系；校区 Security 电话 724-334-6120，课后安全护送联络 724-334-6022，危及生命事件拨 911。UPPS 按 Clery Act 发布年度安全与消防安全报告、及时预警与事件记录；Clery 合规邮寄地址：University Police and Public Safety - Clery Compliance, 8 University Drive, University Support Building 1, Suite 150, University Park, PA 16802；校区以外归 Westmoreland County 地方警务。",
+      "transit": "进城与本地公交：WCTA Route 14J（New Kensington–Penn State–Pittsburgh Mills）经停 Penn State New Kensington 校区；Route 14F 为 New Kensington–Pittsburgh Flyer；另有 Route 12 Greensburg–New Kensington、Route 14/14S 镇内线路、Route 15 Avonmore–New Kensington；车上投币须备零钱。线路走向、班次、票价与进城换乘均以 https://www.westmorelandtransit.com/ 当期时刻表为准；14J 线路见 https://www.westmorelandtransit.com/wp-content/uploads/routes-schedules/route-14j-january-1-2014.pdf 。",
+      "rentnote": "本校不提供 University-owned 学生宿舍；Office of Student Affairs 对接第三方就近房源，邻校 Nittany Highlands Apartments 为只租给本校学生的私人公寓；住校外应自备可靠交通。校外租房合同在学生与房东之间签订，学校不作担保；租金按邮编 15068 查询当期挂牌价，本表不列固定月租。",
+      "link": {
+        "cal": [
+          "https://scranton.psu.edu/registrar/academic-calendar",
+          "Penn State 系统校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 学生健康保险"
+        ],
+        "plan": [
+          "https://roadmap.psu.edu/our-commonwealth-campuses/",
+          "校区调整公告"
+        ],
+        "planBul": [
+          "https://bulletins.psu.edu/undergraduate/campuses/",
+          "招生与关闭公告"
+        ]
+      }
+    },
+    "psumontalto": {
+      "short": "Penn State Mont Alto",
+      "place": "宾夕法尼亚州·Mont Alto（富兰克林县 Franklin County）",
+      "cityKey": "montalto",
+      "calShort": "Fall / Spring 常规学期制",
+      "calendar": "按全校 2026-27 校历安排 Mont Alto 常规学期。秋季 2026 节点：8 月 24 日周一开课，8 月 29 日 23:59（ET）Regular Drop 截止，8 月 30 日 23:59（ET）Regular Add 截止，9 月 7 日劳动节无课，11 月 22 日至 28 日感恩节假，12 月 11 日 17:00（ET）Withdrawal 截止并结课，12 月 12–13 日学习日，12 月 14–18 日期末考试。春季 2027 节点：1 月 11 日周一开课，1 月 16 日 Drop、1 月 17 日 Add，1 月 18 日 MLK 纪念日无课，3 月 7–13 日春假，4 月 30 日 17:00（ET）Withdrawal 截止并结课，5 月 1–2 日学习日，5 月 3–7 日期末考试；在读生课程安排以校区当期课表为准。",
+      "fulltime": "本科 F-1/J-1 每学期至少 12 学分、研究生至少 9 学分；远程/混合课程每学期上限 3 学分计入全日制；任何减修计划先报 ISSA 批 RCL，未批准不得降学分。",
+      "drop": "Regular Drop/Add 见校历，之后进入 Late Drop；学期 withdrawal 截止 2026-12-11 17:00（ET）秋季、2027-04-30 17:00（ET）春季；学业建议先问顾问，退费以 Bursar 表为准，身份学分调整须 ISSA 批准。",
+      "ins1": "Mont Alto 学生持全校 SHIP 学年保障，按学期入账、秋季延续春季；UnitedHealthcare Student Resources 负责承保与豁免审核；校区 Health Services 717-749-6160，系统保险办公室 228 Bank of America Career Services Center, 566 Eisenhower Rd, University Park, PA 16802，814-865-4847，uhs-insurance@psu.edu。",
+      "ins2": "Mont Alto 的 F-1/J-1 学生及家属同样须购买 SHIP 或豁免通过；LionPATH 办理截止 2026 秋 2026-09-01、2027 春新生 2027-01-19；未办理自动入保记账；住宿衔接问 Residence Life 717-749-6156。",
+      "ins3": "豁免保单须为 PPACA 美国计划：既往症无等待期，免赔额 500 美元以内，处方药、孕产、精神健康/物质滥用齐备，全球保障；自付上限网络内 3,000、网络外 15,000/30,000；医疗撤离 100,000、遣返 50,000 美元下限；仅秋季开放期接收 waiver。",
+      "clinic": "Mont Alto Health Services 电话 717-749-6160，提供校内常规健康服务；需要校外诊疗时转诊 Mont Alto Family Practice（717-749-3181）；保险与账单咨询拨 814-865-4847；危及生命急症拨 911，非急症就诊安排以校区健康页面当期公布为准。",
+      "commute": "校区地址 1 Campus Drive, Mont Alto, PA 17237，地处富兰克林县乡间，邻近宾州 Chambersburg 与马里兰州 Hagerstown 交界；Student Life Office 在每学期末、感恩节假与春假前安排往 Harrisburg 火车/巴士站、Harrisburg International（MDT）或 BWI 机场的接送，须提前 1 周预约，单程 15 美元；计划窗口之外自行安排。",
+      "scene": "Mont Alto 是 Penn State 在富兰克林县的小型乡间校区，靠近 Chambersburg 与 Hagerstown；2026 秋学费属 B 组：宾州居民大一大二 6,912 美元/学期（573 美元/学分），高年级 Bus/EMS/Sci/IST/Eng 7,789 美元（630 美元/学分），其他高年级 7,460 美元（619 美元/学分），研究生 Bus/Eng/Sci 12,681 美元（1,057 美元/学分），其他研究生 12,016 美元（1,001 美元/学分），GA/fellowship 11,030 美元；非居民低年级 12,012 美元（1,001 美元/学分），高年级 12,702 美元（1,059 美元/学分），研究生 Bus/Eng 16,677 美元（1,390 美元/学分），其他研究生 15,936 美元（1,328 美元/学分）。校区已不再招收大一新生与转学生，在校生资源支持延续至 2026-27 学年。该校区将于 2027 年春季学期结束后关闭（2025-05-22 校董会批准，2026-27 为最后运营学年）。",
+      "safety": "Penn State Mont Alto Police and Public Safety 为校区校警；紧急拨 911；非紧急电话 717-749-6070；系统 OSMRR 渠道 814-867-0099；Student Conduct 渠道 814-863-0342；校警占线或无人接听时拨 762-1145；校外一般警务归富兰克林县执法部门。",
+      "transit": "Mont Alto 本地无固定铁路通勤；往返 Chambersburg、Hagerstown 以本地公交与车行安排为准，班次以当期交通页面公布为准；学期末与节假日前的机场/车站接送由 Student Life Office 预约组织，长途进出经 Harrisburg 站、MDT 或 BWI 衔接。",
+      "rentnote": "校内有 Mont Alto Hall 与 Penn Gate II 两栋宿舍（详见住宿表），住校生须购买 Campus Meal Plan；不住校内者在 Mont Alto、Chambersburg 一带自行租房，本表不列固定月租，按邮编 17237 及 17201 查当期挂牌价。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 学生健康保险"
+        ],
+        "fee": [
+          "https://tuition.psu.edu/rates-effective-2026-fall-semester-beaver-dubois-fayette-greater-allegheny-mont-alto-new-kensington",
+          "B 组校区 2026 秋费率"
+        ],
+        "plan": [
+          "https://roadmap.psu.edu/our-commonwealth-campuses/",
+          "校区调整公告"
+        ],
+        "planBul": [
+          "https://bulletins.psu.edu/undergraduate/campuses/",
+          "招生与关闭公告"
+        ]
+      }
+    },
+    "psubeaver": {
+      "short": "Penn State Beaver",
+      "place": "宾夕法尼亚州·Monaca（比弗县 Beaver County）",
+      "cityKey": "monaca",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "2026 秋季：2026-08-24 开课，2026-08-29 23:59 regular drop 截止，2026-08-30 23:59 regular add 截止，2026-09-07 劳动节无课，2026-11-13 23:59 late drop 截止，2026-11-22 至 11-28 感恩节假，2026-12-11 课程结束并于 17:00 退课截止，2026-12-14 至 12-18 期末考试；2027 春季：2027-01-11 开课，2027-01-16 23:59 drop 截止，2027-01-17 23:59 add 截止，2027-01-18 MLK Day 无课，2027-03-07 至 03-13 春假，2027-04-09 late drop 截止，2027-04-30 课程结束，2027-05-07 至 05-09 期末考试，毕业典礼 2027-05-08；部分学期课程、补修安排以 LionPATH 与 Registrar 当期校历为准。",
+      "fulltime": "F-1/J-1 全日制：本科与法学生每学期不少于 12 学分，研究生不少于 9 学分；每学期最多 3 门混合远程/在线学分可计入最低全日制要求；减修（Reduced Course Load）须事先经 International Student Adviser 在 iStart 提交获批，未经批准不得低于全日制。",
+      "drop": "退课与退费：Regular drop 截止为 2026-08-29 23:59 与 2027-01-16 23:59，Regular add 截止为 2026-08-30 23:59 与 2027-01-17 23:59；late drop 与全学期 withdraw 截止见当期校历，开课后退课可能计学费罚扣；学生身份减修须先获 ISSA 批准，课程退费比例与截止日以 Registrar/Bursar 当期页面为准。",
+      "ins1": "Penn State 的学生健康保险为 Student Health Insurance Plan for Penn State（SHIP），由 UnitedHealthcare StudentResources 承保，面向符合资格的学生及合格家属，提供覆盖全美 50 州的医疗网络；国际 F/J 学生及其随行家属须投保 SHIP 或提交符合全部要求的替代保单。保险办公室：228 Bank of America Career Services Center, 566 Eisenhower Rd., University Park, PA 16802；电话 814-865-4847；邮箱 uhs-insurance@psu.edu。",
+      "ins2": "强制投保与自动参保：F-1/J-1 学生及家属必须购买 SHIP 或提交合格保单证明；未在截止日前于 LionPATH 完成豁免或投保操作的国际学生将被自动加入 SHIP，保费计入学生账户。2026 秋季开放投保 7 月 14 日至 9 月 1 日；2027 春季开放 2026-11-11 至 2027-01-19（春季豁免仅面向新生与转学生）；保单生效期 2026-08-13 至 2027-08-12；国际学生保费每学期在 LionPATH 账单中扣缴。",
+      "ins3": "豁免条件与替代保单标准：豁免在 LionPATH 的 Health Insurance 页面提交，由 UnitedHealthcare StudentResources 审核批准或驳回；替代保单须为在美国营业、PPACA 合规的承运商保单：自付额不超过 500 美元，全球保障，网络内自付上限 3,000 美元，网络外 15,000/30,000 美元，预防与避孕保障 100%，既往症无等待期，孕产、精神健康与物质滥用保障同其他疾病，医疗撤离与遣返分别不低于 10 万与 5 万美元；或为美国雇主提供的团体健康计划；境外保单、旅行险与纯应急保障不满足标准。",
+      "clinic": "Beaver 校区 Campus Health Center，Room 104 Ross Administration Building（RAB），电话 724-773-3955；护士处理非急诊小病小伤并对接校外转介，办公时间周一至周五 8:00–17:00，学生就诊护士咨询免费；心理咨询室在 Suite 115A Student Union Building，电话 724-773-3951 / 724-773-3961；系统 UHS Nurse Advice Line 814-863-4463，周一至周五 9:00–17:00；危及生命的紧急情况拨 911。",
+      "commute": "校区地址 100 University Drive, Monaca, PA 15061-2799，总机 1-724-773-3800，招生邮箱 br-admissions@psu.edu。本地公交由 Beaver County Transit Authority（BCTA）固定线路与 BCTA Connect 叫车服务覆盖校区一带；最近的 Amtrak 车站在 Pittsburgh（1100 Liberty Avenue, PA 15222），位于校区西南约 40 分钟车程，车站无直达校区巴士或接驳，建议租车或出租车；Greyhound 长途站为 Pittsburgh Intermodal Station, 55 Eleventh Street, PA 15222，机场亦设停靠站。",
+      "scene": "Beaver 是宾州西部靠近俄亥俄州界的小型联邦校区，本科生约 504 人，师生比 16:1，约 65% 为通勤生；校区提供 12 个四年制学位、14 个学生团体与 12 支 PSUAC/USCAA 校队；校园内有传统宿舍与社区厨房、游戏室等设施，周边为 Beaver County 河谷城镇与公路商业区，到 Pittsburgh 西郊车程不远。",
+      "safety": "校园安全由 Penn State University Police and Public Safety（UPPS，大学警察与公共安全部）统一负责；Beaver 校区 UPPS 值班线 724-773-3888，全天候全年无休，紧急情况拨 911。UPPS 按 Clery Act 发布年度安全与消防安全报告、及时预警与事件记录；Clery 合规邮寄地址：University Police and Public Safety - Clery Compliance, 8 University Drive, University Support Building 1, Suite 150, University Park, PA 16802；校外一般警务归 Beaver County 地方执法部门。",
+      "transit": "进城主路径：自驾沿 I-376 向东前往 Pittsburgh 市区；BCTA 固定线路含 Route 4 Center Township–Pittsburgh、Route 5 Ambridge–Pittsburgh 等方向，另有 Route 2 Rochester–Ambridge、Route 3 Rochester–Vanport/Monaca 经过 Monaca 一带；BCTA Connect 面向学生折扣叫车，工作日 6:00–20:00，行程须起终点均在 Beaver County 内；线路与班次以 https://bcta.com/services/ 当期时刻表为准；校区交通说明见 https://beaver.psu.edu/student-life/residents/living-campus/transportation 。",
+      "rentnote": "校内住宿为 Harmony Hall 传统宿舍，约 200 个大学方住房名额，先到先得，住校生须订餐计划；附近另有私人住房可选，住房合同咨询 HousingBR@psu.edu；校外租房自行与房东签约，租金按邮编 15061 查询当期挂牌价，本表不列固定月租数字。",
+      "link": {
+        "cal": [
+          "https://scranton.psu.edu/registrar/academic-calendar",
+          "Penn State 系统校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 学生健康保险"
+        ]
+      }
+    },
+    "millersville": {
+      "short": "Millersville University of Pennsylvania",
+      "place": "宾夕法尼亚州·Millersville（Lancaster County 米勒斯维尔）",
+      "cityKey": "millersville",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "2026 秋季：2026-08-24 开课，2026-08-31 23:59 线上 add/drop 截止，2026-09-01 起进入 W 期，2026-09-07 劳动节假，2026-10-09 课后至 2026-10-14 7:00 秋假，2026-10-30 23:59 W 退课截止，2026-11-24 课后至 2026-11-30 7:00 感恩节假，2026-12-08 至 12-12 考核期，2026-12-12 秋季毕业典礼；2027 春季：宿舍 2027-01-17 中午开放，2027-01-18 马丁·路德·金日假，2027-01-19 开课，2027-01-26 add/drop 截止，2027-03-08 7:00 至 03-15 7:00 春假，2027-04-02 23:59 W 退课截止，2027-05-03 常规上课末日，2027-05-04 至 05-08 考核期，2027-05-08 春季毕业典礼。",
+      "fulltime": "本科全日制区间为每学期 12–18 学分；低于 12 学分按非全日制处理；F-1/J-1 学生减修须先向 International Programs and Services（IPS）提交 Reduced Course Load 申请并获批准，研究生全日制学分要求按所属项目方案执行。",
+      "drop": "W 退课须在 W 期截止日前经 Registrar 渠道办理，未在截止前提交的退课按留校或退学规则处理；RCL 申请须在 add/drop 截止日前完成导师与 IPS 审批；课程退费比例与退课截止日以 Registrar 与学生账户办公室当期表为准。",
+      "ins1": "Millersville 不推荐统一投保的校方商业健康计划；国际学生须自行安排合格美国保单。校方在资源页列有 ISO（International Students Insurance）的 Compass PPO、ISO Secure、J Scholars、OPT 与 Post-AT 等计划作为参考，承保险企与条款以 ISO 门户当期页面为准；咨询 IPS，Lyle Hall 1 楼，717-871-7506，International.Services@millersville.edu。",
+      "ins2": "保单最低标准：医疗给付不低于 100,000 美元/事故或疾病，自付额不超过 500 美元，医疗撤离不低于 50,000 美元，遗返不低于 25,000 美元；运动员还须包含运动保障（参考 Tokio Marine HCC StudentSecure 类计划）。选择 ISO 以外供应商的学生须联系 IPS 办理豁免核验，未达标准视为身份材料不齐。",
+      "ins3": "国际生资金证明口径：2026-27 本科估算学费与杂费 17,620 美元、生活费 13,890 美元、健康保险 750 美元、书本与杂费 1,400 美元，合计 33,660 美元；硕士学费与杂费 18,094 美元，合计 34,134 美元；以上为签证资金证明口径，实际保费与账单以学校学生账户当期公布为准。",
+      "clinic": "Health Services，Lyle Hall 2 楼，40 Dilworth Road；周一至周五 8:00–16:00，电话 717-871-5250，邮箱 hservices@millersville.edu；就诊评估不收费，药品、处置、常规与室内化验收少量费用；中心不向医保公司出账单，可开具 superbill 收据供学生自行理赔；Health Evaluation Form 为入校必修材料；有无保险均可就诊。",
+      "commute": "校区地址 40 Dilworth Road, Millersville, PA 17551；邮件地址 PO Box 1002, Millersville, PA 17551-0302；总机 717-871-4625；校园距 Lancaster 市中心数分钟车程，到 Philadelphia 与 Baltimore 约 90 分钟，Washington DC 约 2.5 小时，New York 约 3 小时。",
+      "scene": "PASSHE（Pennsylvania State System of Higher Education）成员校，兰卡斯特县城郊大学城；约 2,000 名学生住校，校园分 East Village、South Village、West Village 与 Shenks Hall 等住宿区，餐饮含两处自助厅与八个零售点。",
+      "safety": "Millersville University Police Department（MUPD），Boyer Building, 37 W. Frederick Street, Millersville, PA 17551；紧急事件拨打 911，非紧急电话 717-871-4357（871-HELP），备用非紧急 717-897-0967，调度电话 717-664-1180；校警 24/7 值守，为州委任宣誓警官，与地方警方互助；通信地址 PO Box 1002。",
+      "transit": "本地公交由 RRTA（Red Rose Transit Authority）运营；凭学生证可免费乘坐 MU Xpress、MU Park City Xpress 与 Route 16；16 路与 MU Park City Xpress 基础票需刷卡并向司机索取换乘票；线路仅春秋学期运行，节假日通常停运；进城后在 Lancaster 站乘 Amtrak Keystone Service，SEPTA 区域铁路在 Thorndale/Paoli 方向衔接；班次以 RRTA 与 Amtrak 官网当期时刻表为准。",
+      "rentnote": "住校要求：住满 60 学分前须住校，校内房源分 East/South/West Village 与 Shenks Hall；未排到校内床位或选择校外的学生，租金按邮编 17551 查当期挂牌价，押金、水电与通勤线路逐项核对；校外房源经住宿办公室与学生事务渠道获取。",
+      "link": {
+        "cal": [
+          "https://www.millersville.edu/registrar/academic-calendar/calendars/2026fall.php",
+          "Millersville 2026 秋季校历"
+        ],
+        "ins": [
+          "https://www.millersville.edu/internationalprograms/international-students/resources/healthinsurance.php",
+          "Millersville 国际生健康保险指引"
+        ]
+      }
+    },
+    "psuharrisburg": {
+      "short": "Penn State Harrisburg",
+      "place": "宾夕法尼亚州·Middletown（Dauphin County 米德尔敦）",
+      "cityKey": "middletown",
+      "calShort": "学期制（Fall / Spring），Penn State 统一校历",
+      "calendar": "本校为住校型校区，开学前住校生按 Residence Life 通知办理报到与宿舍入住（Capital Village、Nittany Village），再进入统一学期节奏；2026 秋季 2026-08-24 开课，2026-08-29 23:59 常规退课截止，2026-08-30 常规加课截止，2026-09-07 劳动节假，2026-11-13 退课/注册/加课晚截止，2026-11-22 至 11-28 感恩节假，2026-12-11 17:00 全校退课截止、当日最后上课日，2026-12-12 至 12-13 复习日，2026-12-14 至 12-18 期末考试，2026-12-20 毕业典礼；2027 春季 2027-01-10 注册截止，2027-01-11 开课，2027-01-16 退课截止，2027-01-17 加课截止，2027-01-18 马丁·路德·金日假，2027-03-07 至 03-13 春假，2027-04-09 晚截止，2027-04-30 17:00 退课截止、当日最后上课日，2027-05-01 至 05-02 复习日，2027-05-03 至 05-07 期末考试，2027-05-07 至 05-09 毕业典礼；入住与 orientation 安排以校区 Residence Life 当期页面为准。",
+      "fulltime": "本校本科与研究生项目并行注册：本科全日制按 12 学分计，本校硕士项目学生按研究生 9 学分口径计；每学期仅 3 学分或一门在线课程可计入全日制，旁听课程不计入；F-1/J-1 减修先经本校 International Students Office 对接，再向 Penn State 国际学生与学者办公室（ISSA）提交 Reduced Course Load（RCL）申请并获批准。",
+      "drop": "RCL 表须在 add/drop 截止日前填好并经学术导师签字，由本校国际学生办公室对接 ISSA 审批；住校生退课还可能牵动宿舍合同与餐计划档位，须同步联系 Residence Life 调整住宿与订餐；未经 ISSA 批准不得低于全日制注册，课程退费比例与截止日以 University Registrar 与 Bursar 当期公布为准。",
+      "ins1": "全校 Student Health Insurance Plan（SHIP）由 UnitedHealthcare Student Resources 承保；Harrisburg 的 F-1/J-1 学位生及随行家属须投保 SHIP，或提交满足全部要求的替代保险证明。保险材料先对接本校 International Students Office（Olmsted Building E131，717-948-6647，hbg-internationalstudentsoffice@psu.edu；顾问 Cindy Domingo cbd5407@psu.edu、Takashi Iwasaki tzi101@psu.edu）；SHIP 按学期计入学生账户，秋季注册后春季自动续保。",
+      "ins2": "自动加入节点：2026-09-01 前未在 LionPATH 完成 waive 或 enroll 的国际学生将被自动纳入 SHIP，保费随账单收取；春季新生/转学生办理截止 2027-01-19；担任研究生助理、研究员或培训生者自动加入医疗、牙科与视力保障。本校学生的保险疑问先找 ISO 窗口协助，系统内 enroll/waive 操作在 LionPATH 完成。",
+      "ins3": "替代保单与豁免：可在秋季开放投保期内通过 LionPATH 保险页提交 waiver，由 UnitedHealthcare Student Resources 审核；替代保单须为美国合规 ACA  carrier、宾州保险部备案批准，预防与避孕保障 100%、既往症无等待期、自付额不超过 500 美元、含处方药等全部基本给付、生育与精神健康/substance use 同标准、无酒精药物自杀相关排除、全球保障，网络内自付上限 3,000 美元、网络外 15,000/30,000 美元，或为美国雇主团险；医疗撤离不低于 100,000 美元、遣返不低于 50,000 美元。豁免仅秋季办理，春季返校生不接受 waiver，春季新生/转学生可提交；家属 waiver 须联系 Student Health Insurance Office。",
+      "clinic": "Student Health Services，Capital Union Building 220 室；电话 717-948-6015，邮箱 hbghealth@psu.edu；学期内周一至周五 8:00–17:00，须在线或电话预约就诊；心理辅导与危机咨询另接 Campus Counseling and Psychological Services；危及生命的紧急情况拨打 911。",
+      "commute": "校区地址 777 West Harrisburg Pike, Middletown, PA 17057；总机 717-948-6000；校园在 Harrisburg 以东约 8 英里的近郊。附近 Amtrak Middletown 站（270 West Emaus Street，MID）过街即可乘 Keystone Service；本地有 CAT（Capital Area Transit）巴士连接 Harrisburg，校园出行细节以交通办公室当期页面为准。",
+      "scene": "Penn State 联邦校区（Commonwealth Campus），又称 The Capital College，同时招收本科生与研究生；近郊校园，学生社团 85 个以上，校队参加 NCAA Division III，校园健身中心位于 Capital Union Building。",
+      "safety": "Penn State University Police and Public Safety（UPPS）驻 Harrisburg 站点在 Susquehanna Building 北入口；校内紧急事件拨打 911，非紧急电话 717-948-6232；校警 24 小时值守，提供 Safe Walk 护送，校园紧急电话直通 Dauphin County 911 调度。",
+      "transit": "CAT 巴士运行 Middletown 与 Harrisburg 之间并设换乘站；Amtrak Middletown 站乘 Keystone Service 可往 Harrisburg、Philadelphia 30th Street 与 New York Moynihan Train Hall；国际学生办公室组织前往 Bombay Bazaar、Walmart、Asia Mall 的免费购物班车；CAT/Amtrak 班次与票价以各自官网当期时刻表为准。",
+      "rentnote": "校内住宿分 Capital Village 一年级套间与 Nittany Village 公寓两类，名额有限，住宿申请经 eLiving 系统提交并缴 100 美元押金，Waitlist 与校外房源清单由 Residence Life 提供；校外租金与押金按邮编 17057 查当期挂牌价，不靠铁路通勤的片区需把驾车距离、停车与巴士班次一并评估。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 健康保险要求与豁免"
+        ]
+      }
+    },
+    "psubrandywine": {
+      "short": "Penn State Brandywine",
+      "place": "宾夕法尼亚州·Media（特拉华县 Delaware County）",
+      "cityKey": "mediapa",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "2026 秋季常规学期：2026-08-24 周一开课，2026-08-29 23:59（ET）Regular Drop 截止，2026-08-30 23:59（ET）Regular Add 截止，2026-09-07 劳动节无课，2026-11-22 至 11-28 感恩节假，2026-12-11 17:00（ET）Withdrawal 截止并结课，12-12 至 12-13 学习日，12-14 至 12-18 期末考试；2027 春季：2027-01-11 周一开课，2027-01-16 Drop 截止，2027-01-17 Add 截止，2027-01-18 马丁·路德·金纪念日无课，2027-03-07 至 03-13 春假，2027-04-30 17:00（ET）Withdrawal 截止并结课，05-01 至 05-02 学习日，05-03 至 05-07 期末考试；7 周短学期与各校区特殊安排以 Registrar 当期校历为准。",
+      "fulltime": "本科与法学院 F-1/J-1 学生每学期全日制下限 12 学分，研究生 9 学分；混合远程/在线课程每学期至多 3 学分计入全日制；想减修或非全日制，必须先由 ISSA 批 RCL，否则不得低于全日制。",
+      "drop": "Drop/Add 节点按当期校历；Add 截止次日起 Late Drop 开放；Withdrawal 截止秋季 2026-12-11 17:00（ET）、春季 2027-04-30 17:00（ET）；退费看 Bursar 当期表，F-1/J-1 降到全日制以下前先过 ISSA。",
+      "ins1": "Brandywine 学生参加全校统一 SHIP 学年保单，保费按学期出现在 LionPATH 账户，秋季入保后春季自动延续；UnitedHealthcare Student Resources 承担承保与 waiver 审核；系统保险办公室 228 Bank of America Career Services Center, 566 Eisenhower Rd, University Park, PA 16802，814-865-4847，uhs-insurance@psu.edu；校区 Health Services 电话 610-892-1326。",
+      "ins2": "F-1/J-1 学位生与家属在 Brandywine 就读期间必须持 SHIP 或达标替代保单；办理入口在 LionPATH Health Insurance，Enroll/Waive 截止：2026 秋季 2026-09-01，2027 春季新生 2027-01-19；逾期系统自动入保并收费，校区学生事务 610-892-1270 可指引。",
+      "ins3": "外带保单需 PPACA 合规：既往症无等待期、免赔额不超过 500 美元，处方药、孕产、精神健康与成瘾齐全并全球有效；网络内自付上限 3,000 美元、网络外 15,000/30,000 美元，医疗撤离不少于 100,000 美元、遣返不少于 50,000 美元；waiver 仅秋季开放期受理，春季返校生不接受，家属豁免联系系统保险办公室。",
+      "clinic": "Student Health Services 位于 119 Commons/Athletic Center，周一至周五 8:00–16:00；预约电话 610-892-1326，邮箱 Fac5157@psu.edu；校护 Faith Cella, RN, BSN；护士咨询线 814-865-4847；危及生命的紧急情况拨打 911，随后联系校警 610-892-1496（校内分机 496）。",
+      "commute": "校区地址 25 Yearsley Mill Road, Media, PA 19063；SEPTA 110 路（local）与 111 路（express）在 Commons Building 前停靠，自 Upper Darby 69th Street Transportation Center 发车，工作日 7:00–18:00；110 路在 Media 接驳 101 有轨电车与 Media/Wawa 铁路（R3），并在 Granite Run Mall 接驳 117 路往 Chester 方向；校内停车免费，按学年发放停车许可。",
+      "scene": "Brandywine 校区坐落在 Media 东北侧约 112 英亩的林地校园，距费城西约 20 英里，本科在校生约 1,223 人，开设 14 个四年制学士学位，注册学生组织 45 个以上、校队 12 支，师生比 16:1；2026 秋季学费属 Brandywine 费率组：宾州居民低年级每学期 7,312 美元（每学分 605 美元）、高年级 7,893 美元（每学分 648 美元），非居民低年级 12,653 美元（每学分 1,054 美元）、高年级 13,231 美元（每学分 1,103 美元）；本科 12–19 学分按平权费率，研究生与 GA/Fellowship 费率以 tuition.psu.edu 当期表为准。",
+      "safety": "校警为 Penn State Office of Police and Public Safety，驻 Commons/Athletic Center Room 101, 25 Yearsley Mill Road, Media, PA 19063；紧急拨 911，非紧急 610-892-1496（校内分机 496）；提供 Safe Walk 步行护送（分机 496），校区设 4 部 Code Blue 应急电话与 Jump and Carry 单元；校外一般警务归特拉华县与 Media 辖区执法部门。",
+      "transit": "进城主路径：SEPTA 110/111 路至 69th Street Transportation Center，换乘 Market–Frankford Line 进 Center City Philadelphia；也可在 Media 站乘 Media/Wawa 线往市区方向；铁路与巴士班次、票价以 septa.org 当期时刻表为准。",
+      "rentnote": "校内住宿为 Orchard Hall（详见住宿表），住校生须购买 Campus Meal Plan；通勤生与校外租房经 Student Affairs 渠道咨询，租金随区位房型波动，本表不列固定月租数字，按邮编查当期挂牌价。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 学生健康保险"
+        ],
+        "fee": [
+          "https://tuition.psu.edu/rates-effective-2026-fall-semester-brandywine-hazleton-lehigh-valley-schuylkill-scranton-york",
+          "Brandywine 2026 秋学费费率"
+        ]
+      }
+    },
+    "psugreaterallegheny": {
+      "short": "Penn State Greater Allegheny",
+      "place": "宾夕法尼亚州·McKeesport（阿勒格尼县 Allegheny County）",
+      "cityKey": "mckeesport",
+      "calShort": "学期制（Fall / Spring）",
+      "calendar": "住校生先按 Residence Life 通知完成 McKeesport Hall 报到入住，随后进入系统统一学期。2026 秋季 2026-08-24 开课，开学首周末 regular drop 截止 08-29 23:59、add 截止 08-30 23:59，2026-09-07 劳动节停课，2026-11-13 23:59 late drop 截止，2026-11-22 至 11-28 感恩节假，2026-12-11 课程结束、17:00 withdraw 截止，2026-12-14 至 12-18 期末考试；2027 春季 2027-01-11 开课，drop 2027-01-16 23:59、add 2027-01-17 23:59，2027-01-18 MLK Day 停课，2027-03-07 至 03-13 春假，2027-04-09 late drop 截止，2027-04-30 课程结束，2027-05-07 至 05-09 期末考试；半学期课程安排以 LionPATH My Class Schedule 与 Registrar 当期校历为准。",
+      "fulltime": "F/J 学生须保持全日制注册：本科与法学每学期不少于 12 学分，研究生不少于 9 学分；混合远程/在线课程每学期最多计 3 门进入全日制下限；申请减修（RCL）必须事先取得 International Student Adviser 批准，自行降载会影响在美身份。",
+      "drop": "住校生退课除影响学分与退费外，还牵动 McKeesport Hall 住房合同与餐计划资格，调整前先向 Residence Life 确认合同后果。节点跟随系统校历：regular drop 2026-08-29、2027-01-16 的 23:59，regular add 2026-08-30、2027-01-17 的 23:59；late drop 2026-11-13、2027-04-09，withdraw 2026-12-11 17:00。退费按阶段比例计算；退课影响 I-20/DS-2019 前先经 International Student Adviser 确认，细则以 Registrar 与 Bursar 页面为准。",
+      "ins1": "学生健康保险沿用系统 SHIP（Student Health Insurance Plan for Penn State），承保方为 UnitedHealthcare StudentResources，医疗网络覆盖全美，合格学生与家属可参保；F-1/J-1 学生及家属须参加 SHIP 或持达标替代保单。GA 校区内先由 Health Services Center（105 Student Community Center，412-675-9490，jur396@psu.edu）做材料初判与健康咨询，保险合规与 waiver 再交系统 UHCSR 审核；系统保险办公室 228 Bank of America Career Services Center, 566 Eisenhower Rd., University Park, PA 16802，814-865-4847，uhs-insurance@psu.edu。",
+      "ins2": "投保与豁免入口在 LionPATH；材料可先交 Health Services Center（105 Student Community Center，412-675-9490）初判，再由系统流程提交。截止日前未完成 enroll 或 waiver 的国际学生自动加入 SHIP，保费计入账单。秋季办理 2026-07-14 至 2026-09-01；春季办理 2026-11-11 至 2027-01-19，春季豁免只面向新生与转学生；保单年度 2026-08-13 至 2027-08-12。",
+      "ins3": "waiver 由 UHCSR 审核；替代保单须为美国 PPACA 合规承运商计划：自付额不超过 500 美元，全球保障，网络内自付上限 3,000 美元，网络外 15,000/30,000 美元，预防与避孕 100% 覆盖，既往症无等待期，孕产与精神健康、物质滥用同等待遇，医疗撤离 10 万美元以上、遗体送返 5 万美元以上；美国雇主团体健康计划可替代，境外保单与旅行险不接受。",
+      "clinic": "Health Services Center 位于 105 Student Community Center, 4000 University Drive, McKeesport, PA 15132；电话 412-675-9490，传真 412-675-9489，邮箱 jur396@psu.edu，办公时间周一至周五 8:00–17:00；处理多数常见病与轻伤、健康教育并对接心理咨询。心理咨询在 110 Student Community Center，Kevin L. Debow，电话 412-675-9475，邮箱 kld31@psu.edu，一般事务邮箱 ga-studentaffairs@psu.edu（非保密）。校外急诊：UPMC McKeesport Hospital ED, 1500 Fifth Avenue, McKeesport, PA，412-664-2121；急症拨 911。",
+      "commute": "校区地址 4000 University Drive, McKeesport, PA 15132；总机 412-675-9000，校区咨询 1-412-675-9010，邮箱 psuga@psu.edu，招生处 Frable Building Suite 101；校区在 Pittsburgh 东南约 15 英里，靠近 Laurel Highlands。自驾自 Pittsburgh 走 Route 51 South，经 Lebanon Church Rd、Dravosburg Hill、Mansfield Bridge 进入 McKeesport 市区；自南走 Route 51 North 接 Route 48 North，经 Boston Bridge、Versailles 上 Route 148/Walnut St 与 Eden Park Blvd。",
+      "scene": "Greater Allegheny 是阿勒格尼县东南郊的城市型联邦校区，提供 11 个学士学位与 3 个副学士项目；校内住房约 200 个名额，周边也有私人住房；校区 13 个学生团体，含 Asian Cultural Exchange Club、荣誉社团、获奖校报 GA-ZETTE 与校际体育项目。社会方向的 BSW 受认证，Biomedical Engineering Technology 副学士为本校区独有设置之一。",
+      "safety": "校区由 Penn State University Police and Public Safety（UPPS）值守；非紧急联络 Sergeant James Lane，412-675-9130；紧急拨 911；警站点 Station 108 Frable Building，Sgt. 办公室 109 Frable Building。UPPS 按 Clery Act 发布年度安全与消防安全报告、及时预警与事件记录；Clery 邮寄地址：University Police and Public Safety - Clery Compliance, 8 University Drive, University Support Building 1, Suite 150, University Park, PA 16802；校区以外归 Allegheny County 地方警务。",
+      "transit": "本地公交为 Pittsburgh Regional Transit（PAT，rideprt.org）Route 56（McKeesport–Penn State/Lincoln Place），站点 Walnut St + Penn State Main Building；往 downtown Pittsburgh 方向经 Second Ave/S 10th St Bridge，车程约 44 分钟，约每小时一班。至 PIT 机场无直达公交，须 downtown 换乘；自驾到 PIT 约 45–60 分钟。站点、时刻与班次以 https://www.rideprt.org 当期时刻表为准。",
+      "rentnote": "校内宿舍为 McKeesport Hall，名额约 200；住房合同须交 100 美元押金，住校生餐计划含在 Housing and Food Service Contract 内；校外学生可经 eLiving 购买餐计划。周边私人住房自行与房东签约，租金按邮编 15132 查询当期挂牌价，本表不列固定月租。",
+      "link": {
+        "cal": [
+          "https://scranton.psu.edu/registrar/academic-calendar",
+          "Penn State 系统校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 学生健康保险"
+        ]
+      }
+    },
+    "psugreatvalley": {
+      "short": "Penn State Great Valley",
+      "place": "宾夕法尼亚州·Malvern（切斯特县 Chester County）",
+      "cityKey": "malvern",
+      "calShort": "7 周混合制 + Fall / Spring 学期",
+      "calendar": "Great Valley 晚间与 7 周混合课程为主，常规学期参照全校 2026-27 校历执行。秋季 2026：8/24（周一）开课，8/29 23:59（ET）退 Drop、8/30 23:59（ET）Add，9/7 劳动节假，11/22–11/28 感恩节假，12/11 17:00（ET）Withdrawal 截止并结课，12/12–12/13 学习日，12/14–12/18 期末。春季 2027：1/11 周一开课，1/16 Drop、1/17 Add，1/18 MLK 假，3/7–3/13 春假，4/30 17:00（ET）Withdrawal 截止并结课，5/1–5/2 学习日，5/3–5/7 期末；7 周班表以校区当期课程表为准。",
+      "fulltime": "Great Valley 均为研究生项目，F-1/J-1 每学期至少 9 学分方为全日制；混合远程/在线学分每学期最多 3 学分可计入；RCL 或非全日制安排须事前取得 ISSA 批准。",
+      "drop": "研究生 Late Drop 在 Add 截止次日起受理；Withdrawal 截止秋 2026-12-11 17:00（ET）、春 2027-04-30 17:00（ET）；退课先与导师/项目沟通，退费按 Bursar 表，降全日制前须 ISSA 同意。",
+      "ins1": "研究生保险由全校 SHIP 学年计划覆盖，按学期扣费、秋季续保至春季；审核方 UnitedHealthcare Student Resources；校区未设诊所，保险问题转 University Health Services，系统办公室 228 Bank of America Career Services Center, 566 Eisenhower Rd, University Park, PA 16802，814-865-4847，uhs-insurance@psu.edu；ISO 联络 jek2@psu.edu、alk137@psu.edu。",
+      "ins2": "校区 F-1/J-1 研究生及随行家属整段学习期内须入保 SHIP 或提交合规证明；LionPATH 页面截止节点：秋季 2026-09-01、春季 2027 新生 2027-01-19；未按期操作自动纳入 SHIP 扣费；行前签证 international@psu.edu。",
+      "ins3": "认可替代计划门槛：美国合规承运、PPACA 达标，既往症无等待期，免赔额 500 美元内，处方药、孕产、精神健康与物质滥用覆盖，全球有效；自付封顶网络内 3,000、网络外 15,000/30,000；撤离 100,000、遣返 50,000 美元；豁免只在秋季开放期提交，春季返校生不可。",
+      "clinic": "Great Valley 校区页面未列常设校内学生诊所；日常保险咨询拨打 814-865-4847 转 6（保险办公室）；危及生命的急症拨打 911，非急症按当地家庭医生与诊所安排就诊，就近医疗资源以切斯特县当期医疗目录为准。",
+      "commute": "校区地址 30 E. Swedesford Rd., Malvern, PA 19355；学生多沿 SEPTA Paoli/Thorndale 线在 Main Line 一带居住；校区班车接 Arlo Apartments 与 Paoli 火车站，服务 Airdrie at Paoli Station 与 Paoli Place 住宿点；校区非 24/7 驻点的接驳安排以当期页面为准。",
+      "scene": "Great Valley 是 Penn State 设在 Malvern 的研究生与成人教育校区，开设硕士学位、研究生证书与职业发展项目，方向覆盖商业、教育、工程、信息技术与人工智能，课程以晚间和混合式 7 周制为主；在册学生以研究生为主、无本科在读生；校区距费城西约 20 英里。2026 秋至 2027 春学费按学分计：宾州居民 1,207 美元/学分，州外及签证生 2,032 美元/学分；学生启动费每学期按学分档计：9 学分及以上 80 美元，5 至不足 9 学分 60 美元，不足 5 学分 40 美元。",
+      "safety": "校警为 UPPS Great Valley，非紧急电话 610-648-3203；紧急拨 911；UPPS 驻 Main Building 公共入口大厅，非 24/7 在岗；UPPS 不在岗时段由 East Whiteland Township Police 响应，经 Chester County 911 Center 调度；校外一般警务归切斯特县与东 Whiteland 镇区执法部门。",
+      "transit": "进城主路径：SEPTA Paoli/Thorndale 区域铁路线到 Malvern 站或 Paoli 站，再接校区班车；铁路沿 Main Line 方向通往 Center City Philadelphia；班次、票价与接驳时刻以 septa.org 当期时刻表为准。",
+      "rentnote": "校区不提供校内宿舍，学生在 Malvern、Paoli 及 Main Line 一带校外合租；校方列出的参考住宿仅为信息罗列、不构成背书；本表不列固定月租数字，按邮编 19355 及周边查当期挂牌价，押金、杂费与通勤距离一并评估。",
+      "link": {
+        "cal": [
+          "https://registrar.psu.edu/academic-calendars/2026-27.cfm",
+          "Penn State 2026-27 校历"
+        ],
+        "ins": [
+          "https://studentaffairs.psu.edu/health-wellbeing/health-insurance",
+          "Penn State 学生健康保险"
+        ],
+        "fee": [
+          "https://greatvalley.psu.edu/tuition/tuition-and-fees",
+          "Great Valley 学费与费用"
+        ],
+        "academics": [
+          "https://greatvalley.psu.edu/academics",
+          "Great Valley 学位项目"
+        ]
+      }
+    }
+  },
+  "EXTRA": {}
+}

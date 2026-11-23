@@ -1,0 +1,1614 @@
+{
+  "SCHOOL": {
+    "ucd": {
+      "short": "UC Davis",
+      "place": "加州·Davis",
+      "cityKey": "davis",
+      "calShort": "学季制（quarter），2026 秋 9 月 23 日开课",
+      "calendar": "学季制（quarter）：Fall、Winter、Spring 三个学季加 Summer Session。2026 秋：9 月 21 日学季开始，9 月 23 日开课，12 月 4 日结课，期末 12 月 7–11 日，12 月 11 日学季结束；2027 冬：1 月 4 日开课，3 月 12 日结课，期末 3 月 15–19 日，3 月 19 日学季结束；2027 春：3 月 25 日学季开始，3 月 29 日开课，6 月 3 日结课，期末 6 月 4 日与 7–10 日，6 月 10 日学季结束。主要停课：11 月 11 日退伍军人节，11 月 26–27 日感恩节，2027 年 3 月 26 日 César Chávez 日，5 月 31 日阵亡将士纪念日。",
+      "fulltime": "F-1 每学季须注册并完成 full course of study，全职线 12 学分/季；前 12 学分中网课至多一门或三门计入：CRN 带 V 为 100% 网课，带 Y 为混合班按线下计。减载须在学季开始前取得 SISS 书面批准（首次学业困难、医疗、最后一学期等有限情形）；Filing Fee 0 学分状态自 2026 秋起不满足全职要求；暑期完成学位者至少注册一门且不能是纯网课。",
+      "drop": "2026 秋：第 10 个上课日 10 月 6 日 23:59 前可退指定 10-day 课程并加课，第 20 个上课日 10 月 20 日 23:59 前退指定 20-day 课程；2027 冬对应 1 月 15 日、2 月 1 日；2027 春对应 4 月 9 日、4 月 23 日。结课后退课须取得 Permission to Drop（PTD）。退款按 Schedule of Refunds：第 0–1 天退 100%（扣 10 美元），第 2–7 天退 90%，第 8–18 天退 50%，第 19–35 天退 25%，第 36 天起不退。",
+      "ins1": "UC SHIP（University of California Student Health Insurance Plan）：所有注册学生在每学年开始时自动加入。2026-27 本科（学季制）每学期 1,308 美元、全年 3,924 美元；研究生（学季制）每学期 2,940 美元、全年 8,820 美元；法律/兽医（学期制）每学期 4,410 美元、全年 8,820 美元。医疗网络为 Anthem Blue Cross（Prudent Buyer 网络）；2026-27 急诊自付 250 美元/次，初级/专科门诊 25 美元/次，紧急护理 45 美元/次。",
+      "ins2": "豁免：已有可比保险须在 waiver 门户（Academic Health Plan）每学年重新提交。2026-27 常规截止：仅 Fall/Winter/Spring 学生 2026 年 9 月 1 日；仅 Winter/Spring 学生 2026 年 12 月 1 日；仅 Spring 学生 2027 年 3 月 1 日。逾期窗口：Fall 2026 年 10 月 1 日、Winter 2027 年 1 月 1 日、Spring 2027 年 4 月 1 日，逾期申请加收 75 美元手续费。HMO（含 Medi-Cal）投保人须在戴维斯住处 50 英里内有初级保健医生方可豁免。",
+      "ins3": "理赔与找医生走 Anthem Blue Cross 网络内设施及会员门户；计划、理赔与 waiver 问题联系 Student Health and Counseling Services 保险办公室；即使豁免 UC SHIP，SHCS 校内服务仍对全体学生开放。",
+      "clinic": "Student Health and Counseling Services（SHCS）Student Health & Wellness Center，930 Blue Ridge Rd, Davis, CA 95616，电话 530-752-2300；秋/春时段周一、二、四、五 8:00–17:30，周三 9:00–17:00，周末闭馆；下班后 Advice Nurse 530-752-2349。",
+      "commute": "戴维斯是自行车城，校内与市区靠自行车和步行；往萨克拉门托坐 Capitol Corridor 火车约二十分钟；去湾区靠火车加公交。",
+      "scene": "社交主场在 downtown Davis 与校园宿舍区；社团通过 AggieLife 目录检索，750 余个注册组织；周末半径可延伸到 Sacramento 与湾区。",
+      "safety": "UC Davis Police 24 小时值守；夜间可叫 Safe Ride 接驳；戴维斯整体治安平稳，深夜偏僻路段仍结伴出行。",
+      "transit": "Unitrans 市内公交：本科持 AggieCard 免费，凭有效本科 ID 也可免费乘 Yolobus；研究生与教职工须买票或付现金票。Amtrak Capitol Corridor 设 Davis 站，往 Sacramento、Oakland、San Jose、Auburn 方向。",
+      "rentnote": "戴维斯一居室与合租价差随邮编波动，8 月开学季房源紧；本页不给固定数字，按挂牌价查，押金与杂费另核。",
+      "link": {
+        "cal": [
+          "https://registrar.ucdavis.edu/calendar/quarter",
+          "UCD 校历（Quarter Dates & Deadlines）"
+        ],
+        "ins": [
+          "https://shcs.ucdavis.edu/insurance",
+          "UC SHIP 计划与费率"
+        ],
+        "clinic": [
+          "https://shcs.ucdavis.edu/locations-hours",
+          "SHCS 健康中心地址与时段"
+        ]
+      }
+    },
+    "worcester": {
+      "short": "Worcester State",
+      "place": "马萨诸塞·Worcester",
+      "cityKey": "worcester",
+      "calShort": "学期制州立本科，2026 秋 9 月 2 日开课",
+      "calendar": "学期制本科（含日校、晚班与研究生课程同日历节点）。2026 秋：9/1 Academic Convocation；9/2 开课（day、evening、graduate）；9/7 劳动节无课；9/8 加课截止；9/15 退课截止；10/12 Indigenous Peoples’ Day 无课；11/2 退课/退校截止；11/11 退伍军人节无课；11/25–28 感恩节假；12/7 全部课程结束；12/8 Reading Day；12/10–18 期末考试；12/22 学期结束。Winter Session 2027：12/28 开课，1/4 加退课截止，1/8 退课截止，1/17 课程结束。2027 春：1/18 MLK 日无课；1/19 开课；1/25 加课截止；2/1 退课截止；2/15 Presidents’ Day 无课；3/15–20 春假无课；3/30 退课/退校截止；4/19 Patriot’s Day 无课；5/3 全部课程结束；5/4 Reading Day；5/6–14 期末考试；5/13 研究生毕业典礼；5/14 学期结束；5/15 本科毕业典礼。",
+      "fulltime": "本科每学期 12 学分及以上为全日制，12–19 学分为全日制表，超 19 学分需特许；6–11 学分为半时间；研究生全日制线按各项目研究生手册口径执行。保险强制注册线：本科 9 学分/学期及以上、研究生 4.5 学分/学期及以上。F-1 学生春秋两季必须全日制注册；网课计入全日制的比例限制按 International Programs Office/DSO 当期规定执行。",
+      "drop": "2026 秋：9/8 加课截止、9/15 退课截止（add/drop 期内）、11/2 退 W/退校截止；2027 春：1/25 加课截止、2/1 退课截止、3/30 退 W/退校截止。退费：开学前或官方 add/drop 期内退，学费与杂费全额退；add/drop 期后不退费（校方取消注册除外）。W 成绩永久记入成绩单；全部课程退读须向 Academic Success Center 提交正式退校意向；减学分可能影响资助、保险与学籍身份。",
+      "ins1": "Worcester State University Student Health Insurance Plan（SHIP）：承保 Blue Cross Blue Shield of Massachusetts，管理经纪 University Health Plans（UHP）。2026-27 计划类型由 PPO 改为 EPO（仅用网络内 provider，急诊除外，专科无需转诊）；免赔 $2,000（25-26 口径，预防保健、门诊、急诊、急救车、化验、X光 与处方药不适用免赔），CT/PET/MRI 影像 $250 定额 copay。强制对象为注册达到至少四分之三全日制负荷的学生；IPO 口径本科 9+ 学分、研究生 4.5+ 学分。保费原文：Annual $4,962.44（保障 8/1/2026–7/31/2027）；New Spring $2,896.84（1/1/2027–7/31/2027）。",
+      "ins2": "未在线豁免即按 SHIP 入账；豁免窗口：Annual 学生 2026/9/30 前在 UHP 网站完成 waive，New Spring 学生 2027/2/28 前。豁免条件：父母、配偶、雇主或个人计划等可比保障；获批后 $4,962.44 waiver credit 计入学生账户。资格事件（失去其他保障）60 天内交 Qualifying Event Enrollment Form、失保证明与付款到 Student Accounts（Bursar）办公室，按比例保费 enroll。",
+      "ins3": "入口：UHP 网站 Waiver Form / Enrollment Form；福利、豁免、资格问题联系 UHP 833-251-1113；具体理赔联系 BCBSMA 888-753-6615；非紧急支持走 24/7 Nurseline 888-247-2583；Bursar 508-929-8051。另有自愿牙科、VSP 视力、租房保险、学费保险可选。",
+      "clinic": "Health Services，Sheehan Hall（独立入口：主楼正门右侧沿人行道往下校园方向）；学年内周一至周五 8:00–16:00；电话 508-929-8875，传真 508-929-8075，邮箱 health_services@worcester.edu；化验外送 Quest Diagnostics；闭馆期间急诊联系 WSU Police 508-929-8911。",
+      "commute": "主校园在 Chandler Street 南段，教学建筑沿 Chandler St 与 May St 展开；WRTA 线路停靠校门前；Sagamore Studios（25 Sagamore Road）距主校园约 7 分钟车程，有免费 shuttle 往返。",
+      "scene": "Student Center 是社交、自习、会议与用餐主场；校园有 40+ 学生组织，含学生活动委员会、Intercultural Student Alliance、Student Government/Student Senate、Dance Company、Active Minds、LGBTQ+ Alliance 等；校队为 Lancers；校内住校全日制学生约 1,600 人。",
+      "safety": "Worcester State University Police Department：紧急 508-929-8911，校内分机 8911；办公室 102 Wasylean Hall；24 小时巡逻，提供往返校园车辆与 shuttle 停车场的步行护送；Rave Guardian App 可直连校警并发图文线索。非工作时间心理危机拨 508-929-8911 找 on-call crisis clinician；急诊拨 911。",
+      "transit": "WRTA 校门前四线：6、10 路停 Chandler Street 于 Tiffany Gates（Chandler 与 Claridge Drive 路口对面）；3、9 路停 May Street（May Street School 旁、南停车场出口）；10 路供联盟高校（Assumption、Holy Cross）通勤。Union Station 接 MBTA Framingham/Worcester Line 通勤铁路与 Peter Pan、Greyhound 城际巴士。",
+      "rentnote": "校属宿舍四栋：Sheehan Hall、Wasylean Hall、Dowden Hall、Chandler Village；住校生必须购买餐计划。校外租房校方与 IPO 不担保任何房东或中介，本地渠道为商业公告板与租房网站；房租按月变动，不设固定数字，按邮编查挂牌价，押金与杂费自行核验。",
+      "link": {
+        "cal": [
+          "https://catalog.worcester.edu/undergraduate/academic-calendar/",
+          "WSU 2026-2027 学术日历"
+        ],
+        "ins": [
+          "https://www.universityhealthplans.com/letters/letter.cgi?group_id=36",
+          "UHP WSU SHIP 计划页"
+        ],
+        "clinic": [
+          "https://catalog.worcester.edu/undergraduate/services-students/health-services/",
+          "Health Services 目录页"
+        ]
+      }
+    },
+    "umassmed": {
+      "short": "UMass Chan 医学院",
+      "place": "马萨诸塞·Worcester",
+      "cityKey": "worcester",
+      "calShort": "MD / MSTP / GMS 分项目学年制，2026 秋 MD 8 月 10 日开课",
+      "calendar": "医学院与研究生院分项目执行各自学年结构，不套本科通识校历。MD（T.H. Chan School of Medicine）Discovery Phase 一年级（Class of 2030）：2026 秋 8/10/2026–12/22/2026，8/17–8/21 入学导向，9/11 White Coat Ceremony；停课日 9/7 劳动节、10/12 Indigenous Peoples’ Day、11/11 退伍军人节、11/26–27 感恩节；12/23/2026–1/3/2027 假期；2027 春 1/4/2027–6/30/2027，停课日 1/18 MLK 日、2/15 Presidents Day、4/19 Patriot’s Day、4/19–23 春假、5/31 阵亡将士纪念日、6/18 Juneteenth 观测日；二至四年级按模块与临床轮转排期，Horizon 四年级 2027 春 1/4–6/4/2027，毕业典礼 6/6/2027。MD/PhD（MSTP）：MD 与 PhD 两段贯通，PhD 阶段执行研究生院日历，MD/PhD Early Fall Session（ERL）7/1/2026–8/14/2026；PhD 答辩与论文提交后回 MD 三、四年级临床，项目通常 7–8 年完成。GMS（Morningside Graduate School of Biomedical Sciences）：2026 秋 Regular Academic Session 8/31/2026–12/23/2026，一年级 GS1 8/20/2026 起；加退课 9/15/2026，退课 11/25/2026；寒假 12/28/2026–1/8/2027；2027 春 Regular Session 1/11/2027–5/14/2027，加退课 1/26/2027，退课 4/14/2027，春假 3/15–3/19/2027；暑期 Session 5/17/2027–8/27/2027。",
+      "fulltime": "MD 项目按学年注册，修满项目当年规定课程与轮转即按全日制学籍管理；GMS 研究生与护理研究生项目按学分注册、按学分计学费；F-1 学籍的全职口径、网课计入与临床实习安排按各项目学生手册及校方 International Services/DSO 当期规定执行。",
+      "drop": "按学分收费的研究生课程：开课 30 天内退课全额退费；GMS 2026 秋加退课截止 9/15/2026、退 W 截止 11/25/2026，2027 春加退课 1/26/2027、退 W 4/14/2027。停止注册（leave of absence / withdrawal）须书面通知所在学院院长与 Registrar；学期开始后退出按已过日历天数比例退费，学期进行超过 60% 不退费。MD 项目的请假、休学与退学审批按 T.H. Chan 医学院学生手册口径执行。",
+      "ins1": "Student Health Insurance Plan（SHIP）：承保方 Blue Cross Blue Shield of Massachusetts，管理经纪 University Health Plans（UHP）。2026-27 学年提供高免赔（$2,000）与低免赔（$500）两档可选。强制对象为所有注册学位或证书项目、须持有综合性连续保险的学生；Morningside GSBS 学生的 SHIP 保费由学校支付。2026-27 预算口径（COA 估算项，原文金额、不换算）：MD 一年级 Health Insurance fee $7,087；MD 二至四年级与护理 DNP/PhD 列 $6,542。",
+      "ins2": "年费计入秋季账单，但在 UHP 网站完成 enroll 之前不实际生效；每年 6 月底至 7 月初校方邮件通知，open enrollment 持续到当年 8 月底，每名学生每个保单年度必须在 UHP 网站在线完成 enroll 或 waive，豁免获批后保费从学生账户取消。保障期三档：12 个月 9/1–8/31（老生与 9 月入学一年级）、13 个月 8/1–8/31（8 月入学一年级）、14 个月 7/1–8/31（7 月入学一年级）。豁免条件：自有保障与 SHIP 同等可比；休学返学或因资格事件（如年满 26 岁退出父母保险）失去其他保障，须在 60 天内联系 Bursar 办理按比例保费 enroll。",
+      "ins3": "理赔与入口：在 BCBSMA MyBlue 账号查理赔、保险卡与网络内 provider；福利、豁免、资格与计划问题联系 UHP 833-251-1122；具体理赔联系 Blue Cross Blue Shield of Massachusetts 888-753-6615；非紧急支持走 BCBSMA 24/7 Nurse Line 888-247-2583。另有自愿牙科、VSP 视力、租房保险与学费保险可选；Bursar 办公室 508-856-6641 / 508-856-5249。",
+      "clinic": "Student Health Services，Benedict Building 一楼，55 Lake Ave North, Worcester MA 01655；电话 (508) 334-8464，邮箱 studenthealth@umassmemorial.org；门诊周一至周五 7:30–16:00；化验室 Benedict 一楼周一至周五 7:00–18:00、周六 8:00–13:00；健康与免疫记录存于 Medicat 门户。",
+      "commute": "主校园 55 Lake Avenue North，教学楼、Albert Sherman Center、Lamar Soutter Library 与 UMass Memorial University Hospital 连片；Memorial 校园在 downtown Worcester，两校园间有校方 shuttle；临床学生按轮转医院点走动。",
+      "scene": "Student Government Alliance（SGA）为总学生治理机构；学生组织目录列于 Student Life 网站，含专科兴趣组、社区义诊与免费诊所、AOA/GHHS 荣誉学会，以及排球、跑步、骑行、合唱、舞蹈等文体社团；校内设学生休息室与公告板。",
+      "safety": "UMass Chan Medical School Police Department（DPS/Public Safety）：校内电话拨 911；校外手机或外线拨 508-856-3296；非紧急、开锁与步行护送：University Campus 508-856-3296，Memorial Campus 508-334-8568，24/7 巡逻。Student Counseling Services 508-856-3220；心理危机 Emergency Mental Health 508-856-3562；外部危机拨 988 或 911。",
+      "transit": "WRTA 24/24A 路连接校园与 Union Station（WRTA 车票在 2027 年 6 月前免费，以 WRTA 当期公告为准）；Union Station 接 MBTA Framingham/Worcester Line 通勤铁路往 Boston；校区停车场校车早 5:00 起班次、夜间经 Security 接驳；Memorial 校园 shuttle 工作日 5:30–21:00，21:00 后经 Security 安排。",
+      "rentnote": "校方不设 onsite 学生宿舍；学生自行在 Worcester 社区租房，渠道为学生休息室门外 housing board 与校方 housing 页所列链接，校方不对房源真实性作担保；超过 60 英里的 required clinical rotations 远站点由校方安排住宿，任何 elective 不提供住宿。周边房租按月变动，不设固定数字，按邮编查挂牌价，押金与杂费自行核验。",
+      "link": {
+        "cal": [
+          "https://www.umassmed.edu/globalassets/morningside-graduate-school-of-biomedical-sciences/documents/gsbs-2026-2027-academic-calendar.pdf",
+          "GMS 2026-2027 学年日历"
+        ],
+        "ins": [
+          "https://www.umassmed.edu/financialservices/departments/bursar/bursar-student/insurance-matters-faq",
+          "Bursar 学生健康保险事项"
+        ],
+        "clinic": [
+          "https://www.umassmed.edu/studenthealth/",
+          "Student Health Services"
+        ]
+      }
+    },
+    "salemstate": {
+      "short": "Salem State",
+      "place": "马萨诸塞·Salem",
+      "cityKey": "salem",
+      "calShort": "学期制，2026 秋 9 月 2 日开课，2027 春 1 月 19 日开课",
+      "calendar": "学期制（日校口径）：2026 秋 9 月 1 日开学/Convocation，9 月 2 日首个完整教学日，9 月 7 日 Labor Day 停课，9 月 9 日全学期 add/drop 截止，10 月 12 日 Indigenous Peoples' Day 停课，11 月 11 日 Veterans Day 停课，11 月 23 日全学期课程退课截止，11 月 26–28 日 Thanksgiving 假，11 月 30 日复课，12 月 11 日日校结课，12 月 15 日开考，12 月 22 日期末结束。2027 春 1 月 18 日 MLK Day 停课，1 月 19 日首个完整教学日，1 月 25 日全学期 add/drop 截止，2 月 15 日 Presidents Day 停课，3 月 13–19 日春假，4 月 16 日全学期与 4 季度课程退课截止，4 月 19 日 Patriots' Day 停课，5 月 4 日日校结课，5 月 6 日开考，5 月 13 日期末结束，5 月 20–22 日毕业典礼。",
+      "fulltime": "本科全日制不得低于 12 学分（少于 12 学分记为 part-time）；F-1 学生为全日制本科/研究生学位注册生（CIE 口径），身份与课程调整先经 CIE 指导；网课与混合课按所在 session 的 add/drop 规则注册。",
+      "drop": "2026 秋：9 月 9 日 add/drop 截止，期内退课学费杂费 100% 退还调整；add/drop 后退课记 W 且不退学费杂费；11 月 23 日全学期退课截止。2027 春：1 月 25 日 add/drop 截止，4 月 16 日全学期与 4 季度退课截止。全校退学退款分档：add/drop 截止前 100%，其后 1–7 个自然日 80%，8–14 个自然日 60%，15 个自然日后 0%；住宿按使用比例折算，第三周后住宿费不退。",
+      "ins1": "Salem State University Student Health Plan 由 Blue Cross Blue Shield 承保、University Health Plans 管理；2026–2027 年度保费 $4,962.44，保单期 2026-08-01 至 2027-07-31；春季单独入保 $2,896.84，保单期 2027-01-01 至 2027-07-31。",
+      "ins2": "资格口径：注册达到全日制课程量 75% 及以上的新生与返校生须在线选择入保或豁免；研究生 9 学分及以上须提供合格健康保险证明。豁免/入保截止：2026 秋 9 月 25 日（周五）、2027 春 1 月 29 日（周五）；未在截止前完成操作，保费留在账单上。",
+      "ins3": "豁免须持符合马萨诸塞州 SHIP 法规可比福利的保单；计划福利、既往症、精神健康、孕产、处方、遣返与医疗运送等条目以 University Health Plans 的 SSU 保单页为准；MassHealth 成员可参考保费援助说明。就诊时校内 Health Services 会向保险记账，理赔与保单问题走 UHP 保单页入口。",
+      "clinic": "Counseling and Health Services：Ellison Campus Center Room 107（North Campus）；医疗 978.542.6410，咨询 978.542.6413；周一至周五 8:30–17:00，大学假日与周末闭馆；24/7 心理支持热线 978.542.8327。",
+      "commute": "校园四个片区在一英里半径内：North Campus 352 Lafayette St、Central Campus 71 Loring Ave、South Campus 11 Harrison Rd、O'Keefe Athletic Complex 225 Canal St；招生 Visitor 入口 331 Lafayette St。",
+      "scene": "马萨诸塞州九所州立大学中规模最大的一所，1854 年建校；位于 North Shore 海滨 Salem，校园距老城中心约一英里；教育、护理、商科、海事与人文方向为主。",
+      "safety": "University Police：紧急 978.542.6111（校内 Teams 拨 6111）；非紧急 978.542.6511；校外紧急拨 911。心理危机先接 University Police 978.542.6111，下班后走 24/7 MH 热线 978.542.8327。",
+      "transit": "MBTA Newburyport/Rockport Line 到 Salem Station；MBTA 公交连接 Boston、Lynn、Beverly 与 downtown Salem，班次与票价查 mbta.com（MBTA 信息 617.222.3200 / 1.800.392.6100）。Viking Shuttle 工作日免费环绕各校区：周一、周五 7:30–15:30，周二至周四 7:30–16:00，约 20 分钟一班；晚间与周末由学生运营穿梭车连接校区、downtown 与 Market Basket。",
+      "rentnote": "校属宿舍按楼与房型列学期价，见住宿表；校外租房官网不列固定租金，按 Salem 当期挂牌价查询，并核对押金、杂费、租期与转租条款。",
+      "link": {
+        "cal": [
+          "https://www.salemstate.edu/academic-calendar",
+          "SSU 学术校历"
+        ],
+        "ins": [
+          "https://www.salemstate.edu/campus-life/student-services/counseling-and-health-services/student-health-insurance",
+          "SSU 学生健康保险页"
+        ],
+        "clinic": [
+          "https://www.salemstate.edu/campus-life/student-services/counseling-and-health-services/counseling-services",
+          "SSU Counseling and Health Services"
+        ]
+      }
+    },
+    "uml": {
+      "short": "UMass Lowell",
+      "place": "马萨诸塞·Lowell",
+      "cityKey": "lowell",
+      "calShort": "学期制，2026 秋 9 月 1 日开课，2027 春 1 月 19 日开课",
+      "calendar": "学期制（本科校历口径）：2026 秋 9 月 1 日开课并进入 drop-add，9 月 7 日 Labor Day 停课，9 月 15 日为无记录退课截止日（此后不退费），10 月 12 日 Indigenous Peoples' Day 停课，11 月 11 日 Veterans Day 停课，11 月 12 日常规学期退课记 W 截止，11 月 25–28 日 Thanksgiving 假，12 月 10 日结课，12 月 11 日 Reading Day，12 月 12–19 日期末考试，12 月 20 日宿舍中午关闭。2027 春 1 月 19 日开课，1 月 18 日 MLK Day 停课，2 月 1 日无记录退课截止日，2 月 15 日 Presidents Day 停课，3 月 7–14 日春假，4 月 6 日常规学期退课记 W 截止，4 月 19 日 Patriot's Day 停课，4 月 29 日结课，4 月 30 日 Reading Day，5 月 1–8 日期末考试。",
+      "fulltime": "F-1/J-1 学生须全程保持全日制：本科 12 学分、研究生与研究生证书 9 学分；每学期最多只能修一门网课计入全日制；减课须事先经 International Students & Scholars Office（ISSO）批准。Continued matriculation 不算 active 注册身份，不能用来维持全日制。",
+      "drop": "2026 秋：9 月 15 日前可无记录退课（add/drop 期内退课学费杂费 100% 调整），9 月 15 日之后不退学费杂费；11 月 12 日为常规学期退课记 W 截止。2027 春：2 月 1 日无记录退课截止（此后不退费），4 月 6 日记 W 截止。住宿与餐计划按另一套退款表，咨询 Residence Life 978-934-5160；开学后 30 个自然日内退光全部课程者不加入 SHIP。",
+      "ins1": "SHIP 由 University Health Plans 管理，2026–2027 保单为 Blue Cross Blue Shield PPO；符合资格者自动挂账保费：全年（8 月 1 日–次年 7 月 31 日）$3,617，秋季 $1,522（8 月 1 日–12 月 31 日），春季 $2,120（1 月 1 日–7 月 31 日），夏季 $923（5 月 16 日–7 月 31 日）。",
+      "ins2": "自动加入口径：本科与 CE 注册 9 学分及以上、研究生 6.75 学分及以上、国际生 1 学分及以上，在 add/drop（学期前 10 个教学日）达标后计入 SHIP 资格；纯网课学生无资格。豁免须每年在 SiS 的 Finance Center 提交 Waive/Enroll 表；秋季截止 10 月第二个周五、春季截止 3 月第二个周五，逾期账单上的保费不予移除。国际生必须参加校内 SHIP，外国保险与旅行险不视为可比保障；使馆赞助保单在截止日前向 Student Financial Services 提交经济担保书可豁免。",
+      "ins3": "豁免条件：保单须为在美国报备并获批的美国健康保险计划，覆盖整个学年（8 月 1 日–7 月 31 日）且无保障空档；国际学生保险、旅行险、短期限期计划不接受；MassHealth Limited、Health Safety Net、Children's Medical Security Plan 不能用于豁免。理赔咨询 University Health Plans 833-251-1123，BCBS 会员服务 888-753-6615；保费与豁免问题找 Solution Center 978-934-2000。",
+      "clinic": "Health Services（Wellness Center 内）：Meehan Student Center Suite 300，100 Meehan Way（220 Pawtucket St.）；电话 978-934-6800，传真 978-934-3080，Health_Services@uml.edu；周一至周四 8:15–16:45、周五 9:15–16:45，须预约，多数当天或次日可约；Counseling Services 同层，心理危机 24/7 热线 855-890-2879。",
+      "commute": "校园沿 Merrimack 河分 East、North、South 三区：East 校区 Meehan Student Center 是学生服务、招生、书店与 Crossroads Cafe 集中地；North 校区为工程、理科与商科；South 校区为教育、健康科学、人文、社科与艺术。三区之间有 Blue/Red/Orange 校内穿梭巴士。",
+      "scene": "公立研究型大学，工科、材料、护理与商科较强；位于 Lowell 老城磨坊区，校园与城区街区交织；国际学生社团数量多，ISSO 组织文化活动与配对项目。",
+      "safety": "UMass Lowell Police：紧急 978-934-4911（校内拨 4-4911）；非紧急 978-934-2398（校内拨 4-2398），非紧急调度 978-934-2394，Police@uml.edu，办公室 Meehan Student Center Suite 170；校警 24 小时 365 天在岗。校外报案找 Lowell Police Department 978-937-3200。",
+      "transit": "市内公交 LRTA 刷 UCard 免费，MeVa（Merrimack Valley Transit）免费乘坐；MBTA Commuter Rail Lowell Line 从 Gallagher Terminal 到 Boston North Station，校方不给 MBTA 折扣票；LRTA 不运营时段可拨 978-934-2222 叫校内穿梭巴士到车站。",
+      "rentnote": "校属宿舍按楼与房型列年价/学期价，见住宿表；校外租房官网不列固定租金，按 Lowell 当期挂牌价查询，并核对押金、杂费、租期与转租条款。",
+      "link": {
+        "cal": [
+          "https://www.uml.edu/registrar/calendars/2026-fall-undergrad.aspx",
+          "UML 注册校历"
+        ],
+        "ins": [
+          "https://www.uml.edu/student-services/Health/Health-Insurance/",
+          "UML 健康保险页"
+        ],
+        "clinic": [
+          "https://www.uml.edu/student-services/health/contact.aspx",
+          "UML Health Services"
+        ]
+      }
+    },
+    "framingham": {
+      "short": "Framingham State",
+      "place": "马萨诸塞·Framingham",
+      "cityKey": "framingham",
+      "calShort": "学期制；2026 秋 9 月 2 日开课，2027 春 1 月 19 日开课",
+      "calendar": "2026 秋季学期：9 月 2 日（周三）开课；9 月 7 日（周一）Labor Day 停课；9 月 10 日（周四）最后 add/drop；10 月 12 日（周一）Columbus Day 停课；11 月 11 日（周三）Veterans Day 停课；11 月 25 日（周三）为最后 CR/NC 与 W 退课日；11 月 26–27 日 Thanksgiving 放假；12 月 14 日（周一）最后上课日，12 月 15 日 Reading Day，期末考试 12 月 16–18 日、12 月 21–22 日，12 月 23 日（周三）为雪天补假日，学期 12 月 23 日结束。2027 春季学期：1 月 18 日（周一）MLK Day 停课；1 月 19 日（周二）开课；1 月 26 日（周二）最后 add/drop；2 月 15 日（周一）Presidents Day 停课；3 月 12 日（周五）课后放春假，3 月 22 日（周一）复课；4 月 19 日（周一）Patriots Day 停课；4 月 23 日（周五）最后 CR/NC 与 W 退课日；5 月 7 日（周五）最后上课日，期末考试 5 月 10–14 日，学期 5 月 14 日（周五）结束；毕业典礼 5 月 22 日（周六）。",
+      "fulltime": "F-1 学生须按全日制项目注册；Day Division 每学期最多按 3 门课（12 学分）计费。低于全日制、休学或退课须先经 Office of International Student Services and Study Abroad 审批；可发 F-1 的研究生项目包括 Counseling Psychology、MBA、Healthcare Administration、Human Resource、Organizational Leadership 及 Food and Nutrition 方向。",
+      "drop": "add/drop 截止：秋季 9 月 10 日、春季 1 月 26 日；记 W 退课截止：秋季 11 月 25 日、春季 4 月 23 日。Day Division 整校退学退款按校方政策表（2025–26 学年口径）：秋季 9 月 10 日及之前 100%，9 月 17 日前 80%，9 月 24 日前 60%，10 月 1 日前 40%，10 月 1 日后 0%；春季 1 月 27 日及之前 100%，2 月 3 日前 80%，2 月 10 日前 60%，2 月 17 日前 40%，2 月 17 日后 0%；2026–27 分档以当期 Student Accounts 公布的 refund policy 为准。住宿退款政策与学费退款分开计算。",
+      "ins1": "保险为州立要求计划，承保方 Blue Cross Blue Shield；本科生注册 3 门及以上课程、研究生注册 2 门及以上课程自动按年计入保险并在账单扣款。2026–2027 费率原文：全年 $4,962.44（2026 年 8 月 1 日–2027 年 7 月 31 日）；仅春季入学 $2,896.84（2027 年 1 月 1 日–2027 年 7 月 31 日）。",
+      "ins2": "豁免每学年只需提交一次：登录 my.framingham.edu → Student Accounts → Forms → Health Insurance Waiver，填报本人保险卡信息后在线提交；未按期豁免将自动投保并产生全年保险费。可接受的自购计划须为同类或更优的可比保障（含 MassHealth 等符合州法要求的计划）；不符合州法要求的州外/旅行类计划不能豁免，资格由校方审核。上一学年豁免截止参照账单到期日 8 月 1 日；2026–27 截止日以当期 e-bill 到期日为准。",
+      "ins3": "Health Center 就诊通过学生缴纳的 Health Center Fee 覆盖，校内就诊不另收挂号费；保险信息上传至 Medicat 门户。保险账单与投保问题联系 Student Accounts，电话 508-626-4514，邮箱 studentaccounts@framingham.edu。",
+      "clinic": "Health and Wellness Center，Foster Hall, Framingham, MA 01701-9101；电话 508-626-4900，邮箱 healthcenter@framingham.edu。学年内（9–5 月）周一至周五 8:30–16:30；周末、法定假日、天气停课与暑期多数时段不安排门诊。心理辅导中心同在 Foster Hall 二层，电话 508-626-4640。",
+      "commute": "校园位于 100 State Street, Framingham，距 Framingham 通勤铁路站约 2 英里；校方 Ram Tran 接驳往返车站与校内停车场，MWRTA 线路与 Catch Connect 按需微公交覆盖 Framingham 与 Natick 一带。",
+      "scene": "FSU 创校于 1839 年，学生与教师比 11:1；有 15 支 NCAA Division III 校队与 50 余个学生社团组织；校园在 MetroWest 区域中心，距 Boston 约 20 英里，周边零售、餐饮与 Natick Mall、Shopper's World 相邻。",
+      "safety": "Framingham State University Police Department（FSUPD）24 小时值班，办公室在 D. Justin McCarthy Campus Center 一层；电话 508-626-4911，传真 508-626-4899，TTY 508-626-4008；校园内紧急情况拨 911，校外拨本地 911。",
+      "transit": "铁路走 MBTA Framingham/Worcester Line，Framingham 站到 South Station；校内 Ram Tran 接驳至车站，停靠 Crocker Hall 前，周一至周五 7:00–2:00、周六周日 8:00–2:00；MWRTA Route 7 等线路衔接车站、Woodland Green Line D 站与 MetroWest 各镇；Catch Connect 为学生免费的按需微公交。",
+      "rentnote": "校内宿舍按学年（Fall+Spring）按楼与房型列原文年价，另收 $100/年押金；研究生不安排校内住宿。校外租房按 Framingham/Natick 行情另议，本平台不给出固定月租数字。",
+      "link": {
+        "cal": [
+          "https://www.framingham.edu/academics/registrar/academic-calendar",
+          "FSU 注册校历"
+        ],
+        "ins": [
+          "https://www.framingham.edu/admissions-aid/cost-aid/tuition-fees",
+          "学费与保险费页"
+        ],
+        "clinic": [
+          "https://www.framingham.edu/campus-life/counseling-health-and-wellness/health-center",
+          "Health Center 页"
+        ]
+      }
+    },
+    "umb": {
+      "short": "UMass Boston",
+      "place": "马萨诸塞·波士顿",
+      "cityKey": "bos",
+      "calShort": "学期制，2026 秋 9 月 8 日开课，2027 春 1 月 25 日开课",
+      "calendar": "学期制（semester）：2026 秋 9 月 7 日 Labor Day 停课；9 月 8 日开课；9 月 15 日 add/drop 截止；9 月 17 日 Convocation；10 月 12 日 Indigenous Peoples Day 停课；11 月 11 日 Veterans Day 停课；11 月 19 日 Pass/Fail 与课程退课截止；11 月 26–29 日感恩节假期；11 月 30 日复课；12 月 11 日学期结束；12 月 12–13 日自习期；12 月 14–18 日期末考试；12 月 28 日成绩提交截止。2027 春 1 月 25 日开课；2 月 1 日 add/drop 截止（对应 100% 退款口径）；2 月 15 日 President's Day 停课；3 月 14–21 日春假；3 月 22 日复课；4 月 19 日 Patriot's Day 停课；4 月 22 日 Pass/Fail 与退课截止；5 月 12 日最后上课日；5 月 13–16 日自习期；5 月 17–21 日期末考试；5 月 26 日研究生毕业典礼；5 月 27 日本科毕业典礼；5 月 28 日成绩提交截止；5 月 31 日 Memorial Day 停课。",
+      "fulltime": "F-1 全职线：本科每学期至少 12 学分、研究生至少 9 学分（或全职做论文）；最后一学期与医疗休假为例外，低于全职须事先获 ISSS 批准。保险资格线另为本科 9 学分及以上、研究生 7 学分及以上；part-time、independent study、internet/TV 课程可能不具备保险资格。",
+      "drop": "2026 秋：9 月 15 日 add/drop 截止，期内退课全额取消学费与多数费用；11 月 19 日 Pass/Fail 与课程退课截止；add/drop 之后的单课改退课不退费。整校退学退款分档（注册生，2026 秋）：9/8–9/15 100%；9/16–9/21 80%；9/22–9/28 60%；9/29–10/5 40%；10/6–10/12 20%；10/12 之后 0%。2027 春：2 月 1 日 add/drop 截止，其后分档按 Bursar 当期春季退款表；不出席课程不等于正式退学，须提交退学表。",
+      "ins1": "UMass Boston Student Health Insurance Plan（SHIP）与 Blue Cross Blue Shield of Massachusetts 合作，ACA 合规并接入 BCBS 全国 PPO 网络；University Health Plans（UHP）为经纪人与计划管理方。2026-27 年度保费原文：Annual $3,487.04（保障期 2026/8/1–2027/7/31，分两期账单）；Fall-only $1,455.85；返校春季 $2,031.19；新春季学生 $2,036.19。",
+      "ins2": "自动加入：本科在册 9 学分及以上、研究生 7 学分及以上自动计费参保；研究生 6 学分不自动参保，可联系 Bursar 投保。所有在册国际学生不论学分自动参保，项目费（program fee）学生除外。秋季 waiver 截止 2026 年 10 月 1 日；新春季学生截止 2027 年 3 月 1 日；逾期未行动自动参保，已出账单费用不可豁免。",
+      "ins3": "豁免条件：替代计划须为美国注册批准、ACA 最低基本保障、保额无上限、覆盖既往症、覆盖校区所在地急诊与非急诊、精神行为健康、孕产、处方与预防保健，且整个保单年度无中断；国际学生另须含医疗运送与遗体遣返。州外 Medicaid/HMO/EPO、MassHealth Limited、Health Safety Net、Children's Medical Security Plan、旅行险、健康共享与短期计划，以及 GBG/HDL/ISO/PGH/PSI/Student Medicover/Tata AIG 等均不接受。联系：UHP 833-251-1126，info@univhealthplans.com；Bursar 617-287-5350；BCBS 888-753-6615；校内先找 University Health Services 617-287-5660。",
+      "clinic": "University Health Services（UHS）General Medicine 在 Quinn Administration Building 二层，100 Morrissey Blvd, Boston, MA 02125；电话 617-287-5660，传真 617-287-3977，UHS@umb.edu；提供初级与 episodic 诊疗、预防保健、免疫与性健康服务，可线上或现场预约；门诊时段以 UHS 当日公布为准，下班后护士分诊拨 617-287-5660。Counseling Center：24/7 危机线 855-634-4135，办公电话 617-287-5690，counseling.center@umb.edu。",
+      "commute": "校园在 Columbia Point，100 Morrissey Blvd，邻 JFK 总统图书馆与 Edward M. Kennedy Institute；教学楼沿波士顿港排布，宿舍在校园东侧；住 East/West Residence Hall 步行上下课，走读生多住 Dorchester、South Boston 乘红线与校车。",
+      "scene": "都市公立大学，本科、研究生与继续教育并存；校园临波士顿港，设 Beacon Fitness Center、皮划艇租赁与 20 支 DIII 校队，100 余个本研学生组织。",
+      "safety": "UMass Boston Police 24/7：紧急拨 911；校园紧急/调度 617-287-7777；非紧急 617-287-7799；调度另线 617-287-7780、617-287-7781；线索热线 617-287-5555。",
+      "transit": "MBTA 红线到 JFK/UMass 站，转免费校车 loop 到 Campus Center；通勤铁路 Middleboro、Plymouth、Greenbush 线亦到 JFK/UMass 站换乘校车；8 路与 16 路公交直达校园（Wheatley Hall 后 busway 与 Mt Vernon St）。校车秋季时刻（2026/9/8 起）：周一至周四 5:30–次日 1:20，周五 5:30–次日 2:20，周六 7:30–次日 2:20，周日 7:30–次日 1:20；末班环线按 JFK/UMass 末班 MBTA 列车时刻安排，班次以校车当期时刻表为准。",
+      "rentnote": "校属 East、West 两栋 Residence Hall，价目按 2026-27 学年/学期原文列入住宿表；校外住房经 offcampushousing.umb.edu 门户检索，Off-Campus Living 办公室在 Campus Center 3 层 3300 室，617-287-6373，offcampus@umb.edu；校方不给月租数字，签约前按挂牌价核清押金、杂费、租期与转租条款。",
+      "link": {
+        "cal": [
+          "https://www.umb.edu/registrar/academic-calendar/",
+          "UMass Boston 校历"
+        ],
+        "ins": [
+          "https://www.umb.edu/bursar/health-insurance/",
+          "UMass Boston 健康保险"
+        ],
+        "clinic": [
+          "https://www.umb.edu/health-services/general-medicine/",
+          "University Health Services"
+        ]
+      }
+    },
+    "massart": {
+      "short": "MassArt",
+      "place": "马萨诸塞·波士顿",
+      "cityKey": "bos",
+      "calShort": "学期制，2026 秋 9 月 2 日开课，2027 春 1 月 20 日开课",
+      "calendar": "学期制（studio 工作室课程 + critique 评图口径）：2026 秋 9 月 1 日 Opening Day（无课、办公开放），9 月 2 日开课并开始 add/drop；9 月 7 日 Labor Day 停课；9 月 15 日 add/drop 与实习截止；9 月 16 日进入课程退课期；10 月 12 日 Indigenous People's Day 停课；11 月 11 日 Veterans Day 停课；11 月 18 日秋季退课截止；11 月 25–27 日感恩节假期；12 月 14 日最后上课日（不含 Review Boards）；12 月 15–18 日期末/评审周；12 月 21 日–2027 年 1 月 1 日冬假。2027 春 1 月 18 日 MLK Day 停课；1 月 19 日 Opening Day；1 月 20 日开课并开始 add/drop；2 月 2 日 add/drop 截止；2 月 3 日进入退课期；2 月 15 日 President's Day 停课；3 月 1–5 日春假；3 月 25 日 MassArt Day；4 月 7 日春季退课截止；4 月 19 日 Patriot's Day 停课；5 月 10 日最后上课日；5 月 11 日期末；5 月 12–18 日 Review Boards；5 月 20 日毕业典礼。",
+      "fulltime": "F-1 全职线：本科每学期至少 12 学分、研究生至少 9 学分；达不到全职须先经 International Student Advisor 批准，否则失去身份。保险资格另按学分口径：本科修读 9 学分及以上、研究生 6.75 学分及以上须持合格健康保险。",
+      "drop": "2026 秋：9 月 15 日 add/drop 与实习截止；9 月 16 日起进入退课期；11 月 18 日为秋季最后退课日。2027 春：2 月 2 日 add/drop 截止；2 月 3 日起退课期；4 月 7 日为春季最后退课日。整校退学退款：学期第一日前正式退学减 100%（扣除学生押金）；开学前两周内正式退学减 50%；第三周起 0%；add/drop 之后的单课改退课不退费，不出席课程不等于正式退学。",
+      "ins1": "MassArt Student Health Insurance Plan（SHIP）与 Blue Cross Blue Shield of Massachusetts 合作，University Health Plans（UHP）为经纪人与计划管理方，负责投保、豁免与账单流程；2026-27 计划口径：不须选全科医生、专科不须转诊，但须使用网内医生，除急诊外网络外服务不赔付；检索网内医生时在 BCBS 网络中选 PPO or EPO。",
+      "ins2": "自动加入：本科 9 学分及以上、研究生 6.75 学分及以上的在册学生须持合格保险；符合资格者未在截止日前在线提交 waiver，将被自动参保并按整个保单年度计费，截止日后不接受 waiver。所有国际学生必须参加 MassArt SHIP，学校不接受境外国际保险；豁免或投保每学年都要重新提交一次。",
+      "ins3": "豁免条件：计划须为美国注册并批准的健康险、符合 ACA 最低基本保障、保单年度内无中断、在波士顿校区所在地提供急诊与非急诊服务；境外保险、ISO/PSI/Student Medicover 等面向国际学生的保险、旅行险与短期有限期限计划、MassHealth Limited、Health Safety Net、Children's Medical Security Plan 均不接受。保费费率与各期截止日以 UHP 当期页面公布为准；UHP 833-251-1710，BCBS 会员服务 888-753-6615；校内就诊先找 Student Health Center。",
+      "clinic": "Student Health Center 位于 Tree House 宿舍楼二层，医疗提供方为 Carbon Health Services（Carbon Student Health Services），提供 walk-in、初级与急诊护理、疫苗、体检与筛查；电话 617-879-5220，门诊时段以健康中心当日公布为准。Counseling Center：Kennedy Building 2 层 K222，621 Huntington Ave，617-879-7760，counseling@massart.edu，周一至周五 9:00–17:00，咨询免费保密。",
+      "commute": "紧凑校园在 621 Huntington Ave，学院楼、工作室与三栋宿舍隔街分布；住宿舍步行上下课，走读生多住 Fenway、Brookline、Allston 等区乘地铁公交通学。",
+      "scene": "艺术院校，课程以工作室（studio）与评论（critique）为主，含 BFA 本科与 MFA/研究生项目；校园邻波士顿美术博物馆（MFA），属 Colleges of the Fenway 与 ProArts 协作圈。",
+      "safety": "Public Safety 24/7：紧急 617-879-7800；非紧急 617-879-7810，publicsafety@massart.edu，办公室在 Tower Building 二层；校园外紧急拨 911。心理危机可拨 Counseling Center 617-879-7760 转 1 进入 MartyAid/Uwill 24/7 支持线。",
+      "transit": "MBTA 绿线 E 支线到 Longwood Medical Area 站，站台在校园门前；橙线到 Ruggles 站，步行约 11 分钟；另有 #39 与 CT2 公交沿 Huntington Ave 行驶。地铁与公交单程约 $2.40（CharlieCard 或无接触支付；SL1 从 Logan 往市区方向免费）。",
+      "rentnote": "校属 Tree House、Smith Hall、Artists' Residence 三栋宿舍，价目按 2026-27 学年/学期原文列入住宿表；校外租房经 offcampus.massart.edu 门户，官网不列固定校外租金，按挂牌价核对押金、杂费、租期与转租条款。",
+      "link": {
+        "cal": [
+          "https://massart.edu/academics/academic-calendar",
+          "MassArt 校历"
+        ],
+        "ins": [
+          "https://massart.edu/student-life/health-and-well-being/insurance-immunization-requirements/",
+          "MassArt 健康保险与免疫要求"
+        ],
+        "clinic": [
+          "https://massart.edu/student-life/health-and-well-being/",
+          "MassArt Health & Well-Being"
+        ]
+      }
+    },
+    "umass": {
+      "short": "UMass Amherst",
+      "place": "马萨诸塞·Amherst",
+      "cityKey": "amherst",
+      "calShort": "学期制；2026 秋 9 月 8 日开课，2027 春 2 月 2 日开课",
+      "calendar": "2026 秋季学期：9 月 8 日（周二）开课；本科/非学位不进成绩单退课截止 9 月 14 日（周一），研究生不进成绩单退课截止 9 月 21 日（周一）；10 月 12 日（周一）Indigenous People's Day 停课；11 月 3 日（周二）Election Day 无课；11 月 4 日（周三）为记 W/DR 退课截止；11 月 11 日（周三）Veterans Day 停课；11 月 24 日最后一节课后 Thanksgiving 放假，11 月 30 日（周一）复课；12 月 15 日（周二）最后上课日，12 月 16 日 Reading Day，期末考试 12 月 17 日至 12 月 23 日，学期 12 月 23 日结束。2027 春季学期：1 月 31 日（周日）春季 Housing Check-In，2 月 2 日（周二）开课；本科不加记录退课截止 2 月 8 日（周一），研究生截止 2 月 16 日（周二）；2 月 15 日（周一）Presidents Day 放假，2 月 17 日（周三）按周一课表；3 月 14 日（周日）至 3 月 21 日（周日）春季假，3 月 22 日（周一）复课；4 月 6 日（周二）记 W/DR 退课截止；4 月 19 日（周一）Patriot's Day 放假，4 月 20 日（周二）按周一课表；5 月 12 日（周三）最后上课日，5 月 13 日 Reading Day，期末考试 5 月 14 日至 5 月 20 日，学期 5 月 20 日结束。",
+      "fulltime": "F-1 本科生每学期须注册至少 12 学分，研究生须注册至少 9 学分或经研究生院确认的全日制学分；在线课程每学期最多只能有 1 门计入全日制，本科生在校面授课程至少 9 学分、研究生至少 6 学分，最后一门课程不得为纯在线。低于全日制须提前通过 Office of Global Affairs 与学校审批，获批后才能缩短、休学或退课。",
+      "drop": "不加记录退课：2026 秋本科/非学位 9 月 14 日、研究生 9 月 21 日；2027 春本科 2 月 8 日、研究生 2 月 16 日。记 W/DR 退课截止：秋季 11 月 4 日、春季 4 月 6 日。整校退宿/退学退款按 Bursar 2026 秋–2027 春表：本科生 9 月 8 日及之前 100%，9 月 9–21 日 80%，9 月 22–28 日 60%，9 月 29 日–10 月 5 日 40%，10 月 6–12 日 20%，10 月 13 日起 0%；研究生 9 月 21 日及之前 100%，9 月 22–28 日 60%，9 月 29 日–10 月 5 日 40%，10 月 6–12 日 20%，10 月 13 日起 0%。",
+      "ins1": "学生医疗保险为 Student Health Benefit Plan（SHBP），由 Wellfleet Student 承保；注册 5 学分及以上的学生自动纳入 SHBP 并在学期账单上扣款。2026–2027 学年费率原文：本科生个人 SHBP 每学期 $1,458.00；研究生为 Health Fee $470 + SHBP $2,444，合计 $2,914 每学期。保障期：2026 秋 2026 年 8 月 1 日–2027 年 2 月 1 日；2027 春 2027 年 2 月 2 日–7 月 31 日。",
+      "ins2": "豁免窗口：2026 秋季学期 waiver 截止 2026 年 9 月 21 日；2027 春季新入学学生 waiver 截止 2027 年 2 月 16 日；豁免须每学年在秋季学期重新提交。国际学生不自动具备豁免资格，只接受美国雇主或美国大使馆/领馆提供的计划；travel insurance 不合规。可豁免的计划须：理赔直接付往美国、在美就医可使用、覆盖学生整个在校时段、无封闭网络、无既往症限制、年度保额至少 $500,000、含门诊/住院/急诊/产检/精神健康/处方等基本福利；州内 Medicaid 或其他州计划不接受马萨诸塞州外学生。",
+      "ins3": "UHS 就诊会向保险计划计费；SHBP 成员在 UHS 的多数服务 100% 覆盖（药房共付与超声检查等除外）。保险卡登录 Wellfleet Student 网站查看；保险资格、豁免与账单问题联系 Patient Services，电话 413-577-5192；校内药房为 UHS Pharmacy。",
+      "clinic": "University Health Services（UHS）地址 150 Infirmary Way, Amherst, MA 01003-9288；总机 413-577-5000，预约 413-577-5101，24 小时症状咨询热线 413-577-5229。学期内（自 9 月 6 日起）周一至周五 8:00–20:00、周六周日 11:00–17:00；暑期周一至周五 8:00–17:00、周末闭诊。心理辅导中心 CCPH 在 Middlesex House，电话 413-545-2337。",
+      "commute": "校园本身可步行通勤；学生乘 PVTA 公交免费（B79 线路除外），校属 UMass Transit 线路覆盖校内与周边五个社区；住宿区到教学楼、图书馆和食堂多为步行范围，雨雪天可乘校内接驳。",
+      "scene": "UMass Amherst 为马萨诸塞大学旗舰校，位于 Amherst 大学城，与 Amherst College、Hampshire College、Mount Holyoke College、Smith College 组成 Five College Consortium，可跨校选课、互用设施；校内住宿区与图书馆、Student Union/Campus Center 构成主要社交场地，社团与活动数量大。",
+      "safety": "UMass Police Department（UMPD）紧急报警 911，校内备用调度电话 413-545-3111；非紧急调度 413-545-2121，24 小时值班；校园内布有 140 余部 HELP 紧急电话。CCPH 24 小时危机热线 413-545-HELP（4357）；工作时间外的人身安全事件仍拨 911 与 UMPD。",
+      "transit": "出行依赖 PVTA 免费公交与 UMass Transit；去 Worcester 可乘 B79 衔接 MBTA；长途在 Haigis Mall 乘 Peter Pan/Greyhound 往 Boston、Springfield、New York 方向，另有 Valley Transporter 等接驳与拼车选项；Pioneer Valley 区域 Uber/Lyft 覆盖有限，班次以承运方当期公告为准。",
+      "rentnote": "宿舍价目按 2026 秋–2027 春每学期、按房型列原文口径，不含餐计划；apartment 式住宿为自炊。校外租房按 Amherst/Hadley/Northampton 行情另议，本平台不给出固定月租数字。",
+      "link": {
+        "cal": [
+          "https://www.umass.edu/registrar/academic-calendar",
+          "UMass 注册校历"
+        ],
+        "ins": [
+          "https://www.umass.edu/uhs/insurance",
+          "UHS 保险页"
+        ],
+        "clinic": [
+          "https://www.umass.edu/uhs/contact",
+          "UHS 联系方式"
+        ]
+      }
+    },
+    "wpaterson": {
+      "short": "威廉帕特森大学",
+      "place": "韦恩",
+      "cityKey": "waynenj",
+      "calShort": "学期制；2026 秋 8 月 26 日开课、12 月 12 日结课",
+      "calendar": "学期制（semester），分 Q1/Q2 两个学季，另有冬季与夏季多段。2026 秋全日程：8 月 25 日 Welcome Day 无课，8 月 26 日开课、12 月 12 日结课，12 月 7–12 日为最后一周；校历不设专门期末考试周，教师可在最后一次课安排考核；9 月 7 日劳工节停课，10 月 22–23 日 Wellness Days 无课，11 月 25–29 日停课、11 月 26 日感恩节停课；10 月 12 日、11 月 3 日、11 月 11 日照常有课。2027 春：1 月 21 日开课、5 月 12 日结课；1 月 18 日 MLK 日停课，2 月 15 日总统日停课，3 月 15–21 日春假，3 月 26–28 日节假日停课；春季成绩 5 月 19 日截止。",
+      "fulltime": "F-1 全职线：本科每学期 12 学分、研究生 9 学分；保险口径另列生物/生物技术研究生 8 学分、临床心理学博士 6 学分；网课计入规则以 OISS 与注册办公室为准。",
+      "drop": "2026 秋全日程：9 月 2 日前退课 100% 退款；9 月 28 日前退课退 50%；10 月 28 日为 0% 退款学术退课截止；11 月 30 日为提交全校退学（Official Withdrawal）最后日。2027 春全日程：1 月 28 日前 100%；3 月 5 日前 50%；4 月 8 日 0% 退款截止；4 月 26 日为全校退学最后日。住宿退款另走 ResLife 退款政策表。",
+      "ins1": "SHIP 2026–27 由 Aetna Student Health 承保，ACA 合规、Aetna 全国 PPO 网络，无需指定全科医生、无需转诊；保险口径全日制：本科 ≥12 学分、研究生 ≥9、生物/生物技术研究生 ≥8、临床心理博士 ≥6；符合条件者秋季账单自动计入保费。",
+      "ins2": "保费原文：年度 3,170.00 美元（2026/8/1–2027/7/31）；新春季 1,841.00 美元（2027/1/1–7/31）；J-1 国际生秋季 1,152.00 美元（2026/8/1–12/31，学生账户页另写 8/21/26–12/31/26）。2027 春 waiver/参保截止 2027 年 2 月 19 日；逾期未豁免或未确认参保将自动加入 Aetna。",
+      "ins3": "豁免条件：持与校方计划可比的其他保单，须在 universityhealthplans.com/wpunj 提交在线 waiver 并提供保险证明；把保险卡复印件交到学生账户办公室不算豁免；Pending 保险或雇主/第三方信件不受理；校方保留审核 waiver 的权利。2026–27 新增 250 美元年度处方自付额；理赔与网络目录见 aetnastudenthealth.com/wpunj；UHP 833-251-1114，Aetna 800-481-8814；兼职与 WPOnline 全日制学生不投保也不可投保。",
+      "clinic": "Counseling, Health & Wellness Center（CHWC），Overlook South 一楼（Matelson 与 White Hall 之间）；健康门诊 (973) 720-2360，传真 973-720-2632，wpuimmunization@wpunj.edu；咨询热线 973-720-2257；秋春学期周一–周五 8:30–16:30，夏季周一–周四 8:00–17:15；门诊与心理咨询免费，部分化验与处方另收费；提供线下与远程就诊。",
+      "commute": "407 英亩林地校园跨 Wayne、Haledon、North Haledon；主校区 300 Pompton Road；通勤靠 198 路巴士、744/748 路本地巴士或驾车，去 Paterson 约 3 英里、去曼哈顿约 20 英里。",
+      "scene": "社交主场 John Victor Machuga Student Center（University Commons 核心）；90 余个学生社团组织、13 支 NCAA Division III 校队；Shea Center for Performing Arts 办音乐会与演出，Arcade/Entertainment Center 在 University Commons。",
+      "safety": "University Police Department（Building 31，Entry One 左侧）；紧急 911，非紧急 973-720-2301；侦探 973-720-3114、社区警务 973-720-3004、交通 973-720-2729；Safe Walk 护送 973-720-7400（学年周一–周四 20:00–00:30）。",
+      "transit": "198 路（Wayne–William Paterson University–New York）经主校区直达 Port Authority Bus Terminal，途经 Willowbrook Mall 与 Wayne/Route 23 Transit Center；744、748 路跑 Passaic–Paterson–Wayne 本地段；Wayne/Route 23 换乘站可接 194、324 等往纽约快线；火车需就近换 NJ Transit Main/Bergen County 线，时刻以 njtransit.com 为准；驾车走 Route 23、80、3、46 与 Garden State Parkway。",
+      "rentnote": "国际新生首学年原则上住校（有限例外）；公寓式与传统宿舍价目见住宿表；校外租房本页不给数字，按 Wayne 07470 邮编查挂牌价，另核押金与水电网费。",
+      "link": {
+        "cal": [
+          "https://www.wpunj.edu/registrar/calendars/",
+          "WPUNJ 注册校历"
+        ],
+        "ins": [
+          "https://www.universityhealthplans.com/wpunj",
+          "WPUNJ 学生保险计划页"
+        ],
+        "clinic": [
+          "https://www.wpunj.edu/health-wellness/about/",
+          "WPUNJ CHWC 关于页"
+        ]
+      }
+    },
+    "kean": {
+      "short": "基恩大学",
+      "place": "尤宁",
+      "cityKey": "unionnj",
+      "calShort": "学期制；2026 秋 9 月 1 日开课、12 月 21 日结课",
+      "calendar": "学期制（semester）：秋季与春季两学期，另有冬季短学期与夏季多段（5/6/7 周）。2026 秋全日程 9 月 1 日开课、12 月 21 日结课，12 月 15–21 日期末考试周；9 月 7 日劳工节停课，11 月 3 日选举日停课，11 月 26–29 日感恩节停课；10 月 12 日哥伦布日与 11 月 11 日退伍军人日照常有课。2027 春全日程 1 月 19 日开课、5 月 13 日结课，5 月 7–13 日期末周；1 月 18 日 MLK 日停课，2 月 15 日总统日停课，3 月 15–21 日春假，3 月 26–28 日耶稣受难日周末停课。",
+      "fulltime": "F-1 全职线：本科每学期 12 学分及以上、研究生 9 学分及以上；每学期仅一门网课（3 学分）可计入全职；最后一学期低于全职须经 DSO 确认安排。",
+      "drop": "2026 秋全日程：9 月 8 日前退课 100% 退款且不进成绩单；9 月 9 日起记 W；9 月 15 日前退课退 75%；9 月 22 日前退课退 50%；11 月 16 日为记 W 最后截止（不退费）。2027 春全日程：1 月 26 日前 100% 退款无记录；1 月 27 日起记 W；2 月 2 日前 75%；2 月 9 日前 50%；4 月 5 日记 W 截止（不退费）。半学期课各有另一套截止日。",
+      "ins1": "Kean 不自办学生健康保险计划（does not sponsor a student health insurance plan），也不向学生账单计入保费；学生自行通过家长家属延伸计划、Medicaid 或 healthcare.gov 交易市场投保，保单须符合 PPACA/ACA 合规。",
+      "ins2": "证明对象仅限住校生与 Center for International Studies（CIS）项目学生，每学年开学时必须提交保险证明；在 Pyramed Student Health Portal 的 Document Upload 页上传保险卡正反面；校方不设 waiver 窗口，因为没有校方团体计划可豁免。",
+      "ins3": "投保渠道：healthcare.gov 在线办理，电话 1-800-318-2596（TTY 855-889-4325），线下 localhelp.healthcare.gov；年度开放参保通常 11 月 1 日开启，重大生活事件可触发特殊参保窗口；理赔与会员服务走所购保单的保险公司门户，校内 Student Health Services 只做补充诊疗，不替代全科医生。",
+      "clinic": "Student Health Services，Wellness Center in Downs Hall Room 126（Union 校区）；电话 (908) 737-4880，studenthealthservices@kean.edu；秋春学期周一/四/五 9:00–17:00，周二/三 9:00–19:00；夏季（5–8 月）周一至周四 8:15–17:30；预约走 kean.studenthealthportal.com。Counseling Center 在 Downs Hall Suite 127，电话 (908) 737-4850，周一至周五 9:00–17:00。",
+      "commute": "校园在 Union 城区 1000 Morris Avenue；住校生走校园步行圈，走读生靠 Raritan Valley 线 Union 站（校门对面）、26/52/113 路巴士或驾车。",
+      "scene": "社交主场 Miron Student Center（MSC），美食广场、便利店与社团办公室集中；社团门户 Cougar Link，Center for Leadership and Service 在 MSC Room 219。",
+      "safety": "Department of Public Safety & Police 24 小时在岗，驻地 Downs Hall；紧急拨 911，校警 908-737-4800（校内分机 x74800），kupolice@kean.edu；KUBIT 行为干预 (908) 737-5260；夜间护送由校警提供。",
+      "transit": "NJ Transit Raritan Valley 线 Union 站（900 Green Lane）就在主校区对面，东北往 Newark Penn、西南往 High Bridge；巴士 26、52 路沿 Morris Avenue 往返 Elizabeth 与 Springfield；113S 在 Salem Road 与 Morris Avenue 停靠，113N 直达东校区与主校区；学生凭 KeanWISE 账号享 NJ Transit 月票 25% 折扣。校园班车春秋学期周一至周五 7:30–22:45。",
+      "rentnote": "住校可选校属宿舍与公寓式楼；校外租房本页不给数字，按 Union 07083 邮编查当期挂牌价，另核押金与水电网费。",
+      "link": {
+        "cal": [
+          "https://www.kean.edu/offices/registrars-office/academic-calendar",
+          "Kean 注册校历"
+        ],
+        "ins": [
+          "https://www.kean.edu/offices/student-health-services/health-insurance",
+          "Kean 学生健康保险页"
+        ],
+        "clinic": [
+          "https://www.kean.edu/offices/student-health-services/location-hours-pregnant-and-parenting-students",
+          "Kean Student Health Services 地点与时段"
+        ]
+      }
+    },
+    "rutgersnewark": {
+      "short": "罗格斯大学纽瓦克分校",
+      "place": "纽瓦克",
+      "cityKey": "newark",
+      "calShort": "学期制，2026 秋 9 月 1 日开课",
+      "calendar": "学期制（semester）。2026 秋（Newark 本科与研究生通用日历，RBS 研究生与法学院另见各自日历）：9 月 1 日（周二）开课，9 月 5 日周六课开始，9 月 7 日劳动节校办关闭；9 月 10 日最后加课日、最后无 W 退课日；9 月 14 日全退 100% 退款截止，9 月 28 日 80%，10 月 12 日 60%，10 月 26 日 40% 退款截止、同日最后 W 退课日；11 月 25 日周五课表转换，11 月 26–29 日感恩节停课；12 月 10 日最后上课日，12 月 11–14 阅读日，12 月 14 日全校最终退课，12 月 15–22 日期末考试；冬季学期 12 月 23 日开始，12 月 25 日–2027 年 1 月 4 日冬假；1 月 18 日 MLK 日；2027 春 1 月 19 日（周二）开课。2027 春的加退课、W 退课与退款分档日期见后续发布的 Newark 春季日历页。",
+      "fulltime": "F-1 全职线（Newark 口径）：本科最低 12 学分；研究生院与 RBS–Newark/New Brunswick 硕士最低 9 学分；JD 学生最低 12 学分。每学期仅 1 门（3 学分）网课可计入全职，其余须面授；混合课须含面授环节，并向教授取得书面确认。",
+      "drop": "2026 秋：9 月 10 日前退课不进成绩单；W 退课期至 10 月 26 日；全校最终退课 12 月 14 日。全退学费分档：9 月 14 日前 100%、9 月 28 日前 80%、10 月 12 日前 60%、10 月 26 日前 40%，其后 0%。2027 春退课与退款分档日期见后续发布的 Newark 春季日历。",
+      "ins1": "SHIP（Student Health Insurance Plan），承保方 UnitedHealthcare Student Resources，University Health Plans 代管。强制对象：全日制学生与全部 Rutgers 校赞助 F/J 签证学生；非全日制国内学生可选；纯在线学位或只注册在线课的非学位学生不可投保。2026–27 费率（全日制/国际生，学生、配偶、子女同价）：秋季 1,378 美元（8/15/26–1/14/27），春夏 1,908 美元（1/15/27–8/14/27），第三学期 730 美元（5/26/27–8/14/27）；非全日制：秋 3,386.50、春夏 4,691.50、第三学期 1,793 美元。",
+      "ins2": "Waiver/enroll 截止：2026 秋 2026 年 9 月 25 日；2027 春 2027 年 2 月 10 日；夏季 enroll 截止 2027 年 6 月 30 日；截止不延期。未在截止前完成 waiver 或 enroll，将自动入保并承担账单保费；学期账单上扣费不等于完成 enroll。",
+      "ins3": "豁免条件：持综合医保；NJ FamilyCare 可用于 waiver；秋季保单生效日须显示 9/1、春季须显示 2/1；NJFC 审批需 60–90 天。联系：风险管理与保险办公室 848-932-8285、insure@rutgers.edu；UHP 833-251-1142、info@univhealthplans.com；UHCSR 866-599-4427、customerservice@uhcsr.com；F/J 校赞助学生走 RGlobal 848-932-7015。牙科与视力险由 UHP 另售。",
+      "clinic": "Student Health Services 在 Blumenthal Hall, 249 University Avenue, Room 104, Newark, NJ 07102；电话 973-353-5232 / 973-353-1390，邮箱 stuhlth@newark.rutgers.edu；门诊周一至周五 9:00–17:00；下班后 24 小时护理热线 866-221-9674。心理咨询中心在 Blumenthal Hall 101，电话 973-353-5805。",
+      "commute": "校园在 Washington Park／University Avenue 一带；从 Newark Penn Station 步行约 10–15 分钟；校车 Penn Station Local 往返 Penn 站与校园，经停 Blumenthal Hall。",
+      "scene": "城市型校园，社交主场 Paul Robeson Campus Center（350 Dr. Martin Luther King Jr. Blvd）；100 余个注册学生社团，入口为 Raiderlink 平台。",
+      "safety": "校园警为 RUPD（Rutgers University Police Department，授衔警察）Newark 分局；紧急拨 911；非紧急 973-353-5581；校内分机 5111 或 80；宿舍拨 973-353-5111；总部 200 University Avenue，电话 973-353-5547；步行护送拨 RUPD 973-353-5581。",
+      "transit": "Rutgers Newark 校车不收票价，但须出示 Rutgers、NJIT、RBHS 或 University Hospital 关联有效 ID；Campus Connect 连接 Newark 校园、NJIT、RBHS、University Hospital 与 Broad Street 站（工作日 7:00–23:30）；Penn Station Local 工作日 6:45–次日 0:15；午夜快车每日 0:00–4:00 往返 Penn 站与 Boyden Hall；实时位置经 PassioGo 查询。NJ Transit NEC/NJCL 经 Newark Penn 与 Broad Street 站。",
+      "rentnote": "校属宿舍与公寓按楼/房型计学期费（见住宿表，公开价目为 2025–26）；校外房源走校方住房门户与 downtown Newark 邮编查挂牌价，核对押金与水电杂费。",
+      "link": {
+        "cal": [
+          "https://myrun.newark.rutgers.edu/f26",
+          "RU–Newark 2026 秋校历"
+        ],
+        "ins": [
+          "https://finance.rutgers.edu/student-abc/insurance-students/student-health-insurance-plan-ship",
+          "Rutgers SHIP 保险页"
+        ],
+        "clinic": [
+          "https://studentaffairs.newark.rutgers.edu/health-wellness/student-health-services/student-health-insurance",
+          "RU–Newark 学生健康服务页"
+        ]
+      }
+    },
+    "njit": {
+      "short": "新泽西理工学院",
+      "place": "纽瓦克",
+      "cityKey": "newark",
+      "calShort": "学期制，2026 秋 9 月 1 日开课",
+      "calendar": "学期制（semester）：秋季与春季两学期，各约十五周，另有冬季与暑期短学期。2026 秋：9 月 1 日（周二）开课，9 月 5 日周六课开始，9 月 7 日劳动节校办关闭，9 月 8 日最后加退课日、100% 退款截止，9 月 9 日起退课记 W；9 月 15 日 90% 退款截止，9 月 29 日 50% 退款截止，10 月 2 日 Wellness Day，10 月 20 日 25% 退款截止；11 月 10 日最后退课日；11 月 25 日周五课表转换，11 月 26–29 日感恩节停课；12 月 13 日最后上课日，12 月 14–15 阅读日，12 月 16–22 日期末考试。2027 春：1 月 18 日 MLK 日，1 月 19 日（周二）开课，1 月 23 日周六课开始，1 月 25 日最后加退课日、100% 退款截止，1 月 26 日起记 W；2 月 1 日 90% 退款截止，2 月 15 日 50%，3 月 8 日 25%；3 月 21–27 日春假，3 月 26 日 Good Friday 停课、3 月 28 日复活节停课；4 月 5 日最后退课日；5 月 3 日最后上课日，5 月 4–5 阅读日，5 月 6–12 日期末考试。",
+      "fulltime": "F-1 全职线：本科每学期最低 12 学分、研究生最低 9 学分；每学期最多 3 学分网课可计入全职，其余须为面授课程；低于全职注册前须先经 OGI（Office of Global Initiatives）顾问批准。",
+      "drop": "2026 秋：9 月 8 日前退课不进成绩单（同日 100% 退款截止）；9 月 9 日起退课记 W，11 月 10 日为最后退课日。退款分档：9 月 8 日前 100%、9 月 15 日前 90%（部分退课此后不退）、9 月 29 日前 50%（全退）、10 月 20 日前 25%（全退），其后不退。2027 春：1 月 25 日前退课不进成绩单，4 月 5 日最后退课日；退款 1 月 25 日前 100%、2 月 1 日前 90%、2 月 15 日前 50%、3 月 8 日前 25%。",
+      "ins1": "NJIT 学生健康保险由 UnitedHealthcare Student Resources 承保。自动入保对象：秋季注册本科 12 学分及以上、研究生 9 学分及以上的全日制学生，以及任何持 F-1/J-1 签证的注册学生；纯在线项目或当学期只选在线课的学生不可投保。费率（FY2026–27，待州批准、可能调整）：全年 2,028.00 美元；仅春季 1,249.00 美元。",
+      "ins2": "豁免窗口：2026 秋 2026 年 8 月 2 日开放、2026 年 10 月 23 日截止；2027 春 2026 年 12 月 12 日开放、2027 年 2 月 19 日截止。F-1/J-1 学生除校方 Approved Sponsor 名单内的赞助者外，一律不可豁免；名单含科威特使馆、卡塔尔使馆、沙特文化使团、阿布扎比教育委员会、ADIA、ADNOC、阿联酋武官处、泰王国使馆、阿曼苏丹国、埃及使馆。",
+      "ins3": "豁免条件：自备保险须达到校方 waiver 标准，在 UHC 门户提交；UHC 在 48–72 小时内回复，被拒后可经 UHC 申诉。咨询：Bursar 保险邮箱 healthinsurance@njit.edu、电话 973-596-2877；waiver 核验邮箱 wverification@uhcsr.com。新入学 F-1/J-1 学生开学前一周即自动入保，覆盖国际生入学引导期。",
+      "clinic": "Student Health Services 设在 Saint Michael's Primary and Specialty Care Center，111 Central Avenue, Newark, NJ 07102；电话 973-596-3621（分机 5），邮箱 healthservices@njit.edu；现场 walk-in 周一至周五 8:00–15:30 ET；材料邮寄地址 323 Martin Luther King Blvd, Newark, NJ 07102。心理咨询 C-CAPS 在 Campbell Hall Room 205，电话 973-596-3414，邮箱 counseling@njit.edu。",
+      "commute": "校园在 University Heights（Central Avenue 与 Martin Luther King Blvd 之间）；Broad Street Station 步行约五个街区；Newark Light Rail 到 Warren Street 站；NJIT/Rutgers 校车凭 NJIT ID 免费乘坐。",
+      "scene": "工科为主的城市校园，社交沿 Campus Center、Campbell Hall 与各宿舍区展开；数百个注册学生社团，入口为 Highlander Hub（njit.campuslabs.com/engage）平台。",
+      "safety": "校园由 NJIT Department of Public Safety 24 小时巡逻并配步行/车辆护送；紧急拨 911 并说明位置为 NJIT；罪案线索 973-596-3111；一般咨询 973-596-3120 或 973-596-3116。周边为 Newark 市区，夜间往 Penn Station、Ironbound 一带结伴、走照明路段。",
+      "transit": "NJ Transit NEC/NJCL 到 Broad Street Station；Newark Light Rail 到 Warren Street 站；NJIT/Rutgers 校车连接两校、RBHS、University Hospital、Broad Street 站与 Newark Penn Station；校车与 DPS 总部保持无线电联络，另有无障碍车。",
+      "rentnote": "校属宿舍按楼/房型计学期费（见住宿表）；校外公寓本页不给数字，按 University Heights 与 downtown Newark 邮编查当期挂牌价，另核押金与水电网费。",
+      "link": {
+        "cal": [
+          "https://catalog.njit.edu/about-university/academic-calendar/",
+          "NJIT 校历"
+        ],
+        "ins": [
+          "https://www.njit.edu/bursar/student-health-insurance",
+          "NJIT 学生健康保险页"
+        ],
+        "clinic": [
+          "https://www.njit.edu/diversityprograms/resources",
+          "NJIT 健康服务与校园资源页"
+        ]
+      }
+    },
+    "csi": {
+      "short": "斯塔滕岛学院",
+      "place": "纽约·斯塔滕岛",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 28 日开课",
+      "calendar": "学期制（15 周常规段 + 两个 7.5 周短段）。2026 秋：8 月 28 日开课，12 月 14 日最后上课，12 月 15–21 日期末，12 月 21 日结课；停课 10 月 12 日、11 月 26–27 日、12 月 24–25 日、12 月 31 日–1 月 1 日。2027 春：1 月 28 日开课，5 月 21–27 日期末，5 月 27 日结课，6 月 3 日毕业典礼；停课 1 月 18 日、2 月 12 日；春假 4 月 21–29 日；冬季短段 1 月 4–25 日。",
+      "fulltime": "国际学生全职线（CGE 页原文）：本科每学期 12 学分、研究生 9 学分（或按研究生项目规定学分）；须线下到校上课，混合课须实体出勤；低于全职须事先获 Center for Global Engagement 的 Reduced Course Load 批准；学年内校内打工每周不超过 20 小时。",
+      "drop": "2026 秋：8 月 27 日前 100% 退款；9 月 3 日加课截止、资助认证日；9 月 17 日普查日、25% 退款、不记 W 退课截止；9 月 18 日起进入退课期、记 W/WN；7.5 周短段记 W 截止分别为 10 月 3 日与 11 月 30 日。2027 春：1 月 27 日前 100%；2 月 3 日加课截止、75% 退款；2 月 10 日 50%；2 月 17 日普查日、25% 退款、不记 W 截止；2 月 18 日起记 W；两个 7.5 周短段记 W 截止为 3 月 4 日与 5 月 8 日。",
+      "ins1": "CUNY 口径：一般学生不强制健康保险，校方强烈建议保持个人保障；校内不自动加入 SHIP、不设 waiver 窗口。J-1 交流学生/学者及 J-2 家属强制按 22 CFR 62.14 持险，入境签到时须出示保单证明。",
+      "ins2": "J-1 最低保障（CGE 页原文）：医疗福利至少 $100,000/事故或疾病；遗体遣返 $25,000；医疗运送回国 $50,000；免赔额不超过 $500/事故或疾病。页面列 ISI、International SOS、Compass、CISI、Trawick International 等保险组织。",
+      "ins3": "自购入口：Health Center 可约 NY State of Health Marketplace 现场协助员（MetroPlus：Onyea Troxler 332-323-9201）；Marketplace 电话 1-855-355-5777；国际学生保险咨询走 Center for Global Engagement（Global.Engagement@csi.cuny.edu）。",
+      "clinic": "Health and Wellness Services：Building 1C, Room 112；718-982-3045，healthcenter@csi.cuny.edu，传真 646-664-3987，TTY 718-982-3315；周一–周五 9:00–17:00；注册学生可用，服务免收费用；预约与 walk-in 均可。",
+      "commute": "2800 Victory Blvd，Willowbrook 区段；校园大、有林地与开阔空间；学生经渡轮+巴士或 SIR+巴士通学，Dolphin Cove 宿舍在校园内。",
+      "scene": "50 多个社团与组织；Campus Center 1C 内含 Bijou Theater、Game Room、祈祷冥想室；Student Government、CAB、Publication Board、WSIA-FM 为学生组织主干。",
+      "safety": "Public Safety 紧急 718-982-2111（校内分机 x2111）；护送等非紧急分机 x2116 / 718-982-2116；主任办公室 2A-108，718-982-2113；医疗紧急拨 911 同时报 PS；Counseling Center 1A-109，718-982-2391，周一–周五 9–5，另有 24/7 电话咨询。",
+      "transit": "曼哈顿方向：1 号线到 South Ferry（全天），R 号线到 Whitehall St（深夜 11pm–5am 除外），4/5 到 Bowling Green；Staten Island Ferry 免费、24 小时、约 25 分钟；到 St George 后转 S62/S92 巴士直达校园（约 30 分钟）；SIR 24 小时 St George–Tottenville，基础票 $2.75、单程票 $3.00，仅在 St George 站购票；SIM33 快车巴士从中城 57th St/3 Ave 到校园北门，基础票 $7.25；地铁单程 $3.00。",
+      "rentnote": "校内 Dolphin Cove 公寓式宿舍（2/3/4 居室，私人卧室）；校外以走读公寓与 homestay 为主，租金按挂牌价查当期价格，核对押金杂费。",
+      "link": {
+        "cal": "https://www.csi.cuny.edu/academics-and-research/academic-calendars-and-final-examination-schedule",
+        "ins": "https://www.csi.cuny.edu/campus-life/student-services/center-global-engagement/international-scholars-and-exchange-students",
+        "clinic": "https://www.csi.cuny.edu/campus-life/student-services/health-and-wellness-services"
+      }
+    },
+    "queens": {
+      "short": "皇后学院",
+      "place": "纽约·皇后区",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 28 日开课",
+      "calendar": "学期制（semester）。2026 秋：8 月 28 日开课，12 月 14 日最后上课，12 月 15–21 日期末，12 月 21 日结课；停课 9 月 7 日、10 月 12 日、11 月 26–27 日、12 月 24–25 日、12 月 31 日、1 月 1 日。2027 春：1 月 28 日开课，5 月 20 日最后上课，5 月 21–27 日期末，5 月 27 日结课；停课 1 月 18 日、2 月 12 日、2 月 15 日；春假 4 月 21–29 日，4 月 30 日复课；另有 1 月 4–25 日冬季短段。",
+      "fulltime": "F-1/J-1 全职线（QC ISS 页原文）：本科每学期至少 12 学分、研究生至少 9 学分；每学期网课最多 1 门可计入全职；低于全职须先经 ISSO 批准并办理 Reduced Course Load。",
+      "drop": "2026 秋：8 月 27 日前退课 100% 退款；9 月 3 日 75% 退款（同日加课截止）；9 月 10 日 50% 退款；9 月 17 日 25% 退款、WD 截止与普查日；9 月 18 日起进入 WN/P/NC 与自助退课期；11 月 6 日为记 W 最后日。2027 春：1 月 27 日前 100% 退款；2 月 3 日 75%；2 月 10 日 50%；2 月 17 日 25%、WD 截止；2 月 18 日起进入退课期；4 月 5 日记 W 最后日。",
+      "ins1": "CUNY 统一口径：不设强制学生 SHIP，校内不自动加入任何保险计划；F-1/F-2 非强制，校方强烈建议自购国际学生保险；J-1/J-2 按美国国务院 22 CFR 62.14 强制持险，须向本校 J-1 Responsible Officer 出示保单证明。",
+      "ins2": "J-1 最低保障（Queens 保险页原文）：医疗福利至少 $100,000/事故或疾病；医疗运送 $50,000；遗体遣返 $25,000；免赔额不超过 $500/事故或疾病。CUNY 与本校不背书任何保险商；页面列出 HTH Worldwide、International Student Insurance、IMG、ISO、Gateway Plans、Study USA-HealthCare、BETiNS 等组织。",
+      "ins3": "豁免：无强制计划即无 waiver 门户与起止日期；F-1/F-2 自备保险即可；自购可查 NY State of Health Marketplace；牙科等补充保障按个人需要另购。",
+      "clinic": "Health Services：Frese Hall 3 楼（临时迁至 Student Union 327，3 楼）；电话 718-997-2760，healthquestions@qc.cuny.edu；时段周一–周四 10:00–17:00，周五闭馆；以咨询、转诊与疫苗记录服务为主。",
+      "commute": "65-30 Kissena Blvd，Flushing/Kew Gardens Hills，LIE 出口 24 一带；校属 The Summit 在校园内 FitzGerald Gym 南侧；其余学生多住皇后区各处，靠公交与地铁通勤。",
+      "scene": "80 英亩校园，Flushing 与 Kew Gardens Hills 一带；社团、活动与 networking 经 Student Life 与 UKnighted 平台组织；校区邻近 Kissena Park。",
+      "safety": "Public Safety 24 小时 718-997-5911 / 5912（校内分机 75911/75912），蓝电话按按钮；健康中心 718-997-2760；心理辅导中心 718-997-5420（校内分机 75420）；即时危险同步拨 911。",
+      "transit": "7 号线到 Flushing–Main St，转 Q25 或 Q17 沿 Kissena Blvd 到校；E/F 到 Forest Hills–71 Av 转 Q64；LIRR Flushing Station 同转 Q25/Q17；Q34、Q64 等线路也停校园附近；时刻以 mta.info 为准。",
+      "rentnote": "校属 The Summit Apartments 为校内公寓式宿舍，含家具、水电网与基本设施；非强制餐计划；校外租房按挂牌价查当期价格，核对押金与杂费。",
+      "link": {
+        "cal": "https://www.qc.cuny.edu/registrar/wp-content/uploads/sites/123/2026/03/Fall-2026-AC.pdf",
+        "ins": "https://www.qc.cuny.edu/health/international-student-health-insurance/",
+        "clinic": "https://www.qc.cuny.edu/health/"
+      }
+    },
+    "sunyopt": {
+      "short": "州立视光学院",
+      "place": "纽约·曼哈顿",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 17 日开课",
+      "calendar": "OD/MS/PhD 研究生与专业学院。2026–27 校历（May 2026–May 2027 PDF）：一年级、二年级与研究生项目秋季 2026 年 8 月 17 日开课、12 月 7 日结课，中期考试 10 月 13–19 日；春季 2027 年 1 月 4 日开课、5 月 3 日结课，中期考试 2 月 25 日–3 月 5 日；春假 3 月 8–12 日（一、二年级与研究生项目）。停课日：9 月 7 日劳动节、10 月 12 日原住民日、11 月 26 日感恩节、12 月 25 日圣诞节、1 月 1 日元旦、1 月 18 日马丁·路德·金日、2 月 15 日总统日；三、四年级为临床轮转制，日期按各自轮转表。",
+      "fulltime": "全日制按 OD 项目课程表注册；研究生（MS/PhD）按研究生项目注册，低于全日制须先经 Office of Student Affairs 批准；网课计入规则以注册办公室当期规定为准。校内 Federal Work-Study 每周最多 20 小时、平均 6–8 小时，时薪 $17（FAQ 原文）。",
+      "drop": "校历 PDF 未列逐课退课与退款分档；退课、WD/W 截止日与退款比例以注册办公室（212-938-5509）当期通知和学生手册为准。2026 秋 8 月 17 日开课、12 月 7 日结课；2027 春 1 月 4 日开课、5 月 3 日结课。",
+      "ins1": "SUNY 体系国际学生健康保险项目：医疗由 UnitedHealthcare 承保、牙科由 Reliance Standard 承保；2026–27 学年 OD 与研究生费表均列 Foreign Student Health Insurance $2,371.21；研究生另列 Medical Evacuation/Repatriation Rider $99.85。",
+      "ins2": "2025/26 学生价目（官方 PDF 原文）：年保 8/15/25–8/14/26 共 $2,164.37；秋季段 8/15/25–1/14/26 $906.45；春季段 1/15/26–6/14/26 $896.35；春/夏季段 1/15/26–8/14/26 $1,257.92；另有独立医疗运送/遣返计划（Assist America）12 个月 $90.00。",
+      "ins3": "豁免与入口：校财务费表将境外学生健康保险列入费项；本校官网未公布单独的 waiver 门户与豁免起止日期，持符合要求的替代保单者向 Office of Student Affairs 咨询办理；理赔与保单查询走 UnitedHealthcare 会员门户，牙科走 Reliance Standard；后续保险与豁免安排以财务/学生事务当期通知为准。",
+      "clinic": "校内 University Eye Center（UEC）为视光教学门诊，可预约验光；学生一般医疗无校内独立健康中心，由 Office of Student Affairs 提供健康项目咨询与校外诊所转诊；心理咨询由校内 LCSW 提供短期咨询，预约 mentalhealth@sunyopt.edu（周一仅 Zoom）。",
+      "commute": "研究生院，学生多在大纽约都会区租房；无校属宿舍，学生自找曼哈顿及外区公寓，靠地铁与公交通学。",
+      "scene": "近 30 个学生社团与组织，年度 Talent Show 与 Eye-Ball 为传统活动；师生比 1:4；学术支持由 Center for Teaching and Learning 与 Office of Student Affairs 提供。",
+      "safety": "University Police（NYSUPD）紧急 212-938-5555；UPD 服务含护送、失物招领、门禁检查；大楼进出凭个人 ID 徽章；心理危机先联系咨询服务，下班后拨 988（24/7）。",
+      "transit": "校区 33 W 42nd St，邻近 Bryant Park/42 St 一带；42 St–Port Authority 有 A/C/E 线，42 St–Bryant Park/5 Av 有 7 号线，Times Sq–42 St 有 1/2/3、N/Q/R/W；FAQ 称 24 条纽约地铁线中有 18 条在学院几个街区内；线路时刻以 mta.info 为准。",
+      "rentnote": "本校无校属宿舍；学院每年由 Student Housing Committee 协助 incoming 学生找房，住房页列 EHS、International House、Literati 等合租/临时住宿资源与转租平台口径；校外租金按挂牌价查当期价格，核对押金与杂费。",
+      "link": {
+        "cal": "https://www.sunyopt.edu/wp-content/uploads/2026/05/2026-2027-Academic-Calendar.pdf",
+        "ins": "https://www.sunyopt.edu/wp-content/uploads/2025/11/SUNY-International-Health-Dental-Insurance-Cost-Breakdown_25-26.pdf",
+        "clinic": "https://www.sunyopt.edu/student-life-2/student-services/"
+      }
+    },
+    "jjay": {
+      "short": "约翰杰伊刑事司法学院",
+      "place": "纽约·曼哈顿中城西",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 28 日开课，2027 春 1 月 28 日开课",
+      "calendar": "学期制（CUNY 统一学期框架）：2026 秋 8 月 28 日开课、12 月 21 日学期结束，12 月 15–21 日期末；9 月 7 日、10 月 12 日、11 月 26–27 日、12 月 24–25 日与 12 月 31 日停课，10 月 13 日按周一课表。2027 春 1 月 28 日开课、5 月 27 日学期结束，5 月 21–27 日期末；2 月 12 日 Lincoln's Birthday、2 月 15 日 Presidents' Day 停课，3 月 11 日按周三课表、3 月 30 日按周一课表，4 月 5 日记 W 截止，4 月 21–29 日春假。",
+      "fulltime": "F-1 每学期须读满全日制：本科 12 学分、研究生 9 学分；因疾病或学业原因减轻到 6 学分或更少（RCL），须事先经 DSO 批准并保留记录。J-1 按联邦法规每学期至少注册 12 units（秋春两季），维持 DS-2019 有效。",
+      "drop": "2026 秋：8 月 27 日 100% 退款；9 月 3 日加课截止、75% 退款、最后不记 WD；9 月 10 日 50%；9 月 17 日 25%、记 W 前最后退课日；9 月 18 日起记 W；11 月 6 日记 W 截止。2027 春：1 月 27 日 100%；2 月 3 日加课/75%；2 月 10 日 50%；2 月 17 日 25%；2 月 18 日记 W 开始；4 月 5 日记 W 截止。",
+      "ins1": "CUNY 统一：本校无校级强制 SHIP，不自动加入、不由学校统一承保。John Jay 保险页原文：does not mandate Health Insurance and does not endorse any of the following health plans；F-1/F-2 不强制，建议自购；J-1/J-2 按学校 J-1 法规页须在整个项目期内持有符合联邦指南的保险。",
+      "ins2": "J-1 合格保单按 DOS 22 CFR 62.14：医疗每项事故或疾病至少 $100,000；遗体遣返 $25,000；医疗运送回国 $50,000；免赔额不超过 $500/事故或疾病。保险证明交本校 ISSS（Inga Mezale，646-781-5214，imezale@jjay.cuny.edu）。",
+      "ins3": "官网列 Compassbenefit、ISO、NY State of Health、DentSave、Stu-Dent、Sentry 等信息性选项，John Jay 与 CUNY 不为国际生背书任何保险公司；保费官网不列价，以承保方当期报价为准。校内就诊先去 Health Center（NB Room L68.00，212-237-8052/8053）。",
+      "clinic": "Health Center：524 West 59th Street, New Building Room L68.00, NY 10019；212-237-8052/8053，healthoffice@jjay.cuny.edu；周一、周二、周四、周五 9:00–17:00，周三 9:00–19:00。Counseling：同层 walk-in，212-237-8111，时段以官网 FAQ 当日公布为准，免费保密。",
+      "commute": "走读型中城校园：学校不管理学生宿舍、不提供住宿安置；学生自行在外租房，多住 Hell's Kitchen、上西城、Chelsea 或外区，地铁公交通学。",
+      "scene": "刑事司法专门校：犯罪学、法律相关、刑事司法管理、警务、司法科学等方向集中；校园在 Columbus Circle 与 Hell's Kitchen 交界，近 Central Park 西南角、Carnegie Hall 与 Lincoln Center。",
+      "safety": "Department of Public Safety：紧急 212-237-8888（分机 8888）；办公室 212-237-8524，Room L2.61 NB，publicsafety@jjay.cuny.edu；NB 岗亭 212-621-4174，周一至周日 7:00–23:00。下班后先接 DPS，校外拨 911；心理危机拨 1-888-NYC-WELL 或短信 WELL 到 65173。",
+      "transit": "地铁 A/C/1 到 Columbus Circle，B/D 同站；Penn Station 乘 A/C/1，Grand Central 乘 7 到 Times Square 换 1；公交 M5、M11 沿线设站。地铁与本地公交票价 $3，OMNY 轻触进出站，7 日封顶 $35（MTA）。",
+      "rentnote": "学校不管理宿舍，Housing Resources 页列 EHS、The Towers at CCNY、FOUND Study、92Y Residence 等私人供应商；价格以各供应商当期报价为准，签约前核对押金、杂费、租期与转租条款，官网不列固定租金。",
+      "link": {
+        "cal": [
+          "https://www.jjay.cuny.edu/current-academic-calendars",
+          "John Jay 注册校历"
+        ],
+        "ins": [
+          "https://www.jjay.cuny.edu/student-life/wellness/health-center/medical-insurance",
+          "John Jay 健康保险页"
+        ],
+        "clinic": [
+          "https://www.jjay.cuny.edu/student-life/wellness/health-center",
+          "John Jay Health Center"
+        ]
+      }
+    },
+    "hunter": {
+      "short": "亨特学院",
+      "place": "纽约·曼哈顿上东城",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 28 日开课，2027 春 1 月 28 日开课",
+      "calendar": "学期制（CUNY 统一学期框架）：2026 秋 8 月 28 日开课、12 月 21 日学期结束，12 月 15–21 日期末；9 月 7 日、10 月 12 日、11 月 26–27 日、12 月 24–25 日与 12 月 31 日停课，10 月 13 日按周一课表。2027 春 1 月 28 日开课、5 月 27 日学期结束，5 月 21–27 日期末；2 月 12 日、2 月 15 日停课，3 月 11 日按周三课表、3 月 30 日按周一课表，4 月 21–29 日春假，5 月 31 日 Memorial Day 停课。",
+      "fulltime": "F-1 每学期须读满全日制：本科 12 学分、研究生 9 学分；至少 75% 为面授模式，本科至少 9 学分、研究生至少 6 学分为 In Person/Hybrid/Hyfield，Hybrid 计入面授。低于全日制的 RCL 须事先经 ISO 批准并提交 Full-Time Certification Form。",
+      "drop": "2026 秋：8 月 27 日 100% 退款；9 月 3 日加课截止、75% 退款；9 月 10 日 50%；9 月 17 日 25%、记 W 前最后退课日；9 月 18 日起记 W；11 月 6 日记 W 截止。2027 春：1 月 27 日 100%；2 月 3 日加课/75%；2 月 10 日 50%；2 月 17 日 25%；2 月 18 日记 W 开始；4 月 5 日记 W 截止。",
+      "ins1": "CUNY 统一：本校无校级强制 SHIP，不自动加入、不由学校统一承保。Hunter 健康保险页原文：强烈建议（strongly recommends）学生自购健康保险；F-1/F-2 不强制，校方建议购足健康与旅行险；J-1 学生须在拿到 DS-2019 之前购足符合要求的保险。",
+      "ins2": "J-1 合格保单按 DOS 22 CFR 62.14：医疗每项事故或疾病至少 $100,000；遗体遣返 $25,000；医疗运送回国 $50,000；免赔额不超过 $500/事故或疾病。保单证明随 DS-2019 材料交本校 ISO（East Building Room 1109/1133，intlss@hunter.cuny.edu）。",
+      "ins3": "官网列示 USI Affinity、ISP、ISOA、ISI 等信息性供应商，Hunter 与 CUNY 不为国际生背书任何保险公司；保费官网不列价，以承保方当期报价为准。校内就诊先找 Health Services（North 307，212-772-4800）。",
+      "clinic": "Health Services（Immunization Records）：North Building Room 307，695 Park Ave；212-772-4800，healthandwellness@hunter.cuny.edu，时段以官网联系页当日公布为准。Counseling & Wellness：East Building Room 1119，212-772-4931，周一至周五 9:00–17:00，免费保密。",
+      "commute": "走读型垂直校园，主校区在 67–69 街 Lexington Ave 至 Park Ave 一带；校属公寓两处分别在 51 街与 79 街，其余学生靠地铁公交通学。",
+      "scene": "文理为主、辅以职业学院：文理、教育、Hunter-Bellevue 护理、健康职业、Silberman 社工五院；上东城校园，邻近大都会博物馆、亚洲协会与 Frick 收藏。",
+      "safety": "Public Safety：68 街校区紧急/24 小时 212-772-4444；总机 212-772-4447，publicsafety@hunter.cuny.edu；校内先拨 9 再拨 911，校园外拨 911；心理危机可拨 800-SUICIDE。",
+      "transit": "地铁 6 号线到 68 St–Hunter College 站，站台直通校园入口；备选 F 线到 63 St–Lexington Ave 北行到校。地铁与本地公交票价 $3，OMNY 轻触进出站，7 日封顶 $35（MTA）。",
+      "rentnote": "校属公寓为 51st 与 79th Street Residence 两处，价目按每人每学年（Aug–May）列原文；校外租房官网不给数字，按邮编查挂牌价并核对押金、杂费与转租条款。",
+      "link": {
+        "cal": [
+          "https://hunter.cuny.edu/students/registration/academic-calendar/",
+          "Hunter 注册校历"
+        ],
+        "ins": [
+          "https://hunter.cuny.edu/students/health-wellness/immunization-records/health-insurance/",
+          "Hunter 健康保险页"
+        ],
+        "clinic": [
+          "https://hunter.cuny.edu/students/health-wellness/immunization-records/",
+          "Hunter Health Services"
+        ]
+      }
+    },
+    "rutgers": {
+      "short": "罗格斯大学新布伦瑞克",
+      "place": "新布伦瑞克",
+      "cityKey": "newbrunswick",
+      "calShort": "学期制，秋季 2026 年 9 月 1 日开课",
+      "calendar": "学期制（semester）。2026 秋（NB 本科日历）：9 月 1 日（周二）开课并开始 add/drop；9 月 7 日 Labor Day 停课；9 月 8 日上周一课表；本科无 W 退课/加课截止 9 月 10 日，研究生加退课截止 9 月 14 日；本科 W 退课期 9 月 11 日–10 月 26 日；Thanksgiving recess 11 月 26–29 日；最后上课日 12 月 10 日；阅读日 12 月 11、14 日；全校最终退课 12 月 14 日；期末 12 月 15–22 日；冬季学期 12 月 23 日开始；冬假 12 月 25 日–2027 年 1 月 18 日；MLK 日 1 月 18 日；春季 1 月 19 日开始。2027 春：开课 1 月 19 日；本科无 W 退课/加课 1 月 28 日、研究生 2 月 1 日；本科 W 期 1 月 29 日–3 月 22 日；春假 3 月 13–21 日；最后上课日 5 月 3 日；阅读日 5 月 4、5 日；全校最终退课 5 月 5 日；期末 5 月 6–12 日；毕业典礼 5 月 16 日；Memorial Day 5 月 31 日；夏季学期 6 月 1 日开始、8 月 19 日结束。",
+      "fulltime": "F-1/J-1 全职线（New Brunswick 口径）：本科每学期最低 12 学分，其中至少 9 学分面授或混合；研究生最低 9 学分，其中至少 6 学分面授或混合；每学期最多 3 学分网课计入全职；有面授环节的混合课按面授计。",
+      "drop": "2026 秋：本科 9 月 10 日前退课不进成绩单；W 退课期 9 月 11 日–10 月 26 日，本科最终 W 10 月 26 日；研究生各学院截止 10 月 19、10 月 26、11 月 23 日不等；全校最终退课 12 月 14 日。2027 春：本科 1 月 28 日前退课不进成绩单；W 期 1 月 29 日–3 月 22 日，本科最终 W 3 月 22 日；研究生各学院截止 3 月 8、3 月 15、4 月 12 日不等；全校最终退课 5 月 5 日。全退学费分档：秋 9/1–9/14 退 100%、9/15–9/28 退 80%、9/29–10/12 退 60%、10/13–10/26 退 40%、其后 0%；春 1/19–2/1 退 100%、2/2–2/15 退 80%、2/16–3/1 退 60%、3/2–3/24 退 40%、其后 0%。",
+      "ins1": "SHIP（Rutgers University–New Brunswick 口径）承保方 UnitedHealthcare Student Resources（UHCSR），University Health Plans 代管。强制对象：全日制学生与全部 Rutgers 校赞助 F/J 签证学生；每学期截止前须完成 waiver 或 enroll；非全日制国内学生可选；纯在线学位/纯在线非学位学生不可投保。2026–27 费率（全日制/国际生；学生、配偶、子女同价，两名以上子女不另收费）：秋季 8/15/2026–1/14/2027 1,378 美元；春夏 1/15/2027–8/14/2027 1,908 美元；第三学期（护理/Adv. Standing）5/26/2027–8/14/2027 730 美元。非全日制另有价目：秋 3,386.50、春夏 4,691.50、第三学期 1,793 美元。",
+      "ins2": "Waiver/enroll 截止：Fall 2026 2026 年 9 月 25 日；Spring 2027 2027 年 2 月 10 日；夏季 enroll 截止 2027 年 6 月 30 日；截止不延期。未在截止前 waiver 或 enroll 将自动入保并承担账单保费。豁免条件：持综合医保；NJ FamilyCare 可用于 waiver；秋季保单生效日须显示 9/1、春季须显示 2/1；NJFC 审批需 60–90 天。牙科/视力险由 UHP 另售。Newark、Camden 校区费率与号码不适用 NB，本页不混列。",
+      "ins3": "联系渠道：校内 insure@rutgers.edu / 848-932-8285；UHP 833-251-1142 / info@univhealthplans.com；UHCSR 866-599-4427 / customerservice@uhcsr.com；F/J 校赞助学生走 RGlobal 848-932-7015。健康中心电话 848-932-7402，与保险办公室分开。",
+      "clinic": "NB 三个健康中心：Hurtado Health Center，11 Bishop Place, New Brunswick, NJ 08901；Busch-Livingston Health Center，110 Hospital Rd, Piscataway, NJ 08854；Cook-Douglass Health Center，61 Dudley Rd, Suite 150, New Brunswick, NJ 08901。三中心统一电话 848-932-7402，health@rutgers.edu，门户 nbstudenthealthportal.rutgers.edu。CAPS Main Office，17 Senior St, New Brunswick，848-932-7884；下班后拨 848-932-7884 按 2 接持证心理师。",
+      "commute": "校内五校区免费校车相连；校外公寓多在 Easton Ave、Somerset St 一带，步行或校车到校。",
+      "scene": "巨型研究型大学，五校区相连；社交沿 College Ave、The Yard 与 Downtown New Brunswick 展开；700 余个注册组织。",
+      "safety": "紧急警/消/医拨 911（可电话可短信）；RUPD NB 非紧急 732-932-7211（校内电话拨 2-7211）；Knight Mover 夜间班车 732-932-7433；24/7 步行护送 732-932-7211；Rave Guardian app；心理危机拨 848-932-7884 按提示，或 call/text 988。",
+      "transit": "NJ Transit Northeast Corridor 线 New Brunswick 站直达 NY Penn Station，经 Newark，同时服务 Newark 与 Trenton 方向。校内校车 A/B/C/EE/F/H/LX/REXB/REXL 连接 College Ave、Busch、Livingston、Cook/Douglass，正常时段免费、不查 ID；TripShot 与 myRutgers app 查实时位置。校方口径：NB 距 EWR 24 英里、Newark 27 英里、NYC 36 英里、Philadelphia 65 英里。",
+      "rentnote": "校属宿舍按楼/房型计学年费（见 house 表）；校外房源走校方门户 offcampushousing.rutgers.edu，租金按挂牌价查并核对押金杂费。",
+      "link": {
+        "cal": [
+          "https://nbregistrar.rutgers.edu/undergrad/f26ugcal.htm",
+          "NB 2026 秋本科校历"
+        ],
+        "ins": [
+          "https://finance.rutgers.edu/student-abc/insurance-students/student-health-insurance-plan-ship",
+          "SHIP 保险页"
+        ],
+        "clinic": [
+          "https://health.rutgers.edu/about-us/hours-and-locations",
+          "NB 健康中心地址与时间"
+        ]
+      }
+    },
+    "montclair": {
+      "short": "蒙特克莱尔州立大学",
+      "place": "蒙特克莱尔",
+      "cityKey": "montclair",
+      "calShort": "学期制，秋季 2026 年 8 月 28 日开课",
+      "calendar": "学期制（semester），每学期含 14 周 Session A 与两段 7 周 Session B/C。2026 秋：Session A 8 月 28 日（周五）–12 月 16 日（周三），Session B 8 月 28 日–10 月 16 日，Session C 10 月 26 日–12 月 16 日；9 月 7 日 Labor Day 停课，10 月 17–25 日 Fall Break，11 月 25–29 日 Thanksgiving 停课，12 月 14 日上周四课表、12 月 15 日上周五课表。2027 春：Session A 1 月 15 日（周五）–5 月 3 日（周一），Session B 1 月 15 日–3 月 5 日，Session C 3 月 15 日–5 月 3 日；1 月 18 日 MLK 日停课，3 月 6–14 日 Spring Break，3 月 26 日 Good Friday 停课。冬季学期 2026 年 12 月 21 日–2027 年 1 月 13 日。",
+      "fulltime": "全职线：本科每学期注册 12 学分及以上、研究生 9 学分及以上；纯在线学位项目豁免保险要求且不可投保 SHIP。网课计入全职的学分口径本轮未在校页单列。",
+      "drop": "2026 秋退课截止（注册办公室 Add/Drop 表）：Session A（14 周）100% 退费 add/drop 截止 9 月 4 日，9 月 5 日起进入 W 区间，50% 退费至 9 月 24 日，9 月 25 日起无调整，最终退课日 11 月 5 日，waitlist 9 月 2 日结束；Session B（7 周）add/drop 9 月 4 日、W 9 月 5 日、50% 至 9 月 9 日、9 月 10 日无调整、最终 WD 9 月 30 日；Session C（7 周）add/drop 11 月 2 日、W 11 月 3 日、50% 至 11 月 8 日、11 月 9 日无调整、最终 WD 11 月 29 日。Final Add/Drop 前退课不进记录，其后到学期第十周退课记 WD。2027 春季的 add/drop、退课与退费截止日官网尚未发布，发布后以 Registrar Add/Drop 页当期表格为准。",
+      "ins1": "SHIP 由 Aetna Student Health 承保，接入 Aetna 全国 PPO 网络，不须选 PCP、不须转诊；University Health Plans（UHP）代管，电话 833-251-1705、info@univhealthplans.com。自动加入：全日制学生（本科≥12 学分、研究生≥9 学分）自动在学期账单计 SHIP；纯在线学位项目豁免且不可投保。2026–27 保费：全年 3,170 美元（8/15/2026–8/14/2027），半年 1,954 美元（1/2/2027–8/14/2027）。",
+      "ins2": "豁免窗口：Fall 2026 waiver 截止 2026 年 9 月 14 日（周一）；Spring 2027 waiver 截止日官网尚未发布，发布后以 UHP/inside 保险页当期表为准。豁免条件：须持 ACA 合规、在美国备案获批的综合保单；F-1 学生不论兼职/全职都须持此类保单，J-1 须满足美国国务院最低要求；州或联邦补贴计划（如 NJ FamilyCare、NY Medicaid）不合豁免要求；GBG、HDL Global Specialty、ISO、PGH(United)、PSI、Student Medicover、Tata AIG 被校方列为不符要求。国际生没有在线 waiver 表，先自动入账，须邮件或电话联系 UHP 索取国际生 waiver 表。",
+      "ins3": "豁免通过后账单保留原收费，另以 Health Insurance Waiver 抵免信用冲抵；保单不按比例退费，提前毕业、退校或截止日后买到新保单都不退，保障持续到保单期末。Student Health Center 不处理保险问题；Aetna ID 卡可在保险门户凭学生 ID、生日与在校邮箱申领，不能直接从网页打印。",
+      "clinic": "Student Health Center 两址：Montclair 校区 Blanton Hall 一层，973-655-3459，askanurse@montclair.edu，周一至周五 8:30–17:00；Bloomfield 校区 Talbott Hall 二层，973-655-2800，bc-healthservices@montclair.edu，周一至周五 8:30–16:30。所有学生不论保险均可门诊，不收 co-pay；建议电话预约，急病多在 24 小时内接诊。",
+      "commute": "住校生在校园步行或校区内短途；走读生靠 NJ Transit 火车与 11/28、191、705 路公交往返。",
+      "scene": "Montclair 山上校园；Student Center 为餐饮社团中枢；山下 Montclair Center、Upper Montclair 为餐馆购物带。",
+      "safety": "UPD（校警）紧急/EMS/24 小时 973-655-5222，msupolice@montclair.edu；33 名全职警员加 7 名调度，蓝灯求助柱直连校警，另有 Rave Guardian app 与 e-TIPS。CAPS 973-655-5211，下班后按选项 2 直连在岗持证咨询师；非工作时间校内拨 UPD 973-655-5222 联系在岗心理学家；全国危机线 988。",
+      "transit": "NJ Transit Montclair-Boonton 线两站：Montclair State University 站（100 Clove Road）与 Montclair Heights 站（Normal Ave 与 Carlisle Rd 交口），工作日直达 NYC 与 Hoboken，经 Newark Broad St、Secaucus；两站周末无火车。公交 11/28、191（Red Hawk Deck ↔ Port Authority）、705。火车须上车前在售票机或 MyTix 购票，车上补票收 5 美元罚金；公交须自备零钱。MyBus 973-275-5555，校公交站 ID 18141。",
+      "rentnote": "校属宿舍按楼/房型计学年费（见 house 表）；校外房源走校方门户 offcampushousing.montclair.edu，租金按挂牌价查、核对押金杂费。",
+      "link": {
+        "cal": [
+          "https://www.montclair.edu/academics/academic-calendar/academic-calendar-2026-2027/",
+          "MSU 2026–27 校历"
+        ],
+        "ins": [
+          "https://inside.montclair.edu/resources/red-hawk-central/student-accounts-office/student-health-insurance",
+          "SHIP 保险页"
+        ],
+        "clinic": [
+          "https://inside.montclair.edu/health-safety-wellness/student-health-center",
+          "Student Health Center"
+        ]
+      }
+    },
+    "njcu": {
+      "short": "新泽西城市大学",
+      "place": "泽西城",
+      "cityKey": "jerseycity",
+      "calShort": "学期制；2026 秋／2027 春日期官网未发布，按 2026 春口径参考",
+      "calendar": "学期制（semester），全日制约十六周，研究生另有七周分段。2026 秋/2027 春校历官网尚未发布，以下为 2026 春已发布口径，发布后以官网为准：全日制学期 2026 年 1 月 20 日开课、5 月 18 日结束；研究生七周第一段 1 月 20 日–3 月 17 日、第二段 3 月 20 日–5 月 10 日。",
+      "fulltime": "F-1 全职线：本科每学期 12 学分、研究生 9 学分；每学期只能将一门网课计入全职；最后一学期低于全职须经 DSO 确认安排。",
+      "drop": "2026 秋/2027 春退课日期校历官网尚未发布，以下为 2026 春已发布口径，发布后以官网为准：1 月 29 日前 Add/Drop 可 100% 退学费并改正课表；1 月 30 日起进入退课期；2 月 18 日前退课退 50% 学费并记 W；4 月 15 日为记 W 最后截止。退课表电子版交 registrar@njcu.edu。",
+      "ins1": "自 2022 年秋季起，NJCU 不再向学生提供校方团体健康保险计划；入学无需向学校提交保险证明。",
+      "ins2": "J-1 交换访问学者按美国政府规定必须持有符合国务院标准的健康保险，停留全程保持；F-1 学生校方强烈建议自行投保，不强制通过学校购买。",
+      "ins3": "旧版校方计划的豁免门槛（保额、遗体运送、医疗转运、自付额、网络内共保比例）随该计划停用失效；J-1 保险按国务院 DS-2019 项目标准执行；保险选项见校方健康保险页（见 link.ins）。",
+      "clinic": "NJCU Health & Wellness Center（HWC），Vodra Hall 一楼，仅预约制；电话 201-200-3456 或 201-200-3764，hwc@njcu.edu；大学医生春秋季兼职坐诊，月度排班在 HWC 领取。服务含急救与轻症、短期处理、OTC 药物、验孕、血压筛查；校外化验、X光、处方费用学生自理。TeleHealth：TimelyCare（timelycare.com/njcu）免费开通，处方药费用另付。",
+      "commute": "城区通勤型校园；多数学生走读，短途靠 HBLR 西大道站步行或免费班车，去曼哈顿靠 PATH 与巴士。",
+      "scene": "社交主场 Gilligan Student Union（GSUB）；社团、学生会与希腊生活由 Center for Leadership and Engagement（GSUB 109，201-200-3585）统筹；校区邻泽西城西大道街区。",
+      "safety": "NJCU Department of Public Safety，Rossey Hall Room 115，24 小时在岗，201-200-3128，publicsafety@njcu.edu；校内分机 51；提供校园内与西大道火车站之间的护送；应急通知走 Rave Alert。",
+      "transit": "PATH 到 Journal Square 换 10 路巴士直达校门，或 80 路到 Audubon 与 West Side 大道步行三街区；HBLR 到 West Side Avenue 终点站步行四街区南行转 Culver 大道；曼哈顿 Port Authority 乘 119 路直达；校园免费班车往返西校区宿舍、主校区、体育馆与西大道站。",
+      "rentnote": "校属宿舍数量有限，国际新生首学年（两学期）住校要求见住宿表；校外公寓本页不给数字，按泽西城西大道／Journal Square 邮编查挂牌价，另核押金与水电网费。",
+      "link": {
+        "cal": [
+          "https://www.njcu.edu/directories/offices-centers/registrar/academic-calendars/undergraduate-academic-calendar",
+          "NJCU 本科校历页"
+        ],
+        "ins": [
+          "https://www.njcu.edu/student-life/campus-services-resources/health-wellness-center/student-health-insurance",
+          "NJCU 学生健康保险页"
+        ],
+        "clinic": [
+          "https://www.njcu.edu/student-life/campus-services-resources/health-wellness-center/about-us",
+          "NJCU 健康与健康中心"
+        ]
+      }
+    },
+    "rowan": {
+      "short": "罗文大学",
+      "place": "格拉斯伯勒",
+      "cityKey": "glassboro",
+      "calShort": "学期制，2026 秋 8 月 31 日开课",
+      "calendar": "学期制（semester）：秋季与春季两学期，各约十六周，暑期另有短学期。2026 秋：8 月 31 日开课，9 月 7 日劳动节停课，11 月 26–29 日感恩节停课，12 月 8 日阅读日，12 月 9–16 日期末考试，12 月 16 日学期结束。2027 春：1 月 19 日开课，3 月 13–21 日春假，5 月 10–18 日期末考试，5 月 16 日毕业典礼，5 月 18 日学期结束。",
+      "fulltime": "F-1 全职线：本科每学期 12 学分（其中至少 9 学分为面授）、研究生 9 学分（其中至少 6 学分为面授）；每学期只能将一门网课计入全职学分；最后一学期低于全职需经 DSO 批准。",
+      "drop": "2026 秋全学期课：常规 Drop/Add 8 月 31 日–9 月 8 日、延后 Drop/Add 9 月 9–15 日；9 月 16 日–11 月 20 日退课记 W。2027 春：常规 Drop/Add 1 月 19–25 日、延后 1 月 26 日–2 月 1 日；2 月 2 日–4 月 12 日退课记 W。退款口径：仅在 Drop/Add 最后一天之前退课退学费；Add/Drop 结束后退课不退学费与费用；宿舍按周按比例退至第五周、餐计划退至第三周。",
+      "ins1": "RUSHIP（Rowan University Student Health Insurance Plan）由 Aetna Student Health 承保、University Health Plans 管理；全日制注册学位生自动加入，本科 12 学分及以上、研究生 9 学分及以上被纳入；持 F-1 的国际生须持符合豁免要求的美国本土保险，否则随计划出现在账单。",
+      "ins2": "保费（2026–27，学生单人）：全年 3,170 美元（2026-08-01 至 2027-07-31）、春／夏季 1,841 美元（2027-01-01 至 2027-07-31）。豁免提交窗口：2026 秋入学新生 2026 年 9 月 21 日前；2027 春入学或转入学生 2027 年 2 月 8 日前；CMSRU 口径 2026 年 7 月 30 日。",
+      "ins3": "豁免条件：持美国出具、符合 ACA 的保险，含新泽西南部地区门诊与住院保障；ISI、ISO 等面向国际学生的保险计划可被接受；旅行险、灾难型保险不满足豁免。理赔与保单门户经 University Health Plans（电话 833-251-1143）。",
+      "clinic": "Rowan Student Health Services（Wellness Center）位于 Winans Hall，电话 856-256-4333；门诊时段以健康服务当期排班页为准。非门诊时段心理支持：拨 856-256-4333 按 3 找值班心理咨询师，或拨校警 856-256-4911 转接值班咨询师。",
+      "commute": "住校内宿舍步行通学；校外沿 Delsea Drive（Rt.47）与 Rowan Boulevard 一带，短途步行或校园接驳车。",
+      "scene": "社交主场在 Chamberlain Student Center 与 Rowan Boulevard 学生街区；SGA 注册 100 余个学生社团，社团入口为 ProfLink 平台。",
+      "safety": "Rowan University Police / Public Safety：紧急 856-256-4911（校内分机 4911），非紧急 856-256-4922，犯罪线索线 856-256-7428；可拨 856-256-4922 申请校园步行护送。",
+      "transit": "公共交通靠 NJ Transit 巴士 313、412 等线路到 Glassboro 校园；校园间接驳车凭有效学生 ID 免费往返 Glassboro 与 Camden，Camden WRTC 衔接 PATCO 进费城、River Line 往特伦顿；自驾到费城约 20 分钟。",
+      "rentnote": "校内宿舍按楼型固定价目见住宿表；校外公寓本页不给数字，按 Glassboro 邮编查当期挂牌价，另核押金与水电网费。",
+      "link": {
+        "cal": [
+          "https://catalog.rowan.edu/content.php?catoid=16&navoid=1410",
+          "Rowan 2026–27 校历"
+        ],
+        "ins": [
+          "https://sites.rowan.edu/bursar/healthinsurance/",
+          "Rowan 学生健康保险页"
+        ],
+        "clinic": [
+          "https://www.rowan.edu/campus_life/health_safety.html",
+          "Rowan Health & Safety 页"
+        ]
+      }
+    },
+    "cunygc": {
+      "short": "纽约市立大学研究生院",
+      "place": "纽约·曼哈顿",
+      "cityKey": "ny",
+      "calShort": "纯研究生院，2026 秋 8 月 28 日开课",
+      "calendar": "研究生院口径（无本科校历）：2026 秋 8 月 28 日开课；9 月 7 日闭校；10 月 12 日闭校、10 月 13 日按周一课表；11 月 25 日无课，11 月 26–27 日闭校；12 月 15–21 日期末，12 月 21 日结课；12 月 24–25 日闭校。2027 春 1 月 28 日开课；2 月 12 日、2 月 15 日闭校；3 月 10 日无课、3 月 11 日按周三课表；3 月 30 日按周一课表；4 月 21–29 日春假；5 月 17 日无课；5 月 21–27 日期末，5 月 27 日结课。",
+      "fulltime": "硕士项目注册 9 学分及以上为全职；博士 Level I 以 7 学分/WIU（Weighted Instructional Units）及以上计全职，Level II/III 按博士阶段费率。网课计入全职的门数限制以研究生院手册与 ISSS 当期通知为准；低于全职须按研究生院手册报备。",
+      "drop": "2026 秋：8 月 27 日 100% 退款；8 月 28 日开课、75% 退款期开始；9 月 3 日 75% 截止；9 月 4 日 50% 期开始；9 月 10 日 50% 截止；9 月 11 日 25% 期开始；9 月 17 日 25% 截止、最后无 W 退课；9 月 18 日起记 W；11 月 6 日最后 W。2027 春：1 月 27 日 100%；1 月 28 日开课、75% 开始；2 月 3 日 75%；2 月 4 日 50% 开始；2 月 10 日 50% 截止；2 月 11 日 25% 开始；2 月 17 日 25% 截止；2 月 18 日记 W；4 月 5 日最后 W。退款政策：开课前 100%，一周内 75%，两周内 50%，三周内 25%，之后不退。",
+      "ins1": "GC 面向普通学生不设自动加入的学生健康保险计划，保险页仅列资格性博士雇员的 NYSHIP/SEHP。CUNY 统一：J-1/J-2 必须投保，F-1/F-2 强烈建议自购，CUNY 不背书任何商业保险商；普通学生可经 NYS Marketplace 与校方学生保险资源指南自行选择计划。",
+      "ins2": "豁免（waiver）：无强制 SHIP、无自动加入批次，也无 waiver 门户与起止日期。资格性博士雇员可走 NYSHIP/SEHP：须同时满足三项——GC 博士项目在读；受聘于 PSC 头衔（Graduate Assistant A/B/C/D、Adjunct Instructor、Adjunct Lecturer、Adjunct CLT、Non-Teaching Adjunct I/II）；年收入至少 $4,122，或单学期至少 $2,061。材料交 GC Student Affairs 办理。",
+      "ins3": "NYSHIP/SEHP 2026 双周保费：个人 $31.33、家庭 $179.83（含配偶、子女、同居伴侣），由 GC 与 Chancellery 补贴；医院 Anthem Blue Cross，医疗/检验 UnitedHealthcare，处方 CVS Caremark，心理与成瘾 Carleon Behavioral Health，牙科 Anthem Blue Cross，视力 Davis Vision；咨询 1-877-769-7447，healthinsuranceinfo@gc.cuny.edu。",
+      "clinic": "Wellness Center / Student Counseling Services：Suite 6422, 365 Fifth Avenue, NY 10016；212-817-7020，wellness@gc.cuny.edu；周一–五 9:00–17:00（周五现场到 16:00、远程到 17:00）。健康中心不提供直接临床门诊，只做健康教育、疫苗记录归档与外部就诊转介。",
+      "commute": "主体教学在第五大道 365 号一栋楼（34–35 街之间，前 B. Altman 楼）；附属公寓在 East Harlem 118 街；研究生多住布鲁克林、皇后区或上城，通勤靠地铁。",
+      "scene": "纯研究生院（博士与硕士），楼内公共讲座、研讨会、展览与 DGSC 活动密集；社交以项目小组、特许社团与学术活动为主，通勤文化明显。",
+      "safety": "Security & Public Safety 24/7：212-817-7777（校内 x7777）；校内拨 9 再拨 911；安全主任 212-817-7761，副主任 212-817-7768；楼内走廊与公共场所有蓝色 Emergency Assistance Stations。心理咨询危机时段可 walk-in；下班后校内紧急报公安 212-817-7777；心理危机 988；National Grad Crisis Line 1-877-472-3457；短信 CUNY 到 741741。",
+      "transit": "B/D/F/M/N/Q/R/W 到 34 St–Herald Square；1/2/3/A/C/E 到 34 St–Penn Station；6 号线到 33 St；PATH 到 33 St；公交 M1/M2/M3/M4/M5/M34/Q32 到 Fifth Ave & 34 St；线路以 mta.info 为准。",
+      "rentnote": "GC Apartments 在 165 East 118th St, East Harlem，月租见 house 表；候名单先到先得、无信用核查。校外多数研究生合租布鲁克林、皇后区或上城区，按挂牌价查，核对押金与杂费。",
+      "link": {
+        "cal": [
+          "https://gc.catalog.cuny.edu/academics/the-graduate-center-calendar",
+          "GC 2026–27 校历"
+        ],
+        "ins": [
+          "https://www.gc.cuny.edu/student-affairs/student-health-insurance-nyship",
+          "GC NYSHIP 学生雇员保险"
+        ],
+        "clinic": [
+          "https://www.gc.cuny.edu/student-health-services",
+          "GC Student Health Services"
+        ]
+      }
+    },
+    "ccny": {
+      "short": "纽约市立学院",
+      "place": "纽约·曼哈顿",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 28 日开课",
+      "calendar": "学期制（semester），北曼哈顿 Hamilton Heights/Harlem 的住宿型校园。2026 秋 8 月 28 日开课；停课 9 月 7 日、10 月 12 日、11 月 26–27 日、12 月 24–25 日、12 月 31 日、1 月 1 日；12 月 14 日最后上课，12 月 15–21 日期末，12 月 21 日结课。2027 春按 CUNY 中央目录：1 月 28 日开课，5 月 21–27 日期末，5 月 27 日结课，春假 4 月 21–29 日；CCNY 校本春历 PDF 未定位，春学期停课日以校本校历页为准。",
+      "fulltime": "F-1/J-1 全职线（CCNY ISSS 页原文）：本科每学期至少 12 学分、研究生至少 9 学分、博士至少 7 学分；必须人在美国境内；冬季课程不计入春季负荷，夏季课程不计入秋季负荷；每学期网课最多 1 门，混合课可计入面授注册。低于全职须先咨询国际学生顾问，否则危及 SEVIS 身份。",
+      "drop": "2026 秋：8 月 27 日 100% 退款；9 月 3 日加课截止、75% 退款；9 月 4 日起记 WD；9 月 10 日 50% 退款；9 月 17 日 25% 退款、普查日、最后无 W 退课；9 月 18 日起记 WN 与 W；11 月 6 日为最后退课记 W 日。2027 春（CUNY 中央目录口径）：1 月 27 日 100%；2 月 3 日 75%；2 月 10 日 50%；2 月 17 日 25%；2 月 18 日起记 W；4 月 5 日最后 W。",
+      "ins1": "CUNY 统一口径：J-1 交流学生/学者及 J-2 家属必须持健康保险；F-1/F-2 目前可选，但校方强烈建议本人与家属在停留期间投保，因美国医疗费用很高。原文：CUNY does not endorse any particular health insurance provider for international students. 国际学生顾问与健康服务中心可协助寻找合适计划。",
+      "ins2": "豁免（waiver）：CCNY 未设自动加入的强制 SHIP，页面无自动加入批次，也未列 waiver 提交门户与窗口起止日期；F-1/F-2 自备保险即可，J-1/J-2 按强制要求投保。若后续 CCNY 公告统一保险计划与豁免通道，以 ISSS 当期页面为准。",
+      "ins3": "校方虽不强制，但建议所选计划含医疗运送与遗体送返（Medical Evacuation & Repatriation）；校内 SHS 注册护士临床服务对在读学生免费、保密。",
+      "clinic": "Student Health Services（SHS）：Marshak Science Building, Room J15, 160 Convent Avenue, NY 10031；212-650-8222，传真 212-650-8227，shs@ccny.cuny.edu；周一–五 9:00–17:00（有限服务）。心理咨询中心同址 Marshak J15，212-650-8222，counseling@ccny.cuny.edu，周一–五 9:00–17:00，walk-in 13:00–15:00。",
+      "commute": "校园在 137 街 Convent Ave 坡上；1 号线 137 St–City College 出站步行上山；A/D/B/C 到 145 St & St Nicholas Ave，再接校免费接驳班车。",
+      "scene": "住宿型校园：课堂、图书馆、餐饮与社团围绕 NAC 与 Marshak 楼；The Towers 宿舍在 130 街；南边 125 街是 Harlem 商业带。",
+      "safety": "Public Safety：紧急 212-650-7777（校内分机 7777）；24 小时一般咨询 212-650-6911；传真 212-650-7991，publicsafety@ccny.cuny.edu；办公室 NAC Room 4/201, 160 Convent Avenue。危机短信：文本 CUNY 到 741741（24/7）；心理危机 988；急症 911。",
+      "transit": "1 号线 137 St–City College，步行穿小公园上 138 街；A/D 快车、B/C 慢车 145 St & St Nicholas Ave；M100/M101 到 Amsterdam Ave & 138 街；校免费接驳班车往返 125 街与 145 街地铁站，须刷 CCNY ID 乘坐。线路以 mta.info 为准。",
+      "rentnote": "校属公寓 The Towers 在 401 W 130th St，费率见 house 表，房费直接付给 Towers、不并入学费账单；校外走读资源见校方 student affairs 页，本页不给固定数字，按挂牌价查并核对押金与杂费。",
+      "link": {
+        "cal": [
+          "https://www.ccny.cuny.edu/sites/default/files/2026-03/Fall%202026%20Academic%20Calendar.pdf",
+          "CCNY 2026 秋校历 PDF"
+        ],
+        "ins": [
+          "https://www.ccny.cuny.edu/isss/healthinsurance",
+          "CCNY 健康保险页"
+        ],
+        "clinic": [
+          "https://www.ccny.cuny.edu/shs",
+          "CCNY Student Health Services"
+        ]
+      }
+    },
+    "baruch": {
+      "short": "巴鲁克学院",
+      "place": "纽约·曼哈顿",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 28 日开课",
+      "calendar": "学期制（semester），商科与公共事务导向的垂直校园。2026 秋 8 月 28 日开课，12 月 14 日最后上课，12 月 15–21 日期末，12 月 21 日结课；停课日 9 月 7 日、10 月 12 日、11 月 26–27 日、12 月 24–25 日。2027 春 1 月 28 日开课，5 月 21–27 日期末，5 月 27 日结课，春假 4 月 21–29 日；2 月 15 日闭校。另有两个七周短段各自单独排截止日。",
+      "fulltime": "F-1/J-1 全职线（Baruch ISSC 页原文）：本科每学期至少 12 学分、研究生每学期至少 9 学分；低于全职须先经 ISSC 批准并提交兼职注册表。按 8 CFR 214.2(f)(6)(i)(G)，每学期网课最多 1 门可计入全职。",
+      "drop": "2026 秋（常规段）：8 月 27 日前退课 100% 退款；9 月 3 日加课截止、退课 75% 退款；9 月 10 日 50% 退款；9 月 17 日 25% 退款、之后不退，当日为普查日；9 月 17 日前退课不记 W；11 月 6 日为最后退课记 W 日。2027 春：1 月 27 日前 100% 退款，1 月 28 日开课；2 月 1 日为不记 W 退课与 25% 退款截止；最后记 W 日 4 月 5 日（CUNY 中央目录口径）。春季 75%/50% 分档日期校历页未完整核到。",
+      "ins1": "CUNY 统一口径：不设强制学生 SHIP，校内不自动加入任何保险计划；J-1 交流学生/学者及 J-2 家属必须持有效健康保险，F-1/F-2 非强制但校方强烈建议自购。Baruch 健康保险页不背书任何保险商，页面列出 NY State Marketplace、NADAP 导航员与 MetroPlus 协助员，以及 ISO、International Student Protection、International Student Insurance 等国际学生保险组织；公共医疗补助计划不对国际或外州学生开放。",
+      "ins2": "豁免（waiver）：CUNY 与本校均未设自动加入的强制学生保险计划，页面也未列豁免（waiver）提交通道与起止日期；无强制计划即无需提交豁免表，F-1/F-2 学生自备保险即可，J-1/J-2 按强制要求持有效保单。后续若学院公告统一保险计划与豁免窗口，以本校学生事务页当期通知为准。",
+      "ins3": "牙科保险可走 NYU College of Dentistry 的 Stu-Dent Plan；校内健康中心：有保险的学生不再在校内打疫苗，无保险或保险不足者仍可在校内接种。保险咨询入口：NADAP 导航员 212-986-1170 / ipa@nadap.org；MetroPlus 协助员 Brandon Lara 917-583-9175（周一–五 9:00–17:00）。",
+      "clinic": "Student Health Care Center：138 East 26th Street, Main Floor（Lexington 与 3rd Avenues 之间），NY 10010；646-312-2040，传真 646-312-2041，StudentHealthCareCenter@baruch.cuny.edu；由 Icahn School of Medicine at Mount Sinai 提供服务。2026 秋时段（8 月 3 日–12 月 18 日）：周一闭；周二 9:00–17:00（14:00–15:00 休）；周三 9:00–17:00（12:00–13:00 休）；周四 10:00–18:00（14:00–15:00 休）；周五远程。",
+      "commute": "垂直校园散在 23–25 街 Lexington Ave 与 3rd Ave 之间；校方合作床位在 51 街 Lexington，其余学生多住外区，靠地铁通勤。",
+      "scene": "商科与公共事务导向，楼宇集中在 Kips Bay/Flatiron 街区；午餐、社团与 networking 沿 23–25 街、Park Avenue South 与 Flatiron 一带展开。",
+      "safety": "Public Safety：紧急 646-312-3333（校内电话分机 3333）；非紧急 646-660-6000；办公室 152 E. 26th Street, H-160，Public.Safety@baruch.cuny.edu。心理咨询：工作时间内 Counseling Center 646-312-2155；下班后拨 988（24/7，200 多种语言）。",
+      "transit": "地铁 6 号线到 23 St；N/R 与 R/W 线到 23 St（Broadway 侧）；F/M 到 23 St（6 Ave），1 到 23 St（7 Ave），C/E 到 23 St（8 Ave）；M23 跨城公交走 23 街；线路与首末班以 mta.info 为准。",
+      "rentnote": "本校无校属自建宿舍楼；仅经住房项目分配 FOUND Study–Midtown East 合作租赁床位，名额竞争激烈、不保证，优先州外或距校 30 英里以上学生。校外租房按挂牌价查当期价格，核对押金与杂费；校方 off-campus 页面只列资源、不背书不审核。",
+      "link": {
+        "cal": [
+          "https://enrollmentmanagement.baruch.cuny.edu/registrar/academic-calendar/",
+          "Baruch 学术校历"
+        ],
+        "ins": [
+          "https://studentaffairs.baruch.cuny.edu/health/health-insurance/",
+          "Baruch 健康保险页"
+        ],
+        "clinic": [
+          "https://studentaffairs.baruch.cuny.edu/health/",
+          "Baruch Health Services"
+        ]
+      }
+    },
+    "downstate": {
+      "short": "州立下城健康科学大学",
+      "place": "纽约·布鲁克林",
+      "cityKey": "ny",
+      "calShort": "研究生/专业学院学期制，2026 秋 8 月 24 日老生开课",
+      "calendar": "健康科学研究生/专业学院学期制，按各学院日历执行（SOHP/Nursing 与 SPH 2026-27 日历日期一致）。2026 秋：8 月 24 日（周一）新生 orientation/注册、老生首日上课，8 月 25 日（周二）新生首日；8 月 24 日–9 月 2 日 Add/Drop（不记 W），9 月 2 日无学费责任退课截止；9 月 7 日劳动节无课，9 月 25 日退 W 截止，10 月 12 日 Indigenous Peoples’ Day 无课，10 月 30 日 WP/WF 截止，11 月 3 日选举日照常上课，11 月 11 日退伍军人节无课，11 月 26–27 日感恩节无课；12 月 4 日最后上课/临床，12 月 7–11 日期末，12 月 18 日成绩录入截止。2027 春：1 月 18 日 MLK 日无课，1 月 19 日（周二）开课，1 月 19–27 日 Add/Drop，1 月 27 日无责任退课截止；2 月 15 日 Presidents’ Day 无课，2 月 19 日退 W 截止；3 月 15 日春假开始、3 月 22 日复课，3 月 30 日 WP/WF 截止；4 月 30 日最后上课，5 月 3–7 日期末，5 月 10 日毕业典礼，5 月 14 日成绩截止。医学院 Foundations 单元另有独立日历，本轮未展开。",
+      "fulltime": "强制保险与注册口径：全体医学院学生、全日制本科 12+ 学分、全日制研究生 9+ 学分，以及所有修临床课程的非全日制学生；F-1 全职学分线以各学院研究生/专业手册与本校 DSO 口径为准，临床实习按项目安排。",
+      "drop": "2026 秋：8 月 24 日–9 月 2 日 Add/Drop 不记 W；9 月 2 日前无学费责任；9 月 25 日退 W 截止；10 月 30 日 WP/WF 截止。2027 春：1 月 19–27 日 Add/Drop；1 月 27 日无责任截止；2 月 19 日退 W 截止；3 月 30 日 WP/WF 截止。临床课程按实习点假日表执行，假期可能有临床义务。",
+      "ins1": "SUNY Downstate 自有强制学生健康保险（属 SUNY 体系，不是 CUNY 那套）：承保方 UnitedHealthcare StudentResources，经纪 HSAC, Inc.。强制对象：全体医学院学生、全日制本科 12+ 学分、全日制研究生 9+ 学分、所有修临床课的非全日制学生。保费（含校方管理费，原文口径）：Summer 2026（6–7 月）1,230 美元；Fall 2026（8–12 月）3,300 美元（9 月新生按 9–12 月折算）；Spring 2027（1–7 月）4,620 美元；Summer 2027（6–7 月）1,320 美元。保障期：秋 8/1–12/31（5 个月）、春 1/1–7/31（7 个月）、夏 6/1–7/31。",
+      "ins2": "自动加入：注册即自动入账；注册截止前未豁免则保险生效且不退费。豁免窗口：老生可豁免至开课第一天；6/8/9 月入学新生收到 Admissions 通知后即可操作；秋季老生豁免流程约 6 月 1 日开始；上学期已豁免者，除非注册状态或保险变化，无需每年重免。豁免条件：现有保障等同或优于 Downstate 计划；Medicaid/州计划/ACA/父母保险者须等到下一选择期（8/1 或 1/1）才能豁免；研究生院持 NYSHIP/Empire Plan 福利者仍须每年至少在线豁免一次。",
+      "ins3": "理赔入口：在 uhcsr.com 建账号，查理赔状态、打印临时保险卡、看 EOB 与找网络内 provider；豁免系统由 HSA Consulting 运营，核验需 3–5 个工作日；经纪 HSAC，2477 Stickney Point Road Suite 207B, Sarasota FL 34231，(888) 978-8355。牙科项目（Dental Program）已停办。",
+      "clinic": "Student Health Center，440 Lenox Road, Suite 1W, Brooklyn NY 11203；预约 (718) 270-2018，下班后 (718) 270-4577；周一至周五 8:00–16:00，周末与节假日闭；常规就诊无自付挂号费，所有注册学生不论保险状态均可就诊；Medicat 门户 downstate.medicatconnect.com 可预约、留言、上传材料。",
+      "commute": "医学中心校园（450 Clarkson Ave），教学楼、图书馆与 University Hospital 连片；宿舍楼在 New York Ave，与教学区隔街；临床学生按轮转医院点走动。",
+      "scene": "University Council 代表 5 个学院/学校，联络校行政并资助社团；Student Center 每年协调 500+ 场项目（球赛、文化节、Spring Fling、献血、校外观赛等）；校内篮球联赛、Mini-Course（瑜伽、探戈、尊巴等）；学生组织 40+（SUNY 校页口径）。",
+      "safety": "UPD / Public Safety：(718) 270-2626，校内分机 2626；办公室 Hospital Lobby, 445 Lenox Rd；24/7 巡逻、入口岗亭与 CCTV；GME 非紧急 (718) 270-1984；NYPD 911；夜间护送与班车按 UPD 时刻表运行。",
+      "transit": "地铁 Winthrop Street 站（2/5）；UPD 班车白天 on-call，下午 2:00 后定点每 15 分钟一班，停 Winthrop St 地铁站、711/710 Parkside Ave、Benificial Lot（404 Winthrop St）、760 Parkside Ave 等点；公交 B12、B44 沿周边走行。",
+      "rentnote": "有两栋校属宿舍楼（811/825 New York Avenue），仅按学年住宿、无纯夏季床位；Res Life 提供 Off-Campus Housing Form，校外房源与租约由学生自行核验；周边房租按月变动，按邮编查挂牌价。",
+      "link": {
+        "cal": [
+          "https://www.downstate.edu/education-training/academic-calendars/academic-calendars/",
+          "Downstate 各学院日历索引"
+        ],
+        "ins": [
+          "https://www.downstate.edu/education-training/student-affairs/student-health-insurance-program/",
+          "Downstate 学生健康保险计划"
+        ],
+        "clinic": [
+          "https://www.downstate.edu/education-training/student-services/student-health/hours-and-scheduling.html",
+          "Student Health Center 时段与预约"
+        ]
+      }
+    },
+    "citytech": {
+      "short": "纽约市立技术学院",
+      "place": "纽约·布鲁克林",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 28 日开课",
+      "calendar": "学期制（semester）。2026 秋：8 月 27 日（周四）100% 退款退课截止、学期开始，8 月 28 日（周五）开课、加课截止、75% 退款截止；9 月 3 日为不记 WD 退课截止，9 月 4 日起记 WD；9 月 7 日劳动节闭校，9 月 10 日前 50% 退款，9 月 11–13 日无课，9 月 17 日前 25% 退款且 WD 截止，9 月 18 日起记 W，9 月 21 日无课；10 月 12 日闭校、10 月 13 日按周一课表；11 月 6 日退 W 截止，11 月 25 日无课，11 月 26–27 日感恩节闭校；12 月 15–21 日期末考试，12 月 21 日学期结束，12 月 24–25 日闭校，12 月 31 日与 2027 年 1 月 1 日闭校。2027 春：1 月 18 日 MLK 日闭校，1 月 27 日（周三）100% 退款退课截止、学期开始，1 月 28 日（周四）开课、加课截止、75% 退款截止；2 月 3 日为不记 WD 退课截止，2 月 4 日起记 WD，2 月 6 日周六无课，2 月 10 日前 50% 退款，2 月 12 日 Lincoln’s Birthday 闭校，2 月 15 日 Presidents’ Day 闭校，2 月 17 日前 25% 退款且 WD 截止，2 月 18 日起记 W；4 月 5 日退 W 截止，4 月 21–29 日春假；5 月 21–27 日期末，5 月 27 日学期结束，5 月 31 日 Memorial Day 闭校。",
+      "fulltime": "CUNY 统一口径：F-1 本科每学期至少 12 学分、研究生通常 9 学分；减负荷（RCL）须本校 DSO 预先批准并录入 SEVIS。",
+      "drop": "2026 秋：8 月 27 日前 100% 退款；8 月 28 日 75% 退款并可加课，9 月 3 日为不记 WD 退课截止，9 月 4 日起记 WD；9 月 10 日前 50%，9 月 17 日前 25% 且 WD 截止；9 月 18 日起记 W，11 月 6 日退 W 截止。2027 春：1 月 27 日前 100%；1 月 28 日 75% 退款并可加课，2 月 3 日为不记 WD 退课截止，2 月 4 日起记 WD；2 月 10 日前 50%，2 月 17 日前 25% 且 WD 截止；2 月 18 日起记 W，4 月 5 日退 W 截止。",
+      "ins1": "CUNY 统一口径：CUNY 不向 F-1 强制统一校险；City Tech 页面未列自动加入的 SHIP。Student Wellness Center 提供免费免疫与保密基础服务，并做保险信息导航，不承保。",
+      "ins2": "豁免窗口：不适用——无强制校险、无 waiver 截止日；J-1 学生按国务院最低标准自备保险：医疗 ≥100,000 美元、医疗运送 50,000 美元、遗体运送 25,000 美元、自付额 ≤500 美元，证明交本校 J-1 Responsible Officer。",
+      "ins3": "理赔入口：自备保险按承保方会员门户办理；校内转诊合作 Downtown Medical Services（DMS），81 Willoughby Street, 4th Floor, Brooklyn NY 11201，电话 718-522-3399，DMS 就诊费用另计。",
+      "clinic": "Student Wellness Center，Academic Building ALL110；电话 718-260-5910，邮箱 WellnessCenter@citytech.cuny.edu；周一、周二、周四、周五 9:00–17:00，周三 9:30–18:30，无课时段闭；现场服务免费。",
+      "commute": "Downtown Brooklyn 多栋楼宇连成一片（300 Jay St、259 Adams St、Tillary Plaza、285 Jay St）；步行通勤为主，靠地铁换乘进城与跨区。",
+      "scene": "SGA 由 7 名执委与 13 名参议员组成；社团与活动名单走 City Tech Connect 平台；Club Hours 周四 12:45–14:15；N.E.S.T. 资源中心发食物与日用品等必需品。",
+      "safety": "Campus Security 紧急 718-260-5555；Public Safety 非紧急分机 5550、校外拨 718-260-5550；校警为有逮捕权的 Campus Peace Officers；各楼入口查验 ID。校园时段周一至五 7:00–22:30（学生），教师 23:00 闭楼，周末 7:00–17:00；建议注册 CUNY A!ert 紧急通知。",
+      "transit": "Jay St–MetroTech 站（A/C/F/R/N/W）与 Borough Hall 站（2/3/4/5）步行可达；地铁/本地公交单程 3.00 美元（OMNY 口径，2026-01-04 起票价）。",
+      "rentnote": "City Tech 是 commuter campus，官方 self-study 定性「City Tech is a commuter campus」；无校属宿舍。Downtown Brooklyn、Brooklyn Heights、Fort Greene 与 Clinton Hill 房租月月变动：按邮编查挂牌价，核对押金与杂费；本页不给固定数字。",
+      "link": {
+        "cal": [
+          "https://www.citytech.cuny.edu/registrar/docs/fall_2026.pdf",
+          "City Tech Fall 2026 校历"
+        ],
+        "ins": [
+          "https://www.qc.cuny.edu/health/international-student-health-insurance/",
+          "CUNY 国际学生健康保险口径"
+        ],
+        "clinic": [
+          "https://www.citytech.cuny.edu/wellness-center/",
+          "City Tech Student Wellness Center"
+        ]
+      }
+    },
+    "medgar": {
+      "short": "梅德加·埃弗斯学院",
+      "place": "纽约·布鲁克林",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 27 日开课",
+      "calendar": "学期制（semester）。2026 秋：8 月 27 日（周四）开课、100% 退款退课截止，8 月 28 日（周五）晚注册（$25）；9 月 3 日加课截止、75% 退款退课截止，9 月 4 日起记 WD；9 月 7 日劳动节闭校，9 月 10 日前 50% 退款，9 月 11–13 日无课，9 月 17 日前 25% 退款，9 月 18 日起正式退课记 W，9 月 21 日无课；10 月 12 日闭校、10 月 13 日按周一课表；11 月 6 日退 W 截止，11 月 25 日无课，11 月 26–27 日感恩节闭校；12 月 14 日最后上课，12 月 15–21 日期末考试，12 月 21 日学期结束，12 月 24–25 日闭校。2027 春：1 月 18 日 MLK 日闭校，1 月 27 日（周三）开课、100% 退款退课截止，1 月 28 日（周四）晚注册（$25）；2 月 3 日加课截止、75% 退款，2 月 4 日起记 WD，2 月 6 日周六无课，2 月 10 日前 50% 退款，2 月 12 日、2 月 15 日闭校，2 月 17 日前 25% 退款，2 月 18 日起记 W；4 月 5 日退 W 截止，4 月 21–29 日春假；5 月 20 日最后上课，5 月 21–27 日期末，5 月 27 日学期结束，5 月 28 日毕业典礼。",
+      "fulltime": "CUNY 统一口径：F-1 本科每学期至少 12 学分、研究生通常 9 学分；减负荷（RCL）须本校 DSO 预先批准并录入 SEVIS；暑校不强制注册，除非春秋学期负荷已减。",
+      "drop": "2026 秋：8 月 27 日前退课 100% 退款；9 月 3 日前退课 75% 退款并可加课，9 月 4 日起记 WD；9 月 10 日前 50%，9 月 17 日前 25%；9 月 18 日起记 W，11 月 6 日退 W 截止。2027 春：1 月 27 日前 100%，2 月 3 日前 75%，2 月 4 日起记 WD；2 月 10 日前 50%，2 月 17 日前 25%；2 月 18 日起记 W，4 月 5 日退 W 截止。",
+      "ins1": "CUNY 统一口径：CUNY 不向 F-1 学生强制统一校险，MEC 页面未列自动加入的 SHIP；F-1 学生及家属被建议自行购买含医疗运送与遗体运送的国际学生健康保险。校内 Health Services 只做免疫合规、分诊与公共保险导航，不承保。",
+      "ins2": "豁免窗口：不适用——没有强制校险，也就没有 waiver 截止日；J-1 学生按美国国务院最低标准自备保险：医疗 benefits 至少 100,000 美元、医疗运送 50,000 美元、遗体运送 25,000 美元，自付额不超过 500 美元，证明交本校 J-1 Responsible Officer。",
+      "ins3": "理赔入口：自备商保按承保方会员门户办理；校内 Office of Health Services 可协助 enroll NYC Health Insurance Plans（NY State of Health、Medicaid、Child Health Plus 等）并做转诊；MEC 未设校险理赔门户。",
+      "clinic": "Office of Health Services（OHS），Student Service Building 1637 Bedford Avenue, Room S-217；电话 (718) 270-6075；周一至周五 9:00–17:00（节假日与暑期按校历调整）；凭有效学生证免费，提供 CUNY 免疫诊所、急救与保密咨询。",
+      "commute": "Crown Heights 街区，教学楼沿 Bedford Avenue 与 Carroll Street 分布（1637/1638/1650 Bedford Ave、1150 Carroll St）；步行通勤为主，校外住宿靠地铁与公交。",
+      "scene": "约 30 个学生俱乐部与组织，学生会由 Student Life 协调；Club Hours 为周一、周三 11:30–13:00；商学院 9 个社团含 AMA、NABA、MECPLS、MECSPA 等；校队 Cougars 属 NCAA DIII。",
+      "safety": "Public Safety 24/7 在岗：紧急线 718-270-6003（校内分机 6003），非紧急刑事投诉 718-270-6069；办公室 1638 Bedford Ave Room C17；提供夜间步行护送；通用紧急号 911。",
+      "transit": "地铁 Franklin Av–Medgar Evers College 站（2/3/4/5）与 President St–Medgar Evers College 站（2/5）步行可达；公交覆盖 Crown Heights。地铁/本地公交单程 3.00 美元（OMNY 口径，2026-01-04 起票价），AirTrain 另计。",
+      "rentnote": "本校无校属宿舍；国际生目录原文「Housing arrangements must be made by the student」，住宿自行安排。Crown Heights 及邻近街区房租月月变动：按邮编查挂牌价，核对押金与杂费；本页不给固定数字。",
+      "link": {
+        "cal": [
+          "https://mec.catalog.cuny.edu/academics/academic-calendars",
+          "MEC 学术校历"
+        ],
+        "ins": [
+          "https://www.qc.cuny.edu/health/international-student-health-insurance/",
+          "CUNY 国际学生健康保险口径"
+        ],
+        "clinic": [
+          "https://mec.catalog.cuny.edu/student-services/health-services",
+          "MEC Health Services"
+        ]
+      }
+    },
+    "brooklyn": {
+      "short": "布鲁克林学院",
+      "place": "纽约·布鲁克林",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 28 日开课",
+      "calendar": "学期制（CUNY 统一学期框架）：2026 秋 8 月 28 日开课、12 月 21 日学期结束，12 月 15–21 日期末；9 月 7 日停课，10 月 12 日停课、10 月 13 日按周一课表，11 月 25 日无课、11 月 26–27 日停课、11 月 28 日无课。Winter 2027：1 月 4 日开课、1 月 25 日期末并结束。2027 春 1 月 28 日开课、5 月 27 日学期结束，5 月 21–27 日期末；2 月 12、2 月 15 日停课，3 月 10 日无课、3 月 11 日按周三课表，3 月 28 日无课、3 月 30 日按周一课表，4 月 21–29 日春假，5 月 17 日无课，5 月 31 日停课。",
+      "fulltime": "F-1 全日制：本科 12 学分、研究生 9–12 学分（按培养项目）；本科至少 9 学分非纯在线，研究生至少 6 学分非纯在线；本校身份 PDF 原文「There is no maximum of online courses F-1 students can take」；低于全日制须事先经 DSO 批准 RCL。",
+      "drop": "2026 秋：8 月 27 日 100% 退款截止；9 月 3 日加课/75% 退款/FA 认证；9 月 10 日 50%；9 月 17 日 25%、普查；9 月 18 日记 W 开始；11 月 6 日记 W 截止。2027 春：1 月 27 日 100%；2 月 3 日加课/75%；2 月 10 日 50%；2 月 17 日 25%/普查；2 月 18 日记 W 开始；4 月 5 日记 W 截止。退课 liability 按学期学费责任表，Student Activity、Consolidated、Technology 费不退。",
+      "ins1": "CUNY 统一：本校无校级强制 SHIP，不自动加入、无 waiver 窗口；J-1 学生及 J-2 家属强制持符合 DOS 要求的有效保单，覆盖整个在美停留；F-1/F-2 不强制。",
+      "ins2": "J-1 标准按 22 CFR 62.14(a)：医疗每项事故或疾病至少 $100,000；遗体遣返 $25,000；医疗运送回国 $50,000；免赔额不超过 $500/事故或疾病；到校后向 ISS 提交保险证明。",
+      "ins3": "F-1 可经 New York State of Health 市场自行投保，符合条件者可申请 Medicaid/Child Health Plus；CUNY 不背书任何保险公司；保费金额官网不列价，购买前以承保方当期报价为准。",
+      "clinic": "Health Clinic：114 Roosevelt Hall；电话 718.951.5580，传真 718.951.5869，bchealthclinic@brooklyn.cuny.edu；周一/二/四 10:00–18:00（末次预约 17:30），周三 10:00–19:00（末次 18:30）；就诊免费保密，Navigate360 预约；外送化验可能走保险或学生自付。Personal Counseling 在 0203 James Hall，718.951.5363。",
+      "commute": "走读型 CUNY 学院，无校属宿舍；学生多住布鲁克林与纽约其他区，靠地铁 2/5/Q 与 B41/B44 公交通学。",
+      "scene": "校园在 Midwood，红砖木式建筑与草坪被称为「纽约城里的新英格兰校园」；Student Center 是学生政府与休闲中心，Quad、lily pond 与图书馆是课间社交点。",
+      "safety": "Campus and Community Safety Services：24 小时 Operations 718.951.5511；紧急校内线 718.951.5444 / 718.951.5445（校内分机 5444/5445）；校外拨 911；Public Safety Office 0202 Ingersoll Hall。",
+      "transit": "2 线或 5 线到 Flatbush Avenue–Brooklyn College 站，沿 Hillel Place 向西走一个街区到 Hillel Gate；Q 线到 Avenue H 站，沿 Avenue H 向东走四个街区到 Campus Road；B41、B44 到 Flatbush Avenue 与 Nostrand Avenue；地铁/本地公交 $3，7 日封顶 $35（MTA）。",
+      "rentnote": "本校无校属宿舍；官方住宿页只列两个第三方/合作公寓，页面不给租金数字；Midwood 及周边挂牌价月月变动，按邮编查挂牌价并核对押金、担保与杂费。",
+      "link": {
+        "cal": [
+          "https://www.brooklyn.edu/registrar/academic-calendars/",
+          "Brooklyn College 注册校历"
+        ],
+        "ins": [
+          "https://www.brooklyn.edu/wp-content/uploads/ISS_Brooklyn_College_Maintaining_Your_F1_Student_Status2023.pdf",
+          "BC ISS 维持 F-1 身份"
+        ],
+        "clinic": [
+          "https://www.brooklyn.edu/dosa/health-and-wellness/health-clinic/",
+          "BC Health Clinic"
+        ]
+      }
+    },
+    "lehman": {
+      "short": "雷曼学院",
+      "place": "纽约·布朗克斯",
+      "cityKey": "ny",
+      "calShort": "学期制，2026 秋 8 月 28 日开课",
+      "calendar": "学期制（CUNY 统一学期框架）：2026 秋 8 月 28 日开课、12 月 21 日学期结束，12 月 15–21 日期末；9 月 7 日劳动节停课，10 月 12 日停课、10 月 13 日按周一课表，11 月 25 日无课、11 月 26–27 日感恩节停课、11 月 28 日无课。2027 春 1 月 28 日开课、5 月 27 日学期结束，5 月 21–27 日期末；1 月 18 日 MLK 日停课，2 月 12 日 Lincoln 生日、2 月 15 日 President's Day 停课，4 月 21–29 日春假，5 月 31 日 Memorial Day 停课。",
+      "fulltime": "F-1/J-1 每学期须读满全日制：本科 12 学分（至少 9 学分为 In Person/Hybrid/Hyfield，其余 3 学分授课模式自选），研究生 9 学分（至少 6 学分面授模式，其余 3 学分自选）；每学期最多 3 学分在线/远程课计入全日制；低于全日制的 RCL 须事先经 DSO/RO 批准。",
+      "drop": "2026 秋：8 月 27 日 100% 退款截止；9 月 3 日加课截止、75% 退款、最后不记 WD；9 月 10 日 50% 退款；9 月 17 日 25% 退款、WD 期结束（最后不记 W）；9 月 18 日起退课记 W；11 月 6 日记 W 截止。2027 春：1 月 27 日 100% 退款；2 月 3 日加课/75%/最后不记 WD；2 月 10 日 50%；2 月 17 日 25%/WD 结束；2 月 18 日记 W 开始；4 月 5 日记 W 截止。",
+      "ins1": "CUNY 统一：本校无统一采购的校级强制 SHIP，不自动加入、无 waiver 窗口；J-1 学生及 J-2 家属强制持覆盖整个交流项目的健康与旅行保险；F-1/F-2 不强制，但校方建议购足健康与旅行险。",
+      "ins2": "J-1 强制标准按 DOS 22 CFR 62.14：医疗每项事故或疾病至少 $100,000；遗体遣返 $25,000；医疗运送回国 $50,000；免赔额不超过 $500/事故或疾病；保险证明在到校登记时提交本校 DSO/RO。",
+      "ins3": "CUNY 不为国际生背书任何保险公司；F-1 自购商业计划后把保单证明交本校 ISSS；保费金额官网不列价，购买前以承保方当期报价为准；校内 Student Health Center 为主诊所，外送化验另计。",
+      "clinic": "Student Health Center：Old Gym Building, Room B008；电话 718-960-8900，传真 718-960-8909，med.requirements@lehman.cuny.edu；周一至周五 9:00–17:00；多数服务免费、少数小额收费，可预约也可 walk-in。Counseling Center 在 Old Gym Room 114，718-960-8761，免费保密。",
+      "commute": "走读型校园；新宿舍 The Lehman Grand 距主校区不到 1 英里，有免费校内接驳；其余学生靠地铁与 Bronx 公交通学。",
+      "scene": "校园在 Bedford Park Blvd 西端，毗邻 Jerome Park Reservoir；学术社团、表演艺术与 APEX 健身场馆是社交主场；周边为布朗克斯居民区，进城靠地铁换乘。",
+      "safety": "Public Safety 24 小时：紧急 718-960-7777，非紧急 718-960-8228；夜间护送拨分机 7777/8228；行政办公室 Apex Room 109；校园封闭管理，凭 Lehman ID 进出 Gates 1/5/6/8/13，Gate 5 全天 24/7。",
+      "transit": "地铁 4 线或 D 线到 Bedford Park Boulevard 站，向西步行约三分钟到校；B、D 线沿 Grand Concourse 经过宿舍侧；九路 Bronx 公交（含 Bx2、Bx10、Bx22、Bx28）在校门口设站；地铁/本地公交票价 $3，OMNY 轻触，7 日封顶 $35（MTA）。",
+      "rentnote": "宿舍仅 The Lehman Grand 一栋，2026 秋为首期入住；无宿舍资格的走读生在校外找房，Grand Concourse 一带挂牌价月月变动：按邮编查挂牌价，核对押金与杂费；官网住宿页不给校外租金数字。",
+      "link": {
+        "cal": [
+          "https://www.lehman.edu/registrar/calendars/",
+          "Lehman 注册校历"
+        ],
+        "ins": [
+          "https://www.lehman.edu/international-students-new/arriving-maintaining-status/maintaining-status/",
+          "Lehman ISSS 身份维持与保险"
+        ],
+        "clinic": [
+          "https://www.lehman.edu/student-health-center/",
+          "Lehman Student Health Center"
+        ]
+      }
+    },
+    "ucsb": {
+      "short": "加州大学圣塔芭芭拉分校",
+      "place": "圣塔芭芭拉",
+      "cityKey": "sb",
+      "calShort": "学季制，秋季 9 月下旬开学",
+      "calendar": "学季制（quarter）：秋、冬、春三季，每季约十一周，另有暑期课程。",
+      "fulltime": "UC 系统本科以每季 12 units 为全职线，低于线影响奖学金与身份状态；具体口径以本校注册办公室公布为准。",
+      "drop": "退课在每季前两周内不进成绩单；之后记 W。学季制只有十一周，第二周就是分界。",
+      "ins1": "UC SHIP 自动加入本科生，保费按季计入 BARC 账单。",
+      "ins2": "秋季 2026 豁免窗口为 8 月 1 日至 9 月 6 日；9 月 7–19 为逾期窗口，加收 50 美元。每学年重新申请。",
+      "ins3": "豁免须在网络内有 50 英里内的 PCP 与医院（PPO 型；HMO 需把 PCP 指定在 50 英里内），国际学生另有附加条款；豁免后助学金金额会变，已豁免者可买 GAP 保留校内服务。",
+      "clinic": "校医院（Student Health）在校园内并设药房；50 英里内用 UC SHIP 需经校医院转诊。",
+      "commute": "住 Isla Vista 步行到校；住市区坐公交，班次不密。",
+      "scene": "社交集中在校园与 Isla Vista；冲浪、骑行、社团是主要入口。",
+      "safety": "校园夜间有护送服务；Isla Vista 与海边夜间的派对区结伴走，不独自走暗段。",
+      "transit": "校园与市区之间有公交，凭学生证优惠；周末班次少，出行要算等车时间。",
+      "rentnote": "Isla Vista 步行圈与市区通勤圈的价差按月变动：按邮编查挂牌价，核对押金与解约条款。",
+      "link": {
+        "cal": [
+          "https://parents.ucsb.edu/sites/default/files/2025-08/2025-26%20UCSB%20Parent%20Calendar%20FOR%20WEBSITE.pdf",
+          "UCSB 校历"
+        ],
+        "ins": [
+          "https://studenthealth.sa.ucsb.edu/insurancebilling/waiving-uc-ship-health-insurance",
+          "UCSB 学生健康中心"
+        ],
+        "clinic": [
+          "https://studenthealth.sa.ucsb.edu/",
+          "UCSB 学生健康中心"
+        ],
+        "tax": [
+          "https://www.ftb.ca.gov/forms/2025/2025-540nr-booklet.html",
+          "加州税务局 540NR"
+        ]
+      }
+    },
+    "ucla": {
+      "short": "加州大学洛杉矶分校",
+      "place": "洛杉矶（Westwood）",
+      "cityKey": "la",
+      "calShort": "学季制，每季约 11 周",
+      "calendar": "学季制（quarter）：秋、冬、春三季，每季约十一周。",
+      "fulltime": "UC 系统本科以每季 12 units 为全职线；少修一季会推迟毕业，具体口径以注册办公室为准。",
+      "drop": "退课在每季前两周内不进成绩单；之后记 W。学季制学期短，第二周就是分界。",
+      "ins1": "UC SHIP 自动加入，费用计入 BruinBill；2026-27 学年本科每季 1,295.34 美元、研究生 2,505.66 美元。",
+      "ins2": "豁免截止按校历为秋季 9 月 20 日、冬季 12 月 20 日、春季 3 月 20 日；每学年重新申请。",
+      "ins3": "豁免后可用 BruinCare 保留校内预付服务；未豁免者在校内看病仍可能有小额费用。",
+      "clinic": "Ashe 中心在校园内；非工作时间转 urgent care，急诊只处理真正的急症。",
+      "commute": "Westwood 步行圈可走；往外靠公交或车。",
+      "scene": "社团与体育文化强；Westwood 与洛杉矶市区是两个社交半径，通勤决定参与度。",
+      "safety": "Westwood 相对安全，夜间有校警巡逻；不独自走校园外围的山坡路段。",
+      "transit": "公交为主，学生卡含在学费；地铁要换乘，通勤时间算进日程。",
+      "rentnote": "Westwood 步行圈与隔两站的价格差异按月变动：按邮编查挂牌价，核对押金与杂费。",
+      "link": {
+        "cal": [
+          "https://registrar.ucla.edu/archives/academic-calendar-archive/term-calendar-2024-25",
+          "UCLA 校历"
+        ],
+        "ins": [
+          "https://admission.ucla.edu/admitted-students/enroll-in-health-insurance",
+          "UCLA 医保与豁免"
+        ],
+        "clinic": [
+          "https://www.studenthealth.ucla.edu/file/f9ec07b6-dd51-4327-886c-d0780cebe262",
+          "Ashe 中心"
+        ],
+        "tax": [
+          "https://www.ftb.ca.gov/forms/2025/2025-540nr-booklet.html",
+          "加州税务局 540NR"
+        ]
+      }
+    },
+    "usc": {
+      "short": "南加州大学",
+      "place": "洛杉矶",
+      "cityKey": "la",
+      "calShort": "学期制，每学期约 15 周",
+      "calendar": "学期制（semester）：秋季与春季两学期，每学期约十五周，暑期可选。",
+      "fulltime": "全日制以每学期 12 学分为基线；低于基线影响奖学金与校内打工资格，具体以注册办公室为准。",
+      "drop": "开学后约两周内退课不进成绩单；之后记 W，退课还需顾问确认。",
+      "ins1": "SHIP/Aetna 自动加入全日制与国际学生，保费进学期账单。",
+      "ins2": "豁免截止：2026 秋季 9 月 11 日、2027 春季 1 月 29 日；疫苗记录未齐会挂注册限制。",
+      "ins3": "计划含视力保障、不含牙科，牙科须另行购买；运动员与健康专业学生走单独提交通道。",
+      "clinic": "USC Student Health 在校园内并提供免疫接种；校外急诊另计。",
+      "commute": "校园周边步行；往市区靠 Expo 线。",
+      "scene": "影视与科技资源集中，校友网络强；社团、实习与行业活动是主入口。",
+      "safety": "校园周边有校警巡逻区；夜间结伴、走照明路段，不穿停车场与工地。",
+      "transit": "地铁 Expo 线直达校园附近，公交覆盖有限；夜间建议叫车。",
+      "rentnote": "校园步行圈与沿地铁两三站价差明显，且月月变动：按邮编查挂牌价。",
+      "link": {
+        "cal": [
+          "https://arr.usc.edu/registration-calendar/",
+          "USC 注册校历"
+        ],
+        "ins": [
+          "https://studenthealth.usc.edu/fees-deadlines/",
+          "USC 学生健康费用与截止日"
+        ],
+        "clinic": [
+          "https://studenthealth.usc.edu/fees-deadlines/",
+          "USC 学生健康"
+        ],
+        "tax": [
+          "https://www.ftb.ca.gov/forms/2025/2025-540nr-booklet.html",
+          "加州税务局 540NR"
+        ]
+      }
+    },
+    "uw": {
+      "short": "华盛顿大学",
+      "place": "西雅图",
+      "cityKey": "sea",
+      "calShort": "学季制，每季约 11 周",
+      "calendar": "学季制（quarter）：秋、冬、春三季，每季约十一周。",
+      "fulltime": "本科以每季 12 学分为全职线；三季连读才凑得齐毕业学分，具体以注册办公室为准。",
+      "drop": "退课在每季前两周内不进成绩单；之后记 W。学季制节奏快，别拖到第三周。",
+      "ins1": "国际学生自动加入 ISHIP（LifeWise 承保），须先注册课程才激活。",
+      "ins2": "豁免或变更须在每季第三个周五前提交（2026 秋为 10 月 16 日），没有逾期通道。",
+      "ins3": "ISHIP 网络内报 75%、网络外 60%；2026-27 学年每季免赔额 125 美元，校内 Husky Health Center 免这笔免赔。专业学院学生另有 PSHIP，按学费到期日 opt-out。",
+      "clinic": "Husky Health Center 在校园内，ISHIP 咨询也在此楼。",
+      "commute": "住 University District 步行；轻轨接市区。",
+      "scene": "户外徒步、滑雪与水上活动是主入口；科技公司宣讲密集，专业社团活跃。",
+      "safety": "校园夜间有护送；University Way 夜间人流多，留意周边小巷。",
+      "transit": "轻轨与公交发达，学生通行证常含在学费；去市区二三十分钟。",
+      "rentnote": "University District 与隔两站轻轨的价差按月变动：按邮编查挂牌价。",
+      "link": {
+        "cal": [
+          "https://iss.washington.edu/things-to-know-about-iship-for-autumn-2025/",
+          "UW 秋季学期说明"
+        ],
+        "ins": [
+          "https://iship.washington.edu/insurance-program/insurance-waiver/",
+          "ISHIP 豁免页"
+        ],
+        "clinic": [
+          "https://iship.washington.edu/insurance-program/",
+          "ISHIP 计划页"
+        ],
+        "tax": [
+          "https://taxnews.ey.com/news/2026-0852-washington-to-implement-individual-income-tax-regime-beginning-in-2028-featuring-1-million-standard-deduction",
+          "华州所得税变化"
+        ]
+      }
+    },
+    "su": {
+      "short": "西雅图大学",
+      "place": "西雅图",
+      "cityKey": "sea",
+      "calShort": "学季制，秋季 9 月初开学",
+      "calendar": "学季制（quarter）：秋季 9 月初至 12 月底，冬季至 3 月下旬，春夏合并至 8 月中。",
+      "fulltime": "本科全职线按学期学分计，具体数字以注册办公室公布为准；低于线影响奖学金与身份。",
+      "drop": "退课在每季前两周内不进成绩单；之后记 W，通常需任课教师与顾问签字。",
+      "ins1": "国际学生默认加入 Aetna 学生健康计划，保费按季计入账户：2026 秋 802 美元、冬 559 美元、春夏 969 美元。",
+      "ins2": "豁免截止：2026 秋 10 月 6 日、2027 冬 1 月 19 日、2027 春夏 4 月 13 日；逾期只能等下季，当季保费照付。",
+      "ins3": "豁免由 Gallagher/JCB 受理，要求方案在美国境内、ACA 合规、在华盛顿州可比（含初级诊疗、预防与处方）。",
+      "clinic": "校内 Student Health Center 先看，非工作时间转 urgent care。",
+      "commute": "Capitol Hill 住区与校区之间靠步行或短程公交。",
+      "scene": "Capitol Hill 的咖啡与音乐、周边徒步与滑雪是主要入口；雨季度长，室内社团更稳。",
+      "safety": "校园夜间有校警护送；Capitol Hill 夜间人流多但仍需留意，不独自走停车场与后巷。",
+      "rentnote": "Capitol Hill 步行圈与往南三个街区的价差按月变动：按邮编查挂牌价。",
+      "link": {
+        "cal": [
+          "https://www.seattleu.edu/life-at-seattle-u/health-wellness/student-health-center/health-insurance-requirement/aetna-student-health-insurance/",
+          "SU 医保与学期表"
+        ],
+        "ins": [
+          "https://seattleu.edu/isc/student-resources/",
+          "SU 国际学生保险"
+        ],
+        "clinic": [
+          "https://www.seattleu.edu/life-at-seattle-u/health-wellness/student-health-center/health-insurance-requirement/aetna-student-health-insurance/",
+          "SU 学生健康中心"
+        ],
+        "tax": [
+          "https://taxnews.ey.com/news/2026-0852-washington-to-implement-individual-income-tax-regime-beginning-in-2028-featuring-1-million-standard-deduction",
+          "华州所得税变化"
+        ]
+      }
+    },
+    "nyu": {
+      "short": "纽约大学",
+      "place": "纽约",
+      "cityKey": "ny",
+      "calShort": "学期制，每学期约 15 周",
+      "calendar": "学期制（semester）：秋季与春季两学期，每学期约十五周，暑期课程丰富。",
+      "fulltime": "全日制以每学期 12 学分为基线；低于基线影响奖学金与身份状态，具体以注册办公室为准。",
+      "drop": "开学后约两周内退课不进成绩单；之后记 W，退课流程按学院规定。",
+      "ins1": "2026 年 8 月 21 日起由 Aetna Student Health 承办（此前为 Wellfleet），分 Basic 与 Comprehensive 两档，默认加入并计费。",
+      "ins2": "豁免截止：秋季 9 月 30 日、春季 2 月 10 日、夏季 6 月 5 日。",
+      "ins3": "F-1/J-1 须提交经保险公司签署的豁免表；替代方案需无上限、含纽约市住院与门诊、遗体运送不低于 25,000 美元。",
+      "clinic": "NYU 学生健康中心在 726 Broadway，先看校内再转诊。",
+      "commute": "住布鲁克林或皇后区，地铁通勤；住下城可步行。",
+      "scene": "博物馆、演出与金融传媒实习资源集中；社交半径按街区划分，通勤时间决定参与度。",
+      "rentnote": "曼哈顿下城与布鲁克林、皇后区价差按月变动，通勤要一并算：按邮编查挂牌价。",
+      "link": {
+        "cal": [
+          "https://www.nyu.edu/content/dam/nyu/studentHealthServices/documents/insurance/2025-insurance/25-26%20NYU%20WSQ%20Brochure%206.24.25.pdf",
+          "NYU 学生健康手册"
+        ],
+        "ins": [
+          "https://www.nyu.edu/students/health-and-wellness/student-health-insurance/international-student-waiver-application-instructions.html",
+          "NYU 国际学生豁免"
+        ],
+        "clinic": [
+          "https://www.nyu.edu/students/health-and-wellness/student-health-insurance/international-student-waiver-application-instructions.html",
+          "NYU 学生健康"
+        ],
+        "tax": [
+          "https://www.tax.ny.gov/pdf/current_forms/it/it203i.pdf",
+          "纽约州 IT-203 说明"
+        ]
+      }
+    },
+    "columbia": {
+      "short": "哥伦比亚大学",
+      "place": "纽约（Morningside Heights）",
+      "cityKey": "ny",
+      "calShort": "学期制，每学期约 15 周",
+      "calendar": "学期制（semester）：秋季与春季两学期，每学期约十五周。",
+      "fulltime": "全日制以每学期 12 学分为基线；研究生项目按学院另定，具体以注册办公室为准。",
+      "drop": "开学后约两周内退课不进成绩单；之后记 W，退课需顾问与学院确认。",
+      "ins1": "Columbia Plan 由 Aetna 承办；全日制与国际学生必须参保，2026-27 学年秋季 2,218 美元、春季 3,605 美元，学年合计 5,823 美元。",
+      "ins2": "确认参保或申请豁免的截止：秋季 9 月 30 日、春季 2 月 15 日；夏季按健康办公室页面为 6 月 30 日（校历页写作 6 月 15 日，以健康办公室为准）。每学年重新提交。",
+      "ins3": "持 J 签证者必须参保；豁免须含医疗转运不低于 50,000 美元、遗体运送不低于 25,000 美元。另有 759 美元/学期的健康服务费，不可豁免、不按比例退。",
+      "clinic": "Columbia Health 在 John Jay Hall；50 英里内转诊需校内先开转诊单。",
+      "commute": "校园在坡地上，住周边步行；往南北坐 1 号线。",
+      "scene": "校园社交围绕书院与社团；实习与演出资源在曼哈顿下城，通勤时间决定参与频率。",
+      "safety": "校园有门禁与校警巡逻；夜间走主路，不穿公园暗段。",
+      "transit": "地铁 1 号线直达校园附近，月票按乘坐次数算；夜间维护改线要提前查。",
+      "rentnote": "校园周边步行圈与往南北坐地铁的价差按月变动：按邮编查挂牌价。",
+      "link": {
+        "cal": [
+          "https://bulletin.columbia.edu/columbia-college/fees-expenses-financial-aid/",
+          "哥大费用与注册"
+        ],
+        "ins": [
+          "https://www.health.columbia.edu/content/request-waiver",
+          "哥大豁免页"
+        ],
+        "clinic": [
+          "https://health.columbia.edu/content/student-insurance-key-information",
+          "哥大学生保险说明"
+        ],
+        "tax": [
+          "https://www.tax.ny.gov/pdf/current_forms/it/it203i.pdf",
+          "纽约州 IT-203 说明"
+        ]
+      }
+    },
+    "neu": {
+      "short": "东北大学",
+      "place": "波士顿",
+      "cityKey": "bos",
+      "calShort": "学期制，秋季 9 月 9 日开课",
+      "calendar": "学期制（semester）：秋季与春季两学期，另有六周暑期；2026 秋 9 月 9 日开课，全学期课约十五周。",
+      "fulltime": "F-1 全职线按联邦规定：本科每学期 12 学分（学校要求可能更高）；降到线下会影响签证与保险资格。",
+      "drop": "全学期课开学前 14 个自然日内退课不进成绩单（2026 秋为 9 月 22 日）；之后记 W，最后一周不受理退课。",
+      "ins1": "NUSHP 自动加入，由 Blue Cross Blue Shield of Massachusetts 承保；2026-27 学年 3,049 美元（9 月 1 日至次年 8 月 31 日），网络内 0 免赔、门诊 25 美元。",
+      "ins2": "豁免截止：2026 秋 9 月 30 日；2027 春与夏 1 月 31 日。要先收到含 Health Plan Fee 的秋季账单才能启动豁免，麻州法律强制参保，由 Gallagher Student Health 审核。",
+      "ins3": "替代方案须美国承保、无年度或终身上限、覆盖整个学年；豁免通过后账单以等额的 Health Plan Waiver 抵扣冲回，保费那行不会消失。",
+      "clinic": "校内在波士顿主校区的 University Health and Counseling Services；非工作时间转 urgent care。",
+      "commute": "住 Fenway、Allston、Mission Hill 可走或地铁两站；往 Cambridge 换红线。",
+      "scene": "co-op 文化重，学期与实习交替；社交圈常按学院与 co-op 批次分。",
+      "safety": "校园与美术馆一带夜间有巡逻；避开公园深处与偏僻车站。",
+      "transit": "MBTA 绿线与橙线加公交；学期票按学校渠道买。",
+      "rentnote": "Fenway 步行圈与 Allston、Mission Hill 价差大；9 月开学季最紧，按邮编查挂牌价。",
+      "link": {
+        "cal": [
+          "https://registrar.northeastern.edu/article/academic-calendar/",
+          "东北大学校历"
+        ],
+        "ins": [
+          "https://studenthealthplan.northeastern.edu/waiver/",
+          "NUSHP 豁免"
+        ],
+        "clinic": [
+          "https://www.northeastern.edu/uhcs/",
+          "UHS 健康服务"
+        ],
+        "tax": [
+          "https://www.mass.gov/orgs/massachusetts-department-of-revenue",
+          "麻州税务局"
+        ]
+      }
+    },
+    "bu": {
+      "short": "波士顿大学",
+      "place": "波士顿",
+      "cityKey": "bos",
+      "calShort": "学期制，秋季 9 月 2 日开课",
+      "calendar": "学期制（semester）：秋季与春季两学期，每学期约十五周；2026 秋 9 月 2 日开课、12 月 10 日结课。",
+      "fulltime": "F-1 全职线按联邦规定：本科每学期 12 学分（学校要求可能更高）；降到线下要提前问国际学生办公室。",
+      "drop": "2026 秋：加课截止 9 月 16 日，退课不进成绩单截止 10 月 7 日；之后记 W。",
+      "ins1": "SHIP 自动加入全日制、四分之三时间与国际学生，由 Aetna Student Health 承保，分 Basic 与 Plus 两档，保费直接进学期账单。",
+      "ins2": "豁免截止：2026 秋 9 月 20 日；2027 春 1 月 31 日；每年重新提交，逾期自动参保且不退。",
+      "ins3": "国际学生只能用美国承保、符合 comparable coverage 清单的计划；Plus 才可加配偶与子女。2026-27 费率以当年账单为准（医学院 continuing 页列出 4,054 美元/年）。",
+      "clinic": "BU Student Health Services 在 East Newton Street；校内先看，转诊再走保险网络。",
+      "commute": "住 Fenway、Allston、South End 步行或地铁两站；往 Cambridge 换红线。",
+      "scene": "校园沿 Commonwealth Ave 拉成一条线，社交按学院与宿舍区分布；球队与社团是主要入口。",
+      "safety": "Commonwealth Ave 夜间车流密，过街看灯；偏僻街区结伴。",
+      "transit": "MBTA 绿线 B/C/D 支线穿校园；公交补最后一公里。",
+      "rentnote": "Allston 与 Fenway 价差按月变动；9 月最紧，按邮编查挂牌价。",
+      "link": {
+        "cal": [
+          "https://www.bu.edu/reg/calendars/",
+          "BU 校历"
+        ],
+        "ins": [
+          "https://www.bu.edu/shs/ship/",
+          "BU SHIP 与豁免"
+        ],
+        "clinic": [
+          "https://www.bu.edu/shs/",
+          "BU 学生健康服务"
+        ],
+        "tax": [
+          "https://www.mass.gov/orgs/massachusetts-department-of-revenue",
+          "麻州税务局"
+        ]
+      }
+    },
+    "ucb": {
+      "short": "加州大学伯克利分校",
+      "place": "伯克利（东湾）",
+      "cityKey": "sfbay",
+      "calShort": "学期制，秋季 8 月 26 日开课",
+      "calendar": "学期制（semester）：秋季与春季两学期，每学期约十五周；2026 秋 8 月 26 日开课、12 月 4 日结课。",
+      "fulltime": "F-1 全职线按联邦规定本科每学期 12 学分；UC 系统另有每学期最低 units 要求，以注册办公室为准。",
+      "drop": "2026 秋：本科加退课截止 9 月 16 日（第四周周三），提前退课（EDD）课程 9 月 4 日；之后记 W。",
+      "ins1": "Berkeley SHIP 自动加入（Aetna Student Health 承保）；2026-27 本科每学期 2,533 美元、研究生 4,103 美元；牙科走 MetLife、视力走 VSP。",
+      "ins2": "豁免：秋季 5 月 1 日至 7 月 15 日免费，7 月 16 日至 8 月 15 日加收 75 美元，8 月 15 日后关闭；春季按 2026 口径为 12 月 1 日至 1 月 1 日、逾期至 1 月 15 日加收 75 美元（2027 春季窗口以官网公布为准）。",
+      "ins3": "国际学生附加：保单须英文、以美元计价，医疗转运不低于 50,000 美元、遗体运送不低于 25,000 美元。",
+      "clinic": "University Health Services 在 Tang Center；校内先看，专科转诊。",
+      "commute": "住伯克利市区步行或公交；往旧金山坐 BART 约二十分钟。",
+      "scene": "学术与公共议题讨论的氛围都强；社交沿 BART 展开，伯克利、奥克兰、旧金山三段。",
+      "safety": "夜间避开市中心部分街区，结伴；山火烟霾季看空气质量。",
+      "transit": "BART 加 AC Transit；学生公交卡按学期买。",
+      "rentnote": "伯克利市区与 Albany、El Cerrito 价差大；8 月开学季紧，按邮编查挂牌价。",
+      "link": {
+        "cal": [
+          "https://registrar.berkeley.edu/",
+          "UC Berkeley 注册办公室"
+        ],
+        "ins": [
+          "https://uhs.berkeley.edu/insurance-ship/waiving-ship",
+          "SHIP 豁免"
+        ],
+        "clinic": [
+          "https://uhs.berkeley.edu/",
+          "UHS Tang 中心"
+        ],
+        "tax": [
+          "https://www.ftb.ca.gov/forms/2025/2025-540nr-booklet.html",
+          "加州税务局 540NR"
+        ]
+      }
+    },
+    "ucsd": {
+      "short": "加州大学圣迭戈分校",
+      "place": "圣迭戈（拉荷亚）",
+      "cityKey": "sd",
+      "calShort": "学季制，每季约 11 周",
+      "calendar": "学季制（quarter）：秋、冬、春三季，每季约十一周；2026 秋 9 月 24 日开课、12 月 4 日结课。",
+      "fulltime": "UC 系统本科以每季 12 units 为全职线；F-1 降线要国际学生办公室批准。",
+      "drop": "2026 秋：退课不进成绩单截止 10 月 23 日（第四周末），记 W 截止 11 月 6 日；第六周后不再受理。",
+      "ins1": "UC SHIP 自动加入，豁免由 AHP 处理；2026-27 本科每季 1,065 美元、研究生 2,220 美元。",
+      "ins2": "豁免：秋季 8 月 7 日至 9 月 11 日；逾期窗口官方 waiver 页到 9 月 17 日并注明免逾期费（家庭日历页写 9 月 15 日、收 50 美元，以 waiver 页为准）。冬季 11 月 10 日至 12 月 14 日，春季 2 月 9 日至 3 月 14 日。",
+      "ins3": "豁免按 UC 统一口径：网络内 PCP 与医院在合理距离内、个人自付上限 10,600 美元以内；每学年重新申请。",
+      "clinic": "Student Health Services 在校园内（La Jolla）；非工作时间转 urgent care。",
+      "commute": "住校内学院可走；住 UTC、La Jolla 靠公交或车。",
+      "scene": "六个本科学院各有宿舍区，社交先按学院分；往 Downtown、Pacific Beach 靠轻轨与公交。",
+      "safety": "校园与 La Jolla 相对安静，夜间避开偏僻车站与海滩暗段。",
+      "transit": "轻轨 Blue/Green Line 加公交；住校内可步行，去 Downtown 约半小时。",
+      "rentnote": "La Jolla、UTC 与 Clairemont 价差大；9 月开学季紧，按邮编查挂牌价。",
+      "link": {
+        "cal": [
+          "https://registrar.ucsd.edu/student/calendars/",
+          "UCSD 校历"
+        ],
+        "ins": [
+          "https://shwadmin.ucsd.edu/uc-ship/waive/index.html",
+          "UC SHIP 豁免"
+        ],
+        "clinic": [
+          "https://studenthealth.ucsd.edu/",
+          "UCSD 学生健康"
+        ],
+        "tax": [
+          "https://www.ftb.ca.gov/forms/2025/2025-540nr-booklet.html",
+          "加州税务局 540NR"
+        ]
+      }
+    },
+    "penn": {
+      "short": "宾夕法尼亚大学",
+      "place": "费城（University City）",
+      "cityKey": "phl",
+      "calShort": "学期制，秋季 8 月 25 日开课",
+      "calendar": "学期制（semester）：秋季与春季两学期。2026 秋 8 月 25 日开课、12 月 7 日结课，12 月 10–17 日期末；2027 春 1 月 20 日开课、5 月 4 日结课、5 月 7–17 日期末。",
+      "fulltime": "F-1 全职线：本科每学期至少 3 course units（ISSS 口径）；文理学院首学期上限 4.5 CU、之后 5.5 CU；工程学院正常最低 4 CU，四年卒业平均每学期 5 CU。",
+      "drop": "2026 秋：课程选择期（加课）9 月 8 日结束；退课不进成绩单截止 10 月 5 日；之后退课记 W，最后退课日 11 月 2 日。2027 春：加课 2 月 2 日、退课不进成绩单 3 月 1 日、记 W 截止 4 月 5 日。",
+      "ins1": "PSIP（Penn Student Insurance Plan）自动为全日制与 dissertation 学生投保，Aetna Student Health 承保；2026-27 全年 5,018 美元、春季 2,915 美元。另收临床费 385 美元/学期，参保者也要交。",
+      "ins2": "保险门户只在窗口开：秋季与全年 7 月 1 日–8 月 31 日；春季 12 月 15 日–1 月 31 日；夏季 4 月 15 日–5 月 31 日。每年重做一次，逾期系统按自动投保处理。",
+      "ins3": "豁免门槛：美国持牌承保、年上限不低于 200 万美元、含费城地区住院与门诊心理／精神科；HMO 型若不在费城网络内会被拒。PSIP 在 25 英里内须先经 Student Health 转诊，未转诊按非优选待遇并含 1,500 美元免赔。",
+      "clinic": "Student Health and Counseling 在 3535 Market St（Suite 100 就诊、Suite 60 保险）；周一至三 9:00–19:30、周四 10:00–18:00、周五 9:00–17:00、周六 10:00–15:00；非工作时间打 215-746-9355（24/7）。",
+      "commute": "住 University City 步行到校；住 Center City 坐蓝线、电车或 Penn Bus，二十到三十分钟。",
+      "scene": "社交沿 Locust Walk 与校园展开；兄弟会、社团、Penn Park 与河岸步道是主要入口，进城一趟要留半小时。",
+      "safety": "校园有 DPS 巡逻区与夜间护送；出巡逻区（往西 40 街外、往北 Market 以北）夜间要结伴，不独自走。",
+      "transit": "SEPTA 蓝线 40th St 站、公交车与 Penn Bus 免费校车；去 Center City 十五到二十分钟，机场线在 Penn Medicine 站与 30th St 站都能上。",
+      "rentnote": "University City 步行圈与 Graduate Hospital、Center City 的价差按月变动：按邮编查挂牌价，核对押金与水电条款。",
+      "link": {
+        "cal": [
+          "https://almanac.upenn.edu/penn-academic-calendar",
+          "Penn 校历"
+        ],
+        "ins": [
+          "https://wellness.upenn.edu/immunization-insurance-compliance/insurance-compliance",
+          "Wellness at Penn 保险"
+        ],
+        "clinic": [
+          "https://wellness.upenn.edu/",
+          "Wellness at Penn"
+        ],
+        "tax": [
+          "https://www.revenue.pa.gov/",
+          "宾州税务局"
+        ]
+      }
+    },
+    "purdue": {
+      "short": "普渡大学",
+      "place": "西拉法叶",
+      "cityKey": "wlaf",
+      "calShort": "学期制，秋季 8 月 24 日开课",
+      "calendar": "学期制（semester）：秋季与春季两学期，每学期约十五周。2026 秋 8 月 24 日开课、12 月 12 日结课，12 月 14–19 日期末，学期止 12 月 19 日；秋假 10 月 12–13 日、感恩节 11 月 25–28 日停课。2027 春 1 月 11 日开课、5 月 1 日结课，5 月 3–8 日期末；春假 3 月 15–20 日，1 月 18 日 MLK 日停课。",
+      "fulltime": "F-1 全职线：本科每学期 12 学分、研究生 8 学分、有研究生助教任命 6 学分；每学期最多 3 学分网课可计入全职。",
+      "drop": "2026 秋全学期课：9 月 4 日前退课不进成绩单、无需批准；11 月 24 日前经导师批准退课记 W。2027 春：1 月 25 日不进成绩单、4 月 16 日记 W。八周课分两段各有一套截止日（秋第一段 8 月 28 日不进成绩单／10 月 7 日记 W，第二段 10 月 27 日／12 月 9 日）。退款分档：秋 9 月 1 日前 100%、9 月 3 日前 60%、9 月 8 日前 40%，之后不退；春 1 月 20 日前 100%、1 月 25 日前 80%、2 月 8 日前 60%、2 月 22 日前 40%。",
+      "ins1": "Purdue 学生健康保险（SHIP，United Healthcare Choice Plus 网络承保）：全日制注册学生与 degree-seeking co-op 可投保；online-only 学生不可投保；国际学生不论学分与签证都必须投保或取得批准豁免，国内学生非强制但要自备保险。保费（2026–27 Final Premium Rates，学生单人、医疗＋牙科合并）：全年 1,776.40 美元（8/1/2026–7/31/2027）、秋季 740.17 美元（8/1–12/31/2026）、春／夏 1,036.23 美元（1/1–7/31/2027）、仅夏季 444.10 美元（5/1–7/31/2027）；带家属另有档：学生＋配偶全年 3,496.40、学生＋子女 3,571.64。国内与国际两套费率表数字一致，价格只在 AHP 门户发布，PUSH 不列数字。",
+      "ins2": "窗口：秋季 2026 年 7 月 1 日 8:00 ET 至 9 月 8 日 17:00 ET；春/夏季 2026 年 12 月 1 日 8:00 ET 至 2027 年 2 月 2 日 17:00 ET。未投保也未获豁免，收 200 美元不可退滞纳金并挂注册 hold。",
+      "ins3": "自付结构：网络内优选自付额 200 美元、网络外 400 美元；PUSH 就诊免赔额豁免，PUSH 辅助服务（理疗、X 光）15 美元共付；处方须网络内药房（PUP 为优选药房），Tier1 10、Tier2–3 20、Tier4 50 美元共付；理赔须服务日起 90 天内提交。",
+      "clinic": "PUSH（Purdue University Student Health Services）在 601 Stadium Mall Dr, West Lafayette, IN 47907；预约 765-494-1700、学生保险 765-496-3998；AAAHC 认证，可约口译，患者门户可预约并上传保险与疫苗记录；门诊周一至周五 8:00–17:00；开课期间周六 10:00–18:00（从开课前的周六到学期结束的那个周六），周六只处理较急的病伤、仅一名医生加检验与放射，周六专线 765-494-1725；非门诊时段走 CAPS 危机线 765-494-6995（24 小时）。",
+      "commute": "住校园步行圈（State St、Chauncey）走路上学；住校外公寓靠 CityBus 或车，多数公寓有校线。",
+      "scene": "社交沿 Memorial Mall 与 Chauncey Hill 展开；兄弟会、社团与球场日集中在校园西侧，进拉法叶市区要开车或公交。",
+      "safety": "校园由 PUPD 巡逻（CALEA 认证）：紧急 call or text 911，非紧急 765-494-8221；夜间走照明路段，出校园往校外公寓结伴。",
+      "transit": "CityBus 覆盖校园、拉法叶与西拉法叶全境：普渡学生凭有效 PUID 免费乘坐所有线路（研究生院页与住宿页都写明「刷 ID 即可」）；非学生票价自 2026-01-01 起为单程 2.00 美元（2 小时内有效）、1 日票 4.00、31 天 50.00、学期票 155.00、6 个月 178.00、秋季／春季学期之外另设夏季票 139.00，Express 5.00；半价 1.00 仅限 65 岁以上、Medicare、残障与 9–19 岁在校生，需每次出示凭证。EZfare App 与实体智能卡只能二选一，混用会双扣。商业航班走印第安纳波利斯（IND），开车约一小时多；Purdue Airport（LAF）在校园，以通航为主。",
+      "rentnote": "校园步行圈与外围公寓价差大，秋季开学前最紧；本页不给数字，按邮编查当期挂牌价，核对押金与杂费。",
+      "link": {
+        "cal": [
+          "https://catalog.purdue.edu/",
+          "Purdue 2026–27 校历"
+        ],
+        "ins": [
+          "https://www.purdue.edu/push/insurance-payment/plan-information/waivers/deadlines.php",
+          "PUSH 豁免截止"
+        ],
+        "clinic": [
+          "https://www.purdue.edu/push/about/general-info/hours.php",
+          "PUSH 门诊时段"
+        ],
+        "tax": [
+          "https://www.in.gov/dor/resources/tax-rates-and-reports/rates-fees-and-penalties/",
+          "印第安纳州税务局"
+        ]
+      }
+    }
+  },
+  "EXTRA": {
+    "ucsb": {
+      "replace": {
+        "转学分": {
+          "v": "其他院校（含社区大学、外州、国内）最多转入 105 quarter units（约 70 semester units），AP 等考试学分也计在内；超出的部分不增加毕业进度。未认证的学分只算选修，不进专业要求。",
+          "l": "https://www.duels.ucsb.edu/degree-planning/degree-requirements"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学院与专业",
+            "v": "本科分三个学院：文理学院（L&S）承担多数专业与辅修；工程学院设计算机科学、计算机工程、电子、机械、化工等 BS；创意研究学院（CCS）小班，需单独提交申请。转专业与换学院的条件写在各自学院页面上，按你的专业查。",
+            "l": "https://catalog.ucsb.edu/"
+          },
+          {
+            "k": "学位学分",
+            "v": "文理学院毕业需 180 units；若外语要求是用外校三级课满足，则为 184 units。其中 60 units 必须是高年级课（100–199 编号）。",
+            "l": "https://www.duels.ucsb.edu/degree-planning/degree-requirements"
+          }
+        ],
+        "双专业与辅修": [
+          {
+            "k": "2026–27 校历",
+            "v": "秋：9/20 季起，9/24 开始上课，12/4 结课，12/5–11 期末。冬：1/4 季起并当日上课，3/12 结课，3/13–19 期末。春：3/29 季起，6/4 结课，6/5–11 期末。暑期另计。",
+            "l": "https://catalog.ucsb.edu/academicsandpolicies/introcampus/calendar"
+          }
+        ]
+      },
+      "note": "本校条目取自 UCSB 注册办公室 2026–27 校历页与文理学院本科教育处学位要求页，2026-11-19 打开原文核对。专业课程主线（CS、物理、海洋科学等）按专业不同，未逐条核。"
+    },
+    "ucla": {
+      "replace": {
+        "转学分": {
+          "v": "非 UC 机构最多转入 105 个低年级 quarter units；UC 内部转学按原校学分全计。超出部分只给选课资格，不加毕业进度。",
+          "l": "https://caac.ucla.edu/wp-content/uploads/2025/11/Structure-of-Degree-Transfers-rev.-2025-11-21-protected.pdf"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "文理学院 180 units 起、216 units 为上限，其中至少 60 units 是高年级课（100–199 编号）；AP/IB 学分不计入上限。",
+            "l": "https://catalog.registrar.ucla.edu/browse/College%20and%20Schools/CollegeofLettersandScience/College-Requirements"
+          }
+        ]
+      },
+      "note": "本校条目取自 UCLA General Catalog 的 College Requirements 与文理学院学术咨询中心《Structure of the Degree》PDF，2026-11-19 打开原文核对。各学院的高年级 units 下限不同（戏剧影视 64、护理 83），按学院查。学期与开学日期见上方学期制度行。"
+    },
+    "usc": {
+      "replace": {
+        "转学分": {
+          "v": "其他院校最多转入 64 units；BArch 与工程 3-2 项目可到 80 units，其中社区大学不超过 70。至少在 USC 完成 64 units。",
+          "l": "https://catalogue.usc.edu/content.php?catoid=22&navoid=9114"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "毕业需 128 units，其中至少 32 units 为高年级课；体育课最多计 4 units。",
+            "l": "https://catalogue.usc.edu/content.php?catoid=11&navoid=3418&print"
+          }
+        ]
+      },
+      "note": "本校条目取自 USC 2026–27 版 Catalogue 的 Requirements for Graduation 与 Course Work Taken Elsewhere 两页，2026-11-19 打开原文核对。学期与开学日期见上方学期制度行，不在此重复。"
+    },
+    "uw": {
+      "replace": {
+        "转学分": {
+          "v": "低年级转学分最多 90 credits 计入毕业总量；超出部分可满足专业与通识，但不加学分。",
+          "l": "https://admit.washington.edu/apply/transfer/policies/"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "毕业需 180 quarter credits；文理学院要求其中至少 90 credits 在本专业之外完成；最后 60 credits 里 45 须在校完成。",
+            "l": "https://policy.uw.edu/directory/sgp/sgp-114-degrees-graduation-and-commencement/"
+          }
+        ]
+      },
+      "note": "本校条目取自 UW Policy Directory SGP 114 与招生办转学分政策页，2026-11-19 打开原文核对。学期与开学日期见上方学期制度行，不在此重复。"
+    },
+    "su": {
+      "replace": {
+        "转学分": {
+          "v": "本科转入上限 135 quarter credits：低年级 90 + 高年级 45，含 AP/IB/CLEP 与军队学分。semester 学分按 ×1.5 折成 quarter。",
+          "l": "https://www.seattleu.edu/registrar/transfer-tools/general-transfer-information/"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "本科需 180 quarter credits，部分专业更高；最后 45 credits 须在西雅图大学完成。",
+            "l": "https://catalog.seattleu.edu/content.php?catoid=51&navoid=4729&print"
+          }
+        ]
+      },
+      "note": "本校条目取自西雅图大学 2026–27 校历版《Academic Regulations》与注册办公室转学分页，2026-11-19 打开原文核对。学期与开学日期见上方学期制度行，不在此重复。"
+    },
+    "nyu": {
+      "replace": {
+        "转学分": {
+          "v": "转入最多 64 credits；转学生须在 CAS（-UA 课程）完成 64 credits 住校要求，其他 NYU 学院与门户校区的课不计入这 64。",
+          "l": "https://bulletins.nyu.edu/undergraduate/arts-science/admissions/"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "CAS 毕业需 128 credits。",
+            "l": "https://bulletins.nyu.edu/undergraduate/arts-science/admissions/"
+          }
+        ]
+      },
+      "note": "本校条目取自 NYU Bulletins 文理学院 Admissions 与 Academic Policies 两页，2026-11-19 打开原文核对；其余学院（Tandon、Steinhardt 等）学分要求不同，按学院查。学期与开学日期见上方学期制度行。"
+    },
+    "columbia": {
+      "replace": {
+        "转学分": {
+          "v": "Columbia College 最多转入 64 points、SEAS 68 points（含 AP/IB 上限 16 points）；至少 60 points 须在本校完成。",
+          "l": "https://www.cc-seas.columbia.edu/csa/transfercredit"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "Columbia College 需 124 points，SEAS 需 128 points；转学生须完整修 Core Curriculum（Frontiers of Science 可豁免，但需补三门科学课）。",
+            "l": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+          }
+        ]
+      },
+      "note": "本校条目取自 Columbia College Bulletin 的 Academic Regulations 与 Columbia College/Engineering 学分转换页，2026-11-19 打开原文核对。学期与开学日期见上方学期制度行，不在此重复。"
+    },
+    "neu": {
+      "replace": {
+        "转学分": {
+          "v": "四年制院校最多转 80 credits、两年制最多 60 credits（合计上限 80）。须在校完成至少 64 semester hours。",
+          "l": "https://cssh.northeastern.edu/transfer-credit-guidelines/"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "全校最低 128 semester hours、GPA 2.000，并须完成体验式学习（co-op 或项目）要求；单个专业要求可能更高。",
+            "l": "https://catalog.northeastern.edu/undergraduate/university-academics/university-wide-requirements/"
+          }
+        ]
+      },
+      "note": "本校条目取自 Northeastern 2026–27 Catalog 的 Universitywide Requirements 与 CSSH 转学分指南，2026-11-19 打开原文核对。co-op 会拉长毕业时间，排课时要留出。学期与开学日期见上方学期制度行。"
+    },
+    "bu": {
+      "replace": {
+        "转学分": {
+          "v": "一年级入学最多转 60 credits；转学生最多 68 credits；Metropolitan College 学生最多 80。BU Hub 通识须以 BU 课程完成，外部学分不抵 Hub。",
+          "l": "https://bu.edu/academics/policies/advanced-placement-credit"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "本科需 128 academic units，各学院可更高；CAS 另要求语言能力。",
+            "l": "https://sites.bu.edu/casreg/cas-transfer-student-registration-checklist/"
+          }
+        ]
+      },
+      "note": "本校条目取自 BU 官方《Residency Requirement and Transfer of Undergraduate Credits》政策页与 CAS 转学生注册清单，2026-11-19 打开原文核对。第三方网站常见的「64/80」与官方口径不一致，以官方 60/68/80 为准。学期与开学日期见上方学期制度行。"
+    },
+    "ucb": {
+      "replace": {
+        "转学分": {
+          "v": "非 UC 低年级转学分最多 70 units 计入 120 总量；超出部分仍可满足专业与通识要求。高年级转学分无上限。",
+          "l": "https://lsadvising.berkeley.edu/transfercredit"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "全校最低 120 semester units；文理学院其中至少 36 units 为高年级课（100–199），并有 6 units 须在本专业之外。",
+            "l": "https://lsadvising.berkeley.edu/degree-requirements"
+          }
+        ]
+      },
+      "note": "本校条目取自 UC Berkeley 文理学院学位要求页与转学分页、Catalog 的 Units and GPA 页，2026-11-19 打开原文核对。工学院另有转学学分累计上限（80 semester / 120 quarter），申请前先查。学期与开学日期见上方学期制度行。"
+    },
+    "ucsd": {
+      "replace": {
+        "转学分": {
+          "v": "其他院校低年级转学分最多 105 units 计入 180 总量；AP/IB 与 A-level 学分一并计入。",
+          "l": "https://advising.ucsd.edu/students/academic-planning/build-your-plan.html"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "毕业需 180 units，其中至少 60 units 为高年级课（100–199）；最后 45 units 中 35 须在 UC 完成（高年级住校要求）。",
+            "l": "https://advising.ucsd.edu/students/degree-requirements/required-courses.html"
+          }
+        ]
+      },
+      "note": "本校条目取自 UCSD 本科辅导处 Create Your Plan 与 Required Courses 两页、Catalog 毕业要求页，2026-11-19 打开原文核对。学院制（七所学院各有一套通识）会改变实际排课，按所在学院查。学期与开学日期见上方学期制度行。"
+    }
+  }
+}

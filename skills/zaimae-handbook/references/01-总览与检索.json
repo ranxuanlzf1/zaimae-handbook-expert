@@ -1,0 +1,3458 @@
+{
+  "CITIES": [
+    {
+      "c": "纽约",
+      "s": "纽约大学、哥伦比亚大学、纽约州立系统（石溪、宾汉姆顿、布法罗）、福德汉姆、佩斯",
+      "d": "纽约大学国际生 27,532 人（全美第一），中国约 13,697 人；哥伦比亚 20,733 人，中国 6,463 人，其中本科仅 312 人",
+      "p": "P0"
+    },
+    {
+      "c": "波士顿",
+      "s": "东北大学、波士顿大学、哈佛、麻省理工、塔夫茨、布兰迪斯、波士顿学院",
+      "d": "东北大学 22,465 人（全美第二），计算机与软件工程硕士国际生占比达 98.4%；波士顿大学 12,845 人",
+      "p": "P0"
+    },
+    {
+      "c": "洛杉矶",
+      "s": "南加州大学、加州大学洛杉矶分校、尔湾分校、圣塔芭芭拉分校、克莱蒙特五校",
+      "d": "南加州大学 17,884 人，中国 5,760 人、占国际生 26.1%；洛杉矶分校 10,769 人，国际本科生仅占 7.6%",
+      "p": "P0"
+    },
+    {
+      "c": "西雅图",
+      "s": "华盛顿大学、西雅图大学",
+      "d": "华盛顿大学 10,962 人，中国 3,886 人、占学生总数 7.5%；亚马逊、微软、星巴克总部所在地",
+      "p": "P0"
+    },
+    {
+      "c": "湾区",
+      "s": "加州大学伯克利、斯坦福、圣塔克拉拉、圣何塞州立",
+      "d": "伯克利 12,020 人，中国 2,615 人、占该校国际生 35.6%；圣何塞州立是硅谷就业导向的性价比选项",
+      "p": "P1"
+    },
+    {
+      "c": "费城与华盛顿",
+      "s": "宾夕法尼亚大学、康奈尔、乔治城、约翰霍普金斯、卡内基梅隆",
+      "d": "以硕士为主，政策、国际关系、公共事务方向集中，华盛顿实习资源强",
+      "p": "P1"
+    },
+    {
+      "c": "圣地亚哥",
+      "s": "加州大学圣地亚哥分校",
+      "d": "10,545 人，中国 3,826 人，其中本科 1,649 人、研究生 2,000 余人",
+      "p": "P1"
+    }
+  ],
+  "SCHOOLS": [
+    [
+      "南加州大学",
+      "洛杉矶"
+    ],
+    [
+      "加州大学洛杉矶分校",
+      "洛杉矶"
+    ],
+    [
+      "加州大学圣塔芭芭拉分校",
+      "圣塔芭芭拉"
+    ],
+    [
+      "华盛顿大学",
+      "西雅图"
+    ],
+    [
+      "西雅图大学",
+      "西雅图"
+    ],
+    [
+      "纽约大学",
+      "纽约"
+    ],
+    [
+      "哥伦比亚大学",
+      "纽约"
+    ],
+    [
+      "东北大学",
+      "波士顿"
+    ],
+    [
+      "波士顿大学",
+      "波士顿"
+    ],
+    [
+      "加州大学伯克利分校",
+      "伯克利"
+    ],
+    [
+      "加州大学圣迭戈分校",
+      "圣迭戈"
+    ],
+    [
+      "宾夕法尼亚大学",
+      "费城"
+    ],
+    [
+      "普渡大学",
+      "西拉法叶"
+    ],
+    [
+      "雷曼学院",
+      "纽约"
+    ],
+    [
+      "布鲁克林学院",
+      "纽约"
+    ],
+    [
+      "梅德加·埃弗斯学院",
+      "纽约"
+    ],
+    [
+      "纽约市立技术学院",
+      "纽约"
+    ],
+    [
+      "州立下城健康科学大学",
+      "纽约"
+    ],
+    [
+      "巴鲁克学院",
+      "纽约"
+    ],
+    [
+      "纽约市立学院",
+      "纽约"
+    ],
+    [
+      "纽约市立大学研究生院",
+      "纽约"
+    ],
+    [
+      "罗文大学",
+      "格拉斯伯勒"
+    ],
+    [
+      "新泽西城市大学",
+      "泽西城"
+    ],
+    [
+      "蒙特克莱尔州立大学",
+      "蒙特克莱尔"
+    ],
+    [
+      "罗格斯大学新布伦瑞克",
+      "新布伦瑞克"
+    ],
+    [
+      "亨特学院",
+      "纽约"
+    ],
+    [
+      "约翰杰伊刑事司法学院",
+      "纽约"
+    ],
+    [
+      "州立视光学院",
+      "纽约"
+    ],
+    [
+      "皇后学院",
+      "纽约"
+    ],
+    [
+      "斯塔滕岛学院",
+      "纽约"
+    ],
+    [
+      "新泽西理工学院",
+      "纽瓦克"
+    ],
+    [
+      "罗格斯大学纽瓦克分校",
+      "纽瓦克"
+    ],
+    [
+      "基恩大学",
+      "尤宁"
+    ],
+    [
+      "威廉帕特森大学",
+      "韦恩"
+    ],
+    [
+      "UMass Amherst",
+      "Amherst"
+    ],
+    [
+      "MassArt",
+      "波士顿"
+    ],
+    [
+      "UMass Boston",
+      "波士顿"
+    ],
+    [
+      "Framingham State",
+      "Framingham"
+    ],
+    [
+      "UMass Lowell",
+      "Lowell"
+    ],
+    [
+      "Salem State",
+      "Salem"
+    ],
+    [
+      "UMass Chan 医学院",
+      "Worcester"
+    ],
+    [
+      "Worcester State",
+      "Worcester"
+    ],
+    [
+      "UC Davis",
+      "Davis"
+    ],
+    [
+      "Fresno State",
+      "Fresno"
+    ],
+    [
+      "Cal State East Bay",
+      "Hayward"
+    ],
+    [
+      "UC Merced",
+      "Merced"
+    ],
+    [
+      "海军研究生院",
+      "Monterey"
+    ],
+    [
+      "Sonoma State",
+      "Rohnert Park"
+    ],
+    [
+      "Sac State",
+      "Sacramento"
+    ],
+    [
+      "SF State",
+      "旧金山"
+    ],
+    [
+      "UC Law SF",
+      "旧金山"
+    ],
+    [
+      "UCSF",
+      "旧金山"
+    ],
+    [
+      "San Jose State",
+      "San Jose"
+    ],
+    [
+      "UC Santa Cruz",
+      "Santa Cruz"
+    ],
+    [
+      "CSU Monterey Bay",
+      "Monterey"
+    ],
+    [
+      "CSU Stanislaus",
+      "Turlock"
+    ],
+    [
+      "Cal State Fullerton",
+      "Fullerton"
+    ],
+    [
+      "UC Irvine",
+      "Irvine（尔湾）"
+    ],
+    [
+      "UMass Global",
+      "Irvine（尔湾）"
+    ],
+    [
+      "Cal State Long Beach",
+      "Long Beach"
+    ],
+    [
+      "Cal State LA",
+      "洛杉矶"
+    ],
+    [
+      "加州理工州立大学波莫纳分校（Cal Poly Pomona）",
+      "Pomona（波莫纳）"
+    ],
+    [
+      "加州大学河滨分校（UC Riverside）",
+      "Riverside（河滨）"
+    ],
+    [
+      "圣迭戈州立大学（San Diego State University）",
+      "圣迭戈"
+    ],
+    [
+      "加州州立大学圣马科斯分校（CSU San Marcos）",
+      "San Marcos"
+    ],
+    [
+      "华盛顿大学博塞尔校区（University of Washington Bothell, UWB）",
+      "Bothell"
+    ],
+    [
+      "常青州立学院（The Evergreen State College）",
+      "Olympia"
+    ],
+    [
+      "华盛顿大学塔科马校区（University of Washington Tacoma, UWT）",
+      "塔科马"
+    ],
+    [
+      "罗格斯大学卡姆登分校（Rutgers University-Camden）",
+      "卡姆登"
+    ],
+    [
+      "Temple University",
+      "费城"
+    ],
+    [
+      "West Chester University",
+      "西切斯特"
+    ],
+    [
+      "苏尔罗斯州立大学（Sul Ross State University, SRSU）",
+      "Alpine"
+    ],
+    [
+      "德州大学阿灵顿分校（UT Arlington）",
+      "Arlington（阿灵顿）"
+    ],
+    [
+      "德州大学奥斯汀分校（UT Austin）",
+      "Austin（奥斯汀）"
+    ],
+    [
+      "拉马尔大学（Lamar University）",
+      "Beaumont（博蒙特）"
+    ],
+    [
+      "西得克萨斯农工大学（West Texas A&M University, WTAMU / WT）",
+      "Canyon"
+    ],
+    [
+      "德州农工大学（Texas A&M University，TAMU）",
+      "College Station"
+    ],
+    [
+      "德州农大学-康默斯分校（Texas A&M University-Commerce，A&M-Commerce；现品牌 East Texas A&M University，ETAMU）",
+      "Commerce"
+    ],
+    [
+      "德州农工大学科珀斯克里斯蒂分校（A&M-Corpus Christi, TAMU-CC）",
+      "Corpus Christi"
+    ],
+    [
+      "北得州大学达拉斯分校",
+      "达拉斯"
+    ],
+    [
+      "UT 西南医学中心",
+      "达拉斯"
+    ],
+    [
+      "Texas Woman's University（TWU）",
+      "Denton（丹顿）"
+    ],
+    [
+      "University of North Texas（UNT）",
+      "Denton（丹顿）"
+    ],
+    [
+      "德州大学格兰德谷分校（The University of Texas Rio Grande Valley, UTRGV）",
+      "Edinburg"
+    ],
+    [
+      "得州理工大学健康科学中心埃尔帕索分校（TTUHSC El Paso）",
+      "El Paso（埃尔帕索）"
+    ],
+    [
+      "得克萨斯大学埃尔帕索分校（The University of Texas at El Paso，UTEP）",
+      "El Paso（埃尔帕索）"
+    ],
+    [
+      "北得州大学健康科学中心沃斯堡分校（University of North Texas Health Science Center at Fort Worth，UNTHSC / UNT Health）",
+      "Fort Worth（沃斯堡）"
+    ],
+    [
+      "得克萨斯大学加尔维斯顿医学分校（University of Texas Medical Branch at Galveston，UTMB）",
+      "Galveston（加尔维斯顿）"
+    ],
+    [
+      "德州南方大学（Texas Southern University，TSU）",
+      "Houston（休斯敦）"
+    ],
+    [
+      "得克萨斯大学休斯敦健康科学中心（UTHealth Houston）",
+      "Houston（休斯敦）"
+    ],
+    [
+      "德州大学 MD 安德森癌症中心（UT MD Anderson Cancer Center）",
+      "Houston（休斯敦）"
+    ],
+    [
+      "休斯敦大学（University of Houston，UH）",
+      "Houston（休斯敦）"
+    ],
+    [
+      "休斯敦大学清湖分校（University of Houston-Clear Lake，UHCL）",
+      "Houston（休斯敦）"
+    ],
+    [
+      "休斯敦大学市中心分校（University of Houston-Downtown，UHD）",
+      "Houston（休斯敦）"
+    ],
+    [
+      "山姆休斯顿州立大学（Sam Houston State University，SHSU）",
+      "Huntsville（亨茨维尔）"
+    ],
+    [
+      "中得克萨斯农工大学（Texas A&M University–Central Texas, A&M–Central Texas / TAMUCT）",
+      "Killeen"
+    ],
+    [
+      "得州农工大学金斯维尔分校（Texas A&M University–Kingsville，TAMUK）",
+      "Kingsville"
+    ],
+    [
+      "德州农工国际大学（Texas A&M International University，TAMIU）",
+      "Laredo"
+    ],
+    [
+      "德州理工大学（Texas Tech University，TTU）",
+      "Lubbock"
+    ],
+    [
+      "得州理工大学健康科学中心（Texas Tech University Health Sciences Center，TTUHSC）",
+      "Lubbock"
+    ],
+    [
+      "斯蒂芬奥斯汀州立大学（Stephen F. Austin State University，SFA）",
+      "Nacogdoches（纳科多奇斯）"
+    ],
+    [
+      "得州大学二叠纪盆地分校（The University of Texas Permian Basin，UTPB）",
+      "Odessa（敖德萨）"
+    ],
+    [
+      "普雷里维尤农工大学（Prairie View A&M University，PVAMU）",
+      "Prairie View（普雷里维尤）"
+    ],
+    [
+      "得州大学达拉斯分校（The University of Texas at Dallas，UTD）",
+      "Richardson（理查森）"
+    ],
+    [
+      "安吉洛州立大学（Angelo State University，ASU）",
+      "San Angelo（圣安吉洛）"
+    ],
+    [
+      "得州农工大学圣安东尼奥分校（Texas A&M University-San Antonio，A&M-SA）",
+      "圣安东尼奥（San Antonio）"
+    ],
+    [
+      "得克萨斯大学圣安东尼奥健康科学中心（UT Health San Antonio，UTHSCSA）",
+      "圣安东尼奥（San Antonio）"
+    ],
+    [
+      "得克萨斯大学圣安东尼奥分校（The University of Texas at San Antonio，UTSA）",
+      "圣安东尼奥（San Antonio）"
+    ],
+    [
+      "得州州立大学（Texas State University，TXST）",
+      "圣马科斯（得州）"
+    ],
+    [
+      "塔尔顿州立大学（Tarleton State University）",
+      "Stephenville（斯蒂芬维尔）"
+    ],
+    [
+      "得州农工大学特克萨卡纳分校（Texas A&M University-Texarkana，A&M-Texarkana）",
+      "Texarkana（特克萨卡纳，得州/阿肯色双城）"
+    ],
+    [
+      "得州大学泰勒分校（The University of Texas at Tyler，UT Tyler）",
+      "Tyler（泰勒）"
+    ],
+    [
+      "休斯敦大学维多利亚分校（University of Houston-Victoria，UHV）",
+      "Victoria（维多利亚）"
+    ],
+    [
+      "中西州立大学（Midwestern State University，MSU Texas）",
+      "Wichita Falls（威奇托福尔斯）"
+    ],
+    [
+      "宾州州立大学阿宾顿分校（Penn State Abington, The Abington College）",
+      "Abington"
+    ],
+    [
+      "宾州州立大学阿尔图纳分校（Penn State Altoona, The Altoona College）",
+      "Altoona"
+    ],
+    [
+      "宾州联邦大学（Commonwealth University of Pennsylvania）",
+      "Bloomsburg"
+    ],
+    [
+      "匹兹堡大学布拉德福德分校（University of Pittsburgh at Bradford, Pitt-Bradford / UPB）",
+      "Bradford"
+    ],
+    [
+      "宾州西部大学（Pennsylvania Western University，PennWest）",
+      "California, PA"
+    ],
+    [
+      "宾州州立大学利哈伊谷分校（Penn State Lehigh Valley，PSU-LV）",
+      "Center Valley（森特瓦利）"
+    ],
+    [
+      "切尼大学（Cheyney University of Pennsylvania）",
+      "切尼"
+    ],
+    [
+      "宾州州立大学威尔克斯-巴里分校（Penn State Wilkes-Barre，PSU-WB）",
+      "Dallas（宾州卢泽恩县 Back Mountain 片区）"
+    ],
+    [
+      "宾州州立大学斯克兰顿分校（Penn State Scranton，PSU-Scranton）",
+      "Dunmore（邓莫尔，Lackawanna 县）"
+    ],
+    [
+      "东斯特劳斯堡大学（East Stroudsburg University of Pennsylvania，ESU）",
+      "东斯特劳斯堡"
+    ],
+    [
+      "Penn State Erie, The Behrend College（宾州州立大学伊利分校 Behrend）",
+      "伊利（Erie）"
+    ],
+    [
+      "匹兹堡大学格林斯堡分校（University of Pittsburgh at Greensburg, Pitt-Greensburg / UPG）",
+      "Greensburg"
+    ],
+    [
+      "Penn State Hazleton（宾州州立大学黑兹尔顿分校）",
+      "黑兹尔顿（Hazleton）"
+    ],
+    [
+      "印第安纳宾夕法尼亚大学（Indiana University of Pennsylvania，IUP）",
+      "印第安纳（宾州）"
+    ],
+    [
+      "University of Pittsburgh",
+      "匹兹堡"
+    ],
+    [
+      "University of Pittsburgh-Johnstown",
+      "约翰斯敦"
+    ],
+    [
+      "Kutztown University of Pennsylvania",
+      "库茨敦"
+    ],
+    [
+      "Penn State Fayette, The Eberly Campus",
+      "莱蒙特弗内斯"
+    ],
+    [
+      "Lincoln University",
+      "林肯大学镇"
+    ],
+    [
+      "Penn State Great Valley",
+      "马尔文"
+    ],
+    [
+      "Penn State Greater Allegheny",
+      "麦基斯波特"
+    ],
+    [
+      "Penn State Brandywine",
+      "米迪亚"
+    ],
+    [
+      "Penn State Harrisburg",
+      "米德尔敦"
+    ],
+    [
+      "Millersville University of Pennsylvania",
+      "米勒斯维尔"
+    ],
+    [
+      "Penn State Beaver",
+      "莫纳卡"
+    ],
+    [
+      "Penn State Mont Alto",
+      "蒙特阿尔托"
+    ],
+    [
+      "Penn State New Kensington",
+      "新肯辛顿"
+    ],
+    [
+      "Penn State Berks",
+      "雷丁"
+    ],
+    [
+      "Penn State Schuylkill",
+      "斯库尔基尔黑文"
+    ],
+    [
+      "Penn State Shenango",
+      "沙伦"
+    ],
+    [
+      "Shippensburg University of Pennsylvania",
+      "希彭斯堡"
+    ],
+    [
+      "Slippery Rock University of Pennsylvania",
+      "斯利珀里罗克"
+    ],
+    [
+      "Penn State University Park",
+      "大学公园"
+    ],
+    [
+      "Penn State World Campus",
+      "大学公园"
+    ],
+    [
+      "Penn State York",
+      "约克"
+    ],
+    [
+      "纽约州立大学奥尔巴尼分校",
+      "奥尔巴尼"
+    ],
+    [
+      "纽约州立大学布罗克波特分校",
+      "布罗克波特"
+    ],
+    [
+      "纽约州立大学布法罗州立学院",
+      "布法罗"
+    ],
+    [
+      "纽约州立大学布法罗分校",
+      "布法罗"
+    ],
+    [
+      "纽约州立大学坎顿分校",
+      "坎顿"
+    ],
+    [
+      "纽约州立大学科布尔斯基尔分校",
+      "科布尔斯基尔"
+    ],
+    [
+      "纽约州立大学科特兰分校",
+      "科特兰"
+    ],
+    [
+      "纽约州立大学德里分校",
+      "德里"
+    ],
+    [
+      "纽约州立大学法明代尔州立学院",
+      "法明代尔"
+    ],
+    [
+      "纽约州立大学弗雷多尼亚分校",
+      "弗雷多尼亚"
+    ],
+    [
+      "纽约州立大学杰纳苏分校",
+      "杰纳苏"
+    ],
+    [
+      "美国商船学院（USMMA）",
+      "国王角"
+    ],
+    [
+      "约克学院（CUNY）",
+      "纽约"
+    ],
+    [
+      "纽约市立大学法学院（CUNY）",
+      "长岛市"
+    ],
+    [
+      "纽约州立大学新帕尔茨分校",
+      "新帕尔茨"
+    ],
+    [
+      "纽约州立大学奥尼昂塔分校",
+      "奥尼昂塔"
+    ],
+    [
+      "纽约州立大学奥斯威戈分校",
+      "奥斯威戈"
+    ],
+    [
+      "纽约州立大学普拉茨堡分校",
+      "普拉茨堡"
+    ],
+    [
+      "纽约州立大学波茨坦分校",
+      "波茨坦"
+    ],
+    [
+      "宾汉姆顿大学",
+      "宾厄姆顿"
+    ],
+    [
+      "帝国州立大学（纽约州立大学）",
+      "多地办学／线上"
+    ],
+    [
+      "纽约州立大学老韦斯特伯里分校",
+      "老韦斯特伯里"
+    ],
+    [
+      "纽约州立大学帕切斯学院",
+      "帕切斯"
+    ],
+    [
+      "石溪大学",
+      "石溪"
+    ],
+    [
+      "纽约州立大学环境科学与林业学院",
+      "锡拉丘兹"
+    ],
+    [
+      "纽约州立大学上州医科大学",
+      "锡拉丘兹"
+    ],
+    [
+      "纽约州立大学海事学院",
+      "布朗克斯·Throgs Neck"
+    ],
+    [
+      "纽约州立大学理工学院",
+      "尤蒂卡"
+    ],
+    [
+      "美国军事学院（西点军校）",
+      "西点"
+    ]
+  ],
+  "SORDER": [
+    "ucsb",
+    "su",
+    "usc",
+    "ucla",
+    "uw",
+    "nyu",
+    "columbia",
+    "neu",
+    "bu",
+    "ucb",
+    "ucsd",
+    "penn",
+    "purdue",
+    "lehman",
+    "brooklyn",
+    "medgar",
+    "citytech",
+    "downstate",
+    "baruch",
+    "ccny",
+    "cunygc",
+    "rowan",
+    "njcu",
+    "montclair",
+    "rutgers",
+    "hunter",
+    "jjay",
+    "sunyopt",
+    "queens",
+    "csi",
+    "njit",
+    "rutgersnewark",
+    "kean",
+    "wpaterson",
+    "umass",
+    "massart",
+    "umb",
+    "framingham",
+    "uml",
+    "salemstate",
+    "umassmed",
+    "worcester",
+    "ucd",
+    "fresnostate",
+    "csueb",
+    "ucmerced",
+    "nps",
+    "sonoma",
+    "csus",
+    "sfsu",
+    "uclawsf",
+    "ucsf",
+    "sjsu",
+    "ucsc",
+    "csumb",
+    "csustan",
+    "fullerton",
+    "uci",
+    "umassglobal",
+    "csulb",
+    "csula",
+    "cpp",
+    "ucr",
+    "sdsu",
+    "csusm",
+    "uwb",
+    "evergreen",
+    "uwt",
+    "rutgerscamden",
+    "temple",
+    "wcupa",
+    "sulross",
+    "uta",
+    "utaustin",
+    "lamar",
+    "wtamu",
+    "tamu",
+    "tamuc",
+    "tamucc",
+    "untdallas",
+    "utsouthwestern",
+    "twu",
+    "unt",
+    "utrgv",
+    "ttuhscelpaso",
+    "utep",
+    "unthsc",
+    "utmb",
+    "tsu",
+    "uthouston",
+    "mdanderson",
+    "uh",
+    "uhcl",
+    "uhd",
+    "shsu",
+    "tamuct",
+    "tamuk",
+    "tamiu",
+    "ttu",
+    "ttuhsc",
+    "sfasu",
+    "utpb",
+    "pvamu",
+    "utdallas",
+    "angelo",
+    "tamusa",
+    "uthscsa",
+    "utsa",
+    "txstate",
+    "tarleton",
+    "tamut",
+    "uttyler",
+    "uhv",
+    "msutexas",
+    "abington",
+    "altoona",
+    "commonwealthu",
+    "upb",
+    "pennwest",
+    "psulv",
+    "cheyney",
+    "psuwb",
+    "psuscranton",
+    "esu",
+    "behrend",
+    "upg",
+    "psuhazleton",
+    "iup",
+    "pitt",
+    "upj",
+    "kutztown",
+    "psufayette",
+    "lincoln",
+    "psugreatvalley",
+    "psugreaterallegheny",
+    "psubrandywine",
+    "psuharrisburg",
+    "millersville",
+    "psubeaver",
+    "psumontalto",
+    "psunewkensington",
+    "psuberks",
+    "psuschuylkill",
+    "psushenango",
+    "shippensburg",
+    "slipperyrock",
+    "psu",
+    "psuworld",
+    "psuyork",
+    "albany",
+    "brockport",
+    "buffalostate",
+    "ub",
+    "canton",
+    "cobleskill",
+    "cortland",
+    "delhi",
+    "farmingdale",
+    "fredonia",
+    "geneseo",
+    "usmma",
+    "yorkcuny",
+    "cunylaw",
+    "newpaltz",
+    "oneonta",
+    "oswego",
+    "plattsburgh",
+    "potsdam",
+    "binghamton",
+    "empirestate",
+    "oldwestbury",
+    "purchase",
+    "stonybrook",
+    "esf",
+    "upstate",
+    "maritime",
+    "poly",
+    "usma"
+  ],
+  "SIDS": [
+    "usc",
+    "ucla",
+    "ucsb",
+    "uw",
+    "su",
+    "nyu",
+    "columbia",
+    "neu",
+    "bu",
+    "ucb",
+    "ucsd",
+    "penn",
+    "purdue",
+    "lehman",
+    "brooklyn",
+    "medgar",
+    "citytech",
+    "downstate",
+    "baruch",
+    "ccny",
+    "cunygc",
+    "rowan",
+    "njcu",
+    "montclair",
+    "rutgers",
+    "hunter",
+    "jjay",
+    "sunyopt",
+    "queens",
+    "csi",
+    "njit",
+    "rutgersnewark",
+    "kean",
+    "wpaterson",
+    "umass",
+    "massart",
+    "umb",
+    "framingham",
+    "uml",
+    "salemstate",
+    "umassmed",
+    "worcester",
+    "ucd",
+    "fresnostate",
+    "csueb",
+    "ucmerced",
+    "nps",
+    "sonoma",
+    "csus",
+    "sfsu",
+    "uclawsf",
+    "ucsf",
+    "sjsu",
+    "ucsc",
+    "csumb",
+    "csustan",
+    "fullerton",
+    "uci",
+    "umassglobal",
+    "csulb",
+    "csula",
+    "cpp",
+    "ucr",
+    "sdsu",
+    "csusm",
+    "uwb",
+    "evergreen",
+    "uwt",
+    "rutgerscamden",
+    "temple",
+    "wcupa",
+    "sulross",
+    "uta",
+    "utaustin",
+    "lamar",
+    "wtamu",
+    "tamu",
+    "tamuc",
+    "tamucc",
+    "untdallas",
+    "utsouthwestern",
+    "twu",
+    "unt",
+    "utrgv",
+    "ttuhscelpaso",
+    "utep",
+    "unthsc",
+    "utmb",
+    "tsu",
+    "uthouston",
+    "mdanderson",
+    "uh",
+    "uhcl",
+    "uhd",
+    "shsu",
+    "tamuct",
+    "tamuk",
+    "tamiu",
+    "ttu",
+    "ttuhsc",
+    "sfasu",
+    "utpb",
+    "pvamu",
+    "utdallas",
+    "angelo",
+    "tamusa",
+    "uthscsa",
+    "utsa",
+    "txstate",
+    "tarleton",
+    "tamut",
+    "uttyler",
+    "uhv",
+    "msutexas",
+    "abington",
+    "altoona",
+    "commonwealthu",
+    "upb",
+    "pennwest",
+    "psulv",
+    "cheyney",
+    "psuwb",
+    "psuscranton",
+    "esu",
+    "behrend",
+    "upg",
+    "psuhazleton",
+    "iup",
+    "pitt",
+    "upj",
+    "kutztown",
+    "psufayette",
+    "lincoln",
+    "psugreatvalley",
+    "psugreaterallegheny",
+    "psubrandywine",
+    "psuharrisburg",
+    "millersville",
+    "psubeaver",
+    "psumontalto",
+    "psunewkensington",
+    "psuberks",
+    "psuschuylkill",
+    "psushenango",
+    "shippensburg",
+    "slipperyrock",
+    "psu",
+    "psuworld",
+    "psuyork",
+    "albany",
+    "brockport",
+    "buffalostate",
+    "ub",
+    "canton",
+    "cobleskill",
+    "cortland",
+    "delhi",
+    "farmingdale",
+    "fredonia",
+    "geneseo",
+    "usmma",
+    "yorkcuny",
+    "cunylaw",
+    "newpaltz",
+    "oneonta",
+    "oswego",
+    "plattsburgh",
+    "potsdam",
+    "binghamton",
+    "empirestate",
+    "oldwestbury",
+    "purchase",
+    "stonybrook",
+    "esf",
+    "upstate",
+    "maritime",
+    "poly",
+    "usma"
+  ],
+  "ALIAS": {
+    "usma": [
+      "usma",
+      "United States Military Academy",
+      "USMA",
+      "West Point",
+      "Army West Point",
+      "美国军事学院",
+      "西点军校"
+    ],
+    "poly": [
+      "poly",
+      "SUNY Polytechnic Institute",
+      "SUNY Poly",
+      "SUNY Polytechnic",
+      "Polytechnic Institute",
+      "理工学院",
+      "纽约州立大学理工学院"
+    ],
+    "maritime": [
+      "maritime",
+      "SUNY Maritime College",
+      "State University of New York Maritime College",
+      "Maritime College",
+      "SUNY Maritime",
+      "海事学院",
+      "纽约州立大学海事学院"
+    ],
+    "upstate": [
+      "upstate",
+      "Upstate Medical University",
+      "SUNY Upstate Medical University",
+      "Upstate",
+      "上州医科大学",
+      "纽约州立大学上州医科大学"
+    ],
+    "esf": [
+      "esf",
+      "SUNY ESF",
+      "SUNY College of Environmental Science and Forestry",
+      "ESF",
+      "环境科学与林业学院",
+      "纽约州立大学环境科学与林业学院"
+    ],
+    "stonybrook": [
+      "stonybrook",
+      "Stony Brook University",
+      "Stony Brook University, SUNY",
+      "SUNY Stony Brook",
+      "SBU",
+      "石溪大学",
+      "纽约州立大学石溪分校"
+    ],
+    "purchase": [
+      "purchase",
+      "SUNY Purchase",
+      "Purchase College",
+      "Purchase College, SUNY",
+      "帕切斯学院",
+      "纽约州立大学帕切斯学院"
+    ],
+    "oldwestbury": [
+      "oldwestbury",
+      "SUNY Old Westbury",
+      "State University of New York at Old Westbury",
+      "Old Westbury",
+      "老韦斯特伯里分校",
+      "纽约州立大学老韦斯特伯里分校"
+    ],
+    "empirestate": [
+      "empirestate",
+      "Empire State University",
+      "SUNY Empire State College",
+      "SUNY Empire",
+      "Empire State College",
+      "帝国州立大学",
+      "帝国州立学院"
+    ],
+    "binghamton": [
+      "binghamton",
+      "Binghamton University",
+      "Binghamton University, SUNY",
+      "SUNY Binghamton",
+      "BU",
+      "宾汉姆顿大学",
+      "宾厄姆顿大学"
+    ],
+    "potsdam": [
+      "potsdam",
+      "SUNY Potsdam",
+      "State University of New York at Potsdam",
+      "Potsdam State",
+      "波茨坦分校",
+      "纽约州立大学波茨坦分校"
+    ],
+    "plattsburgh": [
+      "plattsburgh",
+      "SUNY Plattsburgh",
+      "State University of New York at Plattsburgh",
+      "Plattsburgh State",
+      "普拉茨堡分校",
+      "纽约州立大学普拉茨堡分校"
+    ],
+    "oswego": [
+      "oswego",
+      "SUNY Oswego",
+      "State University of New York at Oswego",
+      "Oswego State",
+      "奥斯威戈分校",
+      "纽约州立大学奥斯威戈分校"
+    ],
+    "oneonta": [
+      "oneonta",
+      "SUNY Oneonta",
+      "State University of New York at Oneonta",
+      "Oneonta State",
+      "奥尼昂塔分校",
+      "纽约州立大学奥尼昂塔分校"
+    ],
+    "newpaltz": [
+      "newpaltz",
+      "SUNY New Paltz",
+      "State University of New York at New Paltz",
+      "New Paltz",
+      "新帕尔茨分校",
+      "纽约州立大学新帕尔茨分校"
+    ],
+    "psuyork": [
+      "psuyork",
+      "Penn State York",
+      "PSU York",
+      "宾州州立约克校区"
+    ],
+    "psuworld": [
+      "psuworld",
+      "Penn State World Campus",
+      "PSU World Campus",
+      "World Campus",
+      "宾州州立世界校区"
+    ],
+    "psu": [
+      "psu",
+      "Penn State",
+      "PSU",
+      "Penn State University Park",
+      "宾州州立大学",
+      "宾州州立帕克校区"
+    ],
+    "slipperyrock": [
+      "slipperyrock",
+      "Slippery Rock",
+      "SRU",
+      "The Rock",
+      "斯利珀里罗克大学"
+    ],
+    "shippensburg": [
+      "shippensburg",
+      "Shippensburg",
+      "Ship",
+      "Shippensburg University",
+      "希彭斯堡大学"
+    ],
+    "psushenango": [
+      "psushenango",
+      "Penn State Shenango",
+      "PSU Shenango",
+      "宾州州立沙伦戈校区"
+    ],
+    "psuschuylkill": [
+      "psuschuylkill",
+      "Penn State Schuylkill",
+      "PSU Schuylkill",
+      "宾州州立斯库尔基尔校区"
+    ],
+    "psuberks": [
+      "psuberks",
+      "Penn State Berks",
+      "PSU Berks",
+      "宾州州立伯克斯校区"
+    ],
+    "psunewkensington": [
+      "psunewkensington",
+      "Penn State New Kensington",
+      "PSU New Kensington",
+      "宾州州立新肯辛顿校区"
+    ],
+    "psumontalto": [
+      "psumontalto",
+      "Penn State Mont Alto",
+      "PSU Mont Alto",
+      "宾州州立蒙特阿尔托校区"
+    ],
+    "psubeaver": [
+      "psubeaver",
+      "Penn State Beaver",
+      "PSU Beaver",
+      "宾州州立比弗校区"
+    ],
+    "millersville": [
+      "millersville",
+      "Millersville",
+      "MU",
+      "米勒斯维尔大学",
+      "宾州米勒斯维尔大学"
+    ],
+    "psuharrisburg": [
+      "psuharrisburg",
+      "Penn State Harrisburg",
+      "PSU Harrisburg",
+      "宾州州立哈里斯堡校区"
+    ],
+    "psubrandywine": [
+      "psubrandywine",
+      "Penn State Brandywine",
+      "PSU Brandywine",
+      "宾州州立布兰迪万校区"
+    ],
+    "psugreaterallegheny": [
+      "psugreaterallegheny",
+      "Penn State Greater Allegheny",
+      "PSU Greater Allegheny",
+      "宾州州立大阿勒格尼校区"
+    ],
+    "psugreatvalley": [
+      "psugreatvalley",
+      "Penn State Great Valley",
+      "PSU Great Valley",
+      "宾州州立大谷校区"
+    ],
+    "lincoln": [
+      "lincoln",
+      "Lincoln University PA",
+      "LU",
+      "林肯大学",
+      "宾州林肯大学"
+    ],
+    "psufayette": [
+      "psufayette",
+      "Penn State Fayette",
+      "PSU Fayette",
+      "Eberly Campus",
+      "宾州州立费耶特校区"
+    ],
+    "kutztown": [
+      "kutztown",
+      "Kutztown",
+      "KU",
+      "库茨敦大学",
+      "宾州库茨敦大学"
+    ],
+    "upj": [
+      "upj",
+      "UPJ",
+      "Pitt-Johnstown",
+      "匹兹堡大学约翰斯敦分校",
+      "Pitt Johnstown"
+    ],
+    "pitt": [
+      "pitt",
+      "Pitt",
+      "University of Pittsburgh",
+      "匹兹堡大学",
+      "PITT"
+    ],
+    "iup": [
+      "iup",
+      "Indiana University of Pennsylvania",
+      "IUP",
+      "宾州印第安纳大学"
+    ],
+    "psuhazleton": [
+      "psuhazleton",
+      "Penn State Hazleton",
+      "PSU Hazleton",
+      "宾州州立黑兹尔顿"
+    ],
+    "upg": [
+      "upg",
+      "Pitt-Greensburg",
+      "University of Pittsburgh Greensburg",
+      "匹兹堡大学格林斯堡"
+    ],
+    "behrend": [
+      "behrend",
+      "Penn State Behrend",
+      "PSU Behrend",
+      "宾州州立贝伦德"
+    ],
+    "esu": [
+      "esu",
+      "East Stroudsburg University",
+      "ESU",
+      "东斯特劳斯堡"
+    ],
+    "psuscranton": [
+      "psuscranton",
+      "Penn State Scranton",
+      "PSU Scranton",
+      "宾州州立斯克兰顿"
+    ],
+    "psuwb": [
+      "psuwb",
+      "Penn State Wilkes-Barre",
+      "PSU Wilkes-Barre",
+      "宾州州立威尔克斯-巴里"
+    ],
+    "cheyney": [
+      "cheyney",
+      "Cheyney University",
+      "切尼"
+    ],
+    "psulv": [
+      "psulv",
+      "Penn State Lehigh Valley",
+      "PSU Lehigh Valley",
+      "宾州州立利哈伊谷"
+    ],
+    "pennwest": [
+      "pennwest",
+      "PennWest",
+      "PennWest California",
+      "California University of Pennsylvania",
+      "Clarion University",
+      "Edinboro University",
+      "宾州西部大学"
+    ],
+    "upb": [
+      "upb",
+      "Pitt-Bradford",
+      "University of Pittsburgh Bradford",
+      "匹兹堡大学布拉德福德"
+    ],
+    "commonwealthu": [
+      "commonwealthu",
+      "Commonwealth University",
+      "Bloomsburg University",
+      "Lock Haven University",
+      "Mansfield University",
+      "宾州联邦大学"
+    ],
+    "altoona": [
+      "altoona",
+      "Penn State Altoona",
+      "PSU Altoona",
+      "宾州州立阿尔图纳"
+    ],
+    "abington": [
+      "abington",
+      "Penn State Abington",
+      "PSU Abington",
+      "宾州州立阿宾顿"
+    ],
+    "msutexas": [
+      "msutexas",
+      "msutexas",
+      "MSU Texas",
+      "Midwestern State",
+      "中西州立大学"
+    ],
+    "uhv": [
+      "uhv",
+      "uhv",
+      "UHV",
+      "UH-Victoria",
+      "休斯敦大学维多利亚分校"
+    ],
+    "uttyler": [
+      "uttyler",
+      "uttyler",
+      "UT Tyler",
+      "UTT",
+      "得州大学泰勒分校"
+    ],
+    "tamut": [
+      "tamut",
+      "tamut",
+      "A&M-Texarkana",
+      "TAMUT",
+      "农工特克萨卡纳分校"
+    ],
+    "tarleton": [
+      "tarleton",
+      "tarleton",
+      "Tarleton State",
+      "塔尔顿州立大学"
+    ],
+    "txstate": [
+      "txstate",
+      "txstate",
+      "TXST",
+      "Texas State",
+      "得州州立大学"
+    ],
+    "utsa": [
+      "utsa",
+      "utsa",
+      "UTSA",
+      "UT San Antonio",
+      "得州大学圣安东尼奥分校"
+    ],
+    "uthscsa": [
+      "uthscsa",
+      "uthscsa",
+      "UTHSCSA",
+      "UT Health San Antonio",
+      "圣安东尼奥健康科学中心"
+    ],
+    "tamusa": [
+      "tamusa",
+      "tamusa",
+      "A&M-SA",
+      "TAMU-SA",
+      "农工圣安东尼奥分校"
+    ],
+    "angelo": [
+      "angelo",
+      "angelo",
+      "ASU",
+      "Angelo State",
+      "安吉洛州立大学"
+    ],
+    "utdallas": [
+      "utdallas",
+      "utdallas",
+      "UTD",
+      "UT Dallas",
+      "得州大学达拉斯分校"
+    ],
+    "pvamu": [
+      "pvamu",
+      "pvamu",
+      "PVAMU",
+      "Prairie View A&M",
+      "普雷里维尤农工大学"
+    ],
+    "utpb": [
+      "utpb",
+      "utpb",
+      "UTPB",
+      "UT Permian Basin",
+      "二叠纪盆地分校"
+    ],
+    "sfasu": [
+      "sfasu",
+      "sfasu",
+      "SFA",
+      "Stephen F Austin",
+      "斯蒂芬奥斯汀州立大学"
+    ],
+    "ttuhsc": [
+      "ttuhsc",
+      "ttuhsc",
+      "TTUHSC",
+      "Texas Tech HSC",
+      "得州理工健康科学中心"
+    ],
+    "ttu": [
+      "ttu",
+      "TTU",
+      "Texas Tech",
+      "得州理工大学"
+    ],
+    "tamiu": [
+      "tamiu",
+      "TAMIU",
+      "A&M International",
+      "农工国际大学"
+    ],
+    "tamuk": [
+      "tamuk",
+      "TAMUK",
+      "A&M-Kingsville",
+      "金斯维尔分校"
+    ],
+    "tamuct": [
+      "tamuct",
+      "TAMUCT",
+      "A&M-Central Texas",
+      "中得州分校"
+    ],
+    "shsu": [
+      "shsu",
+      "SHSU",
+      "Sam Houston",
+      "萨姆休斯敦州立大学"
+    ],
+    "uhd": [
+      "uhd",
+      "UHD",
+      "UH Downtown",
+      "市中心分校"
+    ],
+    "uhcl": [
+      "uhcl",
+      "UHCL",
+      "UH Clear Lake",
+      "明湖分校"
+    ],
+    "uh": [
+      "uh",
+      "UH",
+      "Houston",
+      "休斯敦大学"
+    ],
+    "mdanderson": [
+      "mdanderson",
+      "MD Anderson",
+      "MDACC",
+      "安德森癌症中心"
+    ],
+    "uthouston": [
+      "uthouston",
+      "UTHealth",
+      "UTHealth Houston",
+      "休斯敦健康科学中心"
+    ],
+    "tsu": [
+      "tsu",
+      "TSU",
+      "Texas Southern",
+      "得州南方大学"
+    ],
+    "utmb": [
+      "utmb",
+      "UTMB",
+      "UT Medical Branch",
+      "加尔维斯顿医学分部"
+    ],
+    "unthsc": [
+      "unthsc",
+      "UNTHSC",
+      "HSC Fort Worth",
+      "北得州大学健康科学中心"
+    ],
+    "utep": [
+      "utep",
+      "UTEP",
+      "UT El Paso",
+      "得州大学埃尔帕索分校"
+    ],
+    "ttuhscelpaso": [
+      "ttuhscelpaso",
+      "TTUHSC El Paso",
+      "德州理工卫生科学中心埃尔帕索分校"
+    ],
+    "utrgv": [
+      "utrgv",
+      "UTRGV",
+      "UT Rio Grande Valley",
+      "德州大学格兰德谷分校"
+    ],
+    "unt": [
+      "unt",
+      "UNT",
+      "University of North Texas",
+      "北德州大学"
+    ],
+    "twu": [
+      "twu",
+      "TWU",
+      "Texas Woman's University",
+      "德州女子大学"
+    ],
+    "utsouthwestern": [
+      "utsouthwestern",
+      "UT Southwestern",
+      "UTSW",
+      "德州大学西南医学中心"
+    ],
+    "untdallas": [
+      "untdallas",
+      "UNT Dallas",
+      "北德州大学达拉斯分校"
+    ],
+    "tamucc": [
+      "tamucc",
+      "A&M-Corpus Christi",
+      "TAMUCC",
+      "德州农工大学科珀斯克里斯蒂分校"
+    ],
+    "tamuc": [
+      "tamuc",
+      "A&M-Commerce",
+      "TAMUC",
+      "德州农工大学康默斯分校"
+    ],
+    "wtamu": [
+      "wtamu",
+      "WTAMU",
+      "West Texas A&M",
+      "西德州农工大学"
+    ],
+    "lamar": [
+      "lamar",
+      "Lamar",
+      "拉玛大学"
+    ],
+    "utaustin": [
+      "utaustin",
+      "UT Austin",
+      "University of Texas at Austin",
+      "德州大学奥斯汀分校"
+    ],
+    "uta": [
+      "uta",
+      "UT Arlington",
+      "UTA",
+      "德州大学阿灵顿分校"
+    ],
+    "sulross": [
+      "sulross",
+      "Sul Ross",
+      "SRSU",
+      "苏尔罗斯"
+    ],
+    "wcupa": [
+      "wcupa",
+      "西切斯特大学",
+      "West Chester University",
+      "WCU"
+    ],
+    "temple": [
+      "temple",
+      "天普大学",
+      "坦普尔"
+    ],
+    "rutgerscamden": [
+      "rutgerscamden",
+      "罗格斯卡姆登",
+      "卡姆登分校"
+    ],
+    "uwt": [
+      "uwt",
+      "华盛顿大学塔科马",
+      "塔科马分校",
+      "UWT"
+    ],
+    "evergreen": [
+      "evergreen",
+      "常青州立",
+      "长青州立",
+      "Evergreen"
+    ],
+    "uwb": [
+      "uwb",
+      "华盛顿大学博塞尔",
+      "博塞尔分校",
+      "UWB"
+    ],
+    "csusm": [
+      "csusm",
+      "加州州立圣马科斯",
+      "圣马科斯分校",
+      "CSUSM"
+    ],
+    "sdsu": [
+      "sdsu",
+      "圣地亚哥州立",
+      "SDSU"
+    ],
+    "ucr": [
+      "ucr",
+      "加州大学河滨",
+      "河滨分校",
+      "UCR"
+    ],
+    "cpp": [
+      "cpp",
+      "加州州立理工大学波莫纳",
+      "波莫纳理工",
+      "Cal Poly Pomona"
+    ],
+    "csula": [
+      "csula",
+      "加州州立洛杉矶",
+      "洛杉矶州立",
+      "CSULA"
+    ],
+    "csulb": [
+      "csulb",
+      "加州州立长滩",
+      "长滩分校",
+      "CSULB"
+    ],
+    "umassglobal": [
+      "umassglobal",
+      "麻省大学全球",
+      "Brandman",
+      "布兰德曼"
+    ],
+    "uci": [
+      "uci",
+      "加州大学欧文",
+      "尔湾分校",
+      "UCI"
+    ],
+    "fullerton": [
+      "fullerton",
+      "加州州立富勒顿",
+      "富勒顿分校",
+      "CSUF"
+    ],
+    "csustan": [
+      "csustan",
+      "加州州立斯坦尼斯劳斯",
+      "斯坦州立",
+      "CSU Stanislaus"
+    ],
+    "csumb": [
+      "csumb",
+      "加州州立蒙特雷湾",
+      "蒙特雷湾分校",
+      "CSUMB"
+    ],
+    "ucsc": [
+      "ucsc",
+      "加州大学圣克鲁兹",
+      "圣塔克鲁兹"
+    ],
+    "sjsu": [
+      "sjsu",
+      "圣何塞州立",
+      "SJSU"
+    ],
+    "ucsf": [
+      "ucsf",
+      "加州大学旧金山",
+      "旧金山分校医学中心"
+    ],
+    "uclawsf": [
+      "uclawsf",
+      "加州大学法学院",
+      "UC Law San Francisco",
+      "Hastings",
+      "黑斯廷斯"
+    ],
+    "sfsu": [
+      "sfsu",
+      "旧金山州立",
+      "三藩市州立",
+      "SFSU"
+    ],
+    "csus": [
+      "csus",
+      "加州州立萨克拉门托",
+      "萨克拉门托州立",
+      "CSUS"
+    ],
+    "sonoma": [
+      "sonoma",
+      "索诺马州立"
+    ],
+    "nps": [
+      "nps",
+      "Naval Postgraduate School",
+      "NPS"
+    ],
+    "ucmerced": [
+      "ucmerced",
+      "加州大学默塞德"
+    ],
+    "csueb": [
+      "csueb",
+      "加州州立东湾",
+      "东湾分校",
+      "CSUEB"
+    ],
+    "fresnostate": [
+      "fresnostate",
+      "加州州立弗雷斯诺",
+      "弗雷斯诺州立"
+    ],
+    "ucd": [
+      "ucd",
+      "加州大学戴维斯",
+      "戴维斯分校",
+      "UC Davis"
+    ],
+    "worcester": [
+      "worcester",
+      "伍斯特州立大学"
+    ],
+    "umassmed": [
+      "umassmed",
+      "麻省大学陈医学院",
+      "UMass Chan Medical School"
+    ],
+    "salemstate": [
+      "salemstate",
+      "塞勒姆州立大学"
+    ],
+    "uml": [
+      "uml",
+      "麻省大学洛厄尔",
+      "马萨诸塞大学洛厄尔"
+    ],
+    "framingham": [
+      "framingham",
+      "弗雷明汉州立大学"
+    ],
+    "umb": [
+      "umb",
+      "麻省大学波士顿",
+      "马萨诸塞大学波士顿"
+    ],
+    "massart": [
+      "massart",
+      "麻省艺术与设计学院",
+      "Massachusetts College of Art and Design"
+    ],
+    "umass": [
+      "umass",
+      "麻省大学阿默斯特",
+      "马萨诸塞大学阿默斯特",
+      "UMass Amherst"
+    ],
+    "wpaterson": [
+      "wpaterson",
+      "William Paterson",
+      "WPU",
+      "威廉帕特森",
+      "wpunj"
+    ],
+    "kean": [
+      "kean",
+      "Kean University",
+      "Kean",
+      "基恩"
+    ],
+    "rutgersnewark": [
+      "rutgersnewark",
+      "Rutgers Newark",
+      "Rutgers-Newark",
+      "罗格斯纽瓦克",
+      "rutgers newark"
+    ],
+    "njit": [
+      "njit",
+      "NJIT",
+      "New Jersey Institute of Technology",
+      "新泽西理工"
+    ],
+    "csi": [
+      "csi",
+      "史泰登岛",
+      "College of Staten Island",
+      "CSI",
+      "csi cuny"
+    ],
+    "queens": [
+      "queens",
+      "皇后",
+      "CUNY Queens",
+      "Queens College",
+      "queens college"
+    ],
+    "sunyopt": [
+      "sunyopt",
+      "视光学院",
+      "SUNY Optometry",
+      "College of Optometry",
+      "suny optometry"
+    ],
+    "jjay": [
+      "jjay",
+      "约翰杰伊",
+      "John Jay",
+      "CUNY John Jay",
+      "jjay college"
+    ],
+    "hunter": [
+      "hunter",
+      "亨特",
+      "CUNY Hunter",
+      "Hunter College",
+      "hunter college"
+    ],
+    "rutgers": [
+      "rutgers",
+      "Rutgers",
+      "Rutgers University-New Brunswick",
+      "罗格斯",
+      "rutgers new brunswick"
+    ],
+    "montclair": [
+      "montclair",
+      "Montclair State University",
+      "Montclair State",
+      "蒙特克莱尔",
+      "montclair state"
+    ],
+    "njcu": [
+      "njcu",
+      "New Jersey City University",
+      "NJCU",
+      "新泽西城市",
+      "njcu"
+    ],
+    "rowan": [
+      "rowan",
+      "Rowan University",
+      "rowan",
+      "罗文"
+    ],
+    "cunygc": [
+      "cunygc",
+      "CUNY Graduate Center",
+      "Graduate School and University Center",
+      "市立研究生院",
+      "cuny graduate center"
+    ],
+    "ccny": [
+      "ccny",
+      "City College of New York",
+      "CCNY",
+      "纽约市立学院",
+      "city college"
+    ],
+    "baruch": [
+      "baruch",
+      "Baruch College",
+      "CUNY Baruch",
+      "巴鲁克",
+      "baruch college"
+    ],
+    "downstate": [
+      "downstate",
+      "SUNY Downstate",
+      "Downstate Health Sciences",
+      "下城医学",
+      "downstate"
+    ],
+    "citytech": [
+      "citytech",
+      "City Tech",
+      "New York City College of Technology",
+      "citytech",
+      "纽约市立技术"
+    ],
+    "medgar": [
+      "medgar",
+      "Medgar Evers College",
+      "CUNY Medgar Evers",
+      "梅德加",
+      "medgar evers"
+    ],
+    "brooklyn": [
+      "brooklyn",
+      "Brooklyn College",
+      "CUNY Brooklyn",
+      "布鲁克林",
+      "brooklyn college"
+    ],
+    "lehman": [
+      "lehman",
+      "Lehman College",
+      "CUNY Lehman",
+      "雷曼",
+      "lehman college"
+    ],
+    "usc": [
+      "南加大",
+      "USC",
+      "SC"
+    ],
+    "ucla": [
+      "UCLA"
+    ],
+    "ucsb": [
+      "UCSB",
+      "芭芭拉",
+      "圣芭芭拉"
+    ],
+    "uw": [
+      "UW",
+      "华大",
+      "华盛顿"
+    ],
+    "su": [
+      "SU",
+      "西雅图"
+    ],
+    "nyu": [
+      "NYU",
+      "纽大"
+    ],
+    "columbia": [
+      "哥大",
+      "Columbia"
+    ],
+    "neu": [
+      "NEU",
+      "东北"
+    ],
+    "bu": [
+      "BU",
+      "波大"
+    ],
+    "ucb": [
+      "UCB",
+      "伯克利",
+      "Berkeley"
+    ],
+    "ucsd": [
+      "UCSD",
+      "圣地亚哥",
+      "圣迭戈"
+    ],
+    "penn": [
+      "宾大",
+      "UPenn",
+      "Penn",
+      "宾夕法尼亚",
+      "Pennsylvania"
+    ],
+    "purdue": [
+      "普渡",
+      "Purdue",
+      "PU",
+      "普渡大学"
+    ],
+    "albany": [
+      "albany",
+      "University at Albany, SUNY",
+      "UAlbany",
+      "SUNY Albany",
+      "奥尔巴尼分校",
+      "纽约州立大学奥尔巴尼分校"
+    ],
+    "brockport": [
+      "brockport",
+      "SUNY Brockport",
+      "Brockport State",
+      "布罗克波特分校",
+      "纽约州立大学布罗克波特分校"
+    ],
+    "buffalostate": [
+      "buffalostate",
+      "SUNY Buffalo State University",
+      "Buffalo State",
+      "Buffalo State College",
+      "布法罗州立学院",
+      "纽约州立大学布法罗州立学院"
+    ],
+    "ub": [
+      "ub",
+      "University at Buffalo, SUNY",
+      "UB",
+      "SUNY Buffalo",
+      "布法罗分校",
+      "纽约州立大学布法罗分校"
+    ],
+    "canton": [
+      "canton",
+      "SUNY Canton",
+      "SUNY College of Technology at Canton",
+      "State University of New York at Canton",
+      "坎顿分校"
+    ],
+    "cobleskill": [
+      "cobleskill",
+      "SUNY Cobleskill",
+      "SUNY College of Agriculture and Technology at Cobleskill",
+      "Cobleskill Ag & Tech",
+      "科布尔斯基尔分校"
+    ],
+    "cortland": [
+      "cortland",
+      "SUNY Cortland",
+      "State University of New York at Cortland",
+      "Cortland State",
+      "科特兰分校"
+    ],
+    "delhi": [
+      "delhi",
+      "SUNY Delhi",
+      "State University of New York at Delhi",
+      "SUNY Delhi Broncos",
+      "德里分校"
+    ],
+    "farmingdale": [
+      "farmingdale",
+      "Farmingdale State College",
+      "SUNY Farmingdale",
+      "FSC",
+      "法明代尔州立学院"
+    ],
+    "fredonia": [
+      "fredonia",
+      "SUNY Fredonia",
+      "State University of New York at Fredonia",
+      "Fredonia",
+      "纽约州立大学弗雷多尼亚分校"
+    ],
+    "geneseo": [
+      "geneseo",
+      "SUNY Geneseo",
+      "State University of New York at Geneseo",
+      "Geneseo",
+      "纽约州立大学杰纳苏分校"
+    ],
+    "usmma": [
+      "usmma",
+      "United States Merchant Marine Academy",
+      "USMMA",
+      "Kings Point",
+      "Merchant Marine Academy",
+      "美国商船学院",
+      "国王角军校"
+    ],
+    "yorkcuny": [
+      "yorkcuny",
+      "York College",
+      "CUNY York College",
+      "约克学院",
+      "York CUNY"
+    ],
+    "cunylaw": [
+      "cunylaw",
+      "CUNY Law",
+      "CUNY School of Law",
+      "纽约市立大学法学院",
+      "CUNY Law School"
+    ]
+  },
+  "UNI": {
+    "伊利诺伊大学": "urbana",
+    "uiuc": "urbana",
+    "illinois": "urbana",
+    "香槟": "urbana",
+    "厄巴纳": "urbana",
+    "俄亥俄州立": "columbus",
+    "ohio state": "columbus",
+    "osu": "columbus",
+    "哥伦布": "columbus",
+    "密歇根大学": "annarbor",
+    "umich": "annarbor",
+    "安娜堡": "annarbor",
+    "ann arbor": "annarbor",
+    "ut austin": "austin",
+    "德克萨斯大学奥斯汀": "austin",
+    "奥斯汀": "austin",
+    "austin": "austin",
+    "uw-madison": "madison",
+    "威斯康星大学": "madison",
+    "麦迪逊": "madison",
+    "madison": "madison",
+    "普渡": "westlafayette",
+    "purdue": "westlafayette",
+    "西拉法叶": "westlafayette",
+    "拉法叶": "westlafayette",
+    "宾州州立": "statecollege",
+    "penn state": "statecollege",
+    "psu": "statecollege",
+    "州学院": "statecollege",
+    "佐治亚理工": "atlanta",
+    "georgia tech": "atlanta",
+    "埃默里": "atlanta",
+    "emory": "atlanta",
+    "亚特兰大": "atlanta",
+    "北卡州立": "raleigh",
+    "nc state": "raleigh",
+    "罗利": "raleigh",
+    "raleigh": "raleigh",
+    "亚利桑那州立": "tempe",
+    "asu": "tempe",
+    "坦佩": "tempe",
+    "tempe": "tempe",
+    "佛罗里达大学": "gainesville",
+    "uf": "gainesville",
+    "盖恩斯维尔": "gainesville",
+    "弗吉尼亚大学": "charlottesville",
+    "uva": "charlottesville",
+    "夏洛茨维尔": "charlottesville",
+    "德州农工": "collegetx",
+    "tamu": "collegetx",
+    "college station": "collegetx",
+    "uc davis": "davis",
+    "戴维斯": "davis",
+    "davis": "davis",
+    "uc irvine": "irvine",
+    "uci": "irvine",
+    "尔湾": "irvine",
+    "irvine": "irvine"
+  },
+  "CITY_EN": {
+    "west lafayette": "westlafayette",
+    "lafayette": "westlafayette",
+    "ann arbor": "annarbor",
+    "urbana": "urbana",
+    "champaign": "urbana",
+    "columbus": "columbus",
+    "austin": "austin",
+    "madison": "madison",
+    "state college": "statecollege",
+    "university park": "statecollege",
+    "atlanta": "atlanta",
+    "raleigh": "raleigh",
+    "tempe": "tempe",
+    "gainesville": "gainesville",
+    "charlottesville": "charlottesville",
+    "college station": "collegetx",
+    "davis": "davis",
+    "irvine": "irvine",
+    "pittsburgh": "pittsburgh",
+    "baltimore": "baltimore",
+    "new haven": "newhaven",
+    "princeton": "princeton",
+    "ithaca": "ithaca",
+    "durham": "durham",
+    "nashville": "nashville",
+    "st. louis": "stlouis",
+    "saint louis": "stlouis",
+    "chicago": "chicago",
+    "evanston": "evanston",
+    "minneapolis": "minneapolis",
+    "philadelphia": "philadelphia",
+    "washington": "washingtondc",
+    "houston": "houston",
+    "boulder": "boulder",
+    "salt lake city": "saltlake",
+    "portland": "portland",
+    "tucson": "tucson",
+    "eugene": "eugene",
+    "dallas": "dallas",
+    "east lansing": "eastlansing",
+    "amherst": "amherst",
+    "los angeles": "la",
+    "boston": "bos",
+    "cambridge": "bos",
+    "seattle": "sea",
+    "new york": "ny",
+    "san diego": "sd",
+    "berkeley": "sfbay",
+    "santa barbara": "sb",
+    "isla vista": "sb",
+    "goleta": "sb"
+  },
+  "PLACES": {
+    "urbana": {
+      "name": "香槟-厄巴纳",
+      "stateKey": "il",
+      "cluster": "伊利诺伊中部双子城",
+      "wear": "大陆性气候：冬季冷、风大，夏季湿热；11 月到 3 月需要羽绒与防滑鞋。",
+      "transit": "公交（MTD）覆盖校园与两城，凭学生卡免费；没车也能过，去芝加哥坐火车约两三小时。",
+      "safety": "校园与大学城治安相对稳；夜间走照明路段，避开偏僻车站与公园深处。",
+      "rentnote": "校园周边公寓与外围街区价差明显，秋季开学前最紧；不给数字，按邮编查当期挂牌价。",
+      "sceneCity": "社交半径基本在校园与 Green Street 一条街；去芝加哥算一趟远行，要留整天。"
+    },
+    "columbus": {
+      "name": "哥伦布",
+      "stateKey": "oh",
+      "cluster": "俄亥俄中部城市圈",
+      "wear": "四季分明，冬季阴冷多雪，夏季湿热；一件厚外套从 11 月穿到 3 月。",
+      "transit": "公交（COTA）覆盖校园与市中心，学生卡常含在学费；没车日常可过。",
+      "safety": "校园区夜间有护送服务；市中心部分街区夜间结伴走。",
+      "rentnote": "校园北侧与 Short North、外围街区价差大，秋季开学季最紧；按邮编查当期挂牌价。",
+      "sceneCity": "社交沿 High Street 展开：校园、Short North、市中心三段，跨段要算公交间隔。"
+    },
+    "annarbor": {
+      "name": "安娜堡",
+      "stateKey": "mi",
+      "cluster": "密歇根东南大学城",
+      "wear": "冬季长且冷，有湖效应降雪；夏季温和，秋天最好。",
+      "transit": "公交（TheRide）覆盖校园与市区，学生卡常免；去底特律机场约半小时车程。",
+      "safety": "校园与市区治安较好；夜间避开偏僻停车楼与河畔暗段。",
+      "rentnote": "校园步行圈最贵也最紧，往外一两英里价差明显；按邮编查当期挂牌价。",
+      "sceneCity": "社交半径很短：校园、State Street、Kerrytown 三块走路可达；去底特律算一趟出行。"
+    },
+    "austin": {
+      "name": "奥斯汀",
+      "stateKey": "tx",
+      "cluster": "德州中部城市圈",
+      "wear": "夏天长且热，7–9 月正午酷烈；冬季温和，户外活动要避开午后。",
+      "transit": "公交（CapMetro）覆盖市区与校园，班次密度一般；没车日常吃力，多数学生买车。",
+      "safety": "校园区夜间人多；市中心 Sixth Street 夜间饮酒与治安要留意。",
+      "rentnote": "校园周边与河南岸、东侧价差大；8 月开学季最紧，按邮编查挂牌价。",
+      "sceneCity": "社交按校园、市中心、东奥斯汀分三块；没车时半径基本由公交线决定。"
+    },
+    "madison": {
+      "name": "麦迪逊",
+      "stateKey": "wi",
+      "cluster": "威斯康星南部湖区",
+      "wear": "冬季严寒、湖风大；夏天凉爽，是全美少见的避暑校园。",
+      "transit": "公交覆盖 Isthmus 与校园，学生卡常含在学费；冬天等车冷，要算好间隔。",
+      "safety": "校园与州府区治安好；夜间沿湖步道结伴走。",
+      "rentnote": "校园与 Isthmus 最紧，往外价差明显；秋季开学季最难，按邮编查挂牌价。",
+      "sceneCity": "社交集中在 State Street 与校园之间，走得到；去郊区要车或公交转乘。"
+    },
+    "westlafayette": {
+      "name": "西拉法叶",
+      "stateKey": "in",
+      "cluster": "印第安纳中部大学城",
+      "wear": "四季分明，冬季冷、夏季湿热；小镇风大，冬天体感更低。",
+      "transit": "城市公交（CityBus）覆盖校园、公寓区与 Lafayette 镇区；Purdue 学生凭有效 PUID 乘车，学期月票经学校补贴后可在 EZfare 购买，普通单程票 US$2.00；走 I-65 去印第安纳波利斯约 63–65 英里（约 100–105 公里），车程约一小时。",
+      "safety": "校园与小镇治安稳；夜间避开校外公寓区的偏僻路段。",
+      "rentnote": "校园步行圈与外围公寓价差大，秋季紧；按邮编查当期挂牌价。",
+      "sceneCity": "社交半径很小：校园、Chauncey 街区、校外公寓群，走路或几分钟车程。"
+    },
+    "statecollege": {
+      "name": "州学院",
+      "stateKey": "pa",
+      "cluster": "宾州中部山谷大学城",
+      "wear": "冬季冷且多雪，山区路滑；夏天温和，秋天短。",
+      "transit": "校园内步行加免费公交（CATA）；出镇靠车或长途巴士，去匹兹堡约两三小时。",
+      "safety": "校园与小镇治安好；冬季结冰路滑是主要风险。",
+      "rentnote": "downtown 与外围公寓价差明显，秋季紧；按邮编查当期挂牌价。",
+      "sceneCity": "社交基本在校园与 downtown 一条街；出镇一趟要留半天到一天。"
+    },
+    "atlanta": {
+      "name": "亚特兰大",
+      "stateKey": "ga",
+      "cluster": "佐治亚都会区",
+      "wear": "夏天长而湿热，冬季温和；春季花粉明显，过敏体质要备药。",
+      "transit": "MARTA 地铁与公交只覆盖少数走廊，多数人靠车；通勤要按拥堵算时间。",
+      "safety": "街区差异大，夜间避开陌生街区与空站台；校园有护送服务。",
+      "rentnote": "校园周边、Midtown 与外围价差大；只看价格不看街区容易踩坑，按邮编查挂牌价。",
+      "sceneCity": "社交按 Midtown、Downtown、Buckhead 分块；没车时半径受 MARTA 线限制。"
+    },
+    "raleigh": {
+      "name": "罗利",
+      "stateKey": "nc",
+      "cluster": "北卡研究三角",
+      "wear": "四季分明，夏季湿热，冬季短冷；飓风季（6–11 月）留意预警。",
+      "transit": "公交覆盖市区与校园，班次密度一般；研究三角三城之间多靠车。",
+      "safety": "校园与市区治安较稳；夜间避开偏远车站。",
+      "rentnote": "校园周边与 Cary、Durham 价差明显，秋季紧；按邮编查挂牌价。",
+      "sceneCity": "社交分罗利市区、Durham、Chapel Hill 三块，跨城要车，一趟就是半晚。"
+    },
+    "tempe": {
+      "name": "坦佩",
+      "stateKey": "az",
+      "cluster": "凤凰城都会区",
+      "wear": "沙漠气候：6–9 月极热，冬季舒适；紫外线强、空气干燥，补水是硬需求。",
+      "transit": "轻轨（Valley Metro）串坦佩、凤凰城市区与 Mesa；公交一般，夏天等车很晒。",
+      "safety": "校园区夜间人多；白天注意中暑与脱水，夏季少安排长距离步行。",
+      "rentnote": "校园周边与 Mesa、Chandler 价差大；5–8 月是淡季，价格有弹性，按邮编查挂牌价。",
+      "sceneCity": "社交沿轻轨展开：坦佩、凤凰城市区、Scottsdale；夏天室内据点为主。"
+    },
+    "gainesville": {
+      "name": "盖恩斯维尔",
+      "stateKey": "fl",
+      "cluster": "佛州北部大学城",
+      "wear": "亚热带：夏天长、湿热多雷雨，冬季温和；飓风季（6–11 月）要备撤离方案。",
+      "transit": "公交（RTS）覆盖校园与市区，凭学生卡免费；没车日常可过。",
+      "safety": "校园区治安一般，夜间避开校外公寓偏僻段；飓风季跟学校预警走。",
+      "rentnote": "校园步行圈与外围价差大，8 月开学季紧；按邮编查挂牌价。",
+      "sceneCity": "社交集中在校园与 downtown；去奥兰多、坦帕各约两小时。"
+    },
+    "charlottesville": {
+      "name": "夏洛茨维尔",
+      "stateKey": "va",
+      "cluster": "弗吉尼亚中部大学城",
+      "wear": "四季分明，冬季冷、偶有雪；秋天最好，夏天湿热。",
+      "transit": "公交（CAT）覆盖校园与 downtown，凭学生卡免费；出镇靠车或火车。",
+      "safety": "校园与 downtown 治安好；夜间沿校园外围结伴走。",
+      "rentnote": "校园步行圈最紧，往外价差明显；按邮编查挂牌价。",
+      "sceneCity": "社交半径很短：校园、The Corner、downtown 三块，走得到。"
+    },
+    "collegetx": {
+      "name": "大学城（德州）",
+      "stateKey": "tx",
+      "cluster": "德州中部大学城",
+      "wear": "夏天长且热，冬季温和；春夏雷暴与龙卷风季留意预警。",
+      "transit": "公交覆盖校园与城内，班次稀疏；没车基本不行，去 Houston、Austin 各约两三小时。",
+      "safety": "校园区治安稳；夜间避开偏僻停车区。",
+      "rentnote": "校园周边公寓集中，秋季紧；按邮编查挂牌价。",
+      "sceneCity": "社交基本在校园与 Northgate 街区；出城一趟就是半天。"
+    },
+    "davis": {
+      "name": "戴维斯",
+      "stateKey": "ca",
+      "cluster": "加州中央谷地大学城",
+      "wear": "地中海气候：夏天干热，冬季多雨有雾；早晚温差大，薄外套常备。",
+      "transit": "以自行车为主，公交（Unitrans）覆盖校园与市区；去萨克拉门托约 20 分钟车程。",
+      "safety": "小镇治安好；夜间骑行要有灯，田间道路很暗。",
+      "rentnote": "校园步行圈与外围价差明显，秋季紧；按邮编查挂牌价。",
+      "sceneCity": "社交半径短：校园、downtown、公寓区；去旧金山约一个多小时车程。"
+    },
+    "irvine": {
+      "name": "尔湾",
+      "stateKey": "ca",
+      "cluster": "橙县城市圈",
+      "wear": "地中海气候：全年温和，夏天干热，冬季少雨；早晚凉。",
+      "transit": "公交覆盖有限，日常多靠车；去洛杉矶市区按堵车算一小时上下。",
+      "safety": "治安好、街区规整；夜间驾车注意高速匝道。",
+      "rentnote": "校园周边公寓价高且紧，合租常见；按邮编查挂牌价。",
+      "sceneCity": "社交按校园、Irvine Spectrum、新港滩分块；没车时半径很小。"
+    }
+  },
+  "ASK_SECTIONS": [
+    {
+      "sel": "#v-study",
+      "route": "#/study",
+      "name": "学业"
+    },
+    {
+      "sel": "#v-housing",
+      "route": "#/housing",
+      "name": "住宿"
+    },
+    {
+      "sel": "#v-social",
+      "route": "#/social",
+      "name": "社交"
+    },
+    {
+      "sel": "#v-daily",
+      "route": "#/daily",
+      "name": "日常"
+    },
+    {
+      "sel": "#v-safety",
+      "route": "#/safety",
+      "name": "保障"
+    },
+    {
+      "sel": "#v-schools",
+      "route": "#/schools",
+      "name": "院校与路径"
+    },
+    {
+      "sel": "#v-majors",
+      "route": "#/majors",
+      "name": "专业"
+    }
+  ],
+  "ASK_STOP": {
+    "我": 1,
+    "的": 1,
+    "了": 1,
+    "要": 1,
+    "做": 1,
+    "什么": 1,
+    "啥": 1,
+    "怎么": 1,
+    "怎么办": 1,
+    "如何": 1,
+    "吗": 1,
+    "呢": 1,
+    "是": 1,
+    "在": 1,
+    "有": 1,
+    "和": 1,
+    "与": 1,
+    "请问": 1,
+    "帮我": 1,
+    "一下": 1,
+    "这": 1,
+    "那": 1,
+    "能": 1,
+    "可以": 1,
+    "需要": 1,
+    "请问一下": 1,
+    "我想": 1,
+    "想知道": 1,
+    "哪些": 1,
+    "哪个": 1
+  },
+  "ASK_SYN": [
+    [
+      "选课",
+      "注册",
+      "enroll",
+      "enrollment",
+      "registration",
+      "抢课",
+      "选几门"
+    ],
+    [
+      "退课",
+      "withdraw",
+      "drop",
+      "退学分",
+      "退选",
+      "W"
+    ],
+    [
+      "学分",
+      "units",
+      "unit",
+      "12学分",
+      "全职线",
+      "full-time"
+    ],
+    [
+      "绩点",
+      "gpa",
+      "红线",
+      "挂科",
+      "probation",
+      "学业警告",
+      "mcp"
+    ],
+    [
+      "专业",
+      "major",
+      "申报",
+      "declare",
+      "转专业",
+      "转学院",
+      "双专业",
+      "辅修"
+    ],
+    [
+      "申诉",
+      "appeal",
+      "违规",
+      "听证",
+      "学术不端",
+      "plagiarism"
+    ],
+    [
+      "宿舍",
+      "dorm",
+      "dormitory",
+      "housing",
+      "residence",
+      "hall",
+      "双人间",
+      "单人间",
+      "床位",
+      "校内住宿"
+    ],
+    [
+      "房租",
+      "rent",
+      "押金",
+      "deposit",
+      "租约",
+      "lease",
+      "租金",
+      "涨租"
+    ],
+    [
+      "室友",
+      "roommate",
+      "合租",
+      "share"
+    ],
+    [
+      "保险",
+      "医保",
+      "insurance",
+      "ship",
+      "waiver",
+      "豁免",
+      "免缴",
+      "保费",
+      "理赔"
+    ],
+    [
+      "看病",
+      "校医院",
+      "health",
+      "center",
+      "urgent",
+      "急诊",
+      "er",
+      "门诊",
+      "护士"
+    ],
+    [
+      "心理",
+      "咨询",
+      "counseling",
+      "therapy",
+      "caps",
+      "情绪"
+    ],
+    [
+      "ssn",
+      "社安号",
+      "社会安全号",
+      "工卡"
+    ],
+    [
+      "报税",
+      "tax",
+      "退税",
+      "1040",
+      "w-2",
+      "税表",
+      "sprintax"
+    ],
+    [
+      "证件",
+      "护照",
+      "passport",
+      "签证",
+      "visa",
+      "i-20",
+      "i20",
+      "opt",
+      "cpt"
+    ],
+    [
+      "领保",
+      "领事",
+      "使馆",
+      "embassy",
+      "补办"
+    ],
+    [
+      "超市",
+      "grocery",
+      "买菜",
+      "trader",
+      "costco",
+      "target",
+      "ralphs",
+      "safeway"
+    ],
+    [
+      "公交",
+      "bus",
+      "transit",
+      "地铁",
+      "subway",
+      "轻轨",
+      "通勤",
+      "首末班",
+      "末班"
+    ],
+    [
+      "手机",
+      "电话卡",
+      "sim",
+      "运营商",
+      "上网",
+      "vpn",
+      "国内网站",
+      "访问"
+    ],
+    [
+      "开户",
+      "银行",
+      "bank",
+      "账户",
+      "debit",
+      "checking"
+    ],
+    [
+      "社团",
+      "club",
+      "orientation",
+      "社交",
+      "朋友",
+      "圈子"
+    ],
+    [
+      "冲浪",
+      "surf",
+      "骑行",
+      "bike",
+      "徒步",
+      "hiking",
+      "出海"
+    ],
+    [
+      "校警",
+      "police",
+      "escort",
+      "护送",
+      "夜间",
+      "安全",
+      "报警"
+    ],
+    [
+      "公寓",
+      "apartment",
+      "studio",
+      "1br",
+      "2br",
+      "带厨房"
+    ],
+    [
+      "食堂",
+      "meal",
+      "plan",
+      "dining",
+      "做饭",
+      "自炊",
+      "餐费"
+    ],
+    [
+      "机场",
+      "airport",
+      "接送",
+      "航班",
+      "打车"
+    ]
+  ],
+  "ASK_SCHOOL": [
+    [
+      "ucsb",
+      [
+        "ucsb",
+        "加州大学圣塔芭芭拉",
+        "圣塔芭芭拉",
+        "圣巴巴拉",
+        "圣芭芭拉",
+        "芭芭拉",
+        "santa barbara"
+      ]
+    ],
+    [
+      "su",
+      [
+        "西雅图大学",
+        "seattle university"
+      ]
+    ],
+    [
+      "usc",
+      [
+        "usc",
+        "南加大",
+        "南加州大学",
+        "southern california"
+      ]
+    ],
+    [
+      "ucla",
+      [
+        "ucla",
+        "加州大学洛杉矶",
+        "洛杉矶分校"
+      ]
+    ],
+    [
+      "uw",
+      [
+        "uw",
+        "华盛顿大学",
+        "华大",
+        "university of washington"
+      ]
+    ],
+    [
+      "nyu",
+      [
+        "nyu",
+        "纽约大学",
+        "纽大",
+        "new york university"
+      ]
+    ],
+    [
+      "columbia",
+      [
+        "columbia",
+        "哥伦比亚大学",
+        "哥大"
+      ]
+    ],
+    [
+      "neu",
+      [
+        "neu",
+        "东北大学",
+        "northeastern"
+      ]
+    ],
+    [
+      "bu",
+      [
+        "bu",
+        "波士顿大学",
+        "波大",
+        "boston university"
+      ]
+    ],
+    [
+      "ucb",
+      [
+        "ucb",
+        "伯克利",
+        "berkeley"
+      ]
+    ],
+    [
+      "ucsd",
+      [
+        "ucsd",
+        "圣地亚哥分校",
+        "圣地亚哥",
+        "圣迭戈",
+        "uc san diego"
+      ]
+    ]
+  ],
+  "ASK_INTENT": [
+    {
+      "k": [
+        "生活",
+        "过日子",
+        "日常生活",
+        "过得",
+        "一天"
+      ],
+      "add": [
+        "日常",
+        "超市",
+        "做饭",
+        "公交",
+        "开户",
+        "手机"
+      ],
+      "page": "日常"
+    },
+    {
+      "k": [
+        "坐车",
+        "搭车",
+        "坐公交",
+        "坐地铁",
+        "坐轻轨",
+        "通勤",
+        "怎么去",
+        "怎么回",
+        "打车",
+        "叫车",
+        "uber",
+        "lyft",
+        "接机",
+        "去机场",
+        "末班",
+        "首班",
+        "赶飞机"
+      ],
+      "add": [
+        "公交",
+        "地铁",
+        "打车",
+        "机场",
+        "通勤",
+        "首末班",
+        "接机",
+        "shuttle"
+      ],
+      "page": [
+        "社交",
+        "日常"
+      ]
+    },
+    {
+      "k": [
+        "住宿",
+        "住哪",
+        "房子",
+        "租房",
+        "房租",
+        "押金",
+        "搬家",
+        "室友",
+        "宿舍",
+        "公寓",
+        "住校"
+      ],
+      "add": [
+        "宿舍",
+        "公寓",
+        "房租",
+        "押金",
+        "租约",
+        "室友",
+        "水电网"
+      ],
+      "page": "住宿"
+    },
+    {
+      "k": [
+        "学习",
+        "上课",
+        "考试",
+        "成绩",
+        "挂科",
+        "绩点",
+        "选课",
+        "退课",
+        "专业",
+        "转专业",
+        "毕业",
+        "学分",
+        "作业"
+      ],
+      "add": [
+        "选课",
+        "退课",
+        "学分",
+        "GPA",
+        "专业",
+        "申诉"
+      ],
+      "page": "学业"
+    },
+    {
+      "k": [
+        "朋友",
+        "社交",
+        "认识人",
+        "孤独",
+        "想家",
+        "聚会",
+        "社团",
+        "活动",
+        "圈子"
+      ],
+      "add": [
+        "社团",
+        "社交",
+        "心理",
+        "咨询",
+        "活动"
+      ],
+      "page": "社交"
+    },
+    {
+      "k": [
+        "生病",
+        "看病",
+        "医院",
+        "发烧",
+        "感冒",
+        "急诊",
+        "焦虑",
+        "抑郁",
+        "心理"
+      ],
+      "add": [
+        "医保",
+        "保险",
+        "校医院",
+        "urgent",
+        "急诊",
+        "心理咨询"
+      ],
+      "page": "保障"
+    },
+    {
+      "k": [
+        "缺钱",
+        "省钱",
+        "预算",
+        "打工",
+        "兼职",
+        "实习",
+        "赚钱",
+        "花钱"
+      ],
+      "add": [
+        "预算",
+        "打工",
+        "CPT",
+        "OPT",
+        "SSN",
+        "报税"
+      ],
+      "page": [
+        "保障",
+        "日常"
+      ]
+    },
+    {
+      "k": [
+        "证件",
+        "护照",
+        "签证",
+        "i-20",
+        "i20",
+        "身份",
+        "回国",
+        "出入境",
+        "绿卡"
+      ],
+      "add": [
+        "护照",
+        "签证",
+        "I-20",
+        "OPT",
+        "证件"
+      ],
+      "page": "保障"
+    },
+    {
+      "k": [
+        "安全",
+        "危险",
+        "报警",
+        "抢劫",
+        "夜里",
+        "走夜路",
+        "被偷"
+      ],
+      "add": [
+        "校警",
+        "escort",
+        "夜间",
+        "报警",
+        "安全"
+      ],
+      "page": "保障"
+    },
+    {
+      "k": [
+        "手机",
+        "上网",
+        "网络",
+        "wifi",
+        "电话卡",
+        "套餐",
+        "翻墙",
+        "国内网站",
+        "vpn"
+      ],
+      "add": [
+        "手机",
+        "SIM",
+        "运营商",
+        "VPN",
+        "上网"
+      ],
+      "page": "日常"
+    },
+    {
+      "k": [
+        "银行",
+        "开户",
+        "账户",
+        "转账",
+        "汇钱",
+        "汇款",
+        "信用卡"
+      ],
+      "add": [
+        "开户",
+        "银行",
+        "账户",
+        "debit",
+        "转账"
+      ],
+      "page": "日常"
+    },
+    {
+      "k": [
+        "报税",
+        "退税",
+        "交税"
+      ],
+      "add": [
+        "报税",
+        "tax",
+        "W-2",
+        "退税"
+      ],
+      "page": "保障"
+    },
+    {
+      "k": [
+        "吃饭",
+        "做饭",
+        "吃什么",
+        "食堂",
+        "外卖",
+        "买菜",
+        "超市",
+        "饿"
+      ],
+      "add": [
+        "食堂",
+        "meal plan",
+        "做饭",
+        "超市",
+        "外卖"
+      ],
+      "page": "日常"
+    }
+  ],
+  "ASK_CITY": {
+    "洛杉矶": "UCLA 或 USC",
+    "纽约": "NYU 或 Columbia",
+    "波士顿": "BU 或 NEU",
+    "西雅图": "华盛顿大学 或 西雅图大学"
+  },
+  "ROUTES": {
+    "/": "v-home",
+    "/study": "v-study",
+    "/housing": "v-housing",
+    "/social": "v-social",
+    "/daily": "v-daily",
+    "/safety": "v-safety",
+    "/aid": "v-aid",
+    "/schools": "v-schools",
+    "/majors": "v-majors"
+  },
+  "WAYS": [
+    {
+      "n": "本科新生直申",
+      "en": "Freshman",
+      "who": "高中生、高考后学生",
+      "cut": "四年全链条，落地行政与选课最密集",
+      "p": "P0",
+      "from": [
+        "hs"
+      ],
+      "steps": [
+        "按目标校要求递交 Common App 或校内申请与文书",
+        "语言与标化按该校是否要求决定，非必需项不要硬凑",
+        "录取后先办 I-20 与 SEVIS 费，再约签证"
+      ],
+      "risk": "把截止日按本国时间记，实际以目标校所在时区为准；秋季入学的材料前一年年底就要递。"
+    },
+    {
+      "n": "本科转学",
+      "en": "Transfer",
+      "who": "国内大一或大二在读、社区大学学生；本科最后一年不适用（剩余学分不足两年）",
+      "cut": "学分评估与 SEVIS 转移是衔接点",
+      "p": "P0",
+      "from": [
+        "ug",
+        "cc"
+      ],
+      "ex": [
+        "ugs"
+      ],
+      "steps": [
+        "确认目标校的转学截止与先修课清单",
+        "做学分评估（校内评估或第三方认证）",
+        "录取后办 SEVIS 转移与新的 I-20"
+      ],
+      "risk": "只查\"是否接受转学\"，没查\"哪些课能转\"——学分不认，等于多读一学期。"
+    },
+    {
+      "n": "社区大学 2+2",
+      "en": "Community College",
+      "who": "成绩或预算有限者",
+      "cut": "转学窗口、GPA 门槛、转学协议核查",
+      "p": "P0",
+      "from": [
+        "cc"
+      ],
+      "steps": [
+        "入学即确认转学协议（TAG）覆盖哪些校区与专业",
+        "按协议维持 GPA 与必修序列",
+        "第二学年秋季完成转学申请与 SEVIS 转移"
+      ],
+      "risk": "协议只保\"申请资格\"，不保专业录取；热门专业另有门槛。"
+    },
+    {
+      "n": "硕士直申",
+      "en": "Master's",
+      "who": "本科毕业生",
+      "cut": "一到两年压缩链，CPT 与 OPT 容错更低",
+      "p": "P0",
+      "from": [
+        "ug4",
+        "ba"
+      ],
+      "steps": [
+        "按项目要求准备成绩单、语言与推荐信",
+        "截止多在入学前一年 12 月至当年 1 月",
+        "录取后确认项目时长与 CPT/OPT 资格"
+      ],
+      "risk": "一年制项目把实习窗口压得很紧，落地第一周就要排求职。"
+    },
+    {
+      "n": "中外合作办学 2+2 或 3+1",
+      "en": "Joint Program",
+      "who": "高考志愿阶段",
+      "cut": "外方学位能否认证是最大风险",
+      "p": "P0",
+      "from": [
+        "hs"
+      ],
+      "steps": [
+        "先确认外方学位能否做学历认证",
+        "核对两校学分互认清单与出国段门槛",
+        "出国段办签证与 I-20，注意身份衔接"
+      ],
+      "risk": "读完拿不到可认证的外方学位，两年时间无法转成有效学历。"
+    },
+    {
+      "n": "博士全奖",
+      "en": "PhD",
+      "who": "科研导向、成绩优秀",
+      "cut": "助研助教涉及工作授权与报税",
+      "p": "P1",
+      "from": [
+        "ba",
+        "ma"
+      ],
+      "steps": [
+        "联系导师，确认资助形式（RA/TA/Fellowship）",
+        "助研助教涉及工作授权与报税",
+        "确认课程、资格考试与论文节点"
+      ],
+      "risk": "只谈钱不谈职责，入职后助教时数挤压科研进度。"
+    },
+    {
+      "n": "桥梁或预科项目",
+      "en": "Pathway",
+      "who": "语言或学术成绩差一点、需要过渡学期的人；已毕业处在 OPT 者不能全日制就读，不在此列",
+      "cut": "过渡期身份与转正条件，需辨别项目性质",
+      "p": "P1",
+      "from": [
+        "lang"
+      ],
+      "steps": [
+        "确认项目性质：学位路径还是仅语言过渡",
+        "核对转正条件（GPA、语言、课程）",
+        "留意过渡期的身份与保险"
+      ],
+      "risk": "读了才发现不进学位；转正条件写在合同细则里，不在宣传页上。"
+    },
+    {
+      "n": "国家公派或 CSC 联合培养",
+      "en": "CSC",
+      "who": "博士在读、访问学者",
+      "cut": "派出义务与回国服务要求、J 类身份限制",
+      "p": "P1",
+      "from": [
+        "ma",
+        "phd"
+      ],
+      "steps": [
+        "确认派出义务与回国服务期",
+        "核对 J 类身份的两国居住要求",
+        "按国内单位要求提交年度报告"
+      ],
+      "risk": "忽略回国服务期，毕业想留美时才发现违约成本。"
+    },
+    {
+      "n": "语言学校或双录取",
+      "en": "ESL",
+      "who": "语言未达标",
+      "cut": "语言阶段的身份衔接与转学节点",
+      "p": "P2",
+      "from": [
+        "lang",
+        "hs"
+      ],
+      "steps": [
+        "先确认语言阶段结束后的转正路径",
+        "核对语言课时长与最晚入学季",
+        "保险与住所在语言阶段同样要办"
+      ],
+      "risk": "语言班读完仍不达标，备选方案没有提前想。"
+    },
+    {
+      "n": "美国高中",
+      "en": "High School",
+      "who": "初中、高一学生",
+      "cut": "未成年监护、寄宿家庭与升学衔接",
+      "p": "P2",
+      "from": [
+        "hs"
+      ],
+      "steps": [
+        "确认监护与寄宿家庭安排",
+        "核对课程层级（AP/Honors）与升学顾问",
+        "未成年文件与疫苗记录提前备齐"
+      ],
+      "risk": "换寄宿家庭会牵动 I-20 地址与学区，手续不在一处。"
+    },
+    {
+      "n": "交换生或访学",
+      "en": "Exchange",
+      "who": "国内在校生",
+      "cut": "短期身份、学分互认、短期保险",
+      "p": "P2",
+      "from": [
+        "ug",
+        "ma"
+      ],
+      "steps": [
+        "确认学分互认与回国后的课程衔接",
+        "按校方要求单办短期身份与保险",
+        "访学时长要与签证类别匹配"
+      ],
+      "risk": "交换学分回国不被承认，影响毕业进度。"
+    },
+    {
+      "n": "暑期学校",
+      "en": "Summer",
+      "who": "高中生、大学生",
+      "cut": "三到八周：短期签证、保险与住宿",
+      "p": "P2",
+      "from": [
+        "ug",
+        "hs"
+      ],
+      "steps": [
+        "确认短期签证类型（B/F/J）",
+        "住宿与保险多为项目打包，逐项核对",
+        "确认课程是否给成绩单与学分"
+      ],
+      "risk": "把暑期学校当成申请加分，多数项目不产生该校学分记录。"
+    }
+  ],
+  "STAGES": {
+    "ug": {
+      "n": "本科在读（1–2 年级）",
+      "keys": [
+        "ug"
+      ],
+      "act": "本学期把 GPA 与先修课守住；转学要的成绩单与在读证明到注册办公室办，I-20 与 SEVIS 转移找国际学生办公室。"
+    },
+    "ugs": {
+      "n": "本科最后一年",
+      "keys": [
+        "ug",
+        "ug4"
+      ],
+      "act": "申请季在前一年秋冬季：推荐信、成绩单、文书提前一季备齐；毕业前后办 SEVIS 转移，最终成绩单与毕业证明要盯住。"
+    },
+    "ma": {
+      "n": "硕士在读",
+      "keys": [
+        "ma"
+      ],
+      "act": "硕士阶段靠导师与院系：博士申请看研究经历与推荐信，公派名额往往要院里先出。"
+    },
+    "lang": {
+      "n": "语言项目或预科",
+      "keys": [
+        "lang"
+      ],
+      "act": "先确认转正条件（GPA、语言分数、必修课）；结业前把下一段的申请材料备好。"
+    },
+    "grad": {
+      "n": "已毕业（求职或 OPT）",
+      "keys": [
+        "ba"
+      ],
+      "act": "毕业后身份靠 OPT 与雇主：OPT 在毕业前 90 天内递，住址与雇主变更要及时报 SEVIS。"
+    }
+  }
+}
