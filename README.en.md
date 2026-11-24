@@ -12,7 +12,7 @@ Licensed under [CC BY-NC-SA 4.0](LICENSE). You may share and adapt it with attri
 
 **Option A · ready-made package (recommended)**
 
-1. Download `zaimae-v2-handbook-v1.0.0.zip` from Releases. No release yet? Run `python tools/pack.py`; the output goes to `dist/`.
+1. Download the latest `zaimae-v2-handbook-v1.0.1.zip` from Releases. You can also run `python tools/pack.py` and find the build in `dist/`.
 2. Extract with 7-Zip / Bandizip. You get a `zaimae-v2-handbook/` folder.
 3. Move the **whole folder** into your "My Experts" plugin directory:
    - Windows: `C:\Users\<you>\.workbuddy\plugins\marketplaces\my-experts\plugins\`

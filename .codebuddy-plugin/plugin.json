@@ -1,17 +1,20 @@
 {
   "name": "zaimae-v2-handbook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Full-content Q&A expert for the ZaiMei v2/v3 US Study & Life Handbook: 178 school profiles, 1050 undergraduate majors, 303 funding routes, 12 study pathways, city and state rules, and the handbook's five tracks. Queries the handbook data directly, adds a controlled live verification layer against official pages for schools outside the index, and keeps the no-proxy, no-ghostwriting, non-advisory boundary.",
   "author": {
     "name": "刘忠锋（在美）",
-    "email": "expert@local"
+    "email": "377418614@QQ.COM"
   },
-  "agents": ["./agents/zaimae-v2-handbook.md"],
-  "skills": ["./skills/zaimae-handbook", "./skills/zaimae-live-check"],
-
+  "agents": [
+    "./agents/zaimae-v2-handbook.md"
+  ],
+  "skills": [
+    "./skills/zaimae-handbook",
+    "./skills/zaimae-live-check"
+  ],
   "expertType": "agent",
   "agentName": "zaimae-v2-handbook",
-
   "displayName": {
     "en": "Daoge the International Student",
     "zh": "道哥是留子"
@@ -32,13 +35,31 @@
   },
   "plugin": "zaimae-v2-handbook",
   "tags": [
-    { "en": "Academic Milestones", "zh": "学业节点与红线" },
-    { "en": "School Profiles & Arrival", "zh": "本校分表与落地" },
-    { "en": "Majors, Funding & Pathways", "zh": "专业资助与路径" }
+    {
+      "en": "Academic Milestones",
+      "zh": "学业节点与红线"
+    },
+    {
+      "en": "School Profiles & Arrival",
+      "zh": "本校分表与落地"
+    },
+    {
+      "en": "Majors, Funding & Pathways",
+      "zh": "专业资助与路径"
+    }
   ],
   "quickPrompts": [
-    { "en": "List the milestones I need to watch this semester for my school: add/drop, GPA thresholds, insurance waiver", "zh": "按我的学校列一下这学期要盯的节点：加退选、GPA 红线、保险豁免" },
-    { "en": "It's week three and I feel I've missed something. Walk me through a check in order.", "zh": "开学第三周了，总觉得哪里没弄好，帮我按顺序排查" },
-    { "en": "For my school: where do students gather near campus, how do I draw my social radius in the city, and is the commute worth it? The windows and venues below that are general mechanisms.", "zh": "我的学校：校园周边靠哪聚、城市里的社交半径怎么划、通勤值不值得去。再往下的窗口与会场是通用机制" }
+    {
+      "en": "List the milestones I need to watch this semester for my school: add/drop, GPA thresholds, insurance waiver",
+      "zh": "按我的学校列一下这学期要盯的节点：加退选、GPA 红线、保险豁免"
+    },
+    {
+      "en": "It's week three and I feel I've missed something. Walk me through a check in order.",
+      "zh": "开学第三周了，总觉得哪里没弄好，帮我按顺序排查"
+    },
+    {
+      "en": "For my school: where do students gather near campus, how do I draw my social radius in the city, and is the commute worth it? The windows and venues below that are general mechanisms.",
+      "zh": "我的学校：校园周边靠哪聚、城市里的社交半径怎么划、通勤值不值得去。再往下的窗口与会场是通用机制"
+    }
   ]
 }

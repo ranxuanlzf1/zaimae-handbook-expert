@@ -10,7 +10,7 @@
 
 **方式 A · 下载现成包（推荐）**
 
-1. 到本仓库 Releases 下载 `zaimae-v2-handbook-v1.0.0.zip`；还没有 Release 时，执行 `python tools/pack.py` 自己生成，产物在 `dist/`。
+1. 到本仓库 Releases 下载最新版 `zaimae-v2-handbook-v1.0.1.zip`；也可以执行 `python tools/pack.py` 自行生成，产物在 `dist/`。
 2. 用 7-Zip / Bandizip 解压，得到 `zaimae-v2-handbook/` 目录。
 3. 把**整个目录**放进「我的专家」插件目录：
    - Windows：`C:\Users\<Windows用户名>\.workbuddy\plugins\marketplaces\my-experts\plugins\`
