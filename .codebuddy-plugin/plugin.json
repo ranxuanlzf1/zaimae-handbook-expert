@@ -1,7 +1,16 @@
 {
   "name": "zaimae-v2-handbook",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Full-content Q&A expert for the ZaiMei v2/v3 US Study & Life Handbook: 607 school profiles, 1050 undergraduate majors, 303 funding routes, 12 study pathways, city and state rules, and the handbook's five tracks. Queries the handbook data directly, adds a controlled live verification layer against official pages for schools outside the index, and keeps the no-proxy, no-ghostwriting, non-advisory boundary.",
+  "keywords": [
+    "北美留学",
+    "留学",
+    "留子",
+    "美国留学",
+    "留学生",
+    "在美生活",
+    "道哥是留子"
+  ],
   "author": {
     "name": "刘忠锋（在美）",
     "email": "377418614@QQ.COM"

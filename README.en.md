@@ -6,6 +6,8 @@ Source repository for the **full-data edition** of the *Daoge the International 
 
 Licensed under [CC BY-NC-SA 4.0](LICENSE). You may share and adapt it with attribution, **non-commercial use only**, and adaptations must carry the same license. Paid consulting, reselling the data, or using it as a commercial product's knowledge base requires separate written permission from the copyright holder.
 
+**Search keywords**: study in US, international students, Chinese students in America, Daoge the International Student.
+
 ## Install from GitHub
 
 > **One rule before anything else.** The 15 files under `references/` have Chinese filenames. **Do not extract the zip with Windows Explorer** — it decodes filenames with the local codepage, the names turn into mojibake, and every Skill lookup breaks. Use 7-Zip / Bandizip, or Python's `zipfile`.
