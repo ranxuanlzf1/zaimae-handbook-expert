@@ -1,0 +1,1985 @@
+{
+  "SCHOOL": {
+    "louisville": {
+      "short": "路易斯维尔大学",
+      "place": "路易斯维尔 · 2301 South 3rd Street, Louisville, KY 40292",
+      "cityKey": "louisvilleky",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UofL Student Health Center：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科依托 UofL Health 与 Louisville 地区医院，时段以当期公布为准。",
+      "commute": "主校区 2301 South 3rd Street, Louisville, KY 40292，Jefferson County 俄亥俄河南岸；最近机场 Louisville（SDF），备选 Cincinnati（CVG）与 Nashville（BNA）。",
+      "scene": "1798 年发轫的肯塔基公立研究型大学，Louisville 主校区；学科覆盖文理、工程、商学、法律、医学、护理、教育与社会科学；校队 Cardinals，参加 NCAA Division I（ACC）赛事。",
+      "safety": "UofL Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Louisville Metro Police Department 与 Jefferson County 调度。",
+      "transit": "Louisville 有 TARC 公交；I-64/I-65/I-71 交汇；航空经 SDF、CVG、BNA，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Louisville 城区与近邻社区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.louisville.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.louisville.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.louisville.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.louisville.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.louisville.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.louisville.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "moreheadstate": {
+      "short": "莫尔黑德州立大学",
+      "place": "莫尔黑德 · 150 University Drive, Morehead, KY 40351",
+      "cityKey": "morehead",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "MSU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Morehead 与 Lexington 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 150 University Drive, Morehead, KY 40351，Rowan County；最近机场 Lexington（LEX），备选 Cincinnati（CVG）与 Louisville（SDF）。",
+      "scene": "1922 年创立的肯塔基公立区域大学，东北部丘陵林区；学科覆盖文理、教育、商学、工程、护理、艺术与航天方向项目；校队 Eagles，参加 NCAA Division I（OVC）赛事。",
+      "safety": "MSU Police Department：校园内值守，紧急 911；校警负责巡逻、门禁与护送；校外归 Morehead Police Department 与 Rowan County 调度。",
+      "transit": "Morehead 依赖自驾；US-60/I-64 连接 Lexington 与 Ashland 方向；航空经 LEX、CVG、SDF，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Morehead 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.moreheadstate.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.moreheadstate.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.moreheadstate.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.moreheadstate.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.moreheadstate.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.moreheadstate.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "murraystate": {
+      "short": "默里州立大学",
+      "place": "默里 · 1600 College Station, Murray, KY 42071",
+      "cityKey": "murrayky",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "MSU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Murray 与 Paducah 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1600 College Station, Murray, KY 42071，Calloway County；最近枢纽 Nashville（BNA），备选 Louisville（SDF）与 Cincinnati（CVG）。",
+      "scene": "1922 年创立的肯塔基公立区域大学，西南乡村小城；学科覆盖文理、商学、教育、工程、护理、农业与兽医学预备项目；校队 Racers，参加 NCAA Division I（MVC）赛事。",
+      "safety": "Murray State University Police：校园内值守，紧急 911；校警负责巡逻、门禁与护送；校外归 Murray Police Department 与 Calloway County 调度。",
+      "transit": "Murray 依赖自驾；US-641 连接 Paducah 与 Tennessee 方向；航空经 BNA、SDF、CVG，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Murray 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.murraystate.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.murraystate.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.murraystate.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.murraystate.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.murraystate.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.murraystate.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "nku": {
+      "short": "北肯塔基大学",
+      "place": "海兰茨海茨 · 100 Nunn Drive, Highland Heights, KY 41099",
+      "cityKey": "highlandheights",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "NKU Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 Cincinnati 与 Fort Thomas 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 100 Nunn Drive, Highland Heights, KY 41099，Campbell County；最近机场 Cincinnati（CVG），备选 Lexington（LEX）与 Louisville（SDF）。",
+      "scene": "1968 年定型的肯塔基公立综合大学，辛辛那提都会区北岸；学科覆盖文理、商学、工程、计算机、护理、健康科学与传媒；校队 Norse，参加 NCAA Division I（Horizon League）赛事。",
+      "safety": "NKU Police Department：24/7 值守，紧急 911；校警负责巡逻、门禁、护送与校园警报；校外归 Highland Heights Police Department 与 Campbell County 调度。",
+      "transit": "Highland Heights 有 TANK 公交衔接辛辛那提；I-71/I-75 贯通；航空经 CVG、LEX、SDF，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Highland Heights、Fort Thomas 与 Cincinnati 南岸方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.nku.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.nku.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.nku.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.nku.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.nku.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.nku.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "uky": {
+      "short": "肯塔基大学",
+      "place": "列克星敦 · 405 Rose Street, Lexington, KY 40506",
+      "cityKey": "lexingtonky",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UK HealthCare Student Health：校内健康中心对接初级保健、疫苗、心理健康与转诊；专科依托 UK 医学中心与 Lexington 地区医院，时段以健康中心当期公布为准。",
+      "commute": "主校区 405 Rose Street, Lexington, KY 40506，Fayette County 蓝草地区；最近机场 Blue Grass（LEX），备选 Cincinnati（CVG）与 Louisville（SDF）。",
+      "scene": "1865 年创立的肯塔基公立旗舰研究型大学，Lexington 主校区；学科覆盖文理、工程、商学、法律、医学、药学、教育与传播；校队 Wildcats，参加 NCAA Division I（SEC）赛事。",
+      "safety": "University of Kentucky Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Lexington Police Department 与 Fayette County 调度。",
+      "transit": "Lexington 有 Lextran 本地公交；I-75/I-64 交汇；航空经 LEX、CVG、SDF，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请分配；校外房源在 Lexington 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uky.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.uky.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.uky.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.uky.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.uky.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.uky.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "wku": {
+      "short": "西肯塔基大学",
+      "place": "鲍灵格林 · 1906 College Heights Boulevard, Bowling Green, KY 42101",
+      "cityKey": "bowlinggreenky",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "WKU Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 Bowling Green 与 Louisville 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1906 College Heights Boulevard, Bowling Green, KY 42101，Warren County；最近机场 Louisville（SDF），备选 Nashville（BNA）与 Cincinnati（CVG）。",
+      "scene": "1906 年创立的肯塔基公立综合大学，中南部大学城；学科覆盖文理、商学、教育、工程、护理、传媒与音乐；校队 Hilltoppers，参加 NCAA Division I（Conference USA）赛事。",
+      "safety": "WKU Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Bowling Green Police Department 与 Warren County 调度。",
+      "transit": "Bowling Green 以自驾为主；I-65 连接 Louisville 与 Nashville；航空经 SDF、BNA、CVG，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Bowling Green 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wku.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.wku.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.wku.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.wku.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.wku.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.wku.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "alcorn": {
+      "short": "奥尔康州立大学",
+      "place": "奥尔康州立 · 1000 ASU Drive, Alcorn State, MS 39096",
+      "cityKey": "alcornstate",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "ASU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Natchez 与 Jackson 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1000 ASU Drive, Alcorn State, MS 39096，Jefferson County；最近枢纽 Jackson（JAN），备选 Memphis（MEM）与 New Orleans（MSY）。",
+      "scene": "1871 年创立的公立 HBCU，西南 MS 乡村校园；学科覆盖文理、商学、教育、农学、护理、计算机与公共服务；校队 Braves，参加 NCAA Division I（SWAC）赛事。",
+      "safety": "Alcorn State University Police：校园内值守，紧急 911；校外归 Jefferson County 治安官与周边镇区调度。",
+      "transit": "校区依赖自驾；US-61/49 连接 Natchez 与 Jackson；航空经 JAN、MEM、MSY，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请分配；校外房源在 Lorman/Natchez 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.alcorn.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.alcorn.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.alcorn.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.alcorn.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.alcorn.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.alcorn.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "deltastate": {
+      "short": "德尔塔州立大学",
+      "place": "克利夫兰 · 1003 West Sunflower Road, Cleveland, MS 38733",
+      "cityKey": "clevelandms",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "DSU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Cleveland 与 Greenville 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1003 West Sunflower Road, Cleveland, MS 38733，Bolivar County；最近枢纽 Memphis（MEM），备选 Jackson（JAN）。",
+      "scene": "1924 年创立的密西西比公立区域大学，西北部三角洲；学科覆盖文理、商学、教育、护理、航空与商业航空项目；校队 Statesmen，参加 NCAA Division II（Gulf South Conference）赛事。",
+      "safety": "Delta State University Police：校园内值守，紧急 911；校外归 Cleveland Police Department 与 Bolivar County 调度。",
+      "transit": "Cleveland 依赖自驾；US-61 连接 Memphis 与中部 MS；航空经 MEM、JAN，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Cleveland 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.deltastate.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.deltastate.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.deltastate.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.deltastate.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.deltastate.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.deltastate.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "jsums": {
+      "short": "杰克逊州立大学",
+      "place": "杰克逊 · 3500 John A. Peoples Boulevard, Jackson, MS 39217",
+      "cityKey": "jacksonms",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "JSU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Jackson 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 3500 John A. Peoples Boulevard, Jackson, MS 39217，Hinds County；最近机场 Jackson（JAN），备选 Memphis（MEM）与 New Orleans（MSY）。",
+      "scene": "1877 年创立的公立 HBCU，州府城区；学科覆盖文理、商学、教育、工程、计算机、公共政策与健康科学；校队 Tigers，参加 NCAA Division I（SWAC）赛事。",
+      "safety": "JSU Police Department：校园内值守，紧急 911；校警负责巡逻、门禁与护送；校外归 Jackson Police Department 与 Hinds County 调度。",
+      "transit": "Jackson 有 JATRAN 公交；I-55/I-20 交汇；航空经 JAN、MEM、MSY，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Jackson 城区与近邻社区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.jsums.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.jsums.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.jsums.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.jsums.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.jsums.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.jsums.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "msstate": {
+      "short": "密西西比州立大学",
+      "place": "密西西比州立 · 100 Barr Hall, Mississippi State, MS 39762",
+      "cityKey": "mississippistate",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "MSU Student Health Center：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科转 Starkville 与 Columbus 方向医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 100 Barr Hall, Mississippi State, MS 39762，Oktibbeha County；最近机场 Tupelo（TUP），备选 Memphis（MEM）与 Golden Triangle（GTR）。",
+      "scene": "1878 年创立的密西西比公立赠地研究型大学，东部丘陵主校区；学科覆盖文理、工程、商学、农业、兽医、教育、护理与传播；校队 Bulldogs，参加 NCAA Division I（SEC）赛事。",
+      "safety": "Mississippi State University Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Starkville Police Department 与 Oktibbeha County 调度。",
+      "transit": "Starkville 依赖自驾；MS-12/US-82 连接 Columbus 与 Memphis 方向；航空经 TUP、MEM、GTR，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请分配；校外房源在 Starkville 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.msstate.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.msstate.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.msstate.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.msstate.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.msstate.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.msstate.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "muw": {
+      "short": "密西西比女子大学",
+      "place": "哥伦布 · 1100 College Street, Columbus, MS 39701",
+      "cityKey": "columbusms",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "MUW Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Columbus 与 Golden Triangle 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1100 College Street, Columbus, MS 39701，Lowndes County；最近机场 Golden Triangle（GTR），备选 Memphis（MEM）与 Jackson（JAN）。",
+      "scene": "1884 年创立的密西西比公立大学，东部沿河小城；学科覆盖文理、护理、健康科学、教育、商学与艺术；校队 Owls，赛事层级与联盟口径以 Athletics 官网当期公布为准。",
+      "safety": "MUW Campus Safety：校园内值守，紧急 911；校外归 Columbus Police Department 与 Lowndes County 调度。",
+      "transit": "Columbus 依赖自驾；US-82 连接 Birmingham 与 Arkansas 方向；航空经 GTR、MEM、JAN，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请分配；校外房源在 Columbus 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.muw.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.muw.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.muw.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.muw.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.muw.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.muw.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "mvsu": {
+      "short": "密西西比河谷州立大学",
+      "place": "伊塔比纳 · 1400 Highway 82 West, Itta Bena, MS 38941",
+      "cityKey": "ittabena",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "MVSU Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Greenwood 与 Jackson 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1400 Highway 82 West, Itta Bena, MS 38941，Leflore County；最近枢纽 Memphis（MEM），备选 Jackson（JAN）与 Tupelo（TUP）。",
+      "scene": "1950 年创立的公立 HBCU，中部三角洲乡村校园；学科覆盖文理、商学、教育、护理、计算机与公共服务；校队 Delta Devils，参加 NCAA Division I（SWAC）赛事。",
+      "safety": "MVSU Police：校园内值守，紧急 911；校外归 Itta Bena 与 Leflore County 治安官调度。",
+      "transit": "校区依赖自驾；US-82 连接 Greenwood 与中部 MS；航空经 MEM、JAN、TUP，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请分配；校外房源在 Itta Bena/Greenwood 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.mvsu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.mvsu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.mvsu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.mvsu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.mvsu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.mvsu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "olemiss": {
+      "short": "密西西比大学",
+      "place": "大学镇 · University Avenue, Oxford, MS 38677",
+      "cityKey": "universityms",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UM Student Health Center：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科转 Oxford 与 Memphis 方向医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 University Avenue, Oxford, MS 38677，Lafayette County；最近机场 University-Oxford（UOX），备选 Memphis（MEM）与 Tupelo（TUP）。",
+      "scene": "1848 年创立的密西西比公立旗舰研究型大学，Oxford 主校区；学科覆盖文理、工程、商学、法律、医学、药学、教育与新闻传媒；校队 Rebels，参加 NCAA Division I（SEC）赛事。",
+      "safety": "University of Mississippi Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Oxford Police Department 与 Lafayette County 调度。",
+      "transit": "University 紧邻 Oxford，依赖自驾；US-6/278 连接 Memphis 与 Tupelo 方向；航空经 UOX、MEM、TUP，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Oxford 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.olemiss.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.olemiss.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.olemiss.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.olemiss.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.olemiss.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.olemiss.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "usm": {
+      "short": "南密西西比大学",
+      "place": "哈蒂斯堡 · 118 College Drive, Hattiesburg, MS 39406",
+      "cityKey": "hattiesburg",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "USM Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 Hattiesburg 地区医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 118 College Drive, Hattiesburg, MS 39406，Forrest County；最近机场 Hattiesburg-Laurel（HUB），备选 Jackson（JAN）与 New Orleans（MSY）。",
+      "scene": "1910 年创立的密西西比公立综合大学，Hattiesburg 主校区；学科覆盖文理、商学、工程、护理、海洋科学、传媒与艺术；校队 Golden Eagles，参加 NCAA Division I（Sun Belt Conference）赛事。",
+      "safety": "USM Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Hattiesburg Police Department 与 Forrest County 调度。",
+      "transit": "Hattiesburg 有本地公交；I-59/US-49 连接 New Orleans 与 Jackson；航空经 HUB、JAN、MSY，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Hattiesburg 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.usm.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.usm.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.usm.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.usm.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.usm.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.usm.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "enmu": {
+      "short": "东新墨西哥大学-主校区",
+      "place": "波塔利斯 · 1500 South Avenue K, Portales, NM 88130",
+      "cityKey": "portales",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "ENMU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Portales 与 Clovis 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1500 South Avenue K, Portales, NM 88130，Roosevelt County；区域枢纽 Amarillo（AMA），备选 Albuquerque（ABQ）与 El Paso（ELP）。",
+      "scene": "1927 年创立的 NM 公立综合大学，东部平原主校区；学科覆盖文理、商学、教育、护理、艺术与航空方向项目；校队 Greyhounds，参加 NCAA Division II（Lone Star Conference）赛事。",
+      "safety": "ENMU Department of Public Safety：校园内值守，紧急 911；校外归 Portales Police Department 与 Roosevelt County 调度。",
+      "transit": "Portales 依赖自驾；US-70/60 连接 Clovis 与 Texas 方向；航空经 AMA、ABQ、ELP，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Portales 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.enmu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.enmu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.enmu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.enmu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.enmu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.enmu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "iaia": {
+      "short": "美国印第安艺术学院",
+      "place": "圣菲 · 1083 Canyon Road, Santa Fe, NM 87502",
+      "cityKey": "santafe",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "IAIA 学生健康对接校内健康服务与心理咨询；专科转 Santa Fe 地区医疗机构，学生事务指引以官网当期公布为准。",
+      "commute": "校区 1083 Canyon Road, Santa Fe, NM 87502，Santa Fe County 高原首府；最近机场 Santa Fe（SAF），备选 Albuquerque（ABQ）。",
+      "scene": "1962 年定型的原住民艺术与设计高等院校，Santa Fe 校区；提供视觉艺术、当代原住民文化、博物馆研究、创意写作与数字媒体方向学位，不设传统校队项目。",
+      "safety": "IAIA Campus Safety：园区内值守，紧急 911；校外归 Santa Fe Police Department 与 Santa Fe County 调度。",
+      "transit": "Santa Fe 有本地公交与 Rail Runner 衔接 Albuquerque；I-25/US-84 交汇；航空经 SAF、ABQ，班次以机场当期公布为准。",
+      "rentnote": "校内宿舍按学院安排分配；校外房源在 Santa Fe 城区与近邻社区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://iaia.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://iaia.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://iaia.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://iaia.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://iaia.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://iaia.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "nmhu": {
+      "short": "新墨西哥高地大学",
+      "place": "拉斯维加斯 · 800 National Avenue, Las Vegas, NM 87701",
+      "cityKey": "lasvegasnm",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "NMHU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Las Vegas 与 Santa Fe/Albuquerque 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 800 National Avenue, Las Vegas, NM 87701，San Miguel County；最近机场 Santa Fe（SAF），备选 Albuquerque（ABQ）。",
+      "scene": "1893 年创立的 NM 公立区域大学，东北部高原台地；学科覆盖文理、商学、教育、护理、社会工作与刑事司法；校队 Cowboys，参加 NCAA Division II（Lone Star Conference）赛事。",
+      "safety": "NMHU Department of Public Safety：校园内值守，紧急 911；校外归 Las Vegas Police Department 与 San Miguel County 调度。",
+      "transit": "Las Vegas NM 依赖自驾；I-25 连接 Santa Fe 与 Raton 方向；航空经 SAF、ABQ，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Las Vegas 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.nmhu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.nmhu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.nmhu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.nmhu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.nmhu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.nmhu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "nmsu": {
+      "short": "新墨西哥州立大学-主校区",
+      "place": "拉斯克鲁塞斯 · 1780 East University Avenue, Las Cruces, NM 88003",
+      "cityKey": "lascruces",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "NMSU Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 Las Cruces 与 El Paso 方向医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 1780 East University Avenue, Las Cruces, NM 88003，Doña Ana County；最近机场 Las Cruces International（LRU），备选 Albuquerque（ABQ）与 El Paso（ELP）。",
+      "scene": "1888 年创立的 NM 公立赠地综合大学，Las Cruces 主校区；学科覆盖文理、工程、商学、农业、护理、教育与航天方向项目；校队 Aggies，参加 NCAA Division I（Conference USA）赛事。",
+      "safety": "NMSU Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Las Cruces Police Department 与 Doña Ana County 调度。",
+      "transit": "Las Cruces 依赖自驾；I-25 连接 Albuquerque 与 El Paso 方向；航空经 LRU、ABQ、ELP，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍与公寓按申请分配；校外房源在 Las Cruces 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.nmsu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.nmsu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.nmsu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.nmsu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.nmsu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.nmsu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "nmt": {
+      "short": "新墨西哥矿业技术学院",
+      "place": "索科罗 · 801 Leroy Place, Socorro, NM 87801",
+      "cityKey": "socorro",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "NMT Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Socorro 与 Albuquerque 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 801 Leroy Place, Socorro, NM 87801，Socorro County；最近枢纽 Albuquerque（ABQ），备选 Santa Fe（SAF）与 El Paso（ELP）。",
+      "scene": "1889 年创立的公立理工学院，中部谷地；以采矿、地质、工程、物理、计算机、水文学与计算科学见长，学生体育以俱乐部项目为主，不设传统 NCAA 校队。",
+      "safety": "NMT Campus Safety：园区内值守，紧急 911；校外归 Socorro Police Department 与 Socorro County 调度。",
+      "transit": "Socorro 依赖自驾；I-25 连接 Albuquerque 与 Las Cruces 方向；航空经 ABQ、SAF、ELP，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Socorro 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.nmt.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.nmt.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.nmt.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.nmt.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.nmt.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.nmt.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "nnmc": {
+      "short": "北新墨西哥学院",
+      "place": "埃斯帕尼奥拉 · 921 1/2 El Llano Road, Espanola, NM 87532",
+      "cityKey": "espanola",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "NNMC Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Santa Fe 与 Albuquerque 方向医疗机构，时段以当期公布为准。",
+      "commute": "校区 921 1/2 El Llano Road, Espanola, NM 87532，Rio Arriba County；最近机场 Santa Fe（SAF），备选 Albuquerque（ABQ）。",
+      "scene": "1909 年创立的北部 NM 公立社区学院层次院校，Espanola 河谷校区；提供文理、护理、教育、商学与技术方向副学士及本科学位，不设传统 NCAA 校队项目。",
+      "safety": "NNMC Campus Safety：园区内值守，紧急 911；校外归 Espanola Police Department 与 Rio Arriba County 调度。",
+      "transit": "Espanola 依赖自驾；US-84/285 连接 Santa Fe 与 Taos 方向；航空经 SAF、ABQ，班次以机场当期公布为准。",
+      "rentnote": "校内宿舍按申请分配；校外房源在 Espanola 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://nnmc.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://nnmc.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://nnmc.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://nnmc.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://nnmc.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://nnmc.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "unm": {
+      "short": "新墨西哥大学-主校区",
+      "place": "阿尔伯克基 · 1 University of New Mexico, Albuquerque, NM 87131",
+      "cityKey": "albuquerque",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UNM Student Health & Counseling：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科依托 UNM 医学中心与 Albuquerque 地区医院，时段以健康中心当期公布为准。",
+      "commute": "主校区 1 University of New Mexico, Albuquerque, NM 87131，Bernalillo County；最近机场 Albuquerque Sunport（ABQ），备选 Santa Fe（SAF）与 El Paso（ELP）。",
+      "scene": "1889 年创立的新墨西哥公立旗舰研究型大学，Albuquerque 主校区；学科覆盖文理、工程、商学、医学、法学、教育、艺术与药学；校队 Lobos，参加 NCAA Division I（Mountain West Conference）赛事。",
+      "safety": "UNM Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Albuquerque Police Department 与 Bernalillo County 调度。",
+      "transit": "Albuquerque 有 ABQ Ride 公交；I-25/I-40 交汇；航空经 ABQ、SAF、ELP，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请分配；校外房源在 Albuquerque 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.unm.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.unm.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.unm.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.unm.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.unm.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.unm.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "wnmu": {
+      "short": "西新墨西哥大学",
+      "place": "银城 · 1000 College Avenue, Silver City, NM 88062",
+      "cityKey": "silvercity",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "WNMU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Silver City 与 Las Cruces 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1000 College Avenue, Silver City, NM 88062，Grant County；最近机场 Grant County（SVC），备选 Albuquerque（ABQ）与 El Paso（ELP）。",
+      "scene": "1893 年创立的 NM 公立区域大学，西南部山地；学科覆盖文理、商学、教育、护理、社会科学与艺术；校队 Mustangs，参加 NCAA Division II（RMAC）赛事。",
+      "safety": "WNMU Department of Public Safety：校园内值守，紧急 911；校外归 Silver City Police Department 与 Grant County 调度。",
+      "transit": "Silver City 依赖自驾；US-180/90 连接 Las Cruces 与 Arizona 方向；航空经 SVC、ABQ、ELP，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Silver City 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wnmu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.wnmu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.wnmu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.wnmu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.wnmu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.wnmu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "emporia": {
+      "short": "恩波里亚州立大学",
+      "place": "恩波里亚 · 1 Kellogg Place, Emporia, KS 66801",
+      "cityKey": "emporiaks",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "ESU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Emporia 与 Wichita/Kansas City 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1 Kellogg Place, Emporia, KS 66801，Lyon County；最近枢纽 Kansas City（MCI），备选 Wichita（ICT）与 St. Louis（STL）。",
+      "scene": "1863 年创立的堪萨斯公立区域大学，中部河谷大学城；学科覆盖文理、商学、教育、图书馆信息科学、护理与艺术；校队 Hornets，参加 NCAA Division II（MIAA）赛事。",
+      "safety": "Emporia State University Police：校园内值守，紧急 911；校外归 Emporia Police Department 与 Lyon County 调度。",
+      "transit": "Emporia 依赖自驾；I-35 连接 Kansas City 与 Wichita；航空经 MCI、ICT、STL，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Emporia 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.emporia.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.emporia.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.emporia.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.emporia.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.emporia.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.emporia.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "fhsu": {
+      "short": "福特海斯州立大学",
+      "place": "海斯 · 600 Park Street, Hays, KS 67601",
+      "cityKey": "hays",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "FHSU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Hays 与 Wichita/Denver 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 600 Park Street, Hays, KS 67601，Ellis County；最近机场 Hays（HYS），备选 Wichita（ICT）与 Denver（DEN）。",
+      "scene": "1902 年创立的堪萨斯公立区域大学，西部平原；学科覆盖文理、商学、教育、护理、计算机与跨文化项目；校队 Tigers，参加 NCAA Division II（MIAA）赛事。",
+      "safety": "Fort Hays State University Police：校园内值守，紧急 911；校外归 Hays Police Department 与 Ellis County 调度。",
+      "transit": "Hays 依赖自驾；I-70 连接 Denver 与 Kansas City；航空经 HYS、ICT、DEN，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Hays 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.fhsu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.fhsu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.fhsu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.fhsu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.fhsu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.fhsu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "kstate": {
+      "short": "堪萨斯州立大学",
+      "place": "曼哈顿 · 1701 Anderson Avenue, Manhattan, KS 66506",
+      "cityKey": "manhattanks",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "K-State Student Health Center：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科转 Manhattan 与 Topeka/Kansas City 方向医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 1701 Anderson Avenue, Manhattan, KS 66506，Riley County；最近机场 Manhattan（MHK），备选 Kansas City（MCI）与 Denver（DEN）。",
+      "scene": "1863 年创立的堪萨斯公立赠地研究型大学，Manhattan 主校区；学科覆盖文理、工程、商学、农学、兽医、教育与家政；校队 Wildcats，参加 NCAA Division I（Big 12 Conference）赛事。",
+      "safety": "Kansas State University Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Manhattan Police Department 与 Riley County 调度。",
+      "transit": "Manhattan 依赖自驾；US-24/77 连接 Topeka 与 I-70；航空经 MHK、MCI、DEN，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍与公寓按申请分配；校外房源在 Manhattan 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.k-state.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.k-state.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.k-state.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.k-state.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.k-state.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.k-state.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "ku": {
+      "short": "堪萨斯大学",
+      "place": "劳伦斯 · 1450 Jayhawk Boulevard, Lawrence, KS 66045",
+      "cityKey": "lawrenceks",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "KU Student Health Center：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科转 Lawrence 与 Kansas City 方向医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 1450 Jayhawk Boulevard, Lawrence, KS 66045，Douglas County；最近枢纽 Kansas City（MCI），备选 Wichita（ICT）与 St. Louis（STL）。",
+      "scene": "1865 年创立的堪萨斯公立旗舰研究型大学，Lawrence 主校区；学科覆盖文理、工程、商学、法律、医学、药学、教育与艺术；校队 Jayhawks，参加 NCAA Division I（Big 12 Conference）赛事。",
+      "safety": "University of Kansas Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Lawrence Police Department 与 Douglas County 调度。",
+      "transit": "Lawrence 有本地公交；US-59/I-70 连接 Kansas City 与 Topeka；航空经 MCI、ICT、STL，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请分配；校外房源在 Lawrence 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://ku.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://ku.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://ku.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://ku.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://ku.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://ku.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "pittstate": {
+      "short": "匹兹堡州立大学",
+      "place": "匹兹堡 · 1701 South Broadway, Pittsburg, KS 66762",
+      "cityKey": "pittsburgks",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "PSU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Pittsburg 与 Joplin 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1701 South Broadway, Pittsburg, KS 66762，Crawford County；最近枢纽 Kansas City（MCI），备选 Tulsa（TUL）与 Wichita（ICT）。",
+      "scene": "1903 年创立的堪萨斯公立区域大学，东南部工业小城；学科覆盖文理、商学、工程技术、教育、护理与艺术；校队 Gorillas，参加 NCAA Division II（MIAA）赛事。",
+      "safety": "Pittsburg State University Police：校园内值守，紧急 911；校外归 Pittsburg Police Department 与 Crawford County 调度。",
+      "transit": "Pittsburg 依赖自驾；US-69/400 连接 Joplin 与 Kansas City；航空经 MCI、TUL、ICT，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Pittsburg 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.pittstate.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.pittstate.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.pittstate.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.pittstate.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.pittstate.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.pittstate.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "washburn": {
+      "short": "沃什伯恩大学",
+      "place": "托皮卡 · 1700 SW College Avenue, Topeka, KS 66621",
+      "cityKey": "topeka",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Washburn Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Topeka 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1700 SW College Avenue, Topeka, KS 66621，Shawnee County；最近机场 Topeka（FOE），备选 Kansas City（MCI）与 Wichita（ICT）。",
+      "scene": "1865 年创立的堪萨斯公立大学，州府城区；学科覆盖文理、商学、法律、护理、教育、应用科学与艺术；校队 Ichabods，参加 NCAA Division II（MIAA）赛事。",
+      "safety": "Washburn University Police：校园内值守，紧急 911；校外归 Topeka Police Department 与 Shawnee County 调度。",
+      "transit": "Topeka 有本地公交；I-70 连接 Kansas City 与 Wichita；航空经 FOE、MCI、ICT，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Topeka 城区与近邻社区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.washburn.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.washburn.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.washburn.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.washburn.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.washburn.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.washburn.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "wichita": {
+      "short": "威奇托州立大学",
+      "place": "威奇托 · 1845 Fairmount, Wichita, KS 67260",
+      "cityKey": "wichita",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "WSU Student Health Center：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科转 Wichita 地区医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 1845 Fairmount, Wichita, KS 67260，Sedgwick County；最近机场 Wichita（ICT），备选 Kansas City（MCI）与 Oklahoma City（OKC）。",
+      "scene": "1895 年创立的堪萨斯公立综合大学，中南部都会区；学科覆盖文理、工程、商学、护理、教育、创意媒体与航空航天项目；校队 Shockers，参加 NCAA Division I（American Athletic Conference）赛事。",
+      "safety": "Wichita State University Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Wichita Police Department 与 Sedgwick County 调度。",
+      "transit": "Wichita 有本地公交；I-35/I-135 连接 Oklahoma City 与 Kansas City；航空经 ICT、MCI、OKC，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Wichita 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wichita.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.wichita.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.wichita.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.wichita.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.wichita.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.wichita.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "mainemaritime": {
+      "short": "缅因海事学院",
+      "place": "卡斯廷 · 1 Academy Drive, Castine, ME 04420",
+      "cityKey": "castine",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "MMA Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Ellsworth/Bangor 方向医疗机构，时段以当期公布为准。",
+      "commute": "校区 1 Academy Drive, Castine, ME 04420，Hancock County；最近枢纽 Portland（PWM），备选 Boston（BOS）与 Bangor（BGR）。",
+      "scene": "1941 年创立的公立海事与工程院校，滨海半岛校园；以海事工程、船舶驾驶、海洋运输、工程管理、国际商务与海洋科学见长，实行学员团体制；校队 Mariners，赛事层级与联盟口径以 Athletics 官网当期公布为准。",
+      "safety": "MMA Campus Safety/Marine Security：园区内值守，紧急 911；校外归 Castine 镇与 Hancock County 调度。",
+      "transit": "Castine 依赖自驾与渡轮接驳；ME-166 连接 Ellsworth 与 Bangor；航空经 PWM、BOS、BGR，班次以机场当期公布为准。",
+      "rentnote": "校内宿舍按学院安排分配；校外房源在 Castine 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://mainemaritime.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://mainemaritime.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://mainemaritime.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://mainemaritime.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://mainemaritime.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://mainemaritime.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "uma": {
+      "short": "缅因大学奥古斯塔分校",
+      "place": "奥古斯塔 · 46 University Drive, Augusta, ME 04330",
+      "cityKey": "augustame",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UMA Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Augusta 与 Portland 方向医疗机构，时段以当期公布为准。",
+      "commute": "校区 46 University Drive, Augusta, ME 04330，Kennebec County；最近机场 Augusta（AUG），备选 Portland（PWM）与 Boston（BOS）。",
+      "scene": "1965 年创立的缅因大学系统公立分校，州府城区；学科覆盖文理、商学、护理、计算机、数字媒体与刑事司法；体育以俱乐部与校内项目为主，不设传统 NCAA 校队。",
+      "safety": "UMA Campus Safety：园区内值守，紧急 911；校外归 Augusta Police Department 与 Kennebec County 调度。",
+      "transit": "Augusta 依赖自驾；I-95/US-202 连接 Portland 与 Bangor；航空经 AUG、PWM、BOS，班次以机场当期公布为准。",
+      "rentnote": "校内宿舍按学院安排分配；校外房源在 Augusta 城区与近邻社区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uma.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.uma.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.uma.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.uma.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.uma.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.uma.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "umaine": {
+      "short": "缅因大学",
+      "place": "奥罗诺 · 5773 Wingate Hall, Orono, ME 04469",
+      "cityKey": "orono",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UMaine Student Health Services：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科转 Bangor 地区医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 5773 Wingate Hall, Orono, ME 04469，Penobscot County；最近机场 Bangor（BGR），备选 Portland（PWM）与 Boston（BOS）。",
+      "scene": "1865 年创立的缅因公立旗舰赠地研究型大学，Orono 主校区；学科覆盖文理、工程、商学、法律、教育、护理、森林与海洋科学；校队 Black Bears，参加 NCAA Division I（America East Conference，冰球 Hockey East）赛事。",
+      "safety": "University of Maine Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Orono Police Department 与 Penobscot County 调度。",
+      "transit": "Orono 紧邻 Bangor；I-95/US-2 连接 Augusta 与 Calais；航空经 BGR、PWM、BOS，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请分配；校外房源在 Orono/Old Town 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.umaine.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.umaine.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.umaine.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.umaine.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.umaine.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.umaine.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "umf": {
+      "short": "缅因大学法明顿分校",
+      "place": "法明顿 · 224 Main Street, Farmington, ME 04938",
+      "cityKey": "farmingtonme",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UMF Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Farmington 与 Augusta/Bangor 方向医疗机构，时段以当期公布为准。",
+      "commute": "校区 224 Main Street, Farmington, ME 04938，Franklin County；最近枢纽 Bangor（BGR），备选 Portland（PWM）与 Boston（BOS）。",
+      "scene": "1864 年创立的缅因大学系统公立分校，西部河谷文教小城；学科覆盖文理、教育、心理学、商学、健康与艺术；校队 Bears，参加 NCAA Division III（North Atlantic Conference）赛事。",
+      "safety": "UMF Police Department：校园内值守，紧急 911；校外归 Farmington Police Department 与 Franklin County 调度。",
+      "transit": "Farmington 依赖自驾；US-2/ME-4 连接 Augusta 与 Rangeley；航空经 BGR、PWM、BOS，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Farmington 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.umf.maine.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.umf.maine.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.umf.maine.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.umf.maine.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.umf.maine.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.umf.maine.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "umfk": {
+      "short": "缅因大学肯特堡分校",
+      "place": "肯特堡 · 116 College Avenue, Fort Kent, ME 04743",
+      "cityKey": "fortkent",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UMFK Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Presque Isle 方向医疗机构，时段以当期公布为准。",
+      "commute": "校区 116 College Avenue, Fort Kent, ME 04743，Aroostook County；最近机场 Presque Isle（PQI），备选 Portland（PWM）与 Boston（BOS）。",
+      "scene": "1878 年创立的缅因大学系统北部分校，极北边境小镇；学科覆盖文理、护理、教育、林业、法语与跨文化研究；体育项目层级与联盟口径以 Athletics 官网当期公布为准。",
+      "safety": "UMFK Campus Safety：园区内值守，紧急 911；校外归 Fort Kent Police Department 与 Aroostook County 调度。",
+      "transit": "Fort Kent 依赖自驾；US-1 连接 Presque Isle 与加拿大边境；航空经 PQI、PWM、BOS，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Fort Kent 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.umfk.maine.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.umfk.maine.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.umfk.maine.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.umfk.maine.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.umfk.maine.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.umfk.maine.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "umpi": {
+      "short": "缅因大学普雷斯克岛分校",
+      "place": "普雷斯克岛 · 181 Main Street, Presque Isle, ME 04769",
+      "cityKey": "presqueisle",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UMPI Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Presque Isle 地区医疗机构，时段以当期公布为准。",
+      "commute": "校区 181 Main Street, Presque Isle, ME 04769，Aroostook County；最近机场 Presque Isle（PQI），备选 Portland（PWM）与 Boston（BOS）。",
+      "scene": "1903 年创立的缅因大学系统北部分校，Aroostook 农区中心；学科覆盖文理、教育、护理、计算机、公共管理与环境科学；体育项目层级与联盟口径以 Athletics 官网当期公布为准。",
+      "safety": "UMPI Campus Safety：园区内值守，紧急 911；校外归 Presque Isle Police Department 与 Aroostook County 调度。",
+      "transit": "Presque Isle 依赖自驾；US-1/ME-1 连接 Houlton 与 Fort Kent；航空经 PQI、PWM、BOS，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Presque Isle 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.umpi.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.umpi.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.umpi.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.umpi.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.umpi.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.umpi.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "usmaine": {
+      "short": "南缅因大学",
+      "place": "波特兰 · 96 Falmouth Street, Portland, ME 04103",
+      "cityKey": "portlandme",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "USM Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 Portland 地区医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 96 Falmouth Street, Portland, ME 04103，Cumberland County；最近机场 Portland Jetport（PWM），备选 Boston（BOS）与 Manchester（MHT）。",
+      "scene": "1878 年定型的缅因公立综合大学，南部滨海都会区；学科覆盖文理、商学、法律、护理、教育、工程与公共服务；校队 Huskies，参加 NCAA Division III（North Atlantic Conference）赛事。",
+      "safety": "USM Police Department：24/7 值守，紧急 911；校警负责巡逻、门禁与护送；校外归 Portland Police Department 与 Cumberland County 调度。",
+      "transit": "Portland 有本地公交与城际客运；I-95 连接 Boston 与 Augusta；航空经 PWM、BOS、MHT，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Portland 城区与近邻社区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://usm.maine.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://usm.maine.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://usm.maine.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://usm.maine.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://usm.maine.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://usm.maine.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "csc": {
+      "short": "查德隆州立学院",
+      "place": "查德隆 · 1000 Main St., Chadron, NE 69337",
+      "cityKey": "chadron",
+      "calShort": "学期制；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 CSC Registrar 校历当期公布为准；山区校区节假日与教学安排以校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康与咨询部门；家属投保渠道以当期保险页说明为准。",
+      "clinic": "校园健康与咨询服务按当期学生健康页安排，提供基础门诊、疫苗、TB 筛查与心理咨询；校园能力之外转 Chadron 地区与 Scottsbluff/Rapid City 方向医疗机构。",
+      "commute": "主校区位于 Chadron 镇区 Main Street 一带，西北内布拉斯加 Pine Ridge 区域；最近支线商业机场为 Rapid City Regional Airport（RAP，南达科他州），境内备选 Western Nebraska Regional Airport（BFF，Scottsbluff），跨州备选 Denver International（DEN）；区内出行以自驾为主。",
+      "scene": "1911 年开课的内布拉斯加州立学院体系公立综合学院，文理、商学与数学、科学、教育、艺术、护理与健康相关项目见长；与 UNMC 合办 Rural Health Opportunities Program（RHOP）；校队 Eagles，参加 NCAA Division II 落基山竞技联盟（RMAC）赛事。",
+      "safety": "Campus Security 负责校园巡逻、建筑安全与应急对接；紧急情况拨 911；校园边界外归 Chadron Police Department 与 Dawes County Sheriff's Office 辖区；夜间出行优先结伴或联系安保护送。",
+      "transit": "Chadron 为西部小镇，无城市公交干线；区内出行以自驾、步行与校方接驳为主；城际沿 US-385、US-20 走廊；航空经 RAP、BFF 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Chadron 镇区及周边；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.csc.edu/",
+          "CSC 校历栏目"
+        ],
+        "ins": [
+          "https://www.csc.edu/",
+          "学生服务栏目"
+        ],
+        "police": [
+          "https://www.csc.edu/",
+          "Campus Security 栏目"
+        ],
+        "housing": [
+          "https://www.csc.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.csc.edu/",
+          "健康与咨询栏目"
+        ],
+        "transit": [
+          "https://www.csc.edu/",
+          "校园交通栏目"
+        ]
+      }
+    },
+    "peru": {
+      "short": "秘鲁州立学院",
+      "place": "秘鲁 · 600 Hoyt Street, Peru, NE 68421",
+      "cityKey": "perune",
+      "calShort": "学期制；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Peru State Registrar 校历当期公布为准；东南内布拉斯加丘陵校区安排以校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园 Health Center 与 Counseling；家属投保渠道以当期保险页说明为准。",
+      "clinic": "Peru State Health Center，位于 Al Wheeler Activity Center（AWAC）二层，电话 402-872-2229；提供护士/认证助理基础门诊、非处方药与初诊，周二/周四可预约医生（服务经 Auburn Family Health Center 合作安排）；心理咨询对接 Counseling Services（402-872-2436 / 402-872-2369，CATS 二层 203）；重症转 Auburn 与 Omaha 方向医疗机构。",
+      "commute": "主校区位于 Peru 镇区 Hoyt Street 一带，东南内布拉斯加密苏里河沿岸丘陵；最近大型商用机场为 Omaha Eppley Airfield（OMA），第二备选 Lincoln（LNK），跨州备选 Kansas City（MCI）；区内出行以自驾为主。",
+      "scene": "内布拉斯加州历史最悠久的公立学院之一，内布拉斯加州立学院体系成员，被誉为 Campus of a Thousand Oaks（内布拉斯加州立植物园成员）；本科文商教育与两个硕士项目见长；校队 Bobcats，参加 NAIA 赛事。",
+      "safety": "Peru State College Security：Campus Services Building, Room 228，电话 402-872-2411；负责校园巡逻、建筑安全与应急对接；下班后校园安全事务拨 2411；紧急情况拨 911；校园边界外归 Nemaha County Sheriff's Office 辖区。",
+      "transit": "Peru 为东南内布拉斯加小镇，无城市公交干线；区内出行以自驾、步行与校方接驳为主；城际沿 US-75 与 I-29 走廊；航空经 OMA、LNK 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Peru 镇区与邻近 Auburn、Brownville 方向；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.peru.edu/",
+          "Peru State 校历栏目"
+        ],
+        "ins": [
+          "https://www.peru.edu/",
+          "学生服务栏目"
+        ],
+        "police": [
+          "https://www.peru.edu/",
+          "Campus Security 栏目"
+        ],
+        "housing": [
+          "https://www.peru.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.peru.edu/",
+          "Health Center 栏目"
+        ],
+        "transit": [
+          "https://www.peru.edu/",
+          "校园交通栏目"
+        ]
+      }
+    },
+    "unk": {
+      "short": "内布拉斯加大学科尔尼分校",
+      "place": "科尔尼 · 2224 25th Avenue, Kearney, NE 68849",
+      "cityKey": "kearney",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 UNK Registrar 校历当期公布为准；校内住校政策与全日制学分要求以当期学生通知为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Accounts 与国际学生办公室；门诊与心理咨询对接校园 Health Care 与 Counseling；家属投保渠道以当期保险页说明为准。",
+      "clinic": "UNK 校园 Health Care：电话 308-865-8218；提供基础门诊、疫苗与健康评估；心理咨询对接 Counseling 部门（308-865-8248）；校园能力之外转 Kearney 地区医疗机构。",
+      "commute": "主校区位于 Kearney 城区西部，沿 25th Avenue 与 University Drive 分布；最近商用机场为 Kearney Regional Airport（EAR），第二备选 Grand Island Regional Airport（GRI），远途备选 Omaha Eppley（OMA）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "内布拉斯加大学系统下属公立住宿型大学，文理、教育、商学、健康科学、 STEM 与艺术见长；校队 Lopers（叉角羚），参加 NCAA Division II 中西校际体育协会（MIAA）赛事。",
+      "safety": "UNK Police Department：电话 308-865-8911，紧急拨 911；校园巡逻与应急对接；校园边界外归 City of Kearney Police Department（308-237-2104）与县调度；校外消防与救护经 911 转接。",
+      "transit": "Kearney 本地公交覆盖有限，校区周边以步行、自驾与校方接驳为主；城际走廊为 I-80；航空以 EAR 为支线，GRI 与 OMA 为大小备选，班次以机场当期公布为准。",
+      "rentnote": "Office of Residence Life：Warner Hall, 2224 25th Avenue, Kearney, NE 68849，电话 308-865-8519，邮箱 housing@unk.edu；校内传统宿舍、套房与 Village Flats 公寓按资格分配；校外房源在 Kearney 城区；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.unk.edu/offices/registrar/",
+          "Registrar"
+        ],
+        "ins": [
+          "https://www.unk.edu/offices/emergency_management/contact_information.php",
+          "应急与健康联系方式"
+        ],
+        "police": [
+          "https://www.unk.edu/offices/emergency_management/contact_information.php",
+          "UNK Police Department"
+        ],
+        "housing": [
+          "https://www.unk.edu/offices/reslife/",
+          "Office of Residence Life"
+        ],
+        "clinic": [
+          "https://www.unk.edu/offices/emergency_management/contact_information.php",
+          "Health Care 与 Counseling"
+        ],
+        "transit": [
+          "https://www.unk.edu/",
+          "UNK 校园"
+        ]
+      }
+    },
+    "unl": {
+      "short": "内布拉斯加大学林肯分校",
+      "place": "林肯 · 1400 R Street, Lincoln, NE 68588",
+      "cityKey": "lincolnne",
+      "calShort": "两学期制（另设冬季学期与暑期学期）；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、人口普查日、期末与毕业典礼节点，以 UNL Registrar Academic Calendar 当期公布为准；11 月底感恩节假后课程恢复，12 月为期末与退课截止窗口；学年另设冬季学期与夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生与研究生助理（Graduate Assistant）自动加入校方学生健康保险计划（UnitedHealthcare 承保），保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行办理。",
+      "ins2": "持有符合校方标准替代保单者，可在每学期豁免窗口内通过 Student Accounts 提交 waiver 申请并附保险卡凭证；替代保单须符合 ACA 要求、由美国本土承保并含无限年度/终身赔付、既往症保障与医疗撤离/遣返条款；电子保险卡经承保方会员账户领取。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Accounts 与国际学生办公室；门诊与心理咨询对接 University Health Center；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "University Health Center：550 N 19th St, Lincoln, NE 68588，电话 402-472-5000；提供初级保健、疫苗、化验、心理评估与转诊；心理咨询对接 CAPS（402-472-7450）；专科与住院转 Bryan Health、CHI Health 等地区医疗机构。",
+      "commute": "主校区位于 Lincoln 市中心偏东，分 City Campus 与 East Campus 两片；进出校沿 R Street、17th Street 与本地通道；最近商用机场为 Lincoln Airport（LNK），第二备选 Omaha Eppley Airfield（OMA），跨州备选 Kansas City（MCI）；区内出行以步行、校方接驳与自驾为主。",
+      "scene": "1869 年 2 月 15 日特许成立的内布拉斯加公立赠地研究型大学，卡内基 R1 最高研究活动类别，Big Ten 联盟与 APLU 成员；设文理、工程、商学、教育、农学、新闻、公共政策等学院；校队 Nebraska Cornhuskers，参加 NCAA Division I 十大联盟（Big Ten）赛事。",
+      "safety": "University of Nebraska-Lincoln Police Department（UNLPD）：300 North 17th Street（17th St Parking Garage）；调度电话 402-472-2222，紧急拨 911，邮箱 unlpd@unl.edu；24/7 值守，设步行与驾车巡逻、蓝灯电话、Husker Safe Walk 护送与校方警报；City Campus、East Campus 与体育场馆均在 UNLPD 辖区；校园边界外归 Lincoln Police Department（402-441-6000）与 Lancaster County 调度。",
+      "transit": "Lincoln 本地公交 StarTran 串联校区与镇区；校内以步行与校方接驳为主；自驾经 US-6、I-80 走廊；航空以 LNK 为主，OMA 为大型备选，班次与接驳以机场当期公布为准。",
+      "rentnote": "University Housing，校内宿舍沿 City Campus 与 East Campus 各片区分布，传统宿舍、套房与研究生公寓房型以当期分配为准；校外租房在 Lincoln 周边邻里，步行、公交或自驾可达；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.unl.edu/academic-calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://studentaccounts.unl.edu/tuition-and-fees/student-health-insurance/",
+          "学生健康保险"
+        ],
+        "police": [
+          "https://police.unl.edu/",
+          "UNLPD"
+        ],
+        "housing": [
+          "https://housing.unl.edu/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://health.unl.edu/",
+          "University Health Center"
+        ],
+        "transit": [
+          "https://parking.unl.edu/",
+          "校园停车与交通"
+        ]
+      }
+    },
+    "unmc": {
+      "short": "内布拉斯加大学医学中心",
+      "place": "奥马哈 · 42nd and Emile Streets, Omaha, NE 68198",
+      "cityKey": "omaha",
+      "calShort": "学期制；2026 秋、2027 春开课与校历节点以 Office of Academic Records 当期公布为准。",
+      "calendar": "各学院 Fall 2026 与 Spring 2027 的开课、注册、加退课、期末与毕业典礼节点，以 UNMC Academic Calendar 与 Office of Academic Records 当期公布为准；健康科学项目的临床轮转与学期口径以所属学院安排为准。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方 ACA 合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Success 与学生账户；门诊对接临床合作方 Nebraska Medicine；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校园健康服务经 Student Success 对接 Nebraska Medicine 临床体系；校园内基础健康与咨询服务按当期学生健康页安排；专科、急诊与住院转 Nebraska Medicine 各院区（University Tower、Clarkson Tower、Werner Hospital）。",
+      "commute": "Omaha 主校区位于 40th Street 至 Saddle Creek Road、Dodge Street 至 Leavenworth 之间，与临床合作方 Nebraska Medicine 连片；最近商用机场为 Omaha Eppley Airfield（OMA），第二备选 Lincoln（LNK），跨州备选 Des Moines（DSM）；区内出行以自驾、公交与校方接驳为主。",
+      "scene": "内布拉斯加大学系统下属健康科学专门院校，设 College of Medicine、College of Pharmacy、College of Allied Health Professions、College of Nursing Omaha Division 与 College of Public Health；医学、药学、联合健康、护理与公共卫生见长；校园不设本科校队体系。",
+      "safety": "University of Nebraska Police and Public Safety Department：校园紧急电话 402-559-5555，非紧急 402-559-5111（24 小时）；公共安全办公室 4215 Emile Street（Academic Research and Services Building），商务办公 402-559-4439；UNMC 与 Nebraska Medicine 建筑 24/7 巡逻，设 UNMC Alert、护送与个人安全检查；校园边界外归 Omaha Police Department 辖区。",
+      "transit": "Omaha 本地公交与校方 campus shuttle 衔接各医学片区；远途出行经 OMA 机场，班次与接驳以机场当期公布为准。",
+      "rentnote": "Student Success 住宿渠道协助校内与校园周边住宿安排；校内公寓资格、押金与退宿规则见 Housing 门户；校外房源在 Omaha 中部与 42nd Street 沿线片区；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.unmc.edu/student-success/",
+          "Student Success 与 Academic Calendar"
+        ],
+        "ins": [
+          "https://www.unmc.edu/student-success/",
+          "Student Success 学生服务"
+        ],
+        "police": [
+          "https://www.unmc.edu/student-success/services_resources/omaha-services.html",
+          "Public Safety 联系方式"
+        ],
+        "housing": [
+          "https://www.unmc.edu/housing/",
+          "Housing"
+        ],
+        "clinic": [
+          "https://www.unmc.edu/student-success/services_resources/omaha-services.html",
+          "Omaha 学生服务"
+        ],
+        "transit": [
+          "https://www.unmc.edu/",
+          "UNMC 校园"
+        ]
+      }
+    },
+    "unomaha": {
+      "short": "内布拉斯加大学奥马哈分校",
+      "place": "奥马哈 · 6001 Dodge Street, Omaha, NE 68182",
+      "cityKey": "omaha",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 UNO Registrar 校历当期公布为准；Dodge Campus 与 Scott Campus 教学安排以各学院通知为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有符合校方标准替代保单者，可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合 ACA 要求并含医疗撤离/遣返条款；电子保险卡经承保方门户领取。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Accounts 与国际学生办公室；门诊与心理咨询对接 UNO Health Center；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Nebraska Medicine UNO Health Center，位于 H&K Building（Health & Kinesiology），预约电话 402-554-2374；提供初级保健、伤病初诊、生殖健康、疫苗与化验；心理咨询对接 CAPS（402-554-2409，H&K 101，晚间与周末危机转接）；专科与急诊转 Omaha 地区医疗机构。",
+      "commute": "主校区 Dodge Campus 位于 6001 Dodge Street，另有 Scott Campus 沿 Pine Street 一带；进出校沿 Dodge Street 与本地通道；最近商用机场为 Omaha Eppley Airfield（OMA），第二备选 Lincoln（LNK），跨州备选 Des Moines（DSM）；区内出行以自驾、公交与校方接驳为主。",
+      "scene": "1908 年创立、1968 年并入内布拉斯加大学系统的公立都会型大学；设文理、商学、教育、公共事务与社区服务、计算机、工程、健康与生物科学等学院；校队 Omaha Mavericks，参加 NCAA Division I，多数项目属 The Summit League，冰球属 NCHC。",
+      "safety": "UNO Police and Public Safety Department：100 Eppley Administration Building, 6001 Dodge Street, Omaha, NE 68182；紧急电话 402-554-2911；24 小时值守，提供校园巡逻、Motorist Assistance、失物招领与校方警报（U-TIP 短信报案 50911 前缀 UNO911）；Dodge 与 Scott 两校区均在部门辖区；校园边界外归 Omaha Police Department 辖区。",
+      "transit": "Omaha 本地公交 MetRO 串联两校区与镇区；校内以步行与校方接驳为主；自驾沿 Dodge Street 与 I-80 走廊；航空以 OMA 为主，LNK 为备选，班次与接驳以机场当期公布为准。",
+      "rentnote": "Housing and Residential Life：校内 Dodge Campus 有 Maverick Village、University Village，Scott Campus 有 Scott Hall、Scott Court、Scott Village、Maverick Landing 等公寓；校外租房在 Omaha 西部与中部邻里；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.unomaha.edu/registrar/",
+          "Registrar"
+        ],
+        "ins": [
+          "https://www.unomaha.edu/nebraska-medicine-uno-health-center/",
+          "UNO Health Center"
+        ],
+        "police": [
+          "https://www.unomaha.edu/public-safety/uno-campus/index.php",
+          "Police and Public Safety"
+        ],
+        "housing": [
+          "https://www.unomaha.edu/student-life/housing-and-residential-life/",
+          "Housing and Residential Life"
+        ],
+        "clinic": [
+          "https://www.unomaha.edu/nebraska-medicine-uno-health-center/",
+          "UNO Health Center"
+        ],
+        "transit": [
+          "https://www.unomaha.edu/",
+          "UNO 校园"
+        ]
+      }
+    },
+    "wsc": {
+      "short": "韦恩州立学院",
+      "place": "韦恩 · 1111 Main Street, Wayne, NE 68787",
+      "cityKey": "waynene",
+      "calShort": "学期制；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 WSC Registrar 校历当期公布为准；东北内布拉斯加校区安排以校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接 Student Health Office；家属投保渠道以当期保险页说明为准。",
+      "clinic": "WSC Student Health Office：Student Center, Room 104（西南角）；面向缴纳学生健康费的在读学生提供护士与医生咨询、轻微伤病处理、流感/过敏/TB/破伤风注射、常见化验与转诊；校外 Additional 医疗服务对接 Providence Medical Center；心理咨询渠道经 Student Affairs 对接。",
+      "commute": "主校区位于 Wayne 镇区 Main Street 一带，东北内布拉斯加；最近商用机场为 Sioux Falls Regional Airport（FSD，南达科他州），第二备选 Omaha Eppley Airfield（OMA），境内备选 Lincoln（LNK）；区内出行以自驾为主。",
+      "scene": "内布拉斯加州立学院体系公立学院，文理、教育、商学与技术、艺术、自然科学与健康相关项目见长；校队 Wildcats，参加 NCAA Division II 赛事。",
+      "safety": "Campus Security：电话 402-375-7216；负责校园巡逻、建筑安全与应急对接；Wildcat Wheels Safe Ride 夜间护送项目电话 402-375-1422；紧急情况拨 911；校园边界外归 Wayne Police Department 与 Wayne County 辖区。",
+      "transit": "Wayne 为东北内布拉斯加小镇，无城市公交干线；区内出行以自驾、步行与校方接驳为主；城际沿 US-20 与 US-75 走廊；航空经 FSD、OMA 衔接，班次以机场当期公布为准。",
+      "rentnote": "Office of Residence Life：电话 402-375-7318；校内七栋宿舍按申请与住校要求分配；校外房源在 Wayne 镇区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wsc.edu/",
+          "WSC 校历栏目"
+        ],
+        "ins": [
+          "https://www.wsc.edu/homepage/125/contact_",
+          "Student Health Services"
+        ],
+        "police": [
+          "https://www.wsc.edu/directory-record/27768/administration-and-finance",
+          "Campus Security 联系目录"
+        ],
+        "housing": [
+          "https://www.wsc.edu/housing",
+          "Student Housing"
+        ],
+        "clinic": [
+          "https://www.wsc.edu/homepage/125/contact_",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.wsc.edu/",
+          "校园交通栏目"
+        ]
+      }
+    },
+    "bhsu": {
+      "short": "黑山州立大学",
+      "place": "斯皮尔菲什 · Spearfish, SD 57799",
+      "cityKey": "spearfish",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "BHSU Student Health Services Center：提供基础门诊、疫苗与心理咨询；专科与急诊转 Spearfish 与 Rapid City 方向医疗机构。",
+      "commute": "主校区位于 Spearfish 镇区 University Street 一带，黑山山前峡谷地带；最近商业机场 Rapid City Regional Airport（RAP，约 50 英里），第二备选 Denver International（DEN），北向备选 Billings（BIL）；区内出行以步行、自驾为主。",
+      "scene": "南达科他州立公立综合大学，文理、教育、商学、艺术、传播与健康相关项目见长；校队 Yellow Jackets，参加 NCAA Division II 落基山竞技联盟（RMAC）赛事。",
+      "safety": "BHSU Public Safety：电话 605-641-6988；紧急情况拨 911；负责校园巡逻、建筑安全与应急对接；校园边界外归 Spearfish Police Department 与 Lawrence County 辖区。",
+      "transit": "Spearfish 小镇公交有限，校区周边以步行、自驾与校方接驳为主；城际沿 I-90；航空经 RAP 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Spearfish 镇区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.bhsu.edu/",
+          "BHSU 校历栏目"
+        ],
+        "ins": [
+          "https://www.bhsu.edu/academics/programs/international-studies.html",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.bhsu.edu/academics/programs/international-studies.html",
+          "BHSU Public Safety"
+        ],
+        "housing": [
+          "https://www.bhsu.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.bhsu.edu/academics/programs/international-studies.html",
+          "Student Health Services Center"
+        ],
+        "transit": [
+          "https://www.bhsu.edu/",
+          "校园交通栏目"
+        ]
+      }
+    },
+    "dsu": {
+      "short": "达科他州立大学",
+      "place": "麦迪逊 · Madison, SD 57042",
+      "cityKey": "madisonsd",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校园健康与咨询服务按当期学生健康页安排；信息安全相关校园支持经 Student Affairs 对接；专科与急诊转 Madison 及 Sioux Falls 方向医疗机构。",
+      "commute": "主校区位于 Madison 镇区 North Washington Avenue 一带；最近商业机场 Sioux Falls Regional Airport（FSD），第二备选 Minneapolis-St. Paul（MSP），北向备选 Fargo（FAR）；区内出行以步行、自驾为主。",
+      "scene": "南达科他州立公立大学，以网络安全、计算机与信息系统、商科与教育项目见长；校队 Trojans，参加 NAIA 校际赛事。",
+      "safety": "Safety Resource Officer 驻 Trojan Center Student Union（605-256-5124），负责校园安全联络与应急对接；紧急情况拨 911；校园边界外归 Madison Police Department 与 Lake County 辖区。",
+      "transit": "Madison 小镇无城市公交干线；区内出行以步行、自驾与校方接驳为主；城际沿 SD-34 与 US-12 方向；航空经 FSD 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Madison 镇区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://dsu.edu/directory/",
+          "Directory 与 Registrar 栏目"
+        ],
+        "ins": [
+          "https://dsu.edu/",
+          "学生服务栏目"
+        ],
+        "police": [
+          "https://dsu.edu/directory/",
+          "Safety Resource Officer"
+        ],
+        "housing": [
+          "https://dsu.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://dsu.edu/",
+          "健康服务栏目"
+        ],
+        "transit": [
+          "https://dsu.edu/",
+          "DSU 校园"
+        ]
+      }
+    }
+  },
+  "EXTRA": {}
+}

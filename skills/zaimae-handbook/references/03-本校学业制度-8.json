@@ -1,0 +1,1981 @@
+{
+  "SCHOOL": {
+    "athensal": {
+      "short": "阿森斯州立大学",
+      "place": "阿森斯 · 300 North Beaty Street, Athens, AL 35611",
+      "cityKey": "athensal",
+      "calShort": "两学期制（Fall/Spring，另设夏季学期）；2026 秋与 2027 春开学、加退课与期末节点以 Registrar 当期 Important Dates 为准。",
+      "calendar": "两学期制（Fall/Spring，另设夏季学期）；各学期注册、加退课、Withdraw 与考试日期见 Registrar 当期 Important Dates 页面。",
+      "fulltime": "Athens State 为上转学（upper-division）公立学院：本科面向已完成前两年课程的大三、大四转学生与高年级学生开设，另招研究生；不设面向大一新生的四年制寄宿校园；F-1 注册学分口径以 ISS 与 Registrar 当期规定为准。",
+      "drop": "加退课、Withdraw 与退费档位按当期校历节点执行，以学生账户与 Registrar 条款为准。",
+      "ins1": "F-1 申请人在录取与材料阶段须提交健康保险与人寿保险证明；具体校订保单、自动加入与豁免口径以 ISS 当期通知为准。",
+      "ins2": "已有替代保单者按 ISS 要求提交凭证；保险卡、保单号与生效到期日留存备查。",
+      "ins3": "保险与签证身份事项咨询 International Student Services（ISS）；医疗费用与保障范围以保单条款为准。",
+      "clinic": "主校区不设校内诊所；学生医疗求助对接 Athens 本地医疗机构（资源目录列 Athens Family Health Center 等），急症拨 911；转诊与预约经 ISS 辅导。",
+      "commute": "主校区位于 Athens 镇区，校园规模小、步行可达；对外自驾经 US-31 与 I-65 衔接；到 Huntsville 方向机场约 25–30 分钟车程量级。",
+      "scene": "Athens State 1822 年建校，是阿拉巴马州历史最久的高等教育机构；现设文理、商学、教育与 Alabama Center for the Arts 等学院与项目，以高年级本科、转学生与研究生为主；校队不参加校际 NCAA 联赛。",
+      "safety": "校园由安保（Security）人员巡逻管理，应急流程与犯罪统计见 Right to Know 页面；校外归 Athens Police Department；紧急拨 911。",
+      "transit": "镇区以步行为主，无成规模固定校园班车；对外靠自驾或区域交通；最近民航机场为 Huntsville International Airport（HSV）。",
+      "rentnote": "主校区为通勤型校园，校内宿舍有限；Alabama Center for the Arts 项目学生可申请位于 Decatur 的合建公寓式宿舍（与 Calhoun Community College 合管）；校外租房集中在 Athens 镇区与周边，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.athens.edu/academics/calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.athens.edu/resources/student-services/",
+          "International Student Services"
+        ],
+        "police": [
+          "https://www.athens.edu/right-to-know/",
+          "校园安全与应急"
+        ],
+        "housing": [
+          "https://athens.smartcatalogiq.com/en/2025-2026/undergraduate-catalog/student-services/alabama-center-for-the-arts-residence-hall/",
+          "住宿资源目录"
+        ],
+        "clinic": [
+          "https://www.athens.edu/resources/student-services/",
+          "学生服务目录"
+        ],
+        "transit": [
+          "https://www.huntsvilleairport.com/",
+          "Huntsville International Airport（HSV）"
+        ]
+      }
+    },
+    "auburn": {
+      "short": "奥本大学",
+      "place": "奥本 · Auburn University, Auburn, AL 36849",
+      "cityKey": "auburn",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 13 日开课（以 Registrar 校历为准）。",
+      "calendar": "Fall 2026：8 月 17 日（周一）开课；8 月 18 日（周二）加课截止；8 月 25 日（周二）无成绩记录退课截止；9 月 7 日（周一）劳动节停课；9 月 22 日（周二）带 W 退课截止；11 月 25 日（周三）感恩节假开始；11 月 29 日（周日）复课；12 月 7 日（周一）结课；12 月 8–9 日学习日；12 月 10–15 日期末考试；12 月 18 日（周五）毕业典礼。Spring 2027：1 月 13 日（周三）开课；1 月 14 日（周四）加课截止；1 月 18 日（周一）马丁·路德·金日停课；1 月 21 日（周四）无成绩记录退课截止；2 月 2 日（周一）带 W 退课截止；3 月 15–19 日春假；4 月 23 日（周五）结课；4 月 26–27 日学习日；4 月 28 日–5 月 4 日期末考试；5 月 8 日（周六）毕业典礼。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册；研究生全日制注册口径以所属学院与 Registrar 当期规定为准；减修须经学术顾问与国际学生办公室批准。",
+      "drop": "8 月 25 日前退课无成绩记录；9 月 22 日前可带 W 退课；退费档位与退课口径按 Registrar 校历与学生账户当期条款执行。",
+      "ins1": "F-1/J-1 非移民学生及签证家属自动加入 Mandatory Student Health Insurance Plan（SHIP，BCBS of Alabama，经 AHPcare 管理）；保单期限跟随 I-20/DS-2019 结束日。",
+      "ins2": "已有符合 SHIP 标准的替代保单者，可向 Office of Insurance 提交豁免申请；26 岁以下家属可加保；电子保险卡经承保方会员账户领取。",
+      "ins3": "替代保单须达到处方药、预防保健、孕产覆盖等当期标准；家属加保、自费投保与保险事项咨询 Office of Insurance 与 SHS。",
+      "clinic": "Student Health Services Medical Clinic，400 Lem Morrison Drive；电话 334-844-4416；提供初级保健、预防保健与转诊，校园能力之外转 Auburn/Opelika 周边医疗机构。",
+      "commute": "主校区在 Auburn 镇区，与 Opelika 组成双城；自驾经 I-85；校内步行与 Tiger Transit 接驳；民航近场 Columbus（CSG，GA）约 40 分钟，远场 Atlanta（ATL）约 2 小时量级。",
+      "scene": "1856 年特许建校、1859 年开学，1872 年成为南方第一所赠地学院；公立赠地、海洋与航天 grant 大学；下设农业、工程、商学、教育、兽医、文理、建筑、药学等学院；校队 Tigers，NCAA Division I 东南联盟（SEC）。",
+      "safety": "校园安全经 Auburn Safety 渠道管理；紧急拨 911；非紧急联系校园安保与 City of Auburn Police Division（334-501-3100）；校外归 Auburn Police Division 与 Lee County 辖区。",
+      "transit": "Tiger Transit 校园接驳，橄榄球主场另设班车；跨城靠自驾；CSG、ATL、BHM 为主要机场备选。",
+      "rentnote": "校内传统宿舍、套房与公寓经 University Housing 分配；餐计划档位随学期公布；校外租房在 Auburn 镇区与 Opelika 方向，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://auburn-public.courseleaf.com/generalinformation/auburnuniversitycalendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://auburn.myahpcare.com/archive",
+          "国际学生健康保险（SHIP）"
+        ],
+        "police": [
+          "https://www.auburnalabama.org/police/",
+          "Auburn Police Division"
+        ],
+        "housing": [
+          "https://universityhousing.auburn.edu/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://bulletin.auburn.edu/generalinformation/studentservices/studenthealthservices/studenthealthservices.pdf",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.aotourism.com/football/shuttles/",
+          "Auburn–Opelika 接驳"
+        ]
+      }
+    },
+    "uab": {
+      "short": "阿拉巴马大学伯明翰分校",
+      "place": "伯明翰 · 1720 2nd Avenue South, Birmingham, AL 35294",
+      "cityKey": "birmingham",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）开课；9 月 1 日（周二）加课/退课免全额学费截止；9 月 7 日（周一）劳动节停课；11 月 25 日（周三）感恩节假前一日；11 月 26–27 日停课；12 月 4 日（周五）结课与学期退课截止；12 月 7–12 日期末考试；12 月 12 日（周六）毕业典礼。Spring 2027：1 月 11 日（周一）开课；1 月 18 日（周一）马丁·路德·金日停课；1 月 19 日（周二）加课截止；3 月 15–20 日春假；5 月 1 日（周五）结课；5 月 3–7 日期末考试；5 月 9 日（周日）毕业典礼。",
+      "fulltime": "F-1/J-1 全日制注册口径按 ISSS 与 Registrar 当期规定；医学与临床项目的注册学分要求以所属学院为准。",
+      "drop": "加退课与 Withdraw 截止按校历执行；9 月 1 日前退课免全额学费口径；退费档位以学生账户条款为准。",
+      "ins1": "国际学生、临床项目学生及注册 9 学分以上的本科学生自动注册 UAB Student Health Insurance；保单跟随学期与在校身份。",
+      "ins2": "符合条件者在 BlazerNET 提交豁免申请（2026-27 学年保险与豁免通道当期开放，截止日以 BlazerNET 通知为准）；26 岁以下家属可加保。",
+      "ins3": "保单标准、理赔与家属加保咨询 Student Health Insurance Office；电子卡经承保方账户领取。",
+      "clinic": "Student Health Services，1714 9th Avenue South, 3rd Floor, Birmingham, AL 35233；周一至周四 8:00–17:00、周五 9:00–17:00；提供初级保健与转诊。",
+      "commute": "校区位于 Birmingham 南部医学区（Medical District），与 UAB Medicine 医院集群相邻；公交 BJCTA MAX 衔接；校内 Blazer Express 接驳；BHM 机场约 15–20 分钟车程。",
+      "scene": "UAB 为 University of Alabama System 独立研究型校区，并非 Tuscaloosa 分校；医学、护理、公共卫生、工程、商学等见长；校队 Blazers，NCAA Division I 美国竞技联盟（American Conference）；主场 Protective Stadium、Bartow Arena。",
+      "safety": "UAB Police & Public Safety；紧急 205-934-3535，非紧急 205-934-4434；校外归 Birmingham Police Department（205-328-9311）与 Jefferson County Sheriff's Office（205-352-1450）。",
+      "transit": "BJCTA MAX 城市公交；校内 Blazer Express；BHM 机场近；I-65/I-20/I-59 衔接州内各地。",
+      "rentnote": "校内宿舍与公寓经 UAB Housing 分配；医学区周边校外租房选择较多，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uab.edu/students/academics/academic-calendar/2026-2027",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.uab.edu/students/health/insurance-inquiry",
+          "学生健康保险与豁免"
+        ],
+        "police": [
+          "https://www.uab.edu/police/about/divisions-and-units/physical-security",
+          "UAB Police & Public Safety"
+        ],
+        "housing": [
+          "https://www.uab.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.uab.edu/students/health/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.bjcta.org/",
+          "BJCTA MAX 城市公交"
+        ]
+      }
+    },
+    "una": {
+      "short": "北阿拉巴马大学",
+      "place": "弗洛伦斯 · One Harrison Plaza, Florence, AL 35632",
+      "cityKey": "florenceal",
+      "calShort": "两学期制；2026 秋 8 月 19 日开课，2027 春 1 月 6 日开课。",
+      "calendar": "Fall 2026：8 月 19 日（周三）开课；9 月 7 日（周一）劳动节停课；11 月 25–27 日感恩节假；12 月 11–12 日毕业典礼。Spring 2027：1 月 6 日（周三）常规课开始；1 月 18 日（周一）马丁·路德·金纪念日闭校；5 月 3–7 日期末考试；5 月 8 日毕业典礼。",
+      "fulltime": "F-1/J-1 全日制注册口径按 ISS 与 Registrar 当期规定；减修须经批准。",
+      "drop": "加退课、Withdraw 与退费按校历节点执行；学生账户条款为准。",
+      "ins1": "全体 F-1/J-1 学生须持 UNA 核准健康保险；注册后每学期自动计入保险费。",
+      "ins2": "OPT 阶段不在学生保单覆盖范围内；保险凭证、豁免与续保口径以 ISS 页面当期说明为准。",
+      "ins3": "家属加保、保单条款与理赔咨询 International Student Services；就诊携带保险凭证。",
+      "clinic": "University Health Services，416 N. Seminary Street, Suite 100, Florence, AL 35630；256-765-4328，healthservices@una.edu；周一至周五 8:00–16:30；诊所不直接代办保险理赔。",
+      "commute": "校区位于 Florence 镇区，属 Shoals 地区（Florence/Muscle Shoals/Sheffield/Tuscumbia）；自驾经 US-43/72；近场 Northwest Alabama Regional Airport（MSL，Muscle Shoals）；Huntsville（HSV）约 1 小时量级。",
+      "scene": "校史可追溯至 1830 年 LaGrange College，1872 年成为南方第一所州立师范学校；公立综合大学，文理、商学、教育、护理、工程等见长；校队 Lions，NCAA Division I，橄榄球属 United Athletic Conference（UAC，FCS）。",
+      "safety": "UNA Police，472 N. Court Street, Florence, AL 35630；紧急 911；非紧急与安全提醒经 SNAP 256-765-4357；校外归 Florence Police Department 与 Lauderdale County 辖区。",
+      "transit": "Florence 无固定公交线路，区域出行靠自驾；dial-a-ride 经 ALTRANS 目录查询；MSL 机场在 Muscle Shoals。",
+      "rentnote": "校内宿舍经 Housing & Residential Life（256-765-5558）分配；校外租房在 Florence 镇区与 Shoals 周边，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.una.edu/undergraduate/university-academic-calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.una.edu/international/international-student-services/medical-insurance.html",
+          "国际学生健康保险"
+        ],
+        "police": [
+          "https://www.una.edu/police/contact-us.html",
+          "UNA Police"
+        ],
+        "housing": [
+          "https://www.una.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.una.edu/healthservices/index.html",
+          "University Health Services"
+        ],
+        "transit": [
+          "https://altrans.org/",
+          "阿拉巴马区域交通目录"
+        ]
+      }
+    },
+    "uah": {
+      "short": "阿拉巴马大学亨茨维尔分校",
+      "place": "亨茨维尔 · 301 Sparkman Drive, Huntsville, AL 35899",
+      "cityKey": "huntsvilleal",
+      "calShort": "两学期制；2026 秋 8 月 19 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 19 日（周三）开课；8 月 26 日（周三）加课与退费退课截止；9 月 7 日（周一）劳动节停课；9 月 9 日（周三）Pass/Fail 申请截止；10 月 8–9 日秋假；11 月 23–27 日感恩节假；12 月 3 日（周四）结课；12 月 4 日学习日；12 月 7–11 日期末考试；12 月 14 日（周一）毕业典礼（Von Braun Center）。Spring 2027：1 月 11 日（周一）开课；1 月 18 日（周一）马丁·路德·金日停课；1 月 19 日（周二）加课与退费退课截止；3 月 8–12 日春假；4 月 2 日荣誉日无课；4 月 28 日（周三）结课；4 月 29–30 日学习日；5 月 3–7 日期末考试；5 月 10 日（周一）毕业典礼。",
+      "fulltime": "F-1/J-1 全日制注册口径按 ISSS 与 Registrar 当期规定；减修须经批准。",
+      "drop": "8 月 26 日、1 月 19 日为加课与退费退课截止；带 W 退课节点按校历执行。",
+      "ins1": "国际学生注册时自动加入 Student Health Insurance Plan（BCBS/AHPcare）；J-1 学者须证明同等保障或购买校订计划。",
+      "ins2": "符合标准的替代保单可申请豁免；家属加保与自费投保经保险办公室办理。",
+      "ins3": "保单条款、处方药与理赔咨询 Student Health Services/Insurance Office；电子卡经承保方账户领取。",
+      "clinic": "Student Health Center，Wilson Hall 325, 301 Sparkman Drive, Huntsville, AL 35899；256-824-6775，传真 256-824-6722，shc@uah.edu；周一至周五 8:15–17:00；挂号有 nominal fee，化验、疫苗与药品另计。",
+      "commute": "校区位于 Huntsville 中部，毗邻 Redstone Arsenal 与 NASA Marshall Space Flight Center；园区科研与军工通勤需求大；Orbit 城市公交衔接；HSV 机场约 15–20 分钟。",
+      "scene": "1950 年 1 月作为 UA Huntsville Center 开课，后发展为独立研究型校区；工程、计算机、科学、航天、商学等见长，依托红石 Arsenal 与马歇尔中心的科研生态；校队 Chargers，多数项目 NCAA Division II 海湾南联盟（GSC），男子冰球为 NCAA Division I（WCHA）。",
+      "safety": "UAH Police Department，Intermodal Facility Room 123, 301 Sparkman Drive；紧急 911，非紧急 256-824-6596，传真 256-824-2972；校外归 Huntsville Police Department 与 Madison County 辖区。",
+      "transit": "Orbit 固定线路公交；校内步行与接驳；HSV 机场近；Redstone Arsenal 通勤须遵守园区准入规定。",
+      "rentnote": "校内 Central Campus Residence Hall、University Lake 等宿舍；军工与科研园区周边校外租房需求集中，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uah.edu/registrar/calendars",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.uah.edu/health-services/students/student-health-insurance-plan",
+          "学生健康保险计划"
+        ],
+        "police": [
+          "https://www.uah.edu/police/contact",
+          "UAH Police Department"
+        ],
+        "housing": [
+          "https://www.uah.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.uah.edu/health-and-wellness/student-health-center",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.huntsvilleal.gov/orbit/",
+          "Orbit 城市公交"
+        ]
+      }
+    },
+    "jsu": {
+      "short": "杰克逊维尔州立大学",
+      "place": "杰克逊维尔 · 700 Pelham Road North, Jacksonville, AL 36265",
+      "cityKey": "jacksonvilleal",
+      "calShort": "两学期制；2026 秋 8 月 19 日开课，2027 春 1 月 6 日开课。",
+      "calendar": "Fall 2026：8 月 19 日（周三）开课；8 月 25 日（周二）注册加课截止、100% 退费退课与缴费截止；9 月 1 日（周二）80% 退费；9 月 7 日（周一）劳动节停课；9 月 15 日（周二）50% 退费；10 月 8–9 日学业指导与评分；11 月 11 日（周三）最后退课日；11 月 23–27 日感恩节假；12 月 1 日（周二）结课；12 月 2–8 日期末考试；12 月 10–11 日毕业典礼。Spring 2027：1 月 6 日（周三）开课；1 月 12 日（周二）缴费截止、加课截止、100% 退费；1 月 18 日（周一）马丁·路德·金日停课；1 月 19 日 80% 退费；2 月 2 日 50% 退费；2 月 25–26 日学业指导；3 月 22–26 日春假；4 月 20 日（周二）结课；4 月 21–27 日期末考试；4 月 29–30 日毕业典礼。",
+      "fulltime": "F-1/J-1 全日制注册口径按 ISS 与 Registrar 当期规定；减修须经批准。",
+      "drop": "8 月 25 日、1 月 12 日为注册加课与全额退费截止；9 月 15 日、2 月 2 日为 50% 退费节点；11 月 11 日为秋季最后退课日。",
+      "ins1": "全体国际学生须持 JSU 核准的健康保险与遣返（repatriation）保险；自动注册与承保口径以 ISS/学生账户当期通知为准。",
+      "ins2": "替代保单须满足学校标准并提交证明；豁免与续保口径以 International House & Programs 页面为准。",
+      "ins3": "家属加保、保单条款咨询 International Programs；就诊携带保险凭证。",
+      "clinic": "RMC/JSU Health Center，1701 Pelham Road South；与 Northeast Alabama Regional Medical Center（RMC）合办；256-782-5310；无自付挂号费，上午 walk-in、下午预约；周一至周四 8:00–16:30、周五 8:00–14:30。",
+      "commute": "校区位于 Jacksonville 镇区，阿巴拉契亚山麓丘陵地带；近 Anniston/Oxford；自驾经 I-20/US-431；近场民航 Birmingham（BHM）约 1 小时 15 分量级，Atlanta（ATL）约 2 小时量级。",
+      "scene": "1883 年 2 月 22 日依法设立为 Jacksonville State Normal School；公立综合大学，教育、商学、护理、工程与人文见长；校队 Gamecocks，NCAA Division I 联盟 Conference USA。",
+      "safety": "JSU University Police，Salls Hall（Forney Avenue）；紧急 256-782-5050 或 911，非紧急 256-782-8888，免费热线 1-800-231-5291 转 7；校外归 Jacksonville/Anniston 警方与 Calhoun County 辖区。",
+      "transit": "校园以步行为主，城市固定公交有限；跨城靠自驾；BHM、ATL 为主要机场备选。",
+      "rentnote": "第一学年住校要求（六县通勤生可申请豁免）；校内宿舍经 University Housing（256-782-5122）分配；校外租房在 Jacksonville 镇区与 Anniston/Oxford 方向，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.jsu.edu/registrar/academic-calendar/2026-27.html",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://catalog.jsu.edu/undergraduate/tuition-fees-financial-policies/tuition-fees-financial-policies.pdf",
+          "学费与保险政策目录"
+        ],
+        "police": [
+          "https://www.jsu.edu/police/",
+          "JSU University Police"
+        ],
+        "housing": [
+          "https://www.jsu.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://iep.jsu.edu/studenthealth/index.html",
+          "RMC/JSU Health Center"
+        ],
+        "transit": [
+          "https://www.jsu.edu/timeline/",
+          "学校沿革与城市背景"
+        ]
+      }
+    },
+    "montevallo": {
+      "short": "蒙特瓦洛大学",
+      "place": "蒙特瓦洛 · 75 College Drive, Montevallo, AL 35115",
+      "cityKey": "montevallo",
+      "calShort": "两学期制；2026 秋 8 月 19 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 15 日新生入住；8 月 16–18 日老生入住；8 月 19 日（周三）开课；9 月 7 日（周一）劳动节闭校；11 月 11 日（周三）退伍军人节闭校；11 月 25 日宿舍因感恩节关闭；12 月 7–11 日期末周；12 月 11 日宿舍关闭，毕业口径见校历。Spring 2027：1 月 8 日宿舍开放；1 月 11 日（周一）开课。",
+      "fulltime": "F-1/J-1 全日制注册口径按 ISS 与 Registrar 当期规定；国际入学材料含医疗史表、TB 检测与 MMR 记录。",
+      "drop": "加退课、Withdraw 与退费节点以 Registrar 当期校历为准。",
+      "ins1": "国际学生入学前须持符合 22 CFR 62.14 的健康保险；学校提供 United Healthcare 旗下 Global Care Basic Plan。",
+      "ins2": "注册校订计划或提交同等保单证明申请豁免；保险证明截止：秋季 8 月 1 日、春季 12 月 1 日、夏季 4 月 1 日（以当期通知为准）。",
+      "ins3": "保单条款、家属加保咨询 Office of Admissions/International Admissions（Reynolds Hall, Station 6030, 205-665-6030）。",
+      "clinic": "Student Health Services 为校内基础医疗诊所，服务由强制本科生健康费覆盖；超出校内能力的治疗为转诊来源，校外费用自理；研究生与夏季续读学生可自费购买健康费。",
+      "commute": "小镇校园，步行可达；位于 Birmingham 以南 Shelby County；自驾经 AL-119 接 I-65 方向；BHM 机场约 30–45 分钟车程量级。",
+      "scene": "公立文理型小校，国际学生来自约 19 个国家；文理、商学、教育、艺术等见长；校队 Falcons，NCAA Division II 海湾南联盟（GSC）。",
+      "safety": "UM Police Department，Station 6155, Montevallo, AL 35115；205-665-6155，umpolice@montevallo.edu；提供夜间护送与 AlertAware 校园警报；校外归 City of Montevallo Police Department（205-665-2552）与 Shelby County 辖区。",
+      "transit": "小镇以步行为主，无成规模固定公交；跨城靠自驾；BHM 机场为主要民航入口。",
+      "rentnote": "校内 11 栋宿舍与公寓（传统宿舍、套房与 College Creek/College Park 公寓）；Housing & Residence Life 205-665-6235，housing@montevallo.edu；校外租房在 Montevallo 镇区与 Birmingham 南郊方向，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://bulletin.montevallo.edu/content.php?catoid=29&navoid=3856",
+          "University Calendar"
+        ],
+        "ins": [
+          "https://www.montevallo.edu/admissions-aid/international-admissions/",
+          "International Admissions"
+        ],
+        "police": [
+          "https://www.montevallo.edu/campus-life/campus-safety/department-of-public-safety/safety-tips/",
+          "UM Police Department"
+        ],
+        "housing": [
+          "https://www.montevallo.edu/campus-life/housing-residence-life/",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://bulletin.montevallo.edu/content.php?catoid=28&navoid=3722",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.flybirmingham.com/",
+          "Birmingham-Shuttlesworth Airport（BHM）"
+        ]
+      }
+    },
+    "uwa": {
+      "short": "西阿拉巴马大学",
+      "place": "利文斯顿 · 100 N. Washington Street, Livingston, AL 35470",
+      "cityKey": "livingstonal",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以 Office of the Registrar 当期公布的校历为准；学年另设夏季学期。加退课与带 W 退课截止日在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课的具体截止日以 Registrar 当期校历与 Student Accounts 退费条款为准；改退课在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "持 F-1/J-1 等签证的国际学生须在被录取后立即持有校方认可的健康与意外保险，本人及配偶、家属均在承保要求范围内；承保计划、保费入账与免赔额口径以国际学生办公室当期保险页公布为准。",
+      "ins2": "持有可比合格保单者，按当期保险页公布的窗口提交豁免申请；保险卡与保单凭证经保险商门户或学生账户领取，学期初供 Student Health Service 核验；豁免资格以国际学生办公室当期审核为准。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询国际学生办公室；门诊健康问题对接 Student Health Service；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Service 经校方与 University Medical Center Livingston 合作提供基础门诊服务，预约电话 (205) 652-7001；已缴学生医疗费的在读学生可就诊，就诊时携带保险信息；校园能力之外转 Livingston 周边与 Tuscaloosa、Meridian 方向医疗机构。",
+      "commute": "主校区 100 N. Washington Street, Livingston, AL 35470，位于阿拉巴马州西部近密西西比州界；校园约 600 英亩，校内有 54 英亩湖泊与自然步道；最近商用机场为伯明翰方向 BHM 与密西西比杰克逊方向 JAN，均为车程量级；小镇内出行以步行为主，跨城靠自驾。",
+      "scene": "1835 年创立，初名 Livingston Female Academy，后发展为公立综合性大学；学科覆盖文理、教育、商科、护理、健康职业与研究生项目；校队 Tigers，吉祥物 Luie the Tiger，参加 NCAA Division II（Gulf South Conference）赛事。",
+      "safety": "UWA Police Department：UWA Station 50, Livingston, AL 35470，电话 (205) 652-3602，邮箱 jhwhite@uwa.edu；紧急情况拨 911；校警辖区覆盖校园与校方所有地产，执法延伸至 Sumter County 与 Livingston 市警辖区；提供夜间护送与校园安全联络渠道。",
+      "transit": "Livingston 为乡村小城，无成规模城市公交；校园内步行可达，跨城出行靠自驾；远途抵离经 BHM（伯明翰）或 JAN（杰克逊）方向机场，班次与接驳以机场当期公布为准。",
+      "rentnote": "校内宿舍含 Gilbert Hall（新生）、Hoover Apartments、Patterson Hall、Reed Hall、Selden Hall 与 Stickney Hall（研究生），住宿办公室位于 Brock Hall 121；校外房源集中在镇区与校园周边，小镇选择有限；学生身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uwa.edu/university-departments/office-of-the-registrar/",
+          "Office of the Registrar 校历"
+        ],
+        "ins": [
+          "https://www.uwa.edu/admissions/international-students/",
+          "国际学生招生"
+        ],
+        "police": [
+          "https://www.uwa.edu/university-departments/university-police-department/",
+          "UWA Police Department"
+        ],
+        "housing": [
+          "https://www.uwa.edu/residence-life/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.uwa.edu/health-information/",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.flybhm.com/",
+          "Birmingham-Shuttlesworth 机场"
+        ]
+      }
+    },
+    "southalabama": {
+      "short": "南阿拉巴马大学",
+      "place": "莫比尔 · 307 N. University Boulevard, Mobile, AL 36688",
+      "cityKey": "mobile",
+      "calShort": "两学期制；2026 秋 8 月 18 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 18 日（周二）开课；10 月 8–11 日秋假；12 月 4 日结课；12 月 7–10 日期末考试；12 月 11 日毕业典礼，宿舍同日关闭；12 月 14 日成绩截止。Spring 2027：1 月 11 日（周一）开课；3 月 8–14 日春假；4 月 30 日结课；5 月 7–8 日毕业周末。加退课、无 W 与带 W 退课截止日以 Registrar 当期校历为准。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 Office of Immigration 与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课的具体截止日以 Registrar 当期校历与 Student Accounting 退费条款为准；Drop 与全额退学的退费档位按学生账户当期公告执行。",
+      "ins1": "持 F-1/J-1 等签证的国际学生须持续持有合格医疗保险；USA 要求国际学生在注册时自动加入校方国际学生健康保险计划；J-1 访问学者须提供可比保险证明或购买该计划；计划福利、免赔额与家属附加口径以当期保险页为准。",
+      "ins2": "持有合格替代保单者可在注册时申请校方计划豁免，须随豁免申请提交充分保险凭证；政府或使馆赞助学生凭来源国政府保险可申请豁免；保险卡与保单凭证经保险商会员门户领取，学期初供 Student Health Center 核验。",
+      "ins3": "保险资格、豁免与家属加保咨询 Office of Immigration；门诊健康问题对接 Student Health Center；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center：5870 Alumni Circle, Mobile, AL，电话 (251) 460-7151；University Counseling and Wellness Center：300 Student Center Circle，电话 (251) 460-7051；提供初级保健、疫苗、咨询与转诊；校园能力之外转 USA Health 与 Mobile 地区医疗机构。",
+      "commute": "主校区 307 N. University Boulevard, Mobile, AL 36688，位于 Mobile 城西；最近商用机场为 Mobile Regional Airport（MOB），第二备选 Pensacola International Airport（PNS），远途枢纽 BHM；校区内有 Jaguar 接驳，市区出行可接 The Wave 公交。",
+      "scene": "1963 年特许设立的公立大学；学院覆盖文理、商科、教育、工程与计算机、健康职业、护理、医学、药学与牙医学等；校队 Jaguars，NCAA Division I，Sun Belt Conference 创始成员。",
+      "safety": "University of South Alabama Police Department：290 Stadium Blvd., Beta Gamma Commons, Mobile, AL 36688-0001，电话 (251) 460-6312，邮箱 police@southalabama.edu，线索电话 (251) 460-6667；紧急情况拨 911；校警值守并提供夜间护送与安全通报；校园边界外归 Mobile Police Department 与 Mobile County 调度。",
+      "transit": "The Wave（Mobile 城市公交）连接校区与市区；校区自有 Jaguar 接驳覆盖校内片区；停课与节假日执行缩减班次；远途出行经 MOB 机场，PNS 为备选。",
+      "rentnote": "校内宿舍与公寓按申请与住校要求分配；校外房源集中在城西校区周边、midtown 与 Mobile 城区各街区；校园身份卡兼作门禁、就餐与乘车凭证；墨西哥湾飓风季前确认租约撤离与保险条款；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.southalabama.edu/academiccalendar/",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.southalabama.edu/departments/immigration/estimated-expenses.html",
+          "Office of Immigration 费用与保险"
+        ],
+        "police": [
+          "https://www.southalabama.edu/departments/police/",
+          "USA Police Department"
+        ],
+        "housing": [
+          "https://www.southalabama.edu/departments/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.southalabama.edu/departments/studenthealth/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.thewave.com/",
+          "The Wave 公交"
+        ]
+      }
+    },
+    "alabamastate": {
+      "short": "阿拉巴马州立大学",
+      "place": "蒙哥马利 · 915 South Jackson Street, Montgomery, AL 36104",
+      "cityKey": "montgomery",
+      "calShort": "两学期制；2026 秋 8 月 10 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 10 日（周一）开课，退学 W 记分期同步开始；Mini Session I 于 8 月 9 日前为无费用取消窗口。Spring 2027（暂定）：1 月 11 日（周一）开课；1 月 17 日为最后加退课日；1 月 18 日 MLK 日校园关闭；3 月 15–19 日春假；4 月 30 日结课；5 月 7 日毕业典礼。退费档位与 W 退课截止以 Records & Registration 当期校历为准。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生招生办公室与学术顾问批准，学分口径为 Records & Registration 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Records & Registration 当期校历与 Bursar 条款为准；改退课经 Hornets Web 学生门户办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生须购买含遗体送返（repatriation）与医疗遣返（medical evacuation）条款的健康保险；校方计划与保费入账口径以国际学生招生办公室当期保险页为准。",
+      "ins2": "持有可比合格保单者按当期窗口提交保险凭证与豁免申请；保险卡、保单号与保障明细学期初交 Health Services 核验；豁免资格以校方当期审核为准，替代保单须覆盖在美停留全期。",
+      "ins3": "保险资格、豁免与家属加保咨询国际学生招生办公室；门诊健康问题对接 Health Center；家属投保与附加保障渠道以当期保险页说明为准。",
+      "clinic": "ASU Health Center：915 South Jackson Street, Montgomery, AL 36104，Simpson Hall 一层；电话 (334) 229-4436，邮箱 healthservices@alasu.edu；提供初级保健、疫苗与健康评估表格审核；校园能力之外转 Montgomery 地区医疗机构。",
+      "commute": "主校区 915 South Jackson Street, Montgomery, AL 36104，位于州首府蒙哥马利城南；最近商用机场为 Montgomery Regional Airport（MGM），第二备选 BHM，跨州备选 Atlanta（ATL）方向；校区距 downtown 与州政府片区为短途车程。",
+      "scene": "1867 年创立的公立 HBCU（传统黑人大学），前身为 Marion 的 Lincoln Normal School，1887 年迁至 Montgomery；学科覆盖文理、商科、教育、STEM、美术与健康科学；校队 Hornets，参加 NCAA Division I（SWAC）赛事， marching band 为校园文化传统之一。",
+      "safety": "ASU Department of Public Safety：1452 Carter Hill Road；电话 (334) 229-4400，邮箱 asupublicsafety@alasu.edu；紧急情况拨 911；校警为 24 小时全职警务机构，宿舍区设门禁与安保值班；校园边界外归 Montgomery Police Department 与 Montgomery County 调度。",
+      "transit": "Montgomery Area Transit System（MATS）公交覆盖市区；校区周边短途出行可步行或乘公交，跨城靠自驾；远途出行经 MGM 机场，班次以机场当期公布为准。",
+      "rentnote": "校内宿舍含 Dr. Martin Luther King Jr. Hall、Bessie E. Estelle Hall 等，按住校要求与申请顺序分配；校外房源集中在城南校区周边街区；Hornet 身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.alasu.edu/academics/academic-calendar.php",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.alasu.edu/admissions/international-students.php",
+          "国际学生招生"
+        ],
+        "police": [
+          "https://www.alasu.edu/student-affairs/current-students/the-pilot-student-handbook.php",
+          "学生手册（公共安全联络）"
+        ],
+        "housing": [
+          "https://www.alasu.edu/student-affairs/housing-and-residence-life/index.php",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://www.alasu.edu/student-affairs/current-students/health-services/index.php",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.montgomeryal.gov/government/departments/transit",
+          "MATS 公交"
+        ]
+      }
+    },
+    "aum": {
+      "short": "奥本大学蒙哥马利分校",
+      "place": "蒙哥马利 · 7400 East Drive, Montgomery, AL 36117",
+      "cityKey": "montgomery",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 17 日（周一）开课；8 月 25 日为最后加课日；12 月 1 日结课；12 月 3 日、12 月 7–9 日期末考试；12 月 12 日毕业典礼；12 月 14 日成绩截止。Spring 2027：1 月 11 日（周一）开课；1 月 15 日注册取消；1 月 18 日 MLK 日停课；2 月 22 日为最后退课日；5 月 8 日春季毕业典礼。其他半学期与 Maymester 节点以 Academic Calendar 当期公布为准。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 Office of Global Initiatives 与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Academic Calendar 当期公告与 Student Accounts 条款为准；改退课在 MyAUM 门户办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的外籍学生及其家属须参加校方团体健康保险计划（AUM Group Health Insurance Plan，UnitedHealthcare 承保）；保费随学费一并缴纳；计划福利与免赔额口径以当期保险页为准。",
+      "ins2": "特殊情况下符合条件的学生或家属可申请强制保险豁免，须按当期保险页提交合格替代保单凭证；保险卡经保险商门户（myahpcare）领取，学期初供 Office of Global Initiatives 核验。",
+      "ins3": "保险资格、豁免与家属加保咨询 Office of Global Initiatives（Administration Building 109）；门诊健康问题对接 Warhawk Health Services；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Warhawk Health Services 提供在读学生基础门诊、疫苗与健康咨询服务；办公地点与门诊时间以当期 Health Services 页面公布为准；校园能力之外转 Montgomery 地区医疗机构。",
+      "commute": "主校区 7400 East Drive, Montgomery, AL 36117，位于蒙哥马利城东；最近商用机场为 Montgomery Regional Airport（MGM），第二备选 BHM，跨州备选 ATL；与 ASU 校区分处城市两端，两校间通勤沿城市道路行车。",
+      "scene": "1967 年设立，Auburn University System 公立分校；提供 90 余个本科、硕士与博士学位项目；校队 Warhawks，2019–20 学年起参加 NCAA Division II（Gulf South Conference）赛事。",
+      "safety": "AUM Public Safety 值守校园公共安全，紧急情况拨 911；夜间护送、蓝灯电话与校园通报渠道以当期公共安全页面公布为准；校园边界外归 Montgomery Police Department 与 Montgomery County 调度。",
+      "transit": "Montgomery Area Transit System（MATS）公交覆盖市区；校区周边出行以自驾与校园接驳为主；远途出行经 MGM 机场，班次以机场当期公布为准。",
+      "rentnote": "校内住宿经 MyAUM Housing 门户申请，住宿社区标准与 move-in 时间以 Housing 当期公告为准；校外房源集中在城东 East Drive 沿线与 Montgomery 城区；Warhawk 身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.aum.edu/Academics/academic-calendar/",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://aum.myahpcare.com/",
+          "AUM 学生保险门户"
+        ],
+        "police": [
+          "https://www.aum.edu/student-life/public-safety/",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://www.aum.edu/student-life/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.aum.edu/student-life/health-services/",
+          "Warhawk Health Services"
+        ],
+        "transit": [
+          "https://www.montgomeryal.gov/government/departments/transit",
+          "MATS 公交"
+        ]
+      }
+    },
+    "aamu": {
+      "short": "阿拉巴马农工大学",
+      "place": "诺默尔 · 4900 Meridian Street, Normal, AL 35762",
+      "cityKey": "normalal",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以 AAMU Calendar 与 Registrar 当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在 Self-Service Banner 办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在 Student Health Center 另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Services Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供 Health and Counseling Center 核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接 Health and Counseling Center；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "John and Ella Byrd McCain Health and Counseling Center：AAMU 校园内，电话 (256) 372-5601；提供基础门诊、疫苗、TB 筛查、心理咨询与健康评估，诊疗可记账保险；校园能力之外转 Huntsville Hospital 等地区医疗机构。",
+      "commute": "主校区 4900 Meridian Street, Normal, AL 35762，位于 Huntsville 都会区南郊 Normal 未建制社区；最近商用机场为 Huntsville International Airport（HSV），第二备选 BHM，跨州备选 Nashville（BNA）；校园沿 Meridian Street 分布，区内出行以自驾为主。",
+      "scene": "1875 年创立的公立 HBCU（传统黑人大学），阿拉巴马土地赠与（land-grant）大学；学科覆盖工程与技术、STEM、农业、教育、商科、文科、护理与健康科学；校队 Bulldogs，参加 NCAA Division I（SWAC）赛事。",
+      "safety": "AAMU Department of Public Safety：校园内电话 (256) 372-5000；紧急情况拨 911；DPS 由州认证宣誓警官、安保人员与通信专员组成，设步行与驾车巡逻、蓝灯紧急电话与 Bulldog Alerts 多平台警报；校园边界外归 Huntsville Police Department 与 Madison County 调度。",
+      "transit": "Normal 片区依赖自驾，Huntsville 都会区公交系统覆盖周边；远途出行经 HSV 机场，班次与接驳以机场当期公布为准。",
+      "rentnote": "Office of Residential Life and Housing：电话 (256) 372-5797，邮箱 housing@aamu.edu，Normal, AL 35762；校内宿舍按申请与住校要求分配；校外房源在 Normal 与 Huntsville 都会区沿线；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.aamu.edu/calendar/",
+          "AAMU Calendar"
+        ],
+        "ins": [
+          "https://www.aamu.edu/admissions-aid/graduate-admissions/international-students.html",
+          "国际学生事务"
+        ],
+        "police": [
+          "https://www.aamu.edu/campus-life/campus-safety/",
+          "AAMU Department of Public Safety"
+        ],
+        "housing": [
+          "https://www.aamu.edu/campus-life/housing/",
+          "Residential Life & Housing"
+        ],
+        "clinic": [
+          "https://www.aamu.edu/campus-life/student-support/health-services/",
+          "Health and Counseling Center"
+        ],
+        "transit": [
+          "https://www.huntsvilleal.gov/transportation/",
+          "Huntsville 交通"
+        ]
+      }
+    },
+    "troy": {
+      "short": "特洛伊大学",
+      "place": "特洛伊 · 312 University Avenue, Troy, AL 36082",
+      "cityKey": "troyal",
+      "calShort": "两学期制（Term 1–5）；2026 秋 Term 1 于 8 月 10 日开课。",
+      "calendar": "Fall 2026（Term 1）：8 月 10 日开课；秋季毕业典礼 12 月 11 日。Spring 2027（Term 3）：春季毕业典礼 5 月 14 日；各 Term 的开学、加退课、期末与考试节点以 Catalog 公布的校历为准；另设 Term 2、Term 4 与 Term 5 夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生项目办公室与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Catalog 校历与 Student Accounts 条款为准；改退课在学生门户办理，逾期按校方政策记 W。",
+      "ins1": "国际学生须持有符合美国政府交流访问者保险标准的医疗保险；Troy University 国际学生保险为年度保单（StudentSecure），8 月与 1 月分别入账 6 个月保费；计划福利与免赔额口径以当期保险页与保险手册为准。",
+      "ins2": "符合条件的替代保单按当期保险页窗口提交凭证申请豁免；保险卡与保单号经保险商门户领取，学期初供 Student Health Center 与国际学生项目办公室核验。",
+      "ins3": "保险资格、豁免与家属加保咨询国际学生项目办公室；门诊健康问题对接 Student Health Center；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center：Troy 主校区 Hamil Hall 一层；电话 (334) 670-3452；提供医生门诊、免费流感疫苗、TB 皮试、体检与采血等服务；校园能力之外转 Troy 与 Pike County 地区医疗机构。",
+      "commute": "主校区 312 University Avenue, Troy, AL 36082，位于阿拉巴马东南部 Pike County 小城；最近商用机场为 Dothan Regional Airport（DHN），备选 Montgomery（MGM）与 Pensacola（PNS）方向机场；本页只写 Troy 主校区，州外其他教学点不展开。",
+      "scene": "1887 年创立，初名 Troy State Normal School，后发展为公立大学；学科覆盖文理、商科、教育、传媒、健康职业与研究生项目；校队 Trojans，参加 NCAA Division I（Sun Belt Conference）赛事。",
+      "safety": "Troy University Police Department（TUPD）：400 Pell Avenue, Troy, AL 36082（Collegeview 建筑）；紧急情况拨 911；学生应注册 SOS Alerts 接收校园紧急与恶劣天气通报；校园边界外归 Troy Police Department 与 Pike County 调度。",
+      "transit": "Troy 为小城，无成规模固定城市公交；校区与镇区步行可达，跨城出行靠自驾；远途出行经 DHN、MGM、PNS 方向机场，班次以机场当期公布为准。",
+      "rentnote": "Housing and Residence Life 提供校内宿舍；19 岁以下学生除获 Housing 批准外须住校；宿舍区设蓝灯紧急电话，强对流天气按指引至建筑低层中心区域避险；校外房源集中在镇区；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.troy.edu/content.php?catoid=8&navoid=332",
+          "Catalog 校历"
+        ],
+        "ins": [
+          "https://www.troy.edu/applications-admissions/admissions-process-requirements/international-student/index.html",
+          "国际学生事务"
+        ],
+        "police": [
+          "https://www.troy.edu/student-life-resources/student-resources/campus-safety/index.html",
+          "TUPD 校园安全"
+        ],
+        "housing": [
+          "https://www.troy.edu/student-life-resources/housing/index.html",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://www.troy.edu/student-life-resources/student-resources/health-center/index.html",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.flydothan.com/",
+          "Dothan Regional 机场"
+        ]
+      }
+    },
+    "alabama": {
+      "short": "阿拉巴马大学",
+      "place": "塔斯卡卢萨 · 739 University Boulevard, Tuscaloosa, AL 35487",
+      "cityKey": "tuscaloosa",
+      "calShort": "两学期制；2026 秋 8 月 19 日开课，2027 春开课日期以 Registrar 校历为准。",
+      "calendar": "Fall 2026：8 月 19 日（周三）秋季全学期开课；8 月 26 日为无 W 加退课截止日；9 月 7 日劳动节校园关闭；9 月 21 日 Fall 2 学期开课；12 月 4 日全学期与 Fall 2 结课；12 月 11 日秋季毕业典礼。Spring 2027：开学、加退课、期末与毕业节点以 Office of the University Registrar 当期校历为准；学年另设 Winter Interim 与夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；国际研究生助教/助研至少注册 3 学分；减修、停课或延期毕业须先经 Capstone International Center 与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 校历与 Student Account Services 条款为准；改退课在 myBama 门户办理，逾期按校方政策记 W。",
+      "ins1": "所有国际学生与 English Language Institute 学生须强制购买校方学生健康保险计划（SHIP），含获批的国际研究生助教、助研与奖学金学生（每学期至少 3 学分）；计划福利、免赔额与年度保费口径以当期保险页为准。",
+      "ins2": "仅在持有合格替代保单的前提下可在豁免窗口内 opt-out：Fall 豁免期为 7 月 1 日–9 月 10 日；保险卡与保单凭证经保险商门户（myahpcare）领取，学期初供 Student Health Center 核验。",
+      "ins3": "保险资格、豁免与家属加保咨询 Capstone International Center；门诊健康问题对接 Student Health Center and Pharmacy；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center and Pharmacy（SHC）：Peter Bryce Boulevard 与 4th Street East 交叉口，邻 UA 网球场；AAAHC 认证，提供女性健康、精神科、营养咨询、过敏与疫苗等门诊服务；Counseling Center 联系方式以 Contact 页面当期公布为准；校园能力之外转 Tuscaloosa 地区医疗机构。",
+      "commute": "主校区 739 University Boulevard, Tuscaloosa, AL 35487；最近大型商用机场为 Birmingham-Shuttlesworth International Airport（BHM），东向约 1 小时车程量级；第二备选 Jackson（JAN）方向，跨州备选 Nashville（BNA）；校区距 downtown 与 The Strip 片区为短途车程。",
+      "scene": "1831 年创立，University of Alabama System 旗舰公立大学；提供 240 余个学位项目，覆盖文理、商科、工程、通信、教育、健康科学、法学与社会工作等；校队 Crimson Tide，参加 NCAA Division I（SEC）赛事。",
+      "safety": "University of Alabama Police Department（UAPD）：电话 205-348-5454，邮箱 ua.police@ua.edu；紧急情况拨 911；UAPD 提供 24 小时执法、巡逻、调查与社区警务，覆盖约 1.5 平方英里校园；校园边界外归 Tuscaloosa Police Department 与 Tuscaloosa County 调度。",
+      "transit": "Tuscaloosa Transit Authority（TTA）固定线路连接校区与 downtown、University Mall 等片区；校园另有接驳与比赛日 shuttle；远途出行经 BHM 机场，班次以机场当期公布为准。",
+      "rentnote": "校内住宿由 Housing and Residential Communities 分配；校外房源沿 The Strip、downtown 与近郊公寓带分布；校园身份卡兼作门禁、就餐与乘车凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.ua.edu/academiccalendar/",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://ua.myahpcare.com/",
+          "UA 学生保险门户"
+        ],
+        "police": [
+          "https://police.ua.edu/",
+          "UAPD"
+        ],
+        "housing": [
+          "https://housing.ua.edu/",
+          "Housing and Residential Communities"
+        ],
+        "clinic": [
+          "https://shc.sa.ua.edu/",
+          "Student Health Center and Pharmacy"
+        ],
+        "transit": [
+          "https://tuscaloosatransit.com/",
+          "TTA 公交"
+        ]
+      }
+    },
+    "cuboulder": {
+      "short": "科罗拉多大学博尔德分校",
+      "place": "博尔德 · Boulder, CO 80309",
+      "cityKey": "boulder",
+      "calShort": "两学期制（Fall/Spring，另有暑期与短学期）；2026 秋 8 月 20 日开课，2027 春 1 月 7 日开课。",
+      "calendar": "Fall 2026：8 月 14–18 日住宿入住；8 月 20 日（周四）开课；9 月 5 日（周六）学费到期；9 月 7 日（周一）劳动节停课；10 月 8 日（周四）期中阅读日；11 月 23–25 日（周一至周三）秋假；11 月 26–27 日（周四至周五）感恩节停课；12 月 4 日（周五）结课；12 月 5–6 日阅读日；12 月 7–11 日（周一至周五）期末考试；12 月 11 日（周五）学位授予日。Spring 2027：1 月 7 日（周四）开课；1 月 18 日（周一）马丁·路德·金日停课；2 月 5 日（周五）学费到期；2 月 25 日（周四）期中阅读日；3 月 15–19 日（周一至周五）春假；4 月 23 日（周五）结课；4 月 24–25 日阅读日；4 月 26–30 日（周一至周五）期末考试；5 月 1 日（周六）全校毕业典礼与学位授予日。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制口径以所属学院与 Registrar 当期规定为准；减修、停课或转非全日制须经学业顾问与 International Student and Scholar Services 批准。",
+      "drop": "加退课、无 W 退课与带 W 退课截止按 Registrar 校历节点执行；退费档位与退课计费口径以 Student Billing/Bursar 当期条款为准；短学期（special session）节点与整学期不同，须按课程所属 session 核对。",
+      "ins1": "CU Boulder 实行学生健康保险要求：本科注册 6 学分及以上、研究生注册 1 学分及以上须完成保险流程；未在截止日前获批豁免者自动加入 Anthem Gold 学生健康保险计划（SHIP）并按学期入账。",
+      "ins2": "已有符合 CU Boulder 豁免标准的私人或雇主保单者，可在保险截止日前提交 waiver 申请；豁免审核通过后按流程处理；电子保险卡经承保方会员账户与 MyCUHealth 门户领取，就诊携带凭证。",
+      "ins3": "替代保单须满足学校公布的保障标准（处方药、预防保健、心理健康等口径见保险 FAQ）；J-1 交换学生按美国国务院要求上传保险材料，走 Immigration Check-In 流程；家属加保、自费投保与保险咨询对接 ISSS 与 Health & Well-Being 保险窗口。",
+      "clinic": "Wardenburg Health Center（Medical Services），邮寄地址 119 UCB, Boulder, CO 80309；医疗咨询 303-492-5101（24/7 护士线），预约 303-492-5432；Apothecary 药房位于二层，303-492-8553；提供初级保健、疫苗、药房与心理健康转介，能力之外转 Boulder 地区医疗机构。",
+      "commute": "主校区位于 Boulder 山前地带，沿 Colorado Avenue、Broadway 与 Regent Drive 展开；自驾经 US-36、US-287 衔接 Denver 都会区；RTD 公交与校内接驳覆盖宿舍区与教学区；校区步行尺度为主，到 Denver 市中心约 45–60 分钟车程量级。",
+      "scene": "科罗拉多大学博尔德分校 1876 年建校，与科罗拉多州建州同年，是 CU 系统旗舰公立研究型大学；下设文理、工程、商学、法律、媒体传播、教育、音乐等学院；工程、环境、自然科学、传媒与商科见长；校队 Buffaloes（Buffs），吉祥物 Ralphie 为活体野牛，参加 NCAA Division I Big 12 联盟。",
+      "safety": "CU Police Department（CUPD），1050 Regent Drive, 502 UCB；紧急拨 911，非紧急 303-492-6666（24/7）；记录与失物招领经 Records 窗口；提供蓝灯电话、护送与安全提醒；校外归 Boulder Police Department 辖区。",
+      "transit": "RTD 公交服务 Boulder 与 Denver 都会区，含往返 Denver 方向线路；校内有校方接驳与步行环路；Boulder 本地有 HOP 免费循环线；丹佛国际机场（DEN）约 45–60 分钟车程量级，北方 Fort Collins/Loveland 方向有支线机场。",
+      "rentnote": "校内住宿含传统宿舍、Williams Village 与 Bear Creek 公寓等社区，房型与当期费率见 University Housing；Buff OneCard 为校园身份、门禁、就餐、图书馆与消费卡；校外租房分布 Boulder 镇区及 Louisville、Lafayette 等相邻片区，步行、公交或自驾可达，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.colorado.edu/academics/academic-calendar",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.colorado.edu/health/insurance",
+          "学生健康保险"
+        ],
+        "police": [
+          "https://www.colorado.edu/publicsafety/contact-us",
+          "CU Police Department"
+        ],
+        "housing": [
+          "https://www.colorado.edu/living/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://www.colorado.edu/healthcenter/",
+          "Wardenburg Health Center"
+        ],
+        "transit": [
+          "https://www.rtd-denver.com/",
+          "RTD 城市公交"
+        ]
+      }
+    },
+    "colostate": {
+      "short": "科罗拉多州立大学",
+      "place": "科林斯堡 · 102 Administration Building, 0100 Campus Delivery, Fort Collins, CO 80523",
+      "cityKey": "fortcollins",
+      "calShort": "两学期制（Fall/Spring，另有暑期分段）；2026 秋 8 月 24 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）开课；8 月 28 日（周五）受限退课截止；8 月 30 日（周日）免 override 加课截止；9 月 7 日（周一）劳动节停课；9 月 9 日（周三）普查日，注册截止，无记录退课、成绩选项变更与学费调整截止；11 月 13 日（周五）课程退选（W）截止；11 月 21 日（周六）秋假开始；11 月 26–27 日（周四至周五）感恩节停课；11 月 30 日（周一）复课；12 月 11 日（周五）结课，学期退课截止；12 月 14–17 日（周一至周四）期末考试；12 月 22 日（周二）14:00 成绩截止。Spring 2027：1 月 1 日（周五）元旦停课；1 月 19 日（周二）开课；1 月 24 日（周日）常规加课截止；2 月 3 日（周三）普查日与注册截止；3 月 13 日（周六）春假开始；3 月 22 日（周一）复课；4 月 16 日（周五）课程退选截止；5 月 7 日（周五）结课；5 月 10–13 日（周一至周四）期末考试；5 月 14–15 日（周五至周六）毕业典礼；5 月 18 日（周二）成绩截止。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制口径以所属学院与 Registrar/The Hub 当期规定为准；减修、停课或转非全日制须经国际学生事务与学业顾问批准。",
+      "drop": "无记录退课与退费截止见校历（秋季 9 月 9 日普查日、春季 2 月 3 日普查日）；课程退选（W）截止秋季 11 月 13 日、春季 4 月 16 日；学期退课与其余计费档位以 Student Accounts 当期条款为准。",
+      "ins1": "各层级国际学生均须持有健康保险；国际学生自动加入 CSU 学生健康保险计划（SHIP），保费入学生账户。",
+      "ins2": "另有美国雇主团体保单或符合标准的个人保单者，可向 CSU Health Network 提交 waiver 申请；赞助项目保单交 International Programs Office 审核；电子保险卡经承保方账户领取。",
+      "ins3": "面向国际学生营销、未在美备案的保单常不符合豁免标准；替代保单资格、家属加保与保险咨询对接 CSU Health Network 保险窗口与 ISSS。",
+      "clinic": "CSU Health Network（CSU Health and Medical Center），151 West Lake St.（College Ave. 与 Prospect Rd. 路口），Fort Collins, CO；电话 970-491-7121；提供初级保健、心理健康、药房与健康促进服务，对持有各类保险的学生开放，能力之外转 Fort Collins 地区医疗机构。",
+      "commute": "主校区位于 Fort Collins 老城以西，沿 Oval Drive、College Avenue 与 Lake Street 展开；自驾经 I-25、US-287 衔接 Denver 北部；Transfort 公交在 Lory Student Center 的 Campus Transit Center 集散；到 Denver 都会区约 60–70 英里车程量级。",
+      "scene": "科罗拉多州立大学 1870 年创立（初名 Colorado Agricultural College），是科罗拉多公立赠地研究型大学；下设农业、工程、商科、健康、文理、兽医与自然资源等学院；大气科学、兽医、工程、农业与能源见长；校队 Rams，吉祥物 CAM the Ram，参加 NCAA Division I 山地西部联盟（Mountain West）。",
+      "safety": "CSU Police Department（CSUPD），Green Hall, 750 Meridian Ave, Fort Collins, CO；紧急拨 911，非紧急 970-491-6425；记录邮箱 CSUPD_Records@mail.colostate.edu；24/7 值守，提供犯罪预防与便民服务；校外归 Fort Collins Police Services 辖区。",
+      "transit": "Transfort 为 Fort Collins 城市公交，对学生免费；MAX BRT 与 Route 2、3、6、7、10、19、31、32 服务 CSU；FLEX 线路衔接 Loveland、Longmont 与 Boulder；DEN 约 60–70 英里，Fort Collins–Loveland Airport（FNL）在近郊。",
+      "rentnote": "校内住宿含 Durward、Edwards、Ingersoll、Newsom、Westfall、Laurel Village、Summit 等传统宿舍与大学公寓、International House；一年级及符合条件的转学生须住校；RamCard 为身份、就餐、图书馆与消费卡；校外房源分布 Fort Collins 城区与 Campus West 方向，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.colostate.edu/general-catalog/calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://health.colostate.edu/health-insurance-requirement/",
+          "学生健康保险要求"
+        ],
+        "police": [
+          "https://police.colostate.edu/",
+          "CSU Police Department"
+        ],
+        "housing": [
+          "https://housing.colostate.edu/",
+          "Housing & Dining Services"
+        ],
+        "clinic": [
+          "https://health.colostate.edu/",
+          "CSU Health Network"
+        ],
+        "transit": [
+          "https://ridetransfort.com/",
+          "Transfort 城市公交"
+        ]
+      }
+    },
+    "mines": {
+      "short": "科罗拉多矿业学院",
+      "place": "戈尔登 · 1500 Illinois Street, Golden, CO 80401",
+      "cityKey": "golden",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春节点以 Registrar 校历为准。",
+      "calendar": "Fall 2026：8 月 24 日（周一）开课；11 月 13 日（周五）16 周学期课程退选截止；11 月 25 日（周三）感恩节假开始，11 月 26–27 日节假日停课；期末与毕业节点按 Registrar 当期校历执行。Spring 2027：开课、普查、退选、期末与毕业典礼日期以 Academic Calendar (2026–2027) 当期公布为准；短学期（8 周等）截止日与整学期不同，按课程所属 session 核对。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制口径以所属学院与 Registrar 当期规定为准；减修、停课或转非全日制须经 ISSS 与学业顾问批准。",
+      "drop": "无记录退课、带 W 退课与退费截止按 Registrar 校历节点执行；16 周学期课程退选截止为 11 月 13 日；其余计费档位与退费口径以 Student Accounts 当期条款为准。",
+      "ins1": "Mines 要求注册学生持有符合标准的美国健康保险；F、J 签证国际学生无论学位状态均须购买学生健康保险计划（SHIP），除非满足豁免条件；纯线上学生不具备 SHIP 资格。",
+      "ins2": "符合特定豁免要求者可提交 waiver；J-1 交换学生可购买符合国务院标准的 CISI 等第三方保单以豁免 SHIP；电子保险卡经承保方（AHP myahpcare 门户）领取，凭证交 Student Health 核验。",
+      "ins3": "替代保单资格、家属加保与保险咨询对接 ISSS（Green Center, Suite 219, 924 16th Street, isss@mines.edu）与 Student Health 保险窗口；J-2 家属保险按国务院要求口径办理。",
+      "clinic": "Coulter Student Health Center，W. Lloyd Wright Wellness Center, 1770 Elm St., Golden, CO 80401；电话 303-273-3381，邮箱 shc@mines.edu；面向所有符合资格的学生开放，不限保险；提供初级保健、疫苗、药房与心理健康服务，能力之外转 Denver 都会区医疗机构。",
+      "commute": "校园位于 Golden 镇中心山麓地带，Illinois Street、Maple Street 与 Elm Street 沿线；自驾经 US-6、I-70 衔接 Denver 都会区；RTD W Line 至 Jefferson County Government Center–Golden 站后接驳；到 Denver 市中心约 20–30 分钟车程量级。",
+      "scene": "科罗拉多矿业学院 1874 年创立，是一所以工程、矿业、地质、能源与材料见长的专门型公立大学；学科集中在工程与应用科学领域；校队 Orediggers，参加 NCAA Division II 落基山竞技联盟（RMAC），设 18 支校队。",
+      "safety": "Mines Police Department / Campus Safety，1400 Maple Street, Suite 118, McNeil Hall；主线 303-273-3333；非工作时间按提示转 1 或联系 Golden Police 303-384-8045；危及生命紧急情况拨 911；校园设蓝色紧急呼叫站；校外归 Golden Police Department 与 Jefferson County 辖区。",
+      "transit": "RTD 公交与 W Line 轻轨服务 Golden 与 Denver 都会区；W Line 由 Denver Union Station 至 Jefferson County Government Center–Golden 站；校园到 Golden 镇内以步行为主；DEN 约 30–45 分钟车程量级。",
+      "rentnote": "校内住宿含 Spruce、Elm、Maple、Weaver Towers 等一年级宿舍，以及 1750 Jackson Street Apartments、Lookout Apartments、The Village at Mines Park 等公寓；一、二年级住校要求见 Residence Life 口径；校外房源在 Golden 镇内与 Lakewood 相邻片区，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.mines.edu/academic-calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://studenthealth.mines.edu/student-insurance/ship-enrollment-waivers/",
+          "SHIP 投保与豁免"
+        ],
+        "police": [
+          "https://www.mines.edu/campus-safety/about/",
+          "Campus Safety / Mines Police"
+        ],
+        "housing": [
+          "https://www.mines.edu/residence-life/",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://studenthealth.mines.edu/",
+          "Coulter Student Health Center"
+        ],
+        "transit": [
+          "https://www.rtd-denver.com/",
+          "RTD 城市交通"
+        ]
+      }
+    },
+    "ucdenver": {
+      "short": "科罗拉多大学丹佛分校",
+      "place": "丹佛 · 1201 Larimer Street, Suite 1005, Denver, CO 80204",
+      "cityKey": "denver",
+      "calShort": "两学期制（含多段五周短学期）；2026 秋 8 月 17 日开课，2027 春主学期节点以 Lynx Central 校历为准。",
+      "calendar": "Fall 2026：8 月 17 日（周一）秋季学期开课；8 月 23 日（周日）等待名单截止；8 月 24 日（周一）免 $100 退课收费截止；9 月 7 日（周一）劳动节停课；9 月 19 日（周六）第一段五周学期结束；9 月 21 日（周一）第二段五周学期开课；12 月 12 日（周六）第三段五周学期结束。Spring 2027：优先注册 2026 年 10 月 15–30 日；主学期（16 周）与各五周段开课、普查、退课与期末节点以 Lynx Central 当期校历 PDF 为准；毕业申请与授予日期按 Registrar 公布执行。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制口径以所属学院与 ISSS/Registrar 当期规定为准；减修、停课或转非全日制须经国际学生与学者服务及学业顾问批准。",
+      "drop": "加退课、无 W、带 W 退课截止按各 part-of-term 校历节点执行；退课收费档位（如 $100 drop charge）与退费口径按 Student Financial Accounts 当期条款；短学期节点与主学期不同，须按课程所属 session 核对。",
+      "ins1": "CU Denver 对 F-1、J-1 签证类别及 OPT 阶段学生实行强制健康保险；学生自动加入 CU International Student Health Insurance Plan，保费入学生账户。",
+      "ins2": "已有可比保单者可在豁免截止日前申请 waiver；替代保单标准包括年度免赔额不超过 $500、每计划年度医疗福利不低于 $1,000,000、PPO 网络共保不低于 75% 等（完整口径见保险豁免文件）；电子保险卡经承保方账户领取。",
+      "ins3": "家属加保、自费投保与保险咨询对接 International Student and Scholar Services（ISSS）健康窗口；国内学生不参加该国际学生计划，可经 Connect for Health Colorado 市场了解其他选项。",
+      "clinic": "Health Center at Auraria，Plaza Building, Room 150，Auraria 校区；电话 303-615-9999，网站 healthcenter1.com；为 CCD、MSU Denver、CU Denver 三校共享的大学健康中心，提供医疗、心理健康与健康促进；Anschutz 医学园区（Aurora）的医学与健康科学学生使用园区医疗体系与大学医院资源，转诊按当期安排。",
+      "commute": "Auraria 校区位于 Denver 市中心西侧，Larimer Street、Auraria Parkway 与 5th Street 一带；紧邻 Union Station 与轻轨公交枢纽；自驾经 I-25、US-6；Anschutz 医学园区位于 Aurora 东侧 13001 E. 17th Place 一带，两园区间交通另行安排。",
+      "scene": "科罗拉多大学丹佛分校是 CU 系统的 Denver 都会区都市型研究大学，主校区与 MSU Denver、Community College of Denver 共享 Auraria 校园；设商学、工程与应用科学、文理、建筑与规划、公共事务、教育、健康与行为科学等学院；Anschutz Medical Campus 集中研究生与医学、健康科学项目；校队 Lynx，参加 NCAA Division II 落基山竞技联盟（RMAC）。",
+      "safety": "Auraria Campus Police Department，1201 5th Street, Suite 110, Denver, CO 80217；校区调度 303-556-5000，紧急拨 911；24/7 巡逻，步行、自行车、电动车与警车出警。Anschutz 园区由 CU Anschutz Police Department 管辖，13309 E. 17th Place, Aurora, CO 80045；主线 303-724-2000，手机应急 303-724-4444。校园以外归 Denver Police Department 辖区。",
+      "transit": "RTD 公交与轻轨覆盖 Auraria 校区；A Line 通勤铁路由 Union Station 直达 Denver International Airport（DEN）；C、D、E、W 等轻轨线路在 Union Station 衔接；Anschutz 园区经 RTD 与 Aurora 本地交通衔接。",
+      "rentnote": "校内住宿为 Lynx Crossing Residence Hall 与 City Heights（1191 Larimer St.）公寓，对 Auraria 三校学生开放；校园身份卡用于门禁、就餐与校内消费；校外租房分布 LoDo、Union Station 周边、Lakewood 与 Edgewater 等相邻片区，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.cudenver.edu/student/student-calendars/fall-academic-calendar",
+          "Lynx Central 校历"
+        ],
+        "ins": [
+          "https://www.ucdenver.edu/services/international-student-and-scholar-services/students/health/faq",
+          "国际学生健康保险"
+        ],
+        "police": [
+          "https://www.ucdenver.edu/emergencymanagement/campus-safety",
+          "Campus Safety / Auraria Police"
+        ],
+        "housing": [
+          "https://www.cudenver.edu/housing-and-dining/housing",
+          "Housing & Dining"
+        ],
+        "clinic": [
+          "https://healthcenter1.com/",
+          "Health Center at Auraria"
+        ],
+        "transit": [
+          "https://www.rtd-denver.com/",
+          "RTD 城市交通"
+        ]
+      }
+    },
+    "msudenver": {
+      "short": "丹佛大都会州立大学",
+      "place": "丹佛 · Jordan Student Success Building, 890 Auraria Parkway, Denver, CO 80204",
+      "cityKey": "denver",
+      "calShort": "两学期制（含 Winterim 与短学期）；2026 秋 8 月 17 日开课，2027 春主学期节点以 Registrar 校历为准。",
+      "calendar": "Fall 2026：8 月 17 日（周一）开课，学期至 12 月 13 日（周日）；各 part-of-term 加退课、退费与 W 截止按 Registrar 分段日期表执行。Spring 2027：优先注册 2026 年 10 月 26 日开始；Winterim 为 2027 年 1 月 4–17 日；主学期开课、普查、退课、期末与毕业日期以 Registrar 当期 Dates and Deadlines 页面为准。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制口径以所属学院与招生/国际学生办公室当期规定为准；减修、停课或转非全日制须经学业顾问与国际学生支持渠道批准。",
+      "drop": "加退课、无 W、带 W 退课截止按各 part-of-term 日期表执行；退费档位与退课收费口径按 Cashiering 当期条款；短学期节点与主学期不同，须按课程所属 session 核对。",
+      "ins1": "秋季或春季注册 9 学分及以上的学生须持有符合学校要求的健康保险；符合条件者自动计入学生健康保险计划账单。",
+      "ins2": "已有符合学校豁免标准的外部保单者，可在公布的豁免截止日前申请 waive；每学期修读 9 学分及以上均须提交外部保单证明；保险卡交 Health Center at Auraria 备查。",
+      "ins3": "保险资格、家属加保与计划选择对接 Office of Cashiering 与 Health Center at Auraria；国际学生身份与签证事项对接 Immigrant Services / ISP 渠道。",
+      "clinic": "Health Center at Auraria，Plaza Building, Room 150，Auraria 校区；电话 303-615-9999，网站 healthcenter1.com；三校共享，提供医疗、化验、X光、疫苗与心理健康服务。Counseling Center 位于 Tivoli Building, Suite 651, 900 Auraria Parkway；咨询 303-615-9988，24/7 心理与受害者援助危机线 303-615-9911。",
+      "commute": "主校区在 Auraria 校园内，Jordan Student Success Building、Tivoli 与 Plaza 等建筑沿 Auraria Parkway 分布；步行至 Union Station 一带；RTD 公交轻轨汇聚；自驾经 I-25、US-6 进出 Denver 市中心。",
+      "scene": "丹佛大都会州立大学是 Denver 市中心的公立都市型大学，与 CU Denver、Community College of Denver 共享 Auraria 校园；学科以应用与职业导向见长，涵盖商科、航空、酒店管理、教育、健康、人文与 STEM；校队 Roadrunners，参加 NCAA Division II 落基山竞技联盟（RMAC）。",
+      "safety": "Auraria Campus Police Department 为三校共享警务，1201 5th Street, Suite 110, Denver, CO 80217；调度 303-556-5000，紧急拨 911；24/7 步行、自行车、电动车与警车巡逻，提供开锁、犯罪预防与指纹服务。校园以外归 Denver Police Department 辖区。",
+      "transit": "RTD 公交与轻轨覆盖 Auraria 校区；Union Station 枢纽衔接 A Line 至 Denver International Airport（DEN）及 C、D、E、W 等线路；校区内建筑步行连通。",
+      "rentnote": "校内住宿为 Auraria 共享的 Lynx Crossing 与 City Heights 公寓，对 MSU Denver 学生开放；校园身份卡用于门禁、就餐与校内消费；校外租房分布 LoDo、Union Station 周边及 Lakewood、Edgewater 等片区，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.msudenver.edu/registrar/semester-dates-and-deadlines/",
+          "Registrar 分段日期"
+        ],
+        "ins": [
+          "https://www.msudenver.edu/cashier/",
+          "保险计费与豁免"
+        ],
+        "police": [
+          "https://www.msudenver.edu/emergency/",
+          "Emergency Information"
+        ],
+        "housing": [
+          "https://www.cudenver.edu/housing-and-dining/housing",
+          "Auraria 共享住宿"
+        ],
+        "clinic": [
+          "https://healthcenter1.com/",
+          "Health Center at Auraria"
+        ],
+        "transit": [
+          "https://www.rtd-denver.com/",
+          "RTD 城市交通"
+        ]
+      }
+    },
+    "uccs": {
+      "short": "科罗拉多大学科罗拉多斯普林斯分校",
+      "place": "科罗拉多斯普林斯 · 1420 Austin Bluffs Parkway, Colorado Springs, CO 80918-3733",
+      "cityKey": "coloradosprings",
+      "calShort": "两学期制（16 周）加 8 周暑期；2026 秋 8 月 24 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：4 月 13 日（周一）注册开始；8 月 24 日（周一）开课；9 月 7 日（周一）劳动节停课；9 月 10 日（周四）初步普查日；11 月 23–29 日（周一至周日）秋假（11 月 23–25 日办公开放）；12 月 18 日（周五）夏季/秋季毕业典礼；12 月 19 日（周六）学期结束。Spring 2027：2026 年 10 月 26 日（周一）注册开始；1 月 18 日（周一）马丁·路德·金日停课；1 月 19 日（周二）开课；2 月 3 日（周三）初步普查日；3 月 22–28 日（周一至周日）春假；5 月 14 日（周五）春季毕业典礼；5 月 15 日（周六）学期结束。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制口径以所属学院与 Registrar/International Affairs 当期规定为准；减修、停课或转非全日制须经学业顾问与国际学生办公室批准。",
+      "drop": "加退课、无 W、带 W 退课截止按各 course-deadlines 页面节点执行；普查日后退课记 W 且不退费；退费档位与退课口径按 Bursar 当期条款；短学期截止日另行公布。",
+      "ins1": "UCCS 不设强制健康保险要求，也不提供学校学生保险计划；学校建议所有学生自行购买保险。F-1 学生被强烈建议持有覆盖在美学习的医疗保险；J-1 学生须持有符合美国国务院要求的保险。",
+      "ins2": "疫苗与免疫记录（MMR 等）须上传 Wellness Center 门户；住校生须提交流脑 ACWY 疫苗证明或签署豁免；保险计划凭证供 Wellness Center 与 International Affairs 备查。",
+      "ins3": "学校不背书清单上的商业保险；保险选择、家属加保与就医咨询对接 Wellness Center 与 International Student and Scholar Services。",
+      "clinic": "UCCS Wellness Center，Recreation and Wellness Center；电话 719-255-4444，传真 719-255-4446，邮箱 wellness@uccs.edu，网站 uccs.edu/recwellness；面向所有在读学生开放，不要求保险预约；提供初级保健、疫苗、心理健康、化验与转介，能力之外转 Colorado Springs 地区医疗机构。",
+      "commute": "主校区位于 Colorado Springs 东部 Austin Bluffs Parkway 台地；自驾经 Austin Bluffs Parkway、Nevada Avenue 与 I-25 衔接；Mountain Metro 公交线路到校；到 COS 机场约 20–30 分钟车程量级，到 Denver 约 70 英里。",
+      "scene": "科罗拉多大学科罗拉多斯普林斯分校是 CU 系统在派克峰地区的分校；设文理、工程、商科、教育、健康科学、公共事务等学院；计算机、工程、护理与商业见长；校队 Mountain Lions，参加 NCAA Division II 落基山竞技联盟（RMAC）。",
+      "safety": "UCCS Police Department，Gateway Hall；校区调度 719-255-3111，紧急拨 911；警情邮箱 police@uccs.edu；校区关闭信息 719-255-3346；提供校园警报与安全服务。校外归 Colorado Springs Police Department 与 El Paso County Sheriff's Office 辖区。",
+      "transit": "Mountain Metropolitan Transit（Mountain Metro）公交覆盖 Colorado Springs，Route 34 等线路服务 UCCS；COS 机场在城南；DEN 约 70 英里，跨城靠自驾或长途接驳。",
+      "rentnote": "校内住宿为 Summit Village、Village at Alpine Valley 宿舍与 Alpine Village 公寓，均为套间房型；20 岁以下且修满学分不足 30 的新生须住校；校外房源分布 Colorado Springs 东北、北部与近校区片区，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.uccs.edu/content.php?catoid=41&navoid=9800",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://catalog.uccs.edu/content.php?catoid=18&navoid=1682",
+          "健康保险与免疫口径"
+        ],
+        "police": [
+          "https://police.uccs.edu/",
+          "UCCS Police Department"
+        ],
+        "housing": [
+          "https://residence.uccs.edu/",
+          "Residence Life & Housing"
+        ],
+        "clinic": [
+          "https://recwellness.uccs.edu/",
+          "Wellness Center"
+        ],
+        "transit": [
+          "https://coloradosprings.gov/mountain-metro-transit",
+          "Mountain Metro 公交"
+        ]
+      }
+    },
+    "usafa": {
+      "short": "美国空军学院",
+      "place": "美国空军学院 · 2304 Cadet Drive, Suite 3100, USAF Academy, CO 80840-5016",
+      "cityKey": "usafacademy",
+      "calShort": "四年制军校学年；每年 6 月 I-Day 入训，6 周基础学员训练，5 月下旬毕业授衔。",
+      "calendar": "每年 6 月 In-processing Day（I-Day）：报到、宣誓入伍、理发、接种与发放制服营房；次日 Swearing In 仪式后开始 6 周 Basic Cadet Training（BCT）；8 月初 Acceptance Day 阅兵后加入 Cadet Wing；随后按军校学年上课、体能训练与军事训练；春季学期末举行毕业典礼并授衔。2027 届具体 I-Day、BCT、假期、期末与毕业日期以 Academy 当期军校日历与 Commandant of Cadets 安排为准。",
+      "fulltime": "全体 cadet 为四年制全日制军事学员；课程、体能训练、队列纪律与编队任务绑定注册；学分、体能与年级晋升按军校学术、军事与体能标准执行，不适用普通高校的减修与旁听口径。",
+      "drop": "退课、请假、淘汰或转校按军校学术、军事与纪律程序办理；普通高校的 W 退课、退费与选课规则不适用；相关决定由学院学术与军事主管部门审定。",
+      "ins1": "学员学费、住宿、伙食与制服由军队承担；医疗与牙科由军队卫生体系覆盖，不在外购普通学生健康保险计划；入学前须通过 DoDMERB 体检合格。",
+      "ins2": "学员日常医疗与牙科经空军军队医疗设施体系安排；学员事务、福利与健康资源见 Cadet Life 与 Admissions FAQ 页面；非工作时间急诊联系基地安保与当地急救体系。",
+      "ins3": "不适用普通商业学生保险的豁免流程；个人补充商业保险非强制；家属与访客医疗安排按军队医院与 Colorado Springs 地方医疗体系办理。",
+      "clinic": "学员医疗与牙科由空军军队卫生体系设施提供；紧急情况联系基地 Security Forces 值班，校外拨 911；非紧急健康与福利事项经 Cadet Wing 学员事务渠道对接。",
+      "commute": "军校保留地位于 Colorado Springs 以北、I-25 西侧山前地带；访客与车辆经 North Gate（主入口）或 South Gate 的 Pass and Registration Office 查验进入；不设走读学员，全体住校内营房；基地内步行与军事接驳为主。",
+      "scene": "美国空军学院 1954 年经国会授权设立，1959 年首届学员入学，为联邦军事学院；约四千名 cadet 完成四年本科教育，毕业授现役空军或太空军少尉军官；录取须提名：美国公民由国会议员、参议员或副总统提名，外国公民由本国政府经国防武官处/美国使馆提名；校队 Falcons，参加 NCAA Division I 山地西部联盟（Mountain West）。",
+      "safety": "基地由 USAF Security Forces 与基地安保体系管理，门禁查验身份与车辆；访客通行与 30 天预登记见 Visitors 页面；Hosmer Visitor Center，13303 True North Road, USAF Academy, CO 80840，719-333-2025，visit@afacademy.af.edu；校外归 El Paso County 警与 Colorado Springs 警务体系，紧急拨 911。",
+      "transit": "基地内部营房、教学楼与体育设施步行通行；到访经 I-25 与 North/South Gate；公共交通不穿越基地；Colorado Springs Airport（COS）约 12 英里，Denver International Airport（DEN）约 70 英里。",
+      "rentnote": "全体学员编入 40 个 squadron，住 Vandenberg Hall 与 Sijan Hall 营房，统一伙食（mess hall）；无校外租房选项；住宿、伙食与制服由军队承担，学员按月领取津贴；不按普通大学房租合同办理。",
+      "link": {
+        "cal": [
+          "https://www.usafa.edu/parents/freshman-year/",
+          "新生学年与 I-Day 流程"
+        ],
+        "ins": [
+          "https://www.academyadmissions.com/apply/commitment/",
+          "学费义务与福利待遇"
+        ],
+        "police": [
+          "https://www.usafa.edu/visitors/",
+          "访客门禁与安保"
+        ],
+        "housing": [
+          "https://www.usafa.edu/cadet-life/faq/",
+          "Cadet Life 常见问题"
+        ],
+        "clinic": [
+          "https://www.academyadmissions.com/faq/",
+          "Admissions FAQ"
+        ],
+        "transit": [
+          "https://www.usafa.edu/in-processing-day/what-happens-during-i-day/",
+          "I-Day 入校流程"
+        ]
+      }
+    },
+    "adams": {
+      "short": "亚当斯州立大学",
+      "place": "阿拉莫萨 · 208 Edgemont Blvd., Alamosa, CO 81101",
+      "cityKey": "alamosa",
+      "calShort": "两学期制；2026 秋与 2027 春开课、退课与考试节点以 Records/Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开课日、加退课截止、普查日、带 W 退课截止、假期、期末考试与毕业典礼日期以 Adams State Records 当期校历为准；线上与暑期班日程见注册门户当期安排。",
+      "fulltime": "F-1 学生须按学校目录保持全日制注册学分；本科与研究生全日制口径、减修或停课审批须先经 PDSO/DSO 与学术顾问核准，学分要求以 Records 当期公布为准。",
+      "drop": "加退课、无 W 退课与带 W 退课截止日以 Records 当期校历与 Bursar 退费条款为准；改退课在学生账户门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "持 F-1 等签证的国际学生须持有合格健康保险；每学期初向 PDSO/DSO 签到时须提交健康保险证明或保险核验表；校方是否统一承保计划以当期国际学生通知为准。",
+      "ins2": "新生首次签到交保险证明与核验表，返校学生在保单更新或变更时补交；学生自行保存保险卡、保单号、生效与到期日及保障明细。",
+      "ins3": "保险资格、证明流程与家属加保咨询国际学生（Admissions/International）渠道；门诊健康问题对接 Counseling Center 与 San Luis Valley 地区医疗机构；替代保单标准以当期页面为准。",
+      "clinic": "Counseling Center：RH 3-100，电话 719-587-7746，提供短期个体心理咨询；心理健康急性危机联系 SLVBHG Emergency Services（719-589-3671，17:00 后）；基础医疗转 San Luis Valley 地区医疗机构（Alamosa）。",
+      "commute": "主校区 208 Edgemont Blvd., Alamosa, CO 81101，位于 San Luis Valley 高海拔河谷；校区到 Alamosa 镇中心短途；最近支线机场为 San Luis Valley Regional Airport（ALS），长途衔接 Albuquerque（ABQ）与 Denver（DEN）方向。",
+      "scene": "1921 年由科罗拉多州议会设立、1925 年 6 月 15 日开学，最初为服务乡村地区的师范学校；现为州立区域综合大学，是联邦认定的 Hispanic Serving Institution；学科覆盖文理、教育、商科、护理、刑事司法与本科及研究生项目；校队 Grizzlies，参加 NCAA Division II 与 RMAC 赛事。",
+      "safety": "Adams State Police Department：非紧急 719-587-7901，点位 208 Edgemont Blvd, Suite 2210, Alamosa, CO 81101；全职校警 24 小时值守，提供校园巡逻、线上报案、车辆与物品登记及安保对接；紧急情况拨 911；校外事件归 Alamosa Police Department（非紧急 719-589-2548）与 Alamosa County 调度。",
+      "transit": "Alamosa 为河谷小镇，校区与镇内以步行为主，公交线路有限；地区出行依赖自驾或预约接驳；San Luis Valley Regional Airport（ALS）通支线，长途需经 ABQ 或 DEN 中转。",
+      "rentnote": "校内传统宿舍含 Coronado Hall、Girault Hall（North/South）与 Conour Hall，另有 Residences at Rex 四居室公寓；校外房源集中在 Alamosa 镇内公寓；身份卡兼作门禁与就餐凭证，租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.adams.edu/students/records/",
+          "Records 注册与校历"
+        ],
+        "ins": [
+          "https://www.adams.edu/admissions/international/maintaining-eligibility/",
+          "国际学生身份与保险证明"
+        ],
+        "police": [
+          "https://www.adams.edu/police/",
+          "Adams State Police Department"
+        ],
+        "housing": [
+          "https://www.adams.edu/administration/events-management/residence-halls/",
+          "Residence Halls 住宿"
+        ],
+        "clinic": [
+          "https://www.adams.edu/students/counseling-center/",
+          "Counseling Center"
+        ],
+        "transit": [
+          "https://www.flyals.com/",
+          "San Luis Valley Regional Airport"
+        ]
+      }
+    },
+    "csuglobal": {
+      "short": "科罗拉多州立大学全球校区",
+      "place": "奥罗拉 · 纯线上大学，无实体校园（行政办公地址以官网联系页为准）",
+      "cityKey": "aurora",
+      "calShort": "线上八周小学期制，每月设有开课日；2026–27 各学期开课日期以官网当期日程为准。",
+      "calendar": "课程为八周小学期结构、每月滚动开课；注册、选课、作业截止、退课与成绩节点按所报课程的 Canvas 大纲与 Student Portal 当期日程执行；线上项目不设实体校园报到日，毕业典礼与线下活动安排以项目单独通知为准。",
+      "fulltime": "CSU Global 为面向在职成人的纯线上学位项目，不提供 F-1 常规到校就读路径；本科、硕士与证书项目的注册学分、全日制口径与毕业要求按各学位目录执行，线上选课负荷以录取与注册页当期指引为准。",
+      "drop": "八周小学期的加退课、late drop 与全退截止按当期课程日程与 Student Portal 政策执行；退费档位与 W 标记以校方学生政策当期页面为准，线上课程不适用实体校区的面授退课流程。",
+      "ins1": "纯线上项目不设面向住校生的强制校园健康保险计划；学生按所在国家或州的要求自行安排健康保险，校方不自动入账校园 SHIP，也不走实体校区的投保/豁免门户流程。",
+      "ins2": "自保保单的凭证、保障范围与期限由学生自行核对；若学生同时在其他实体校区注册达到面授学分要求，方可按对应校区规则评估保险资格。",
+      "ins3": "学业与注册问题由 Student Success Counselor 与 Help Center 线上渠道对接；医疗与心理健康按居住地就近安排，校方线上健康资源以当期学生门户公布为准。",
+      "clinic": "CSU Global 无驻校诊所与实体医务室；学生在居住地就医，常规医疗按当地医疗机构安排；线上提供学业辅导、写作中心、图书馆资源与 24/7 技术支持，危机时段按居住地当地紧急渠道处置。",
+      "commute": "课程全部经线上平台完成，没有固定通勤线路、校园报到日或实体校区；偶发的毕业典礼、线下见面会或实践环节由项目单独通知，往返交通自行安排。",
+      "scene": "科罗拉多州立大学系统（CSU System）成员，100% 线上公立大学，面向在职成人与远程学习者；开设本科、硕士与证书项目，同学与校友分布全美及海外；不设实体校队与住校社群，学术支持、社团与求职服务全部线上化。",
+      "safety": "没有实体校园，也没有划定的校警辖区；线上账号安全、密码与平台使用问题经 24/7 技术支持与学生成功顾问处理；学生在所在国家或地区遇紧急情况拨当地急救/报警电话（美国境内 911），居住地治安以当地警署口径为准。",
+      "transit": "无固定进城路径；日常学习在家或就近学习场所完成；若赴科罗拉多参加毕业典礼或活动，地面交通参照 aurora 城市页与 Denver 方向机场、城际接驳安排。",
+      "rentnote": "不提供校内宿舍、不签住宿合同，也不含校园餐计划；学生居住安排自理，线上项目不分配房源；无实体校园身份卡，凭 Student Portal 与 Canvas 线上凭证登录；校外租金按居住地邮编查当期挂牌价，合同与押金条款自行核验。",
+      "link": {
+        "cal": [
+          "https://csuglobal.edu/",
+          "官网（学期与开课日程）"
+        ],
+        "ins": [
+          "https://csuglobalhelp.knowledgeowl.com/help/technical-help-003586f",
+          "学生帮助中心"
+        ],
+        "housing": [
+          "https://csuglobal.edu/",
+          "官网"
+        ],
+        "clinic": [
+          "https://csuglobalhelp.knowledgeowl.com/help/writing-resources",
+          "写作与学业资源"
+        ],
+        "transit": [
+          "https://www.flydenver.com/",
+          "Denver 区域门户机场"
+        ]
+      }
+    },
+    "fortlewis": {
+      "short": "刘易斯堡学院",
+      "place": "杜兰戈 · 1000 Rim Drive, Durango, CO 81301",
+      "cityKey": "durango",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）开课；8 月 28 日（周五）为无特殊许可最后加课日并完成名册核验；9 月 8 日（周二）为无学术与财务处罚退课截止日及普查日；10 月 12 日（周一）原住民日停课一天；10 月 19 日（周一）15:00 期中成绩提交截止；10 月 30 日（周五）标准全学期课程退课截止；11 月 2 日（周一）老生开始选课；11 月 23–27 日秋假；12 月 1 日（周二）春季/夏季毕业申请优先截止、新生开始选课；12 月 4 日（周五）最后授课；12 月 7–10 日期末考试；12 月 11 日（周五）补考/学期最后一天，14:00 毕业典礼；12 月 14 日（周一）期末成绩提交截止，12 月 17 日（周四）成绩可查。Spring 2027：1 月 11 日（周一）开课；1 月 15 日（周五）最后加课日；1 月 26 日（周二）无处罚退课截止及普查日；2 月 12 日（周五）假日停课；3 月 8 日（周一）15:00 期中成绩截止；3 月 15–19 日春假；3 月 22 日（周一）老生选课；3 月 26 日（周五）全学期课程退课截止；4 月 23 日（周五）最后授课；4 月 26–29 日期末考试；4 月 30 日（周五）补考/学期最后一天；5 月 1 日（周六）毕业典礼；5 月 3 日（周一）成绩截止，5 月 6 日（周四）成绩可查。",
+      "fulltime": "F-1 学生须按学校目录保持全日制注册学分；本科与研究生全日制学分口径、减修或停课审批须先经国际学生办公室与学术顾问核准，学分要求以 Registrar 当期公布为准。",
+      "drop": "加课、无 W 退课与带 W 退课截止日见上方校历；非标准学期课程的退课截止按 Skyhawk Station 当期日程执行；退费档位与 Bursar 付款政策以官网当期条款为准。",
+      "ins1": "健康保险不属强制注册条件，校方强烈建议国际学生购买在美健康保险；Health/Counseling Center 费用按学分计入学生账单，福利与费率以当期学费费用表为准。",
+      "ins2": "国际学生页面列有若干保险资源供参考，FLC 不背书其中任何提供商；学生自行保存保险卡、保单号、生效与到期日及保障明细，报到时向国际学生办公室出示。",
+      "ins3": "保险选择、医疗与咨询服务咨询 International Students 页面与 Student Health Center；家属加保、牙科眼科等附加保障按所选保单条款执行，以当期页面为准。",
+      "clinic": "Student Health Center 与 Counseling Center 位于 Miller Student Services；提供基础医疗、避孕与生殖健康、心理咨询等服务，年度 Health/Counseling Center 费用覆盖部分咨询与低价就诊；校园能力之外的情形转诊 Durango 地区医疗机构。",
+      "commute": "主校区 1000 Rim Drive, Durango, CO 81301，坐落于俯瞰 Animas Valley 的坡地上；Durango-La Plata County Airport（DRO）位于城郊方向，自驾或预约接驳到校；校区到 Durango 市中心沿 Rim Drive/College Drive 量级短途。",
+      "scene": "校名源自旧 Fort Lewis 军事要塞；1891 年军方撤出后该地改建为面向原住民学生的学校，学院延续这一历史承诺，设 Native American Tuition Waiver，并为联邦认定的 Native American-Serving, Non-Tribal Institution；学科覆盖文理、教育、商科、环境研究、户外与工程相关方向；校队 Skyhawks，参加 NCAA Division II 与 Rocky Mountain Athletic Conference（RMAC）赛事。",
+      "safety": "Campus Police 驻 Aspen Hall；工作日 8:00–16:00 电话 970-247-7491，工作日 16:00 后及周末 970-749-6581；紧急情况拨 911；校外事件归 Durango Police Department，非紧急 970-247-3232（902 E Second Ave, Durango），另受 La Plata County 警务调度。",
+      "transit": "Durango Transit 固定线路全年 7 天运行（约 7:00–20:30），连接 Transit Center、Main Avenue 与校区方向；晚间另有 DuranGO! 按需 microtransit，经 App 预约；机场方向班次有限，深夜到达需自驾或预约接驳。",
+      "rentnote": "大一学生可选 Bader-Snyder、Camp、Cooper、Crofton、Escalante、West 等传统宿舍；Centennial Complex 公寓面向二年级以上与家庭学生；住宿办公室位于 240 Skyhawk Station，电话 970-247-7503；校外房源集中在 Durango 镇内，旅游旺季租房偏紧，租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.fortlewis.edu/academics/resources-tools/academic-calendar",
+          "Academic Calendar 校历"
+        ],
+        "ins": [
+          "https://www.fortlewis.edu/admission/international-students",
+          "International Students 保险与入学"
+        ],
+        "police": [
+          "https://www.fortlewis.edu/life-at-flc/health-safety/health-center/student-health-center-home/medical-services-and-fees/medical-fees",
+          "Campus Police 与 Health Center"
+        ],
+        "housing": [
+          "https://www.fortlewis.edu/life-at-flc/housing-dining/student-housing/housing-options",
+          "Housing Options 住宿"
+        ],
+        "clinic": [
+          "https://www.fortlewis.edu/life-at-flc/health-safety/health-center/student-health-center-home/medical-services-and-fees/medical-fees",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.durangoco.gov/1724/DuranGO-Microtransit",
+          "DuranGO! 按需公交"
+        ]
+      }
+    },
+    "coloradomesa": {
+      "short": "科罗拉多梅萨大学",
+      "place": "大章克申 · 1100 North Avenue, Grand Junction, CO 81501",
+      "cityKey": "grandjunction",
+      "calShort": "两学期制（含模块化小学期）；2026 秋 8 月 17 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：8 月 17 日全学期与第一模块开课，10 月 8 日第一模块结束；9 月 7 日 Late Start 开课；10 月 12 日第二模块开课；12 月 10 日全学期结束；各模块加退课与退课截止按 Registrar 当期模块表执行。Spring 2027：1 月 4–22 日 January Term；1 月 25 日全学期与第一模块开课；1 月 18 日 MLK 日停课；2 月 9 日全学期课程加退课截止并为普查日；2 月 15 日 Late Start 开课；3 月 22–26 日期中假；3 月 29 日第二模块开课；4 月 12 日全学期课程退课截止；5 月 17–20 日期末考试；5 月 20 日学期结束、宿舍 17:00 关闭；5 月 22 日毕业典礼。",
+      "fulltime": "F-1 学生须按学校目录保持全日制注册学分；本科与研究生全日制口径、减修或停课审批须先经国际学生办公室与学术顾问核准，学分要求以 Registrar 当期公布为准。",
+      "drop": "全学期与各模块的加退课、普查日与带 W 退课截止见上方校历与 Registrar 模块表；退费档位与 Student Accounts 政策以官网当期条款为准。",
+      "ins1": "国际学生须持有健康保险；国际学生自动纳入 CMU 国际学生团体健康保险计划，保费按学期计入学生账户；计划福利、免赔额与家庭附加口径以当期保险页为准。",
+      "ins2": "符合条件的替代保单可按国际学生办公室指引申请豁免；学生向 International Student Services 沟通行程与投保安排，保险卡与保单凭证经校方门户或承保方渠道领取。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 International Student Admissions and Programs；门诊健康问题对接 Student Wellness Center；牙科眼科等附加保障按所选保单执行。",
+      "clinic": "Student Wellness Center：1060 Orchard Avenue, Suite N（网球场以北），电话 970.644.3740 转 4；提供基础医疗、行为健康与咨询服务；课后或非门诊时段使用同楼内 Community Hospital 的 Community Care of the Grand Valley 急诊接入；校园能力之外转诊 Grand Junction 地区医疗机构。",
+      "commute": "主校区 1100 North Avenue, Grand Junction, CO 81501；大件货运与包裹地址为 1260 Kennedy Ave；校区位于 Grand Junction 城区方向，沿 North Avenue 连接市中心；最近商用机场为 Grand Junction Regional Airport（GJT）。",
+      "scene": "科罗拉多西部坡地 Grand Valley 的公立综合大学；学科覆盖文理、商科、工程与计算机、健康职业、教育、创意艺术与户外相关方向；校队 Mavericks，参加 NCAA Division II 与 RMAC 赛事。",
+      "safety": "校园警务由 Grand Junction Police Department 派驻校区 substation，非紧急电话 970.242.6707，点位 1060 Orchard Avenue；紧急情况拨 911；校园边界外归 Grand Junction Police Department 调度，主非紧急线 970.549.5000（555 Ute Ave.）。",
+      "transit": "Grand Valley Transit（GVT）公交连接校区、市中心与 GJT 机场方向，线路与时刻见 GVT 官网；学生乘车优惠与停课缩减班次以当期运营公告为准。",
+      "rentnote": "校内设十余栋传统宿舍与公寓（含 Aspen、Bunting、Centennial Apartments、Garfield、Grand Mesa、Jay Tolman、Lucero、Mary Rait 等）；Residence Life 位于 1100 North Avenue，电话 970.248.1536；校外房源集中在 Grand Junction 城区与 North Avenue 沿线，租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.coloradomesa.edu/registrar/important-dates/fall-calendar.html",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.coloradomesa.edu/admissions/requirements/international/undergraduate.html",
+          "International 学生保险与入学"
+        ],
+        "police": [
+          "https://www.coloradomesa.edu/safety/police.html",
+          "Campus Police 派驻信息"
+        ],
+        "housing": [
+          "https://www.coloradomesa.edu/residence-life/",
+          "Residence Life 住宿"
+        ],
+        "clinic": [
+          "https://www.coloradomesa.edu/wellness/",
+          "Student Wellness Center"
+        ],
+        "transit": [
+          "https://gvt.mesacounty.us/",
+          "Grand Valley Transit 线路"
+        ]
+      }
+    },
+    "unco": {
+      "short": "北科罗拉多大学",
+      "place": "格里利 · 501 20th Street, Greeley, CO 80639",
+      "cityKey": "greeley",
+      "calShort": "两学期制；2026 秋保险覆盖 8 月 17 日起，学期开课与退课节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026：学生健康保险秋季覆盖自 8 月 17 日起至 12 月 31 日 23:59；开课、加退课、普查日、带 W 退课、期中假期、期末考试与毕业典礼的具体日期以 Registrar 当期校历为准。Spring 2027：开课、退课截止、期末考试与毕业典礼日期以 Registrar 春季校历为准；保险春季保费与覆盖区间见 Student Health Insurance Program 当期页面。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 UNC Global（ISSS）与学术顾问批准，学分口径以 Registrar 与 ISSS 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课的具体截止日以 Registrar 当期校历与 Bursar 退费条款为准；改退课在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "持 F/J 签证的国际学生无论注册多少学分均须持有全额医疗保险，并自动纳入 UNC 学生健康保险计划，保费计入学费账单；本科注册 9 学分及以上、研究生 6 学分及以上的学生同样受保险要求约束。",
+      "ins2": "持有可比替代保单的国际学生可申请豁免，须在每学期开学第 10 天前经 UNC Global ISSS 门户在线提交豁免；保险卡与保单凭证经承保方会员门户领取，按学期向 ISSS 与 Health Clinic 出示。",
+      "ins3": "保险资格、豁免窗口、家属加保与 Osteopathic Medicine 学生专项口径咨询 Student Health Insurance Program 与 ISSS；门诊健康服务对接 University Health Clinic；替代保单标准以当期保险页为准。",
+      "clinic": "University Health Clinic（UHC，原 Student Health Center）：Cassidy Hall（19th Street 与 10th Avenue 转角），电话 970-351-2412；可向多数保险计划（含 Health First Colorado、学生健康保险计划与校方员工保险，Kaiser 除外）记账；提供初级保健、疫苗与咨询转诊，校园能力之外转 Greeley 地区医疗机构（含 Northern Colorado Medical Center）。",
+      "commute": "主校区位于 Greeley 城区，官方邮件地址 501 20th Street, Greeley, CO 80639；Admissions 位于 Campus Commons（22nd Street 与 11th Avenue 东北角）；校区到 Denver 方向沿 US 85/I-25 量级约一小时多车程，最近大型枢纽为 Denver International Airport（DEN）。",
+      "scene": "北科罗拉多公立综合大学，教师教育起家，现覆盖教育、商科、健康与人类行为、表演艺术、自然科学与 Osteopathic Medicine 等学科；校队 Bears，吉祥物 Klawz the Bear，参加 NCAA Division I 与 Big Sky Conference 赛事。",
+      "safety": "UNC Police Department：电话 970-351-2245，邮箱 police@unco.edu；校警步行、自行车与机动车 24 小时 7 天巡逻，紧急情况拨 911（校园电话亦可直拨）；校外事件归 Greeley 警务与 Weld County 调度。",
+      "transit": "Greeley-Evans 公交覆盖校区与城区线路；学生乘车优惠与周末、停课缩减班次以当期运营公告为准；往返 Denver 方向可结合城际巴士与自驾。",
+      "rentnote": "校内分 Mesa、Basin、Ridge 三个住宅区；研究生与国际学生可选 Lawrenson Hall 公寓式住宿与 Arlington Park Apartments；身份卡称 Bear ID，配 Bear Number；校外房源集中在 Greeley 城区公寓，租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.unco.edu/registrar/",
+          "Registrar 校历与注册"
+        ],
+        "ins": [
+          "https://www.unco.edu/student-health-insurance-program/international-students/",
+          "国际学生健康保险"
+        ],
+        "police": [
+          "https://www.unco.edu/Police/",
+          "UNC Police Department"
+        ],
+        "housing": [
+          "https://www.unco.edu/campus-life/housing/",
+          "UNC Housing 住宿"
+        ],
+        "clinic": [
+          "https://www.unco.edu/news/articles/university-health-clinic-serves-students-and-employees/",
+          "University Health Clinic"
+        ],
+        "transit": [
+          "https://www.unco.edu/contact/",
+          "学校联系与城区信息"
+        ]
+      }
+    },
+    "westerncolorado": {
+      "short": "西科罗拉多大学",
+      "place": "甘尼森 · 1 Western Way, Gunnison, CO 81231",
+      "cityKey": "gunnison",
+      "calShort": "两学期制；2026 秋与 2027 春开课、退课与考试节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开课日、加退课截止、普查日、带 W 退课截止、假期、期末考试与毕业典礼日期以 Western Registrar 当期校历为准；学期内模块化课程与暑期班日程见注册门户当期安排。",
+      "fulltime": "F-1 学生须按学校目录保持全日制注册学分；本科与研究生全日制口径、减修或停课审批须先经国际学生办公室与学术顾问核准，学分要求以 Registrar 当期公布为准。",
+      "drop": "加退课、无 W 退课与带 W 退课截止日以 Registrar 当期校历与 Bursar 退费条款为准；改退课在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "健康保险不属强制注册条件，校方强烈建议国际学生在美期间持有合格保险；校方不背书任何特定保险公司，可选国际学生保险提供商清单见国际学生申请页；保费与保障以所选保单为准。",
+      "ins2": "学生自行安排并保存保险卡、保单号、生效与到期日及保障明细；报到时向招生与国际学生渠道出示；无保险期间发生医疗费用需自行承担。",
+      "ins3": "保险与就医咨询对接 Health & Wellness 渠道；校内提供 TimelyCare 免费 24/7 虚拟健康平台，医疗门诊经 Gunnison Valley Health Family Medicine Clinic 对接；家属加保按所选保单条款执行。",
+      "clinic": "University Counseling Center：Tomichi Hall 104，电话 970.648.7128，由 Gunnison Valley Health 行为健康团队提供个人咨询；基础医疗经 GVH Family Medicine Clinic 接诊，重症转诊 Gunnison Valley Hospital（970.641.1456）；TimelyCare 为 24/7 免费虚拟健康与心理咨询平台。",
+      "commute": "主校区 1 Western Way, Gunnison, CO 81231，坐落于 Gunnison Valley 高海拔山谷；校区到 Gunnison 镇中心短途，到 Crested Butte 山地方向约 35 分钟车程；最近支线机场为 Gunnison-Crested Butte Regional Airport（GUC），冬季航班班次有限。",
+      "scene": "西科罗拉多公立综合大学，位于 Gunnison Valley；学科覆盖文理、商科、教育、护理、户外与休闲、计算机与工程等方向；校队 Mountaineers，参加 NCAA Division II 与 RMAC 赛事；周边公共土地广阔，户外活动资源丰富。",
+      "safety": "Western Campus Security：电话 970.209.1020，24/7 值守，提供校园巡逻与夜间护送；校警/安保与 Gunnison Police Department 协同；紧急情况拨 911，校外事件归 Gunnison PD（非紧急 970.641.8200）与 Gunnison County Sheriff（970.641.1113）调度。",
+      "transit": "Gunnison Valley RTA 河谷公交连接 Gunnison 与 Crested Butte 方向，另有 Crested Butte Mountain Express 免费接驳；线路与冬季班次以 RTA 当期公告为准；机场方向公共交通有限，需自驾或预约接驳。",
+      "rentnote": "校内宿舍含 Escalante Complex、Mears Complex、Ute Hall 与 Pinnacles、Chipeta 等公寓；Residence Life & Housing 位于 University Center 117，电话 970.943.2101，邮箱 reslife@western.edu；校外房源集中在 Gunnison 镇内，雪季租房偏紧，租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://western.edu/",
+          "校方官网（校历入口）"
+        ],
+        "ins": [
+          "https://western.edu/admissions-aid/admissions/application-requirements/international-students/",
+          "国际学生保险建议"
+        ],
+        "police": [
+          "https://western.edu/campus-life/safety-security/",
+          "Campus Security"
+        ],
+        "housing": [
+          "https://western.edu/campus-life/residence-life-housing/",
+          "Residence Life & Housing"
+        ],
+        "clinic": [
+          "https://western.edu/campus-life/health-wellness/",
+          "Health & Wellness"
+        ],
+        "transit": [
+          "https://gunnisonvalleyrta.com/",
+          "Gunnison Valley RTA"
+        ]
+      }
+    },
+    "csupueblo": {
+      "short": "科罗拉多州立大学普韦布洛分校",
+      "place": "普韦布洛 · 2200 Bonforte Boulevard, Pueblo, CO 81001-4901",
+      "cityKey": "pueblo",
+      "calShort": "两学期制；2026 秋与 2027 春开课、退课与考试节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开课日、加退课截止、普查日、带 W 退课截止、假期、期末考试与毕业典礼日期以 CSU Pueblo Registrar 当期校历为准；暑期班与模块化课程日程见注册门户当期安排。",
+      "fulltime": "F-1 学生须按学校目录保持全日制注册学分；本科与研究生全日制口径、减修或停课审批须先经 Center for International Programs 与学术顾问核准，学分要求以 Registrar 当期公布为准。",
+      "drop": "加退课、无 W 退课与带 W 退课截止日以 Registrar 当期校历与 Student Accounts 退费条款为准；改退课在 PAWS 门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "国际学生应在美期间持有合格健康保险；校方保险资格与承保计划口径以 Student Health & Counseling Center 当期通知为准，未列入强制自动入账的计划按自保安排执行。",
+      "ins2": "学生自行保存保险卡、保单号、生效与到期日及保障明细；报到与入学导向时向 Center for International Programs 出示；替代保单的承保范围与期限按保单条款核对。",
+      "ins3": "保险就医、疫苗与健康证明咨询 Wolfpack Wellness Center；家属加保、牙科眼科等附加保障按所选保单执行，具体承保计划与豁免窗口以当期页面为准。",
+      "clinic": "Wolfpack Wellness Center：Center for Integrated Health and Humanities 172 室，电话 719.549.2830，传真 719.549.2646，邮箱 shs@csupueblo.edu；提供体格检查、性病筛查与治疗、急非重症诊疗、免疫接种、男女健康、预防医疗、伤口处理与小皮肤科操作；校园能力之外转诊 Pueblo 地区医疗机构。",
+      "commute": "主校区 2200 Bonforte Boulevard, Pueblo, CO 81001-4901；校区位于 Pueblo 城南 Bonforte 大道方向；最近支线机场为 Pueblo Memorial Airport（PUB），大型枢纽为 Colorado Springs（COS）与 Denver（DEN）方向。",
+      "scene": "南科罗拉多 Arkansas River 谷地的公立综合大学，隶属 Colorado State University System；学科覆盖文理、商科、工程、健康职业、教育、护理与刑事司法等方向；校队 ThunderWolves，20 支校队参加 NCAA Division II 与 RMAC 赛事。",
+      "safety": "Campus Safety & Parking：电话 719.549.2373；与 Pueblo County Sheriff's Office 密切协作保障校园安全，PCSO 非紧急 719.583.6250；紧急情况拨 911；校方总机 719.549.2100，Student Health & Counseling Center 719.549.2830；校外事件归 Pueblo County 与 Pueblo 市警务调度。",
+      "transit": "Pueblo Transit 公交覆盖城区与校区方向线路；学生乘车优惠与周末、停课缩减班次以当期运营公告为准；往返 Colorado Springs 与 Denver 方向结合城际巴士或自驾。",
+      "rentnote": "校内三栋宿舍（Crestone、Culebra、Greenhorn Halls）与 University Village at Walking Stick 公寓社区；Residence Life & Housing Office 位于 Walking Stick Clubhouse（Building 4000）；高中毕业后前两年原则上住校（与父母同住 50 英里以内等例外除外）；校外房源集中在 Pueblo 城区，租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.csupueblo.edu/registrar/academic-calendar/future-calendars/2025-2026/index.html",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.csupueblo.edu/thunderwolves-against-interpersonal-violence/support-and-reporting-guidance.html",
+          "学生支持与健康服务"
+        ],
+        "police": [
+          "https://www.csupueblo.edu/campus-safety/emergency-flip-chart.html",
+          "Campus Safety 应急联络"
+        ],
+        "housing": [
+          "https://www.csupueblo.edu/residence-life-and-housing/",
+          "Residence Life & Housing"
+        ],
+        "clinic": [
+          "https://catalog.csupueblo.edu/student-affairs/student-health-services/student-health-services.pdf",
+          "Wolfpack Wellness Center"
+        ],
+        "transit": [
+          "https://www.pueblotransit.com/",
+          "Pueblo Transit"
+        ]
+      }
+    },
+    "umd": {
+      "short": "马里兰大学学院公园分校",
+      "place": "学院公园 · 7998 Regents Drive, College Park, MD 20742",
+      "cityKey": "collegepark",
+      "calShort": "两学期制（另设 Winter Term 与暑期学期）；2026 秋 8 月 31 日开课，2027 春 1 月 27 日开课。",
+      "calendar": "Fall 2026：8 月 31 日（周一）开课；9 月 7 日（周一）劳动节停课；10 月 12–13 日（周一至周二）秋假；11 月 25–29 日（周三至周日）感恩节假；12 月 11 日（周五）结课；12 月 12 日（周六）阅读日；期末 12 月 14–21 日（周一至周一）。Winter Term 2027：1 月 4 日（周一）开课；1 月 18 日（周一）马丁·路德·金日停课；1 月 22 日（周五）结束。Spring 2027：1 月 27 日（周三）开课；3 月 14–21 日（周日至周日）春假；5 月 11 日（周二）结课；5 月 12 日（周三）阅读日；期末 5 月 13–20 日（周四至周四）；5 月 23–26 日（周日至周三）各学院毕业典礼，5 月 24 日（周一）全校主典礼。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制注册口径以所属学院与 Registrar 当期规定为准；减修、停课或转非全日制须经学业顾问与国际学生办公室批准。",
+      "drop": "加退课、无 W、带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "学校学生健康保险计划（SHIP）对注册 6 学分及以上的国内本科生、全日制研究生（含 F-1/J-1 学生）强制适用，符合条件者自动计入学生账单；交换生秋季或春季自动参保。",
+      "ins2": "已有符合 UMD 标准替代保单者，可在 AHP 豁免门户提交 waiver 申请；替代保单须符合美国 ACA 要求并由美国本土承保；电子保险卡经承保方会员账户领取。",
+      "ins3": "豁免窗口按每学期公布截止日办理；家属加保、自愿投保与保单达标问题咨询 University Health Center 保险计费窗口与国际学生办公室。",
+      "clinic": "University Health Center（UHC），Building 140, 3983 Campus Drive, College Park, MD 20742（Adele H. Stamp Student Union 对面）；预约电话 301-314-8184，邮箱 health@umd.edu；周一至周五 8:00–17:00，周末闭诊；课后护士咨询线 301-314-9386；提供初级保健、疫苗、化验、心理健康与转诊，专科与住院转地区医疗机构。",
+      "commute": "主校区位于 College Park 镇区，紧邻华盛顿特区市界；自驾经 I-95、US-1 与 Baltimore Avenue 进出；WMATA 地铁 College Park–University of Maryland 站衔接校园；MARC Camden Line 通勤铁路经停；校内以步行与 Shuttle-UM 接驳为主；到 DC 市中心约 10 英里、轨道交通 15–20 分钟量级。",
+      "scene": "马里兰大学学院公园分校 1856 年创立时为 Maryland Agricultural College，是马里兰大学系统旗舰公立赠地研究型大学、美国大学协会（AAU）成员；设文理、工程、计算机、商学、教育、农学、公共政策、新闻等学院；工程、计算机、商科、公共卫生与文理学科见长；校队 Maryland Terrapins，吉祥物 Testudo，参加 NCAA Division I 十大联盟（Big Ten）。",
+      "safety": "University of Maryland Police Department（UMPD），总部 Pocomoke Building (007), 7569 Baltimore Ave, College Park, MD 20742；紧急 301-405-3333（手机拨 #3333）或 911，非紧急 301-405-3555；24/7 值守，提供蓝灯电话、护送与校园警报；校外归 Prince George's County Police Department 辖区，非紧急 301-352-1200。",
+      "transit": "WMATA Metrorail 绿线（黄线部分班次）College Park–University of Maryland 站；MARC Camden Line 通勤铁路；Shuttle-UM 校内与周边接驳；MTA Maryland 公交衔接邻近镇区；航空以 BWI、DCA、IAD 三大机场为主，自驾量级 30–60 分钟。",
+      "rentnote": "校内宿舍分布校园各片区的传统宿舍、套房与研究生公寓，房型与当期费率见 Resident Life 官网；University ID 身份卡用于门禁、图书馆与校内消费，Terrapin Express 为校内预付费消费账户；校外租房集中在 College Park、Riverdale Park、Hyattsville、Berwyn 等邻近片区，步行、公交或地铁可达，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://academiccatalog.umd.edu/about-university/academic-calendar/semester-calendar/",
+          "Registrar 学期校历"
+        ],
+        "ins": [
+          "https://health.umd.edu/insurance-billing/mandatory-insurance-and-waiver",
+          "强制保险与豁免"
+        ],
+        "police": [
+          "https://umpd.umd.edu/contact-us",
+          "UMPD 联系方式"
+        ],
+        "housing": [
+          "https://www.reslife.umd.edu/",
+          "Resident Life 住宿"
+        ],
+        "clinic": [
+          "https://health.umd.edu/your-visit/hours-and-location",
+          "University Health Center"
+        ],
+        "transit": [
+          "https://transportation.umd.edu/",
+          "校园交通与接驳"
+        ]
+      }
+    },
+    "umbc": {
+      "short": "马里兰大学巴尔的摩郡分校",
+      "place": "巴尔的摩县 Catonsville · 1000 Hilltop Circle, Baltimore, MD 21250",
+      "cityKey": "baltimore",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）开课并开始逾期注册；8 月 28 日（周五）候补名单截止；9 月 4 日（周五）课表调整截止，亦为无 W 退课截止；9 月 7 日（周一）劳动节停课；10 月 12–13 日（周一至周二）Fall Recess；11 月 2 日（周一）单门课程记 W 退课截止；11 月 25 日（周三）停课；11 月 26 日（周四）感恩节假；11 月 27 日（周五）American Indian Heritage Day 停课；12 月 9 日（周三）结课；12 月 10 日（周四）学习日；期末 12 月 11–17 日；12 月 18 日（周五）本科毕业典礼。Spring 2027：1 月 25 日（周一）开课，其余分段退课、期末与毕业节点以 Registrar 当期日历为准。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制口径以所属学院与 ISSS 当期规定为准；减修、停课或转非全日制须经学业顾问与 Office of International Students and Scholars 批准。",
+      "drop": "课表调整与无 W 退课截止为 9 月 4 日；单门课程记 W 退课截止为 11 月 2 日；整学期退课按 Registrar 工单流程；退费档位以 Student Business Services 当期条款为准。",
+      "ins1": "持 F-1/J-1 签证的国际学生须持有符合美国要求的健康保险；符合条件者自动计入 UMBC 学生保险计划账单；注册 6 学分及以上的国内本、研究生亦须在门户填报保险信息。",
+      "ins2": "替代保单须达到 UMBC 与美国国务院公布的最低保障标准；符合条件者在公布的豁免窗口提交 waiver；保险卡经承保方会员账户领取，就诊携带。",
+      "ins3": "J-1 交换学者及其家属保险按 DS-2019 期限覆盖；家属加保、自愿投保与保单达标咨询 ISSS 与 Retriever Integrated Health。",
+      "clinic": "Retriever Integrated Health（RIH）含 University Health Services 医疗与 Counseling Center 心理咨询，位于校园内；咨询与危机电话 410-455-2542；医疗服务按当地常规收费，可刷校园身份卡或计入学生账户，RIH 可为符合条件的保险计划计费；心理咨询对在读学生免费；能力之外转巴尔的摩地区医疗机构，急救拨 911。",
+      "commute": "校区位于 Baltimore County 的 Catonsville 郊区，不在巴尔的摩市界内；自驾经 US-40（Baltimore National Pike）与 I-695 环线进出；MTA Maryland 公交线路到校；校区周边以郊区邻里为主，到巴尔的摩市中心约 15–20 分钟车程量级。",
+      "scene": "UMBC 创立于 1966 年，是马里兰大学系统的公立 R1 研究型大学与荣誉大学；覆盖艺术人文与社会科学、工程与信息技术、自然与数学科学、公共政策、社会工作与研究生教育等单位；计算机、工程、信息科学、生物科学与公共政策见长；校队 UMBC Retrievers，吉祥物 True Grit（切萨皮克湾寻回犬），参加 NCAA Division I 美国竞技联盟（America East）。",
+      "safety": "UMBC Police Department，Central Plant Building, Lot 8；电话 410-455-5555（24/7），传真 410-455-1087，邮箱 police@umbc.edu；紧急拨 911；提供巡逻、蓝灯电话与安全服务；校外归 Baltimore County Police Department 辖区。",
+      "transit": "MTA Maryland 公交服务 Catonsville 片区并衔接巴尔的摩市区；校内有校方接驳；前往 MARC 车站或 WMATA 地铁需经市区换乘；BWI 机场约 20–30 分钟车程量级，DCA、IAD 经 I-695 与 I-95 衔接。",
+      "rentnote": "校内住宿含传统宿舍与公寓，高年级与研究生住宿口径不同，具体楼栋与房型以 Residential Life 当期分配为准；校园身份卡用于门禁、就餐与校内消费；校外租房分布 Catonsville、Arbutus、Ellicott City 等郊区片区，依赖公交或自驾，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.umbc.edu/spring-graduate-academic-calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://isss.umbc.edu/exchange_insurance/",
+          "国际学生保险口径"
+        ],
+        "police": [
+          "https://police.umbc.edu/",
+          "UMBC Police Department"
+        ],
+        "housing": [
+          "https://reslife.umbc.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://health.umbc.edu/",
+          "Retriever Integrated Health"
+        ],
+        "transit": [
+          "https://ocss.umbc.edu/",
+          "Off-Campus Student Services"
+        ]
+      }
+    },
+    "umaryland": {
+      "short": "马里兰大学巴尔的摩分校",
+      "place": "西巴尔的摩 · 620 West Baltimore Street, Baltimore, MD 21201",
+      "cityKey": "baltimore",
+      "calShort": "研究生与专业学院各自校历；秋季与春季节点按所属学院 Registrar 当期日历执行。",
+      "calendar": "UMB 为医学、法学、药学、护理、口腔、社会工作与研究生院组成的专业研究型大学，各学院开课、普查、退课、期末与毕业日期不同步；Fall 与 Spring 节点以所属学院 Registrar 公布的当期校历为准；整校退课、退学与退费口径按 Student Financial Services 当期条款执行。",
+      "fulltime": "F-1 全日制注册口径以所属学院项目规定为准；减修、停课或转非全日制须经学业主管与 Office of International Students (OIS) 批准。",
+      "drop": "加退课、无 W 与带 W 退课截止按各学院校历节点执行；退费档位与退课收费口径按 Student Financial Services 当期条款；专业学院临床实习与轮转节点另按学院安排。",
+      "ins1": "学校要求全日制学生持有健康保险；符合条件者自动计入 Student Health Insurance Plan（SHIP，经 Gallagher Student Health 管理）账单；非全日制学生可自愿投保。",
+      "ins2": "已有同等可比保单者，须在公布截止日前提交保险豁免（waiver）；未在截止日前完成投保或豁免者将自动注册 SHIP 并计收保费；保险卡经 Gallagher 会员账户领取。",
+      "ins3": "每学年须重新选择投保或豁免；家属加保、保单达标与账单问题咨询 Student Financial Services 保险窗口与 OIS。",
+      "clinic": "Campus Health（University of Maryland Campus Health），408 W. Lombard St.（Eutaw 与 Paca 街之间），周一至周五 7:00–16:45，预约电话 667-214-2233，提供初级保健、疫苗、化验与转诊；Student Counseling Center，621 W. Lombard St., Suite 302, SMC Campus Center，电话 410-328-8404，周一至周五 8:30–17:00；急救拨 911。",
+      "commute": "校园位于西巴尔的摩 Baltimore Street 与 Lombard Street 一带的医学园区，毗邻 BioPark 生物技术集群；MTA 公交与 Light RailLink 衔接市区；步行可至 State Center、Camden Yards 一带；郊区通勤经 I-695 环线。",
+      "scene": "UMB 1807 年由马里兰州议会特许创立 College of Medicine，是美国最古老的公立医学院；为马里兰唯一的公立医学、法学与人类服务大学，含六所专业学院——Medicine（1807）、Carey Law（1824）、Dentistry（1840，世界第一所牙科学院）、Pharmacy（1841）、Nursing（1889）、Social Work（1961）——与 School of Graduate Studies（1918）；学生约 6,800 名，其中约 86% 为专业/研究生；校园与 BioPark 合计约 72 英亩。",
+      "safety": "UMB Police and Public Safety 24/7 值守，覆盖 UMB 校园与 BioPark；紧急 410-706-3333，非紧急 410-706-6882（校园内拨 6-6882）；提供 Safe Walk 步行护送与建筑安保；校外归 Baltimore Police Department 辖区；紧急拨 911。",
+      "transit": "MTA Maryland 公交、Light RailLink 与 Metro SubwayLink（State Center 站）服务西巴尔的摩园区；MARC Penn Line 经 Baltimore Penn Station 往返华盛顿；BWI 机场约 20–30 分钟车程量级，DCA、IAD 约 45–70 分钟量级。",
+      "rentnote": "UMB 以研究生与专业学生为主，不按本科宿舍叙事安排住宿；学校 Off-Campus Housing 资源门户协助在巴尔的摩各邻里寻找公寓、联排住宅与室友；校园身份卡用于门禁、图书馆与校内消费；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.umaryland.edu/registrar/",
+          "Registrar 教务入口"
+        ],
+        "ins": [
+          "https://www.umaryland.edu/student-financial-services/student-insurance/",
+          "学生保险与豁免"
+        ],
+        "police": [
+          "https://www.umaryland.edu/police/report-a-crime/",
+          "Police and Public Safety"
+        ],
+        "housing": [
+          "https://www.umaryland.edu/offcampushousing/",
+          "校外住宿资源"
+        ],
+        "clinic": [
+          "https://www.umaryland.edu/studenthealth/student-health-center/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.umaryland.edu/ois/",
+          "Office of International Students"
+        ]
+      }
+    },
+    "ubalt": {
+      "short": "巴尔的摩大学",
+      "place": "市中心 Midtown · 1420 North Charles Street, Baltimore, MD 21201",
+      "cityKey": "baltimore",
+      "calShort": "两学期制加 Winter Session；2026 秋 8 月 31 日开课，2027 春 1 月 27 日开课；法学院另行校历。",
+      "calendar": "Fall 2026：8 月 31 日（周一）开课；Winter Session 2027：1 月 4 日（周一）开课；Spring 2027：1 月 27 日（周三）开课；Summer 2027：6 月 1 日开课。法学院 Fall 2026：8 月 11–15 日新生导向；8 月 17 日（周一）开课；8 月 24 日（周一）加退课与逾期注册截止、无 W 退课截止；9 月 7 日（周一）劳动节校关闭。各 15 周、10 周与两个 7 周短学期分段截止日以 Academic Calendar 页面为准。",
+      "fulltime": "F-1 全日制注册口径按所属本科或研究生项目规定；减修、停课或转非全日制须经学业顾问与国际学生招生/支持渠道批准。",
+      "drop": "加退课、无 W 与带 W 退课截止按各短学期 Academic Calendar 节点执行；退费档位与退课收费口径按 Bursar 当期条款；法学院退课口径以 Law 学院校历为准。",
+      "ins1": "UBalt 不设强制自动入账的学生健康保险计划；学校建议未持保险的学生自行购买学生健康保险。F-1 学生被建议持有覆盖在美学习的美国合规保单；J-1 学生须持有符合美国国务院要求的保险。",
+      "ins2": "学校不统一承保；学生自行保存保险卡、保单号与保障明细，供就诊与学生事务渠道备查。",
+      "ins3": "保险选择、家属加保与就医渠道咨询 Dean of Students / Student Support 与 Bursar 窗口。",
+      "clinic": "UBalt 校内不设独立医疗门诊；健康与心理咨询经 Dean of Students / Student Support 渠道转介巴尔的摩社区医疗机构与合作门诊；心理支持与危机求助走校园安全与学生事务渠道；医疗急救拨 911。",
+      "commute": "校园位于巴尔的摩 Midtown 的 Charles Street 与 Mt. Royal Avenue 走廊，近 Baltimore Penn Station；MTA 公交与 Light RailLink 可达；步行范围覆盖 Mount Vernon、Charles 广场与市中心；到 Inner Harbor 约 10 分钟步行或公交量级。",
+      "scene": "University of Baltimore 1925 年由 civic leaders 创立，初为面向在职成人的夜间商科与法学院，建校 50 周年时并入 University System of Maryland；设 Merrick School of Business、School of Law、College of Public Affairs 与 Yale Gordon College of Arts and Sciences；以职业导向的本科、研究生与法学项目见长。",
+      "safety": "UBalt 校园警务由 University of Maryland, Baltimore (UMB) Police 派驻持械宣誓警官承担；UBalt 另设 unarmed 民用 Campus Safety and Security 人员负责楼宇门禁、失物招领与巡逻；非紧急 410-837-4444，邮箱 campussafety@ubalt.edu；Campus Safe Walk 每日 7:00–24:00；紧急拨 911；校外归 Baltimore Police Department 辖区。",
+      "transit": "MTA Maryland 公交与 Light RailLink 覆盖 Midtown；Baltimore Penn Station 为 MARC Penn Line 与 Amtrak 枢纽；Charm City Circulator Purple Route 沿 Charles 走廊运行；BWI 机场约 25–35 分钟车程量级。",
+      "rentnote": "学校不设校内宿舍；学生多租住 Midtown、Mount Vernon、Charles Village 周边公寓，临近校园的楼盘含 Varsity、Fitzgerald at UBalt Midtown、Sutton Place 等；Off-Campus Housing 门户提供房源与室友查询；校园身份卡用于门禁与校内消费；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ubalt.edu/academics/classes-and-registration/academic-calendar.cfm",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.ubalt.edu/student-life/get-involved/student-center/sc-policies.cfm",
+          "学生保险建议口径"
+        ],
+        "police": [
+          "https://www.ubalt.edu/about/offices-and-services/campus-safety/",
+          "Campus Safety and Security"
+        ],
+        "housing": [
+          "https://housing.ubalt.edu/",
+          "Off-Campus Housing 门户"
+        ],
+        "clinic": [
+          "https://www.ubalt.edu/about/offices-and-services/dean-of-students/",
+          "Dean of Students"
+        ],
+        "transit": [
+          "https://www.ubalt.edu/law/academics/academic-calendar.cfm",
+          "法学院校历"
+        ]
+      }
+    },
+    "morgan": {
+      "short": "摩根州立大学",
+      "place": "东北巴尔的摩 · 1700 East Cold Spring Lane, Baltimore, MD 21251",
+      "cityKey": "baltimore",
+      "calShort": "两学期制；2026 秋 8 月 26 日开课；2027 春节点以 Registrar 校历为准。",
+      "calendar": "Fall 2026：8 月 26 日（周三）开课；研究生毕业典礼 12 月 16 日（周三），本科毕业典礼 12 月 18 日（周五）。Spring 2027：研究生毕业典礼 5 月 13 日（周四），本科毕业典礼 5 月 15 日（周六）；开课、加退课、普查、带 W 退课与期末日期以 Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生口径按 School of Graduate Studies 当期规定；减修、停课或转非全日制须经学业顾问与 Office of International Students and Scholars 批准。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历节点执行；退费档位与退课收费口径按 Bursar 当期条款。",
+      "ins1": "学校学生健康保险计划（经 UnitedHealthcare 承保）对注册 12 学分及以上的全日制本科生强制适用；符合条件者自动计入学生账单，未通过豁免批准者须参保。",
+      "ins2": "已有符合要求的可比保单者，在公布豁免窗口向 University Health Center 提交 waiver；保险卡经 UnitedHealthcare 会员账户领取。",
+      "ins3": "豁免截止日期每学期公布；家属加保、自愿投保与保单问题咨询 University Health Center 与 OISS。",
+      "clinic": "Harriet A. Woolford University Health Center，电话 443-885-3236；提供初级保健、疫苗、常规化验与健康促进；能力之外转巴尔的摩地区医院；心理咨询经学校对应渠道安排；急救拨 911。",
+      "commute": "校区位于东北巴尔的摩 Cold Spring Lane 与 Hillen Road 一带，校园占地较大且片区以住宅区为主；MTA Maryland 公交沿 Cold Spring Lane、Hillen Road 运行；到巴尔的摩市中心约 4–5 英里，公交或自驾通勤量级。",
+      "scene": "Morgan State University 1867 年创立为 Centenary Biblical Institute，后以纪念牧师 Lyttleton Morgan 更名 Morgan College，1939 年由州政府接管成为公立院校，1975 年定名 Morgan State University；是马里兰州领先的公立 HBCU，属 R2 高研究活跃型大学；提供 150 余个本科、硕士与博士项目；校队 Morgan Bears，参加 NCAA Division I 米斯联盟（MEAC）；校园整体被列为 National Treasure 历史建筑群。",
+      "safety": "Morgan State University Police and Public Safety，1535 Havenwood Road, Baltimore, MD 21218；电话 443-885-3100，传真 443-885-8302，邮箱 msupolice@morgan.edu；24/7 值守并提供巡逻、护送与校园警报；校外归 Baltimore Police Department 辖区；紧急拨 911。",
+      "transit": "MTA Maryland 公交沿 Cold Spring Lane 与 Hillen Road 衔接东北巴尔的摩与市中心；轨道出行需在市区换乘；BWI 机场约 30–40 分钟车程量级。",
+      "rentnote": "校内宿舍按男女分区与混住楼层分布，含传统宿舍、塔楼与荣誉宿舍等房型，具体楼栋以 Residence Life 当期分配为准；BEARcard 校园身份卡用于门禁、就餐与校内消费；校外租房集中在东北巴尔的摩及 Perry Hall、White Marsh 方向；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.morgan.edu/commencement/ceremonies/future-dates",
+          "毕业典礼与校历节点"
+        ],
+        "ins": [
+          "https://www.morgan.edu/university-health-center/student-health-insurance-enrollment",
+          "学生保险与豁免"
+        ],
+        "police": [
+          "https://www.morgan.edu/police-and-public-safety/information-and-resources",
+          "Police and Public Safety"
+        ],
+        "housing": [
+          "https://www.morgan.edu/residence-life-and-housing",
+          "Residence Life and Housing"
+        ],
+        "clinic": [
+          "https://www.morgan.edu/university-health-center",
+          "University Health Center"
+        ],
+        "transit": [
+          "https://www.morgan.edu/international-students-and-scholars-(oiss)/admission-steps-for-international-students",
+          "OISS 国际学生渠道"
+        ]
+      }
+    },
+    "coppin": {
+      "short": "科平州立大学",
+      "place": "西巴尔的摩 · 2500 West North Avenue, Baltimore, MD 21216",
+      "cityKey": "baltimore",
+      "calShort": "两学期制（15 周 + 两个 7 周段，另设冬季学期）；2026 秋 8 月 24 日开课，2027 春 1 月 26 日开课。",
+      "calendar": "Fall 2026：8 月 17 日（周一）University Day、线上注册截止；8 月 17–21 日逾期注册；8 月 21 日（周五）新生到校签到；8 月 22–23 日老生签到；8 月 24 日（周一）15 周段与第 1 个 7 周段开课；9 月 2 日（周三）加退课截止、无 W 退课截止；9 月 3 日（周四）开学典礼；9 月 7 日（周一）劳动节；10 月 9 日（周五）第 1 个 7 周段结束；10 月 19 日（周一）第 2 个 7 周段开课；11 月 16 日（周一）第 2 个 7 周段与 15 周段带 W 退课截止；11 月 25 日（周三）感恩节离校；11 月 26–27 日停课；11 月 29 日（周日）返校；11 月 30 日（周一）复课；12 月 5 日（周六）第 2 个 7 周段结束；12 月 8 日（周二）15 周段结束；12 月 9 日（周三）阅读日；期末 12 月 10–16 日；12 月 16 日（周三）学期结束、离校；12 月 18 日（周五）成绩截止。Winter 2027：1 月 4 日（周一）开课；1 月 5 日（周二）加退课；1 月 6 日（周三）退课截止；1 月 18 日（周一）MLK 日；1 月 22 日（周五）结束。Spring 2027：1 月 26 日（周二）开课；2 月 3 日（周三）无 W 退课截止；3 月 14–20 日（周日至周六）春假；4 月 14 日（周三）退课截止；5 月 8 日（周六）第 2 个 7 周段结束；5 月 11 日（周二）15 周段结束；5 月 12 日（周三）阅读日；期末 5 月 13–19 日；5 月 19 日（周三）离校；5 月 21 日（周五）成绩截止；毕业典礼日期以 Registrar 当期公布为准。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生口径按所属项目当期规定；减修、停课或转非全日制须经学业顾问与国际学生事务渠道批准。",
+      "drop": "9 月 2 日为 15 周段与两个 7 周段的加退课、无 W 退课截止；11 月 16 日为第 2 个 7 周段与 15 周段带 W 退课截止；退费档位按 Bursar 当期条款。",
+      "ins1": "注册 12 学分及以上的本科生强制持有学生健康保险；符合条件者自动投保 SHIP（含在线与校外学生）；保险咨询热线 410-951-3945，邮箱 studenthealthinsurance@coppin.edu。",
+      "ins2": "已有可比保单者，在公布豁免窗口提交 waiver 批准；保险卡经承保方会员账户领取，就诊携带。",
+      "ins3": "豁免截止、家属加保与自愿投保口径咨询保险热线与学生生活办公室。",
+      "clinic": "Community Health Center，Health and Human Services Building, Suite 131, 2601 West North Avenue；电话 410-951-4188，周一至周五 9:00–17:00；面向学生、教职员工与周边邻里提供低费用初级保健；处方与部分项目可能有自付；Counseling Center 电话 410-951-3939；急救拨 911。",
+      "commute": "校区位于西巴尔的摩 West North Avenue，临近 Mondawmin 片区；MTA Maryland 公交沿 North Avenue 运行；Metro SubwayLink Mondawmin 站在邻近范围；到巴尔的摩市中心约 10 分钟公交或车程量级。",
+      "scene": "Coppin State University 1900 年创立，最初为培养非洲裔小学教师的师范训练项目，以美国首位非洲裔女性大学毕业生 Fanny Jackson Coppin 命名；现为综合性公立 HBCU/HBI，提供 53 个本科、硕士与学位项目，覆盖教育、护理、刑事司法、商业、人文与理工；校队 Coppin Eagles，参加 NCAA Division I 米斯联盟（MEAC）。",
+      "safety": "Coppin State University Police Department，Physical Education Complex, Suite 272, 2500 W. North Ave；紧急 410-951-3911；办公电话 410-951-3900，传真 410-951-6997；周一至周四 9:00–16:30，周五 9:00–15:00；校外归 Baltimore Police Department 辖区；紧急拨 911。",
+      "transit": "MTA Maryland 公交沿 North Avenue 衔接西巴尔的摩与市中心；Metro SubwayLink Mondawmin 站邻近；Light RailLink 在市区换乘；BWI 机场约 30–40 分钟车程量级。",
+      "rentnote": "校内住宿集中在 Daley Hall 等宿舍楼；住房邮箱 housing@coppin.edu，电话 410-951-6300；校园身份卡用于门禁、就餐与校内消费；校外租房分布西巴尔的摩 Westside、Woodberry 等片区；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.coppin.edu/academics/academic-calendar",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.coppin.edu/student-health-insurance",
+          "Student Health Insurance"
+        ],
+        "police": [
+          "https://www.coppin.edu/campus-police",
+          "Campus Police"
+        ],
+        "housing": [
+          "https://www.coppin.edu/taxonomy/term/336",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.coppin.edu/chc",
+          "Community Health Center"
+        ],
+        "transit": [
+          "https://www.coppin.edu/csu-history",
+          "校史与学院沿革"
+        ]
+      }
+    },
+    "towson": {
+      "short": "陶森大学",
+      "place": "陶森 · 8000 York Road, Towson, MD 21252",
+      "cityKey": "towson",
+      "calShort": "两学期制（15 周 + 两个 7 周段，另设 Winter Minimester）；2026 秋 8 月 24 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）开课、15 周段加退课开始；8 月 27 日（周四）第 1 个 7 周段加退课截止；9 月 1 日（周二）15 周段加退课截止；9 月 7 日（周一）劳动节；9 月 24 日（周四）第 1 个 7 周段退课截止；10 月 13 日（周二）第 1 个 7 周段结束；10 月 14 日（周三）第 2 个 7 周段开课；10 月 19 日（周一）第 2 个 7 周段加退课截止；10 月 23 日（周五）秋假；11 月 2 日（周一）15 周段带 W 退课截止；11 月 13 日（周五）第 2 个 7 周段退课截止；11 月 25–29 日（周三至周日）感恩节假；12 月 5 日（周六）最后一次周六课；12 月 7 日（周一）15 周段结课、第 2 个 7 周段结束；12 月 8 日（周二）期末开始；12 月 14 日（周一）期末结束、学期结束。Winter Minimester 2027：1 月 4 日（周一）开课；1 月 5 日（周二）加退课；1 月 15 日（周五）退课截止；1 月 18 日（周一）MLK 日；1 月 22 日（周五）结束。Spring 2027：1 月 25 日（周一）开课；1 月 28 日（周四）第 1 个 7 周段加退课截止；2 月 2 日（周二）15 周段加退课截止；3 月 3 日（周三）第 1 个 7 周段退课截止；3 月 14–21 日（周日至周日）春假；3 月 22 日（周一）第 1 个 7 周段结束；3 月 23 日（周二）第 2 个 7 周段开课；3 月 26 日（周五）第 2 个 7 周段加退课截止；4 月 7 日（周三）15 周段退课截止；4 月 22 日（周四）第 2 个 7 周段退课截止；5 月 8 日（周六）最后一次周六课；5 月 11 日（周二）15 周段结课；5 月 12 日（周三）期末开始；5 月 18 日（周二）期末结束。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生口径按所属项目当期规定；减修、停课或转非全日制须经学业顾问与 Office of International Students and Scholars 批准。",
+      "drop": "9 月 1 日为 15 周段加退课截止；11 月 2 日为 15 周段带 W 退课截止；两个 7 周段各自截止日见校历；退费档位按 Bursar 当期条款。",
+      "ins1": "学校不设强制自动入账的学生保险计划；健康保险为强烈建议。Health Center 可向多数商业保险计划与 Maryland Medicaid managed care 计划计费；国际学生须符合 Health Center 公布的最低健康保险标准。",
+      "ins2": "保险卡可上传 Tiger Health Portal 存档，就诊时携带；未投保学生就医按自费口径结算。",
+      "ins3": "保险选择、家属加保与账单问题咨询 Health Center 与 ISSO。",
+      "clinic": "TU Health Center at Ward & West；电话 410-704-2466，传真 410-704-3715，邮箱 healthcenter@towson.edu；周一至周五 8:00–17:00；提供初级保健、疫苗、化验、预防与转诊；Counseling Center 提供当日面询或视频咨询，节假日周末有 24/7 心理危机热线；急救拨 911。",
+      "commute": "校区位于 Baltimore County 县治 Towson 镇区，南距巴尔的摩市中心约 8 英里；York Road 走廊与 I-695 环线为主要进出通道；校内以步行为主，周边为郊区商业与住宅区。",
+      "scene": "Towson University 1866 年创立为 Maryland State Normal School；综合性大学覆盖文理、商科、教育、健康专业、艺术、传播、计算机与工程等领域；本科与研究生并重；校队 Towson Tigers，参加 NCAA Division I 殖民地竞技联盟（CAA），含 19 支校队。",
+      "safety": "Towson University Police Department，Public Safety Building, 290 Towsontown Blvd W；紧急 410-704-4444，非紧急 410-704-2134，行政 410-704-2505，邮箱 police@towson.edu；24/7 值守；校外归 Baltimore County Police Department（Towson 片区）辖区；紧急拨 911。",
+      "transit": "MTA Maryland 公交沿 York Road 往返巴尔的摩市中心；轨道出行需在市区换乘；自驾经 I-695 与 York Road；BWI 机场约 30–40 分钟车程量级，DCA、IAD 约 1 小时以上量级。",
+      "rentnote": "校内住宿约容纳 5,850 名学生，含传统宿舍、Towson Run Apartments 与 10 West Burke Avenue 公寓；校园身份卡用于门禁、就餐与校内消费；校外租房分布 Towson 镇区中心、Lutherville、Ruxton、Timonium 方向；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.towson.edu/undergraduate/academic-calendar/",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://catalog.towson.edu/undergraduate/student-support-services/health-services/",
+          "Health Services 保险口径"
+        ],
+        "police": [
+          "https://www.towson.edu/public-safety/police/contact/",
+          "TU Police 联系方式"
+        ],
+        "housing": [
+          "https://www.towson.edu/studentlife/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.towson.edu/healthcenter/",
+          "Health Center"
+        ],
+        "transit": [
+          "https://www.towson.edu/academics/international/isso/",
+          "ISSO 国际学生渠道"
+        ]
+      }
+    },
+    "usna": {
+      "short": "美国海军学院",
+      "place": "安纳波利斯 · 121 Blake Road, Annapolis, MD 21402",
+      "cityKey": "annapolis",
+      "calShort": "按军校学年排课；夏季 Plebe Summer 训练后入学，春季学期开课（节点以 Academy 校历为准）。",
+      "calendar": "Fall 2026：新生 I-Day 后入营，Plebe Summer 队列、体能与学术基础训练结束后进入学年学期；秋假、感恩节假、期末与毕业考核按军校学年安排。Spring 2027：春季学期开课、春假、期末 Commissioning Week 与毕业典礼按 Academy Registrar 当期校历执行；具体日期以 USNA 官网校历页为准。",
+      "fulltime": "全体 midshipman 为四年制全日制军事学员；课程、体能训练、队列与纪律要求绑定注册；学分与年级晋升按军校学术、体能与纪律标准执行，普通高校的减修、休学口径不适用。",
+      "drop": "退课、请假、淘汰或转校按军校学术、体能与纪律程序办理；普通高校的 W 退课规则不适用；相关决定由学院学术与军事主管部门审定。",
+      "ins1": "学员学费、住宿、伙食由军队承担；医疗与牙科由军队卫生体系覆盖，不另购普通学生健康保险计划；录取前须通过 DoDMERB 体检合格。",
+      "ins2": "医疗与牙科服务在海军学院卫生部门与军队医疗体系内办理；学员身份凭证随军人健康档案管理，不另购外部学生保险卡。",
+      "ins3": "不适用普通保险豁免流程；个人补充商业保险非强制；家属与访客医疗安排另按军队医院接收规则与地方医疗体系办理。",
+      "clinic": "Naval Academy Health Service 处理学员日常医疗与牙科；急症联系军校值班安保或拨 911；超出校园能力的情形转诊军队医院体系与 Annapolis 地方医疗机构。",
+      "commute": "Yard 位于 Annapolis 港畔，121 Blake Road；访客经 Gate 1（52 King George Street，Armel-Leftwich Visitor Center）进入；不设走读学员，全体住校内学员营房。",
+      "scene": "学院 1845 年设立，为美国海军联邦军校，为美国海军与海军陆战队培养现役军官；录取须获国会议员、参议员或副总统提名并通过体检；免学费、住宿与伙食，学员按年级领取津贴；校队 Navy Midshipmen，参加 NCAA Division I 赛事，校际橄榄球对阵 Army。",
+      "safety": "军校由基地安保与 Naval Academy Police 体系管理，各校门查验身份、车辆与访客；访客通行与车辆限制见 Visitor 页面；校外归 Annapolis Police Department 与 911 体系。",
+      "transit": "校内营房、教学楼与体育场馆步行通行；到访与探亲经 Rt 450 与港畔道路；最近商用机场为 Baltimore/Washington International（BWI），驾车约 30–40 分钟量级，DCA 与 IAD 为备选。",
+      "rentnote": "全体学员住校内营房（midshipman quarters），统一伙食（mess hall），无校外租房选项；住宿、伙食与制服由军队承担，不按普通大学房租合同办理；学员津贴按年级发放。",
+      "link": {
+        "cal": [
+          "https://www.usna.edu/Admissions/index.php",
+          "Admissions 入学与提名流程"
+        ],
+        "ins": [
+          "https://www.usna.edu/HealthService/",
+          "Naval Academy Health Service"
+        ],
+        "police": [
+          "https://www.usnabsd.com/visit/access/",
+          "访客门禁与通行"
+        ],
+        "housing": [
+          "https://www.usna.edu/Admissions/index.php",
+          "学费与服役义务口径"
+        ],
+        "clinic": [
+          "https://www.usna.edu/HealthService/",
+          "学员医疗与牙科"
+        ],
+        "transit": [
+          "https://www.usnabsd.com/visit/for-visitors/",
+          "到访指南"
+        ]
+      }
+    },
+    "umgc": {
+      "short": "马里兰大学全球校区",
+      "place": "阿德尔菲 · 3501 University Boulevard East, Adelphi, MD 20783（行政总部，不提供教学与学生服务）",
+      "cityKey": "adelphi",
+      "calShort": "多段 session 制；课程以线上与混合模式滚动开班，节点以各 session 日程表为准。",
+      "calendar": "学位课程按多段 8–12 周 session 滚动排课；Fall/Spring/Summer 各 session 的开课、加退课与考试日期以 Registrar 当期校历与各课程大纲为准；线上课程不设实体报到日，节假口径跟随校方学年日历。",
+      "fulltime": "面向在职成人与远程学习者，项目以线上、混合模式为主，不套用普通 F-1 在校路径；学分与毕业要求按各学位目录，全日制与注册学分口径以录取与注册页面当期公布为准。",
+      "drop": "加退课、late drop 与全退截止按当期 session 日程表执行；退费比例与 W 标记以 Registrar 与 Bursar 当期页面为准；线上课程不适用实体校区的现场 RCL 流程。",
+      "ins1": "不设面向线上注册学生的校级统一健康保险计划，无保险费自动加入与账单扣缴机制。",
+      "ins2": "学生按所在国家或州的要求自行安排健康保险；入学凭证、成绩单评估与学籍支持经 Admission 与 Current Students 渠道对接。",
+      "ins3": "无校级 waiver 门户与豁免窗口；替代保单的承保范围与期限标准以当期页面为准；家属投保与附加保障自行办理。",
+      "clinic": "无驻校诊所与实体医务室；学生在居住地就医，常规医疗按当地医疗机构安排；学术、技术与学业支持经 Help 门户与线上渠道对接。",
+      "commute": "Adelphi 总部仅承担行政办公职能，不设课堂教学与面对面学生服务；课程经线上平台完成，偶发线下见面、毕业典礼或实践环节由项目单独通知，往返交通自行安排。",
+      "scene": "马里兰的 open university，服务在职成人、军人与军人家属、退伍军人及全球远程学习者；学科覆盖商科、 cybersecurity、数据分析、教育、健康科学、IT 与计算机等；线上图书馆 24/7 开放；不设传统寄宿校园与校队。",
+      "safety": "无实体校园校警辖区；总部现场安保经 UMGC Security 对接，紧急情况拨 911，联动 University of Maryland Department of Public Safety；学生在居住地的安全自行负责。",
+      "transit": "无固定校园公交与校车；日常学习在家或就近学习场所完成；赴 Adelphi 总部可接 Metro Green Line 到 College Park/Prince George's Plaza 方向后接驳；机场口径见城市页。",
+      "rentnote": "校方不提供校属宿舍，也不设传统校园餐计划；学生居住安排自理，线上项目不分配房源、不签住宿合同；校外租金按居住地邮编查当期挂牌价，合同与押金条款自行核验，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.umgc.edu/current-students",
+          "Current Students 学籍与学期入口"
+        ],
+        "ins": [
+          "https://www.umgc.edu/admission/requirements/students-educated-abroad",
+          "海外学历与入学要求"
+        ],
+        "police": [
+          "https://www.umgc.edu/locations/headquarters-in-adelphi-maryland",
+          "总部安保与联络"
+        ],
+        "housing": [
+          "https://www.umgc.edu/locations/headquarters-in-adelphi-maryland",
+          "Adelphi 总部位置"
+        ],
+        "clinic": [
+          "https://www.umgc.edu/help",
+          "学生帮助与支持门户"
+        ],
+        "transit": [
+          "https://www.umgc.edu/locations/headquarters-in-adelphi-maryland",
+          "总部到访与停车"
+        ]
+      }
+    },
+    "bowiestate": {
+      "short": "鲍伊州立大学",
+      "place": "鲍伊 · 14000 Jericho Park Road, Bowie, MD 20715",
+      "cityKey": "bowie",
+      "calShort": "两学期制；2026 秋与 2027 春学期节点以 Registrar 校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开课、加退课、秋假/春假、期末与毕业典礼日期以 Registrar 当期 Academic Calendar（PDF）为准；国际生秋季申请截止 6 月 1 日（美国境外）、春季 11 月 1 日，在美转学生秋季 7 月 1 日、春季 12 月 15 日。",
+      "fulltime": "F-1 国际学生按 SEVIS 与 Bowie State 注册要求保持全日制；本科与研究生全日制学分口径以 Registrar 与 Office of International Education & Student Services（OIESS）当期公布为准；减修、停课须先经 OIESS 与学术顾问批准。",
+      "drop": "加退课经学生门户按 Academic Calendar 指定日期办理；无 W 与带 W 退课截止、退费档位以 Registrar 校历与 Bursar 当期条款为准；逾期按校方政策记 W 或记成绩。",
+      "ins1": "校方不设统一自动加入的学生健康保险计划；Henry Wise Wellness Center 不做保险账单；建议持家庭 ACA 合规保单或在美合格商业保单，国际生建议最低 5 万美元保障。",
+      "ins2": "不自动加入；投保后保存保险卡、保单号、生效与到期日及保障明细，到校供 OIESS 与 Wellness Center 核验；国际生可经 ISO/ISI 等渠道了解合格保单选项。",
+      "ins3": "牙科、视力等附加保障校方未列为强制项目；需要者自行向在美保险公司选购；保险资格与咨询经 OIESS 对接。",
+      "clinic": "Henry Wise Wellness Center，Christa McAuliffe Residence Hall 低层，14000 Jericho Park Road，电话 301-860-4170；提供初级保健与常规小病小伤处理；心理咨询 Counseling Center 301-860-4160；校园能力之外转 Bowie 与 Greater Bowie 地区医疗机构，急症拨 911。",
+      "commute": "校园 14000 Jericho Park Road，位于 Washington, DC 与 Baltimore 之间；Baltimore-Washington Parkway 在校园以西不到 5 英里；可经 MARC 通勤铁路、Metro 巴士与 Metro 轨交接驳；最近商用机场 BWI。",
+      "scene": "马里兰第一所公立 HBCU，1865 年创办；30+ 本科专业、20+ 硕士项目、18+ 证书项目与 4 个博士项目；学科覆盖教育、商科、计算机、刑事司法、健康职业等；校队 Bulldogs，NCAA Division II，CIAA（Central Intercollegiate Athletic Association）。",
+      "safety": "Campus Police：301-860-4040；紧急情况拨 911；校警值守校园与宿舍楼栋，提供夜间护送与安全渠道；校外归 Bowie Police Department 与 Prince George's County 辖区。",
+      "transit": "MARC Camden Line 通勤铁路连接 DC Union Station 与 Baltimore 方向；Metro 绿线接驳至 College Park/Greenbelt 后转区域巴士；校园周边日常出行以驾车与巴士为主，停车须办许可。",
+      "rentnote": "校内为社区式宿舍（double 房间或 suite，配公共卫浴），住宿运营由 Capstone 对接；校外房源在 Bowie 社区公寓与独立屋，部分沿 DC 通勤走廊；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.bowiestate.edu/about/administration-and-governance/division-of-enrollment-management/registrars-office/academic-calendar.php",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://bowiestate.edu/campus-life/health-and-wellness/henry-wise-wellness-center/student-health-insurance.php",
+          "学生健康保险口径"
+        ],
+        "police": [
+          "https://www.bowiestate.edu/about/administration-and-governance/division-of-administration-and-finance/police-and-public-safety/",
+          "Campus Police & Public Safety"
+        ],
+        "housing": [
+          "https://www.bowiestate.edu/campus-life/housing-and-dining/",
+          "住宿与餐饮"
+        ],
+        "clinic": [
+          "https://bowiestate.edu/campus-life/health-and-wellness/general-information/",
+          "Wellness Center 服务"
+        ],
+        "transit": [
+          "https://www.bowiestate.edu/about/at-a-glance/",
+          "区位与交通概览"
+        ]
+      }
+    },
+    "frostburg": {
+      "short": "弗罗斯特堡州立大学",
+      "place": "弗罗斯堡 · 101 Braddock Road, Frostburg, MD 21532",
+      "cityKey": "frostburg",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，冬学期 1 月 4–24 日；春季节点以校历为准。",
+      "calendar": "Fall 2026：8/24 开课，8/24–28 加退课；9/7 劳动节；10/12–13 秋假；11/25–29 感恩节；12/9 最后上课日；12/10–16 期末考试；12/17 毕业典礼；12/18 成绩截止。Intercession 2027：1/4–1/24。Spring 2027 开课、春假、期末与毕业日期以 Registrar 校历当期公布为准。",
+      "fulltime": "F-1/J-1 国际学生按 SEVIS 与 FSU 注册要求保持全日制；本科与研究生全日制学分口径以 Registrar 与 Center for International Education（CIE）当期公布为准；减修、停课须先经 CIE 与学术顾问批准。",
+      "drop": "15 周本科课程带 W 退课截止 10/23；7 周研究生 session 各自设退课截止；退费档位以 Bursar 当期条款为准；未在门户完成正式退课的课程按行政退课政策处理。",
+      "ins1": "所有 F-1/J-1 国际学生自动加入团体健康保险计划，每学期费用计入学生账单；夏季在美停留须投保夏季覆盖，具体保额与暑期口径以保险页面为准。",
+      "ins2": "豁免须提供达到或超过校方计划福利的替代保单，凭证提交 CIE 核验；未获批豁免者按校方计划缴费。",
+      "ins3": "家属加保、牙科与视力附加保障以当期保险说明为准；保险咨询经 Center for International Education 对接。",
+      "clinic": "Student Health Center，101 Braddock Road，电话 301-687-4310，studenthealthcenter@frostburg.edu；门诊不直接收取商业保险，提供报销表单；常规小病小伤与疫苗咨询在校内处理，能力之外转 Cumberland 地区医疗机构，急症拨 911。",
+      "commute": "校园在西马里兰阿巴拉契亚山区小镇 Frostburg，101 Braddock Road；近 Cumberland 与 I-68；山区公路冬季易结冰积雪，通勤预留时间；无市域轨交，日常以驾车为主。",
+      "scene": "1898 年创办的公立州立大学；学科覆盖文理、教育、商业、健康职业、工程技术、计算机与户外/运动相关项目；校队 Bobcats，NCAA Division II，Mountain East Conference（曲棍球属 PSAC、男子长曲棍球属 ECC 项目联盟）。",
+      "safety": "University Police Department 位于 College Avenue 与 University Drive 交口，101 Braddock Road；紧急 301-687-4222，非紧急 301-687-4223，传真 301-687-7491，police@frostburg.edu；校外归 Frostburg Police Department 与 Allegany County 辖区。",
+      "transit": "无铁路客运；县城公交有限，出行以驾车为主；I-68 连接 Cumberland 与向东方向；近程支线机场 Greater Cumberland Regional（CBE），大型枢纽 Pittsburgh（PIT）与 BWI 在两小时量级。",
+      "rentnote": "大一与大二要求住校；校园十余栋宿舍，Residence Life Office 在 Pullen Hall；校外房源在 Frostburg 镇与 Cumberland 方向；冬季山路与雪天通勤预留时间，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.frostburg.edu/academics/calendar.php",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.frostburg.edu/admissions-and-cost/undergraduate/apply/international-students.php",
+          "国际学生保险与入学口径"
+        ],
+        "police": [
+          "https://www.frostburg.edu/about-frostburg/Administrative-Offices/university-police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.frostburg.edu/student-life/residence-life/index.php",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.frostburg.edu/student-health/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.frostburg.edu/student-life/life-in-frostburg.php",
+          "Frostburg 生活与交通"
+        ]
+      }
+    },
+    "umes": {
+      "short": "马里兰大学东岸分校",
+      "place": "公主安妮镇 · 1 College Backbone Road, Princess Anne, MD 21853",
+      "cityKey": "princessanne",
+      "calShort": "两学期制；2026 秋与 2027 春学期节点以 Registrar 校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开课、加退课、秋假/春假、期末与毕业典礼日期以 Registrar 当期 Academic Calendar 为准；国际生秋季申请截止 3 月 1 日、春季 11 月 1 日。",
+      "fulltime": "F-1 本科学生按 SEVIS 与 UMES 注册要求保持全日制；住校资格要求至少注册 12 学分；减修、停课须先经 Center for International Education（CIE）与学术顾问批准。",
+      "drop": "加退课经 Hawk Portal 按校历指定日期办理；带 W 退课截止与退费档位以 Registrar 校历与 Bursar 当期条款为准；未在门户完成正式退课的课程按行政退课政策处理。",
+      "ins1": "国际学生须持健康保险；校方提供校办保险计划，国际学生自动加入，除非提交达到或超过计划福利的有效保单证明。",
+      "ins2": "豁免凭证截止：秋季 9 月 15 日、春季 2 月 15 日；逾期未提交合格证明将计入计划费用；保险卡、保单号与保障明细到校出示。",
+      "ins3": "家属加保与附加保障以当期保险说明为准；保险资格咨询 CIE；牙科视力附加自行选购。",
+      "clinic": "Student Health Services：健康史与免疫表格入校前提交；日常医疗在校健康中心处理；急症拨 911，校园能力之外转 Salisbury 地区医疗机构。",
+      "commute": "校园在马里兰东岸（Eastern Shore）小镇 Princess Anne，约 1,100 英亩；紧邻 US-13；驾车到 Salisbury 与 Ocean City 方向约半小时到一小时量级，到 DC/Baltimore/Philadelphia/Virginia Beach 约两小时量级。",
+      "scene": "1886 年创办、1890 赠地的 HBCU；学科覆盖农业与自然资源、环境科学、渔业与海洋科学、健康与康复、药学相关、航空科学、职业高尔夫管理、教育、商科等；校队 Hawks，NCAA Division I，MEAC（Mid-Eastern Athletic Conference）。",
+      "safety": "Department of Public Safety / University Police 24 小时值守，警官具马里兰执法资质；非紧急 410-651-3300，紧急 911；校外归 Somerset County Sheriff 辖区。",
+      "transit": "东岸乡村无客运轨交；日常出行以驾车为主，US-13 连接 Salisbury 与 Delaware 方向；近程支线机场 Salisbury-Ocean City（SBY），Norfolk（ORF）与 BWI 在两小时量级。",
+      "rentnote": "住校须注册至少 12 学分；Hawkville 宿舍申请经 myUMES 门户，住宿押金口径见 ResLife；校外房源在 Princess Anne 镇与 Salisbury 方向；东岸乡村公共交通有限，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://wwwcp.umes.edu/admissions/",
+          "Admissions 与校历入口"
+        ],
+        "ins": [
+          "https://catalog.umes.edu/content.php?catoid=3&navoid=73",
+          "校历目录：保险与健康政策"
+        ],
+        "police": [
+          "https://wwwcp.umes.edu/police/police-services/",
+          "University Police 警务服务"
+        ],
+        "housing": [
+          "https://wwwcp.umes.edu/reslife/frequently-asked-questions/",
+          "Residence Life FAQ"
+        ],
+        "clinic": [
+          "https://wwwcp.umes.edu/admissions/apply-for-admission/",
+          "健康史与免疫表提交"
+        ],
+        "transit": [
+          "https://wwwcp.umes.edu/admissions/international-students/",
+          "国际学生与区位交通"
+        ]
+      }
+    },
+    "salisbury": {
+      "short": "索尔兹伯里大学",
+      "place": "索尔兹伯里 · 1101 Camden Avenue, Salisbury, MD 21801",
+      "cityKey": "salisbury",
+      "calShort": "两学期制（14 周）；2026 秋 8 月 31 日开课，2027 春 1 月 26 日开课。",
+      "calendar": "Fall 2026：8/31–12/18；8/31–9/4 加退课；9/7 劳动节；10/19–20 秋假；11/6 退课截止；11/25–27 感恩节；12/10 学期退课截止；12/11 最后上课日；12/12 Reading Day；12/14–18 期末。Winter 2027：1/4–1/22。Spring 2027：1/26–5/19；1/26–2/1 加退课；3/15–19 春假，3/22 恢复上课；4/2 退课截止；5/10 学期退课截止；5/11 最后上课日；5/12 Reading Day；5/13–19 期末；5/19–20 毕业典礼。",
+      "fulltime": "F-1 国际学生按 SEVIS 与 SU 注册要求保持全日制；本科与研究生全日制学分口径以 Registrar 与 Center for International Education（CIE）当期公布为准；减修、停课须先经 CIE 与学术顾问批准。",
+      "drop": "带 W 退课截止见 Registrar 校历（秋季 11/6、春季 4/2 为常规退课节点）；退费档位以 Bursar 当期条款为准；未在门户完成正式退课的课程按行政退课政策处理。",
+      "ins1": "F-1 学生须在美停留全期持合格健康保险；校方保险计划与强制口径以 Student Health Services 当期页面为准，就医与疫苗要求随校历执行。",
+      "ins2": "保险凭证提交 Health Services 核验；保险卡、保单号、生效与到期日及保障明细自行保管；替代保单标准以当期页面为准。",
+      "ins3": "家属加保、牙科与视力附加保障咨询 Student Health Services；保险资格与咨询经 CIE 对接。",
+      "clinic": "Student Health Services，Holloway Hall Room 180，1101 Camden Ave，电话 410-543-6262，studenthealth@salisbury.edu；周一至周五 8:00–16:30 预约制；Counseling Center，GSU 263，410-543-6070；急症拨 911 或 SUPD 410-543-6222，转 Salisbury 地区医院。",
+      "commute": "校园在 Salisbury 市区 Camden Avenue 一带，近 Wicomico River；距 Ocean City 海滨约半小时到四十分钟车程；近程支线机场 SBY，大型枢纽 BWI 约两小时量级。",
+      "scene": "1925 年创办的公立大学，东岸 Delmarva 半岛主要教育与商业城市；校队 Sea Gulls，NCAA Division III，Coast-to-Coast Athletic Conference（橄榄球与游泳属 NJAC）；学科覆盖文理、商科、教育、健康职业、艺术与海洋相关方向。",
+      "safety": "Salisbury University Police Department：410-543-6222；Visitor Station Holloway Hall 410-677-5003；Wayne Street Parking Garage 分站 410-548-3005；提供护送服务；校外归 Salisbury Police Department 与 Wicomico County 辖区。",
+      "transit": "Shore Transit 区域公交连接 Salisbury 镇区与周边郡县；无客运铁路；近程支线机场 SBY；日常出行以驾车与巴士为主，停车须办许可。",
+      "rentnote": "校内含传统宿舍、公寓式 Chesapeake Hall/Sea Gull Square、Cottages Dogwood Village 与 University Park Apartments（Capstone 管理）；校外在 Salisbury 社区租房，近 Camden Avenue 校园带；海滨旅游季东部房源波动，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.salisbury.edu/administration/academic-affairs/registrar/index.aspx",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.salisbury.edu/administration/student-affairs/student-health-services/",
+          "Student Health Services"
+        ],
+        "police": [
+          "https://www.salisbury.edu/police/",
+          "SU Police Department"
+        ],
+        "housing": [
+          "https://www.salisbury.edu/experience-campus/residence-life.aspx",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.salisbury.edu/administration/student-affairs/student-health-services/",
+          "Health Services 门诊"
+        ],
+        "transit": [
+          "https://www.salisbury.edu/administration/academic-affairs/center-for-international-education/",
+          "Center for International Education"
+        ]
+      }
+    },
+    "smcm": {
+      "short": "圣玛丽学院",
+      "place": "圣玛丽城 · 47645 College Drive, St. Mary's City, MD 20686",
+      "cityKey": "stmaryscity",
+      "calShort": "两学期制；2026 秋 12 月 11 日结课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：12/11 最后上课日，12/14–17 期末考试，12/21 冬学期开始。Winter 2027：12/21–1/15，1/15 期末，1/18 MLK 假期。Spring 2027：1/19 开课，1/19–22 选课调整与迟到注册，1/25–29 加退课，4/2 为第 10 周带 W 退课截止，春假 3 月中旬，4/30 最后常规上课日，5/5–10 期末，5/15 毕业典礼；夏季学期 5/17 开始。",
+      "fulltime": "F-1 国际学生按 SEVIS 与 SMCM 注册要求保持全日制；本科全日制学分口径以 Registrar 与 Admission（International Students）当期公布为准；减修、停课须先经学术顾问与国际招生对接渠道批准。",
+      "drop": "加退课在 1/19–22 调整期与 1/25–29 加退课窗口办理；带 W 退课截止春季 4/2（第 10 周）；退费档位以 Bursar 当期条款为准；未在门户完成正式退课的课程按行政退课政策处理。",
+      "ins1": "F-1 学生须持覆盖在美停留全期的合格健康保险；校方保险要求与计划口径以 Wellness/Health Center 当期政策为准，疫苗与健康记录入校前提交。",
+      "ins2": "保险凭证提交 Health Center 核验；保险卡、保单号、生效与到期日及保障明细自行保管；替代保单标准以当期页面为准。",
+      "ins3": "家属加保、牙科与视力附加保障自行选购；保险资格与咨询对接 Wellness Center 与国际招生渠道。",
+      "clinic": "Wellness Center（Health Center）由全职护士 practitioner、注册护士与兼职医师组成，提供预约与 walk-in 服务；心理支持与校外转介经咨询渠道；急症拨 911，能力之外转 Leonardtown/Waldorf 方向医疗机构。",
+      "commute": "校园在 St. Mary's City 历史遗址旁、St. Mary's River 畔，47645 College Drive；南马里兰乡村片区，无轨交，日常以驾车为主；Rt 5 连接 La Plata 与 DC 方向，最近大型机场 DCA 约一个半小时车程量级。",
+      "scene": "马里兰州立的公立荣誉学院（public honors college），选择性录取的文理学院；小班教学与紧密导师制；23 个校队项目，Seahawks，NCAA Division III；四年住宿保证；校园与 Historic St. Mary's City 殖民遗址相邻。",
+      "safety": "Office of Public Safety：240-895-4911；校警/安保值守校园与宿舍，提供值守与安全通告；校外归 St. Mary's County Sheriff 辖区，紧急拨 911。",
+      "transit": "无客运轨交；以南马里兰驾车为主，Rt 5/College Drive 进出；最近大型机场 DCA，BWI 与 ORF 备选；周末赴 DC 方向须走公路接驳。",
+      "rentnote": "四年住房保证：大一传统宿舍 Caroline/Dorchester/Prince George/Queen Anne；高年级 suites Lewis Quad、Townhouses 与 Waring Commons apartments；校外在 St. Mary's County 邻里与 Lexington Park 方向租房；滨水片区公交有限，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://inside.smcm.edu/events/academic-calendar",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.smcm.edu/residencelife/for-parents/campus-resources/",
+          "Campus Resources 健康与保险"
+        ],
+        "police": [
+          "https://www.smcm.edu/publicsafety/annual-report/",
+          "Public Safety 年度报告"
+        ],
+        "housing": [
+          "https://www.smcm.edu/campus-life/housing/",
+          "Housing"
+        ],
+        "clinic": [
+          "https://www.smcm.edu/residencelife/for-parents/campus-resources/",
+          "Wellness Center 资源"
+        ],
+        "transit": [
+          "https://www.smcm.edu/about/location/directions/",
+          "Directions 区位交通"
+        ]
+      }
+    },
+    "uf": {
+      "short": "佛罗里达大学",
+      "place": "盖恩斯维尔 · University of Florida, Gainesville, FL 32611",
+      "cityKey": "gainesville",
+      "calShort": "两学期制（Fall/Spring，另有 Summer A/B/C 短学期）；2026 秋 8 月 20 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：常规注册 8/19（逾期收 $100 迟注册费）；8/20 开课；加退课 8/20、8/21、8/24–8/26；8/26 无费退课；9/4 缴费与州内居留重分类截止；9/11 25% 退费全退截止；11/16 单科退学与全退截止；12/2 结课；12/3–12/4 阅读日；12/5–12/11 期末考试；12/11–12/12 毕业典礼；假期 9/7 劳动节、11/11 退伍军人日、11/23–11/28 感恩节假。Spring 2027：常规注册 1/8；1/11 开课；加退课 1/11–1/15；1/15 无费退课；1/22 缴费截止；2/5 25% 退费全退截止；4/9 退课截止；4/21 结课；4/22–4/23 阅读日；4/24–4/30 期末考试；4/30、5/1、5/2 毕业典礼；1/18 马丁·路德·金纪念日；3/13–3/20 春假。短学期节点按 A/B/C 分列，以 Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制本科每学期注册 12 学分及以上；研究生全日制口径以所属学院与 Registrar 当期规定为准；减修低于全日制门槛须先经学业顾问与 International Center 批准。",
+      "drop": "加退课窗口内退课不记 W；无费退课与 25% 退费全退截止按 Registrar 节点；其后单科退学记 W，全退须经书面特殊情况申请；退费档位与 Bursar 口径以当期条款为准。",
+      "ins1": "全体在读学生须持有有效健康保险；项目为 opt-out 制：未在截止前提交合格替代保单证明的学生，自动加入校方赞助的 UHCSR（UnitedHealthcare Student Resources）学生保险计划并按学期入账；国际学生强制投保，豁免机会有限。",
+      "ins2": "符合标准的替代保单经 Health Compliance Office 申请年度豁免；电子保险卡经承保方会员账户领取；家属加保与自费投保走 International Center / Health Compliance 窗口。",
+      "ins3": "替代保单须满足处方药、预防保健、孕产等校方公布的覆盖标准；J-1 人员按国务院要求上传保险材料；保险注册 hold 未解除前不能完成选课与入学手续。",
+      "clinic": "Student Health Care Center（SHCC），2140 Stadium Road, Gainesville, FL 32612；预约电话 352-392-1161；秋春学期周一至周五 8:00–17:00 左右开放；提供初级保健、疫苗、药房、运动医学与心理转介，能力之外转 UF Health 地区医疗网络。",
+      "commute": "主校区在 Gainesville 中部，沿 Stadium Road、University Avenue、Reitz Union 一带展开；自驾经 US-441 与 I-75 衔接；RTS 公交覆盖校区与镇区；校内以步行与校方接驳为主；到 Jacksonville、Tampa、Orlando 均为约 1.5–2 小时车程量级。",
+      "scene": "UF 1853 年建校，佛罗里达旗舰公立研究型大学；设文理、工程、Warrington 商学、新闻传播、法律、医学、公共卫生与健康职业、教育、药学、兽医、护理、建筑设计、艺术等学院；工程、商学、法律、医学、农业、新闻传播等见长；校队 Gators，NCAA Division I 东南联盟（SEC）。",
+      "safety": "UF Police Department（UFPD），Public Safety Building, 1555 Museum Road, Gainesville, FL 32612；紧急 911，非紧急 352-392-1111；24/7 值守，配蓝灯电话、护送与安全提醒；校外归 Gainesville Police Department 与 Alachua County Sheriff's Office。",
+      "transit": "RTS（Regional Transit System）公交覆盖校区与 Gainesville 镇区，持 Gator 1 Card 乘车；校内步行与校方接驳；Gainesville Regional Airport（GNV）在东北郊，支线航班与航线以机场当期公布为准。",
+      "rentnote": "校内宿舍分布 Murphey Area、Beaty Towers、Graham 等传统社区及研究生公寓，房型与当期费率见 Housing 官网；Gator 1 Card 为校园身份、门禁、图书馆、就餐与消费卡；校外租房在校区周边、Haile Village、Butler Plaza 等片区，步行、RTS 或自驾可达；租金随区位与户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.ufl.edu/UGRD/dates-deadlines/2026-2027/2026-2027.pdf",
+          "校历"
+        ],
+        "ins": [
+          "https://internationalcenter.ufl.edu/iss/obtaining-f-1-status/health-insurance/",
+          "保险"
+        ],
+        "police": [
+          "https://police.ufl.edu/contact/",
+          "校警"
+        ],
+        "housing": [
+          "https://housing.ufl.edu/",
+          "住宿"
+        ],
+        "clinic": [
+          "https://shcc.ufl.edu/",
+          "健康中心"
+        ],
+        "transit": [
+          "https://go-rts.com/",
+          "交通"
+        ]
+      }
+    },
+    "ufonline": {
+      "short": "佛罗里达大学在线本科",
+      "place": "线上办学 · 行政归属 University of Florida, Gainesville, FL 32611",
+      "cityKey": "gainesville",
+      "calShort": "线上学期制，与面授项目共用 UF 校历；以异步授课为主，部分课程含同步环节；2026 秋 8 月 20 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "沿用 UF 校历节点：开课、加退课、退课、期末与毕业日期同主校区口径；课程以学期为单位异步授课，讲座录像经 Canvas 归档，部分课程含在线监考与同步考试；逐学期截止日期以 Registrar Dates and Deadlines 与 UF Online Handbook 当期公布为准。",
+      "fulltime": "线上学位可全日制或非全日制注册，每学期学分数由学生与学业顾问规划；按远程学习就读，不适用校内 F-1 check-in 与常规入学手续，身份与停留事项不适用校内流程。",
+      "drop": "加退课与 withdrawal 截止按所选课程所属学期的 UF 校历节点执行；记 W 与退费按 Registrar / Bursar 政策办理；线上课程不设单独退课口径。",
+      "ins1": "UF Online 为纯线上本科项目，不纳入主校区强制 SHIP 投保流程；学生按个人居住地自行安排健康保险。",
+      "ins2": "保险选择与凭证按居住地市场办理；需要保险证明或咨询时联系 UF OneStop 与 Health Compliance 窗口。",
+      "ins3": "家属加保、短期旅行保险等按个人情况经居住地保险市场办理；校属赞助计划仅适用于注册校内课程的学生群体。",
+      "clinic": "无面向线上学生的校内门诊；健康与心理健康资源经 UF Online 学生支持门户与居住地当地医疗体系获取；远程咨询与转介渠道见 Student Experience 页面。",
+      "commute": "全程线上，无主校区通勤；课程、讲座录像、考试与学术支持经 Canvas 线上平台接入；毕业可回 Gainesville 主校区参加毕业典礼。",
+      "scene": "UF Online 提供纯线上本科专业，师资与面授项目为同一批 UF 教师；学位证书与成绩单与主校区不可区分；设人文、商科、传播、健康、工程技术等多个线上本科专业；无校队归属，学生社群经线上 Student Plaza 与 Gator Clubs 组织。",
+      "safety": "无校园警务辖区；线上学习安全与账号保护经 UF 网络安全与 IT 支持渠道；个人所在地突发情况拨当地紧急电话 911。",
+      "transit": "无校园公交与校车；面授会面、考试监督与返校活动按项目安排自行衔接；到 Gainesville 的出行仅与毕业典礼、校园活动相关。",
+      "rentnote": "无校属宿舍，不提供住校安排；学生按个人所在地自行居住；线上学习不产生校区周边租房需求，不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://ufonline.ufl.edu/why-uf-online/student-experience/",
+          "校历"
+        ],
+        "ins": [
+          "https://ufonline.ufl.edu/",
+          "保险"
+        ],
+        "police": [
+          "https://ufonline.ufl.edu/apply/admissions-faqs/",
+          "校警"
+        ],
+        "housing": [
+          "https://ufonline.ufl.edu/why-uf-online/student-experience/",
+          "住宿"
+        ],
+        "clinic": [
+          "https://shcc.ufl.edu/",
+          "健康中心"
+        ],
+        "transit": [
+          "https://ufonline.ufl.edu/apply/admissions-faqs/",
+          "交通"
+        ]
+      }
+    },
+    "floridastate": {
+      "short": "佛罗里达州立大学",
+      "place": "塔拉哈西 · 600 West College Avenue, Tallahassee, FL 32306",
+      "cityKey": "tallahassee",
+      "calShort": "两学期制（Fall/Spring，另有暑期短学期）；2026 秋 8 月 24 日开课，2027 春 1 月 6 日开课。",
+      "calendar": "Fall 2026：宿舍 8/15 开门；8/22–8/27 加退课；8/24 开课；8/27 第四日，费用责任截止；9/7 劳动节停课；10/9 第七周，无成绩退课与减修截止；11/11 退伍军人日停课；11/13 第十二周，院长批准迟退截止；11/25–11/27 感恩节假；12/4 结课与官方退学截止；12/7–12/11 期末周；12/11 毕业典礼；12/12 文凭日期，宿舍中午关闭。Spring 2027：1/6 开课；1/18 马丁·路德·金纪念日；3/15–3/19 春假；4/30 学期结束；加退课、缴费、期末与毕业节点以 Registrar Spring 2027 校历当期公布为准。",
+      "fulltime": "F-1 全日制本科每学期注册 12 学分及以上；减修低于 12 学分须院长批准；研究生全日制口径以学院与 Registrar 规定为准。",
+      "drop": "加退课 8/22–8/27（春季节点同口径）；10/9 前退课无成绩；其后带 W 迟退须院长批准，11/13 截止；退费档位与 Bursar 口径以当期条款为准。",
+      "ins1": "全体全日制学生须出示健康保险证明；F/J 签证国际学生不论学分多少均强制投保；未通过豁免者自动加入 Aetna Student Health 校方计划并按学期入账。",
+      "ins2": "持符合标准替代保单（父母或雇主保单等）者在 waive/elect 门户截止日前提交豁免；豁免咨询 Health Compliance 850-644-3608；电子卡经 Aetna 会员账户领取。",
+      "ins3": "替代保单须满足 BOG 6.009 标准；J-1 国务院计划保单可申请豁免；家属加保与自费投保经 University Health Services 保险窗口办理。",
+      "clinic": "Mary B. Coburn Health & Wellness Center（University Health Services），960 Learning Way, Tallahassee, FL 32306；预约电话 850-644-4567；门诊周一至周五 8:00–16:00 左右；提供初级保健、疫苗、药房与心理服务，能力之外转 Tallahassee 地区医疗机构。",
+      "commute": "主校区在 Tallahassee 市中心西侧，沿 College Avenue 与 Ocala Road 展开；自驾经 US-319 与 I-10 衔接；StarMetro 公交覆盖校区与市区；校内以步行与校方接驳为主；到 Jacksonville 约 2.5 小时、到 Pensacola 约 2 小时车程量级。",
+      "scene": "FSU 1851 年建校，佛罗里达公立旗舰研究型大学之一；设文理、商学、传播信息、犯罪学、教育、工程、艺术、人类科学、法律、医学、音乐、护理、社会工作、戏剧舞蹈、电影等学院；公共事务、犯罪学、舞蹈、电影、音乐、商学等见长；校队 Seminoles，NCAA Division I 大西洋海岸联盟（ACC）。",
+      "safety": "Florida State University Police Department（FSUPD），830 West Jefferson Street, Tallahassee, FL 32306；紧急 911，非紧急 850-644-1234；24/7 值守，配蓝灯电话与护送；校外归 Tallahassee Police Department 与 Leon County Sheriff's Office。",
+      "transit": "StarMetro 公交覆盖 Tallahassee 市区与校区；校内以步行与接驳为主；Tallahassee International Airport（TLH）在西南郊，支线航班以机场当期公布为准。",
+      "rentnote": "校内宿舍含传统宿舍、套房与公寓社区，房型与当期费率见 Housing 官网；FSUCard 为校园身份、门禁、图书馆、就餐与消费卡；校外租房在校区南侧、Midtown 及 Killearn 等片区，StarMetro 或自驾可达；租金随区位户型浮动，不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.fsu.edu/fall-2026-academic-calendar",
+          "校历"
+        ],
+        "ins": [
+          "https://studentinsurance.fsu.edu/",
+          "保险"
+        ],
+        "police": [
+          "https://police.fsu.edu/contact-us",
+          "校警"
+        ],
+        "housing": [
+          "https://housing.fsu.edu/",
+          "住宿"
+        ],
+        "clinic": [
+          "https://uhs.fsu.edu/",
+          "健康中心"
+        ],
+        "transit": [
+          "https://www.talgov.com/starmetro",
+          "交通"
+        ]
+      }
+    }
+  },
+  "EXTRA": {}
+}

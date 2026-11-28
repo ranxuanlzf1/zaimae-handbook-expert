@@ -1,0 +1,1985 @@
+{
+  "SCHOOL": {
+    "grambling": {
+      "short": "格兰布林州立大学",
+      "place": "格兰布林镇（Grambling，林肯堂区），403 Main St, Grambling, LA 71245",
+      "cityKey": "grambling",
+      "calShort": "学期制；2026 秋带 W 退课 10 月 29 日、期末考周 11 月 16–20 日、秋毕业典礼 12 月 4 日；2027 春毕业申请截止 2 月 5 日",
+      "calendar": "2026 秋学期：9 月 17 日为秋季毕业申请截止日；10 月 29 日为最后带 W 退课日（Last Day to Drop Classes or Withdraw with W Grade）；11 月 13 日（周五）为秋季最后上课日；11 月 16–20 日为秋季期末考周；11 月 24 日为毕业候选人材料认证截止日；11 月 30 日感恩节假后复课；12 月 4 日（周五）举行秋季毕业典礼。2027 春学期：1 月 18 日为马丁·路德·金纪念日；1 月 19 日（周二）复课；2 月 5 日（周五）为春季毕业申请最终截止日。秋学期开课日、无 W 退课截止日，以及春学期开课日、无 W 退课截止、期中节点、春季期末考周与春季毕业典礼日期，以 Registrar 当期 Academic Calendar 公布为准；护理、教育、研究生与专业项目按所属学院日历执行，不套用本科统一节点。秋春两季的注册、census 注册统计、缴费截止与成绩提交节点，以 Registrar 当期 Academic Calendar 为准；线上班、短学期与研究生课程的起止日期可能与全学期不同，选课前先核对对应 session 日历。HBCU 校历保留劳动节、感恩节、圣诞与新年假、春假等常规节假日，具体停课日期以官方校历公布为准；宿舍开闭、迎新与期末考周安排随学期滚动更新。护理、教育与研究生专业项目可能按学院单独排轮转与实践节点，不套用本科统一日历。毕业申请须在截止日前提交，毕业典礼时间、地点与礼服要求以毕业事项页面当期通知为准；遇恶劣天气或应急事件，课表与考试安排按学校通知调整。",
+      "fulltime": "全日制学分门槛以学校 Catalog 当期规章为准；F-1 学生低于全日制前必须取得国际学生办公室与 DSO 的 Reduced Course Load 书面批准（学业困难、医疗、最后学期等法定情形），在线课程计入全日制负荷的上限以学校规章为准；研究生与专业项目的学籍要求以所在学院规则为准。",
+      "drop": "带 W 退课截止日见校历：2026 秋为 10 月 29 日，2027 春对应日期以 Registrar 校历公布为准；窗口内退课记 W，逾期退学与退课按校规处理。退课、退学与身份维持先联系国际学生办公室、顾问与 Registrar，再办理学籍流程；学费责任与退款以 Bursar 当期口径为准。",
+      "ins1": "计划与强制范围：学校为全日制本土学生提供事故型计划（accident only plan），为全体国际学生提供疾病与事故综合计划（sickness and accident plan）；学生注册后自动入保并随账单计收，具体承保条款与档位以学校当期保险说明为准。",
+      "ins2": "凭证与豁免：入保后经承保方门户领取电子保险卡与保单号；持其他合格保单申请替代者，须在当期豁免窗口提交保险凭证与保障明细，获批后才不计入学生保险账单；国际学生须全程持有符合学校要求的健康保险，覆盖在美停留全期。",
+      "ins3": "边界与咨询：牙科、视力、医疗转运与遗体遣返是否在保单内，按对应计划条款核对；保费、豁免条件、所需材料与截止日期以学生事务与 Bursar 当期公布为准，办理前先联系国际学生办公室确认身份相关要求。",
+      "clinic": "Foster-Johnson Health Center 位于校园 West Wing、Central Street，通讯地址 GSU Box 4306 Foster-Johnson, Grambling, LA 71245，电话 318-274-3277；处理常见学生健康问题与预防保健。下午 5:00 之后及周末的紧急健康事务联系 Campus Police 转接，或就近前往医院急诊；心理咨询与危机转介经 Student Life 渠道对接。",
+      "commute": "校园位于林肯堂区格兰布林镇，紧邻 Ruston，北临 Highway 80、南近 I-20，距 Ruston 约 5 英里、Monroe 方向约 36 英里、Shreveport 方向约 60 英里；校园与镇区步行可达，日常跨城出行靠自驾、拼车或校车接驳。",
+      "scene": "GSU 是 1901 年建校的公立 HBCU，校园约 384 英亩，设商务与计算机科学、护理、文理、教育等学院；护理项目近年连续保持高执业考试通过率。校队为 Tigers 与 Lady Tigers，参加 NCAA Division I / SWAC；World Famed Tiger Marching Band 是校园文化标志，另有 Greek life、学术与服务社团；学生组织名录以 Student Life 当期发布为准。",
+      "safety": "校园由 Grambling State University Police Department 管辖，24 小时电话 318-274-2222，另一线 318-274-2219，紧急情况拨 911；校警与格兰布林镇警察局、林肯堂区治安力量保持社区警务合作。校外紧急事务由 Grambling PD 与 Lincoln Parish Sheriff 接警；夜间护送与事件报告经 Campus Police 办理。",
+      "transit": "商业航班主用 Shreveport Regional Airport（SHV），在校园以西约 60 英里；备选 Monroe Regional Airport（MLU），在以东约 36 英里；近处另有 Ruston Regional Airport（RSN）以通用航空为主。跨机场地面交通靠自驾、拼车或网约车，I-20 为东西向主干线，无轨道交通直达校园。",
+      "rentnote": "校内宿舍包括 Martha Adams Hall、Crispus Attucks Hall、Mary McLeod Bethune Hall、J.D.E. Bowen Hall、Frederick Douglass Hall、Garner Hall、Simmie Holland Hall 等楼宇；Campus Living 办公室在 Grambling Hall 216 室，工作日 8:00–17:00，紧急情况下班以后转 University Police。校外租房分布在 Grambling 镇区与邻近 Ruston 居住带，多按学年签约；租金、押金随区位与户型浮动，本页不列固定数字，以挂牌当期报价查询为准。",
+      "link": {
+        "cal": [
+          "https://www.gram.edu/academics/registrar/",
+          "Registrar 校历与毕业事项"
+        ],
+        "ins": [
+          "https://www.gram.edu/student-life/",
+          "Student Life 保险与健康事务"
+        ],
+        "police": [
+          "https://www.gram.edu/student-life/",
+          "Campus Police 联系方式"
+        ],
+        "housing": [
+          "https://www.gram.edu/student-life/",
+          "Campus Living 住宿申请"
+        ],
+        "clinic": [
+          "https://www.gram.edu/student-life/",
+          "Foster-Johnson Health Center"
+        ],
+        "transit": [
+          "https://flyshv.com/",
+          "Shreveport Regional Airport（SHV）"
+        ]
+      }
+    },
+    "sela": {
+      "short": "东南路易斯安那大学",
+      "place": "哈蒙德（Hammond，唐吉帕奥堂区），500 Western Avenue, Hammond, LA 70402",
+      "cityKey": "hammond",
+      "calShort": "学期制（16 周全学期 + 短学期与线上班，另设狂欢节假与春假）",
+      "calendar": "2026 秋学期：8 月 18 日为全额退费退课截止日；8 月 19 日周三开课；9 月 7 日劳动节；10 月 8–9 日秋假；10 月 30 日周五 12:30 为最后退学/带 W 退课日；11 月 25–27 日感恩节假；12 月 4 日周五最后上课日；12 月 7–11 日期末考周；12 月 12 日周六秋季毕业典礼。2027 春学期：1 月 18 日马丁·路德·金纪念日；1 月 19 日为全额退费退课截止日；1 月 20 日周三开课；2 月 8–9 日狂欢节假；3 月 26 日至 4 月 2 日春假；4 月 8 日周四为最后退学/带 W 退课日；5 月 7 日周五最后上课日；5 月 10–14 日期末考周；5 月 15 日周六春季毕业典礼。各 8 周短学期与线上班节点见 Registrar 当期校历；护理、教育等专业项目按所属学院安排执行。秋春两季的注册、加退课、缴费截止与成绩提交节点，以 Registrar 当期校历为准；8 周短学期、线上班与夜间班的起止与退课窗口可能与全学期不同，选课前先核对对应 session 日历。节假日含劳动节、秋假、感恩节、马丁·路德·金日、狂欢节假与春假，具体停课日期以官方校历公布为准；狂欢节假为东南路易斯安那地区传统安排。晚注册、退费比例与自动 W 退学规则按 Catalog 当期条款执行；护理等专业项目的实践与轮转安排以所属学院通知为准。毕业申请、礼服领取与学位授予流程见毕业事项页面；飓风季遇恶劣天气时，课表、考试与毕业典礼可能按学校应急通知调整。",
+      "fulltime": "全日制学分门槛以学校 Catalog 当期规章为准；F-1 学生低于全日制前必须取得国际学生办公室与 DSO 的 Reduced Course Load 书面批准（学业困难、医疗、最后学期等法定情形），在线课程计入全日制负荷的上限以学校规章为准。",
+      "drop": "退课与退学分界见校历：100% 退费截止日前退课无成绩记录；其后至 10 月 30 日（秋）/4 月 8 日（春）退学或退课记 W；窗口之后按校规处理。退课、退学与身份维持先联系 Advising 与国际学生办公室，再走 Registrar 流程；学费退款以 Bursar 当期口径为准。",
+      "ins1": "计划与强制范围：国际学生须持有覆盖在美停留全期的合格健康保险；学校学生健康保险计划的承保方、档位与自动入保规则，以 University Health Center 与 Bursar 当期公布为准。学生健康服务费按学期另计，与保险费分开列账。",
+      "ins2": "凭证与豁免：持其他合格保单者按当期豁免窗口提交保险卡、保单号、生效与到期日及保障明细，获批后保费从账单移除；未在窗口提交或未通过核验者不适用豁免。电子保险卡与豁免批准记录到校供 Health Center 核验。",
+      "ins3": "边界与咨询：替代保单的免赔额、既往症、预防保健、医疗转运与遗体遣返等条款逐项核对；牙科与视力多为独立选购计划。保费、豁免条件与材料清单以 Health Center 和学校当期说明为准。",
+      "clinic": "University Health Center 位于 Student Union Annex 303A 室，通讯地址 SLU Box 10734, Hammond, LA 70402，街道地址 303A Union Avenue；电话 985-549-2242，主任/执业护士 Andrea Anderson。门诊时间周一至周四 7:45–17:00，周五（暑期除外）7:45–12:00；免疫记录与合规表可发至 immunizations@southeastern.edu 提交。",
+      "commute": "校园在哈蒙德市区，Friendship Circle、Strawberry Stadium 与学生公寓群连成步行圈；校内以步行、自行车与校车为主，跨片区出行靠自驾或网约车。哈蒙德位于 I-12 与 I-55 交汇处，往新奥尔良方向沿 I-55 南行，往巴吞鲁日方向沿 I-12 西行。",
+      "scene": "学校 1925 年建校，是东南路易斯安那的区域综合大学，设商务、教育、护理、文理、计算机与专业研究等学院；校队为 Lions 与 Lady Lions，参加 NCAA Division I（橄榄球为 FCS）Southland Conference，吉祥物 Roomie the Lion，校色绿金。校园有注册学生组织、The Rec 健身中心、行进乐团与希腊社团；名录与活动日程以 Student Affairs 当期发布为准。",
+      "safety": "校园由 Southeastern Louisiana University Police Department 巡逻值守，紧急情况拨 911；校警提供校园巡逻、夜间护送与事件报告渠道，具体非紧急电话与办公室地址以 Police Department 官网当期公布为准。校外治安归哈蒙德市警察局与唐吉帕奥堂区警长办公室；校园警报经学校紧急通知系统推送。",
+      "transit": "航空主用 Louis Armstrong New Orleans International Airport（MSY），向南经 I-55 约 50 英里量级；备选 Baton Rouge Metropolitan Airport（BTR），向西经 I-12 约 50 英里量级；近处另有 Hammond Northshore Regional Airport（HDC）以通用航空为主。无轨交直达校区，机场衔接靠自驾、拼车或网约车。",
+      "rentnote": "校内住宿提供约 2,700 个床位，分布在 Cardinal Newman Hall、Washington Hall、Hammond Hall、Louisiana Hall、Pride Hall、Taylor Hall、Ascension Hall、Twelve Oaks Hall 与 North Campus 公寓；住校资格、餐计划与申请流程以 University Housing 当期章程为准。校外租房在哈蒙德市区与 I-12 沿线公寓带，多按学年签约；租金、押金随区位与户型浮动，本页不列固定数字，以挂牌当期报价查询为准。",
+      "link": {
+        "cal": [
+          "https://www.southeastern.edu/admin/registrar/dates/calendar/",
+          "Registrar 校历页面"
+        ],
+        "ins": [
+          "https://www.southeastern.edu/admin/health_ctr/",
+          "Health Center 保险与免疫说明"
+        ],
+        "police": [
+          "https://www.southeastern.edu/admin/police/",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.southeastern.edu/admin/housing/",
+          "University Housing 住宿申请"
+        ],
+        "clinic": [
+          "https://www.southeastern.edu/admin/health_ctr/",
+          "University Health Center 门诊时间"
+        ],
+        "transit": [
+          "https://flymsy.com/",
+          "Louis Armstrong New Orleans International（MSY）"
+        ]
+      }
+    },
+    "ullaf": {
+      "short": "路易斯安那大学拉法耶特分校",
+      "place": "拉法耶特 · 100 University Avenue, Lafayette, LA 70504（主校区 University Avenue 与 Cajundome 一带）",
+      "cityKey": "lafayette",
+      "calShort": "两学期制，另设 A/B 小学期；2026 秋 8 月 24 日开课，2027 春 1 月 13 日开课。",
+      "calendar": "Fall 2026：8 月 19 日教职工报到；8 月 20 日缴费截止；8 月 24 日（周一）秋季开课；9 月 2 日为加课与无 W 退课截止，未缴费选课同日被清退；9 月 7 日劳动节停课；9 月 11 日为人口普查日（census）；9 月 25 日提交毕业申请；10 月 8–9 日秋季假；10 月 26 日至 11 月 6 日为下一学年选课咨询周；11 月 16 日为带 W 退课与退学最后日；11 月 26–27 日感恩节假；11 月 30 日学位论文截止；12 月 4 日结课；12 月 7–8 日、12 月 10–11 日期末考试；12 月 11 日秋季学期结束；12 月 14 日中午成绩截止；12 月 18 日秋季毕业典礼。Spring 2027：1 月 11 日教职工报到与缴费截止；1 月 13 日（周三）春季开课；1 月 18 日马丁·路德·金日停课；1 月 25 日加课与无 W 退课截止；2 月 2 日人口普查日；2 月 8–10 日狂欢节假；2 月 26 日提交毕业申请；3 月 15–25 日选课咨询周；3 月 24 日欠费冻结名单生成；3 月 26 日至 4 月 4 日复活节春假；4 月 5 日开启秋季选课；4 月 12 日为带 W 退课与退学最后日；4 月 28 日至 5 月 2 日集中复习期；4 月 30 日结课；5 月 3–4 日、5 月 6–7 日期末考试，5 月 5 日为复习日；5 月 7 日春季学期结束；5 月 10 日成绩截止；5 月 14 日春季毕业典礼。A/B 小学期（A-term、B-term）各有独立加退课与退费节点，以 Registrar 校历附件为准。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修（reduced course load）须经学业顾问与国际事务办公室事前批准并在 SEVIS 备案；在线课学分上限与全日制口径以 International Affairs 当期通知为准。",
+      "drop": "加退课经 Registrar 系统按校历日期办理；无 W 退课截止为秋季 9 月 2 日、春季 1 月 25 日；带 W 退课与退学截止为秋季 11 月 16 日、春季 4 月 12 日；A/B 小学期退课日期另见校历附件，退费档位以 Bursar 当期条款为准。",
+      "ins1": "本科与研究生国际学生自动纳入学校国际学生保险计划，保费随每学期学费账单计收；当前承保方为 Blue Cross Blue Shield Global Solutions，保障范围与免赔额以保单当期说明为准。",
+      "ins2": "已持有同等水准保险的国际学生可在承保方网站提交豁免申请；豁免须每学期重新办理，保单须覆盖在美停留全期并达到学校最低标准；疑问联系 Student Health Services，电话 337-482-1293。",
+      "ins3": "豁免通过后保留批准记录，到校供 Student Health Services 核验；牙科、视力通常为独立选购计划，须自行向承保方办理；未在窗口内提交或未通过核验者不适用豁免。",
+      "clinic": "Office of Student Health Services 提供常规就诊、免疫记录核验与健康咨询；心理健康方面由教育学院咨询系运营的 Clinic for Counseling and Personal Development 承接，地址与预约电话以 SHS 当期公布为准；24 小时危机渠道与最近急诊医院以 SHS 当期公布为准。",
+      "commute": "主校区在拉法耶特市区北部、University Avenue 沿线；自驾经 I-10 或 I-49 出入，校内停车按许可证分区；LFT 区域机场在市区东北约 10–15 分钟车程；校区到市区与周边邻里靠 LTS 公交、步行与自行车。",
+      "scene": "UL Lafayette 前身可追溯至 1898 年创立的 Southwestern Louisiana Industrial Institute（SLII），后更名 University of Southwestern Louisiana，校队昵称 Ragin' Cajuns；现为 UL System 内公立研究型大学，设文理、工程、商科、教育与人类发展、护理与健康、艺术等学院；校队参加 NCAA 太阳带联盟（Sun Belt Conference），校区毗邻 Cajundome 与 Lafayette 区域机场。",
+      "safety": "UL Lafayette Police Department（ULPD）24 小时值守，办公点 210 Hebrard Blvd；校警电话 337-482-6447，夜间接驳车经 Parking & Transit 调度，电话 337-262-1740；校园设紧急呼叫电话与 ENS 紧急通知系统；校外治安归拉法耶特市警察局与拉法耶特堂区警长办公室，紧急情况拨 911。",
+      "transit": "校内交通由 Transportation Services 运营接驳环线（Cajun Field、Bourgeois、Rex St. 等站点）；市区公交为 Lafayette Transit System（LTS），Johnston Street 沿线线路服务主校区，班次与实时位置见 ridelts.com；城际靠 I-10、I-49 自驾或长途客车，民航走 LFT。",
+      "rentnote": "按 UL System 政策，未婚全日制一年级学生在宿舍有空余床位时须住校；住校生除 Heritage Apartment 外须持餐计划，传统楼可选 Cajun Freedom 或 Cajun Select，Legacy Park Apartments 内学分较少的学生同样须购餐计划；校外租房集中在校园周边与 Johnston Street、Pinhook Road 沿线邻里，房源按学期签约，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://louisiana.edu/registrar/registration/academic-calendar",
+          "Registrar 2026-27 校历"
+        ],
+        "ins": [
+          "https://louisiana.edu/internationalaffairs/current-students/health-insurance",
+          "国际学生健康保险"
+        ],
+        "police": [
+          "https://police.louisiana.edu/",
+          "UL Lafayette Police Department"
+        ],
+        "housing": [
+          "https://louisiana.edu/housing/get-started/first-year-students",
+          "住宿与新生住校要求"
+        ],
+        "clinic": [
+          "https://louisiana.edu/studenthealth",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://park.louisiana.edu/transit",
+          "校园交通与 LTS 接驳"
+        ]
+      }
+    },
+    "mcneese": {
+      "short": "麦克尼斯州立大学",
+      "place": "莱克查尔斯 · 4205 Ryan Street, Lake Charles, LA 70605（Ryan Street 与 Beauregard Drive 一带）",
+      "cityKey": "lakecharles",
+      "calShort": "两学期制 + 短学期；2026 秋 8 月 24 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026 Regular Term：8 月 24 日（周一）秋季开课；8 月 25 日为注册、加课与退课最后日；9 月 7 日劳动节停课；9 月 11 日 Reporting Day；10 月 8–9 日秋季假；10 月 15 日期中；10 月 20 日期中成绩截止；11 月 25–27 日感恩节假；12 月 1 日为退课最后日；12 月 7 日结课；12 月 8 日复习日；12 月 9 日期末考试开始；12 月 12 日期末考试结束；12 月 18 日秋季毕业典礼。Spring 2027 Regular Term：1 月 19 日（周二）春季开课；1 月 20 日加课与退课截止；2 月 8–9 日狂欢节假；3 月 26 日至 4 月 2 日春假；4 月 29 日为退课最后日；5 月 8 日结课；5 月 10 日期末考试开始；5 月 13 日期末考试结束、春季学期结束；5 月 17 日成绩截止；5 月 21 日春季毕业典礼。每学期注册缴费、选课确认与毕业申请节点按学校公告办理；研究生与本科生毕业审核分别安排在毕业典礼前后；7A/7B 等短学期另有独立开课、加退课与考试日期，以学校 Schedule 页与 catalog 当期说明为准。各学院学业顾问在选课周指导学分规划、实习与毕业进度；短学期与常规学期的退费、退课档位分别计算，不与常规学期混用；期末成绩在统考结束后按学校截止时间录入，毕业典礼在校历公布的日期于校园场馆举行，研究生与本科生审核节点分开安排。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与国际学生事务办公室事前批准并在 SEVIS 备案；全日制口径以学校当期 catalog 为准。",
+      "drop": "加退课经 Registrar 系统按校历办理；无 W 加退课截止为秋季 8 月 25 日、春季 1 月 20 日；带 W 退课截止为秋季 12 月 1 日、春季 4 月 29 日；退费档位按 catalog 当期条款执行。",
+      "ins1": "持 F/J 签证的国际学生须通过学校购买面向本人及家属的综合医疗保险，含医疗运送与遣返保障，由美国本土公司承保；保费作为学生费用的一部分计收。",
+      "ins2": "入学前已持有美国本土公司承保、与学校计划相当的综合医疗保险者，可向 International Student Affairs Officer 申请豁免；申请须按学期提交并附保单证明。",
+      "ins3": "达到学校规定学分的学生另须符合学校意外与住院保险要求；牙科、视力为独立选购计划；保单免赔额与网络医院以承保方当期说明为准。",
+      "clinic": "Student Health Services 设于 Dr. Thomas Henry Watkins Infirmary，地址 4100 Ryan St., Lake Charles, LA 70601，电话 337-475-5748，邮箱 studenthealth@mcneese.edu；为学生提供急性常见病诊疗，慢病与重症转介本地医生；心理健康资源见学生事务页面。",
+      "commute": "校区在莱克查尔斯市区西侧、Ryan Street 沿线；自驾经 I-10 出入，校内停车按许可证分区；LCH 区域机场在市区以南约 5 英里；校区到周边邻里靠公交、步行与自行车。",
+      "scene": "McNeese 前身为 Lake Charles Junior College，后更名 John McNeese Junior College，再升格为四年制州立大学；设商科、教育、工程与计算机、文理、护理与健康专业、理科、视觉与表演艺术等学院；校队昵称 Cowboys/Cowgirls，联盟归属以学校 athletic 官网为准。校区在 Ryan Street 沿线，含教学、实验室、农业与工程设施、体育场馆与学生活动空间；本科与研究生项目经各学院开设，国际学生事务由 International Student Affairs 对接；校园毗邻莱克查尔斯市区与卡尔克苏湖畔邻里，日常通勤依托公交、步行与自驾。",
+      "safety": "McNeese State University Police Department，地址 4497 Dr. Philip Williams Drive, Box 90540, Lake Charles, LA 70609；调度电话 337-562-4911，校内分机拨 111；24/7 值守，护送服务电话 337-475-5711；校外归莱克查尔斯市警察局与卡尔克苏堂区警长办公室，紧急拨 911。",
+      "transit": "校内停车由 Police 与 Parking 部门统一管理；市区公交为 Lake Charles 公交系统，线路连接校园、市中心与主要商业带；民航走 LCH 区域机场；城际靠 I-10 自驾或长途客车。",
+      "rentnote": "校内住宿含宿舍、套房与花园公寓，住校生每学期（秋、春、夏）均须购餐计划；住宿与 ResLife 办公室在 Beauregard Drive 与 Jeff Davis Drive 一带；校外租房集中在校园周边与市中心以西邻里，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.mcneese.edu/schedule/fall-2026/",
+          "校历与重要日期"
+        ],
+        "ins": [
+          "https://www.mcneese.edu/policy/student-injury-and-sickness-insurance-plan-policy/",
+          "学生保险政策"
+        ],
+        "police": [
+          "https://www.mcneese.edu/police/",
+          "McNeese University Police"
+        ],
+        "housing": [
+          "https://catalog.mcneese.edu/content.php?catoid=11&navoid=467",
+          "住宿与餐计划（校 Catalog）"
+        ],
+        "clinic": [
+          "https://www.mcneese.edu/health-services",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://flylakecharles.com/",
+          "LCH 区域机场"
+        ]
+      }
+    },
+    "ulmon": {
+      "short": "路易斯安那大学门罗分校",
+      "place": "门罗 · 700 University Avenue, Monroe, LA（Bayou Desiard 畔主校区）",
+      "cityKey": "monroe",
+      "calShort": "两学期制 + 夏学期；2026 秋秋季学期，2027 春春季学期；各 Important Dates 见校历页。",
+      "calendar": "Fall 2026：8 月 21 日 10:30 前为全额退费截止；8 月 22–26 日退课按 90% 退费；8 月 27 日至 9 月 4 日按 50% 退费；9 月 4 日后退学不退费；10 月 8–9 日秋季假，10 月 12 日复课；12 月 11 日毕业典礼彩排；12 月 12 日秋季毕业典礼（Fant-Ewing Coliseum）。每学期内依次为注册缴费、开课、加退课期、退学（带 W）期、期中考察、期末统考、成绩提交与毕业典礼；秋季衔接劳动节、秋季假与感恩节，春季衔接马丁·路德·金日、狂欢节假与春假。Spring 2027 学位申请开放期为 2026 年 9 月 21 日至 2027 年 2 月 10 日；春季开课、加退课、期中、期末与毕业日期以 Registrar 发布的 Important Dates 为准。参照 2026 春季归档口径：1 月 12 日春季开课，2 月 16–17 日狂欢节假、2 月 18 日复课，4 月 3 日、4 月 6–7 日春假、4 月 13 日复课，5 月 9 日春季毕业典礼；2027 春季具体日期以新校历公布为准，退费档位与毕业审核时间以 Bursar 当期条款为准。四大学院与研究生院的学业顾问在选课周核对学分、先修课与毕业进度；宿舍合约按学年（8 月至次年 5 月）签订，与秋季、春季学期节奏对齐；成绩在期末考核结束后按 Registrar 截止时间提交，毕业典礼在 Fant-Ewing Coliseum 分学院举行，未完成学分或审核材料者顺延至下一授予期。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与国际学生办公室事前批准并在 SEVIS 备案；全日制口径以 ULM catalog 当期说明为准。",
+      "drop": "退课与退学按校历 Important Dates 办理并对应退费档位；秋季 9 月 4 日后退学不再退费；带 W 退课截止、期中与期末节点以 Registrar 当期校历为准，2027 春季具体日期以新校历公布为准。",
+      "ins1": "学校提供团体学生伤害与疾病保险计划；该计划对所有注册国际学生为强制投保，保费随学生费用计收； domestic 学生可自愿参加同一团体计划。",
+      "ins2": "秋季学期保险申请与保单材料在注册结束后由承保方直接寄给学生；春季与夏季学期可到 International Student Office 领取申请与保单信息；费用疑问联系 Student Account Services，联系方式以 catalog 当期说明为准。",
+      "ins3": "入学须向 Student Health Center 提交有效免疫证明（Proof of Immunization）；牙科、视力为独立选购计划；保单网络医院与免赔额以承保方当期说明为准。",
+      "clinic": "Student Health and Counseling Center 位于 LaSalle Street 与 University Avenue 交口，同时承接 Student Health Services 与 Counseling Center；夜间与周末急症联系 UPD，电话 318-342-5350；免疫表在校健康中心网站领取。",
+      "commute": "主校区在门罗市区、Bayou Desiard 畔；自驾经 I-20 与 DeSiard Street 出入，校内停车由 UPD 管理；MLU 区域机场在市区以东；校区到教学区、宿舍区以步行与校车为主。",
+      "scene": "ULM 前身为 Ouachita Parish Junior College，后经 LSU Northeast Center、Northeast Louisiana University 等阶段，定名 University of Louisiana at Monroe；现设 Arts, Education and Sciences、Business and Social Sciences、Health Sciences、Pharmacy 四大学院及 Graduate School；校队昵称 Warhawks，联盟归属以学校 athletic 官网为准。",
+      "safety": "University Police Department（UPD）驻 Filhiol Hall，3811 DeSiard Street；停车与咨询电话 318-342-5320，课后健康急症联系 UPD 318-342-5350；警察与信息服务全年 24 小时提供；校外归门罗市警察局与沃希托堂区警长办公室，紧急拨 911。",
+      "transit": "校内停车由 UPD 统一管理；市区公交为 Monroe Transit 公有公交系统，固定线路与 ADA 辅助客运覆盖市区，并接驳 MLU 机场；城际靠 I-20 自驾或长途客车，民航走 MLU。",
+      "rentnote": "校内住宿含 Madison、Ouachita、Masur 等宿舍楼与 University Commons、University Suites、Bayou Suites、Bayou Village Apartments，房间带家具、含水电网络与洗衣；住宿合约按学年（8 月至次年 5 月）签订；符合条件的校外豁免须向 Student Center 办公室提交 Off-Campus Housing Request；校外租房集中在校园周边与 DeSiard Street 沿线，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ulm.edu/schedule/",
+          "校历与 Important Dates"
+        ],
+        "ins": [
+          "https://catalog.ulm.edu/content.php?catoid=15&navoid=1935",
+          "学生伤害与疾病保险（校 Catalog）"
+        ],
+        "police": [
+          "https://www.ulm.edu/police/",
+          "UPD"
+        ],
+        "housing": [
+          "https://www.ulm.edu/reslife/faq.html",
+          "Residence Life 住宿"
+        ],
+        "clinic": [
+          "https://catalog.ulm.edu/content.php?catoid=15&navoid=1935",
+          "University Health Service（校 Catalog）"
+        ],
+        "transit": [
+          "https://flymonroe.org/",
+          "MLU 区域机场"
+        ]
+      }
+    },
+    "nsula": {
+      "short": "西北州立大学",
+      "place": "纳基托什（Natchitoches，纳基托什堂区），175 Sam Sibley Dr, Natchitoches, LA 71457",
+      "cityKey": "natchitoches",
+      "calShort": "学期制（16 周全学期 + 短学期；另设 Shreveport、Fort Polk/Leesville、England Air Park 分校区）",
+      "calendar": "2026 秋学期：8 月 17 日周一开课；8 月 26 日最后加课日；8 月 31 日最后无成绩退课日；9 月 7 日劳动节；10 月 12 日返校日；10 月 19 日最后带 W 退课日；11 月 16–20 日期末考周；11 月 20 日周五秋季毕业典礼；12 月 18 日冬季毕业典礼。2027 春学期：1 月 11 日周一开课；1 月 18 日最后无成绩退课日；1 月 22 日最后加课日；3 月 22 日最后带 W 退课日；3 月 29 日至 4 月 2 日春假；4 月 29 日至 5 月 3 日期末考周；5 月 4 日周二春季毕业典礼。各短学期、在线班与 Shreveport、Fort Polk/Leesville、England Air Park 分校区节点，以 Registrar 当期校历为准。秋春两季的注册、census 注册统计、缴费截止与成绩提交节点，以 Registrar 当期校历为准；短学期、线上班与 Shreveport、Fort Polk/Leesville、England Air Park 分校区的起止日期可能与主校区不同，选课前先核对对应 session 日历。节假日含劳动节、返校日、感恩节、春假等，具体停课日期以官方校历公布为准；分校区教学日历各自独立发布。晚注册、退费比例与带 W 退学规则按 Catalog 当期条款执行；护理、联合健康与教育专业的实践节点以所属学院通知为准。毕业申请、礼服领取与学位授予流程见毕业事项页面；遇恶劣天气或应急事件，课表、考试与毕业典礼安排按学校通知调整。",
+      "fulltime": "全日制学分门槛以学校 Catalog 当期规章为准；F-1 学生低于全日制前必须取得国际学生办公室与 DSO 的 Reduced Course Load 书面批准（学业困难、医疗、最后学期等法定情形），在线课程计入全日制负荷的上限以学校规章为准；分校区学生的学籍要求以所属校区规则为准。",
+      "drop": "无成绩退课与带 W 退课分界见校历：秋学期 8 月 31 日前退课无成绩记录，10 月 19 日前退课记 W；春学期 1 月 18 日前无成绩记录，3 月 22 日前记 W；窗口之后退学按校规处理。退课、退学与身份维持先联系 Advising 与国际学生办公室，再走 Registrar 流程；学费退款以 Bursar 当期口径为准。",
+      "ins1": "计划与强制范围：每学期征收 Health Services Fee 用于校内医疗与健康促进服务，该费用与学生健康保险是分开列账的两个项目；国际学生的保险要求、计划选项与自动入保规则，以学校当期保险说明为准。",
+      "ins2": "凭证与豁免：在校期间须持有覆盖在美停留全期的合格健康保险；持其他合格保单申请豁免者，按当期窗口提交保险卡、保单号、生效与到期日及保障明细，获批后才不计入对应账单；电子保险卡保留备查。",
+      "ins3": "边界与咨询：替代保单的免赔额、既往症、预防保健、医疗转运与遗体遣返等条款逐项核对；牙科、视力是否覆盖按保单条款确认。承保方、保费档位、豁免窗口与材料清单以 Bursar 和 Health Services 当期公布为准。",
+      "clinic": "Health Services Center（Natchitoches 主校区）门诊时间周一至周四 7:30–16:30，周五 7:30–12:00；课后与周末持学生证前往 NRMC Walk-in Clinic（8:00–19:00）；2026 秋起可预约 NRMC 校园远程医疗，电话 318-238-5300 按 5。校内提供不限次数门诊、护理评估、OTC 药品、换药拆线、同日医师预约（按当期共同支付标准）与心理咨询；心理咨询办公室 318-357-5621（工作日 8:00–17:00），下班后危机事项联系校警转接值班咨询师，心理危机可拨 988。",
+      "commute": "主校区坐落于纳基托什历史城区旁的 100 英亩老校址，教学区、宿舍与 Student Union 步行圈完整；校内以步行、自行车与校车为主。分校区（Shreveport 1800 Line Ave、Fort Polk/Leesville、England Air Park）通勤各自独立安排；跨城出行靠自驾。",
+      "scene": "学校 1884 年以 Louisiana State Normal School 创立，是路易斯安那最古老的师范院校之一，校区在本州最老城市 Natchitoches 的历史地段；设教育、商务、文理、护理与联合健康、应用科学与技术等学院。校队为 Demons，参加 Southland Conference；另有注册学生组织、艺术团体与希腊社团，名录以 Student Affairs 当期发布为准。",
+      "safety": "NSU Police Department 为完全授权执法机构，地址 315 Caspari Street, Natchitoches, LA 71497；非紧急与调度电话 318-357-5431，全年 24/7 值守，紧急情况拨 911；警员 POST 认证，设巡逻与调查两个分队，配 CampusShield 安全 App 与 Purple Alert（Firstcall）紧急通知系统。校外治安归 Natchitoches 市警察局与纳基托什堂区警长办公室；分校区事件由驻区人员记录后转校警。",
+      "transit": "航空主用 Alexandria International Airport（AEX），在以南约 50 英里量级；备选 Shreveport Regional（SHV，西北约 70 英里）与 Monroe Regional（MLU，以东约 60 英里）；城内无轨道交通，机场衔接靠自驾、拼车或网约车，长途沿 Hwy 1 与 I-49 方向通行。",
+      "rentnote": "校内住宿为公寓式（apartment-style），日常出入不逐间查房；宿舍区与 Student Union、教学区相邻，住宿资格、合约与配餐规则以 NSU Housing 当期章程为准，入住时登记紧急联系人。校外租房分布在历史城区、河滨与校区周边街道，小镇房源有限，多按学年签约；租金、押金随区位与户型浮动，本页不列固定数字，以挂牌当期报价查询为准。",
+      "link": {
+        "cal": [
+          "https://nsula-public.s3-us-east-2.amazonaws.com/websiteassets/registrar/academiccalendars/Registrar%20-%20Academic%20Calendar%20-%202026%20-%20Fall.pdf",
+          "Registrar 2026 秋校历 PDF"
+        ],
+        "ins": [
+          "https://www.nsula.edu/health-safety/",
+          "Health Services 费用与保险说明"
+        ],
+        "police": [
+          "https://www.nsula.edu/health-safety/university-police/",
+          "NSU Police Department"
+        ],
+        "housing": [
+          "https://www.nsula.edu/health-safety/",
+          "学生生活与住宿服务入口"
+        ],
+        "clinic": [
+          "https://www.nsula.edu/health-safety/",
+          "Health Services 门诊与咨询"
+        ],
+        "transit": [
+          "https://flyaex.org/",
+          "Alexandria International Airport（AEX）"
+        ]
+      }
+    },
+    "lsuhscno": {
+      "short": "路易斯安那州立大学健康科学中心新奥尔良",
+      "place": "新奥尔良 · 433 Bolivar Street, New Orleans, LA 70112（CBD 主校区）；牙科学院 1100 Florida Avenue, LA 70119",
+      "cityKey": "neworleans",
+      "calShort": "专业学院各自安排学年与临床轮转；无本科通用校历，节点以所在学院 Registrar 公布为准。",
+      "calendar": "LSU Health Sciences Center New Orleans 为专业健康科学中心，下设 School of Medicine、School of Dentistry、School of Nursing、School of Public Health、School of Allied Health Professions 与 School of Graduate Studies；各学院有独立的学年日历、临床轮转排期与考核节点，不适用本科通用校历。通用学期日历（研究生与多数专业项目）Fall 2026：8 月 17 日开课；8 月 21 日加课/注册截止；8 月 28 日为无记录退课截止；9 月 7 日劳动节；9 月 15 日人口普查日；10 月 23 日为带 W 退学/退学最后日；11 月 26–27 日感恩节假；12 月 4 日学期结束；12 月 7 日成绩截止；12 月 10 日学位授予。Spring 2027：1 月 11 日开课；1 月 15 日加课/注册截止；1 月 18 日马丁·路德·金日；1 月 22 日为无记录退课截止；2 月 1 日人口普查日；2 月 9 日狂欢节假；3 月 19 日复活节假并为带 W 退学最后日；4 月 30 日学期结束；5 月 7 日成绩截止；5 月 13 日毕业典礼。医学与联合健康专业分基础医学阶段与临床轮转阶段，轮转按区块对接附属医院与社区诊所；牙科有独立 pre-clinic 与 clinic 阶段，DDS 与牙技、牙洁项目按各自 session 日历安排；护理、公共卫生与研究生项目按学期课程与实践节点推进。各专业学院入学报到前须完成免疫核验、背景审查与临床站点准入材料；研究生与专业学位学生的学位申请、轮转考核与毕业审核按学院各自时间表提交，跨学院选课与学分认定以学院教务口径为准。",
+      "fulltime": "注册口径按各专业学院研究生与专业学位项目规定执行；持 F-1 学生的全日制学分、减修与临床安排须经学院国际学生事务口径确认并在 SEVIS 备案，本科 12 学分口径不适用。",
+      "drop": "退课、退学与轮转调整按所在学院学术政策与日历办理；通用学期无记录退课截止为秋季 8 月 28 日、春季 1 月 22 日，带 W 退学截止为秋季 10 月 23 日、春季 3 月 19 日；临床轮转调整以学院教务当期书面口径为准。",
+      "ins1": "专业学院学生一般自行安排商业健康保险或参加项目配套的健康保障安排；入学前确认学院要求的保险类型、免赔额与网络医院范围，保险卡与保单号随身留存。",
+      "ins2": "是否存在学院或中心统一承保的学生健康保险计划、豁免条件与承保方，以所在学院学生事务与 Bursar 当期口径为准；入学前按学院通知确认保险类型、保障范围与网络医院，保单材料与豁免记录留存备查。",
+      "ins3": "牙科、视力与伤残保障常为独立安排；临床实习期间的职业责任保险按学院项目规定执行，不与个人健康保险混淆。",
+      "clinic": "中心依托 LSU Healthcare Network 与附属医院、诊所网络提供教学与临床服务；学生基础医疗与心理健康资源经各学院学生事务办公室对接；校内健康中心位置、预约电话与 24 小时危机渠道以各学院当期公布为准。",
+      "commute": "主校区在新奥尔良 CBD、近 Caesars Superdome 一带；牙科校区在 City Park 与 I-610 附近的 Florida Avenue；两校区间靠自驾、RTA 公交或校车安排；住宿多在 CBD、Warehouse District、Mid-City、Garden District 与 Tulane Avenue 沿线。",
+      "scene": "LSU Health New Orleans 是公立学术健康科学中心，下设六个专业学院覆盖医学、牙科、护理、公共卫生、联合健康专业与研究生研究，承担州内大量医护人才培养、临床教学、社区服务与模拟医学培训，研究方向覆盖生物医学、公共卫生与临床科学；主校区位于新奥尔良 CBD、近 Caesars Superdome，牙科校区在 City Park 与 I-610 附近的 Florida Avenue，与多家附属医院、诊所和社区健康站点构成教学网络；专业与研究生口径录取，不设本科招生序列。",
+      "safety": "LSUHSC New Orleans Campus Police 为中心自有警力，24/7 巡逻校区与停车场，电话 504-568-8999；Resource Center（433 Bolivar St.）504-568-2156，Florida Avenue 点位 504-941-8100，Residence Hall 点位 1901 Perdido St.；Campus Assistance Program 504-568-8888；校外归新奥尔良警察局与奥尔良堂区警长办公室，紧急拨 911。",
+      "transit": "市区公交由 RTA 运营，连接 CBD、French Quarter、Mid-City 与住宅区；两校区通勤按学院安排或自驾；民航走 MSY，无轨交直达机场。",
+      "rentnote": "中心无本科宿舍口径；主校区周边仅有少量专业学生住宿资源（1901 Perdido St. 学生宿舍点位），多数研究生与专业学位学生在校外租房；常见片区为 CBD、Warehouse District、Tulane Avenue、Mid-City 与 Garden District，合租与公寓多按 12 个月签约，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.lsuhsc.edu/registrar/academic_calendar-2.aspx",
+          "Registrar 学术日历"
+        ],
+        "ins": [
+          "https://www.lsuhsc.net/orgs/campushealth/chwsr.aspx",
+          "校园健康、福利与安全资源"
+        ],
+        "police": [
+          "https://www.lsuhealth.us/administration/vcgcsa/police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.lsuhealth.us/administration/vcgcsa/police/",
+          "住宿点位与警务"
+        ],
+        "clinic": [
+          "https://www.lsuhsc.net/orgs/campushealth/chwsr.aspx",
+          "健康与安全资源"
+        ],
+        "transit": [
+          "https://www.rtaneworleans.com/",
+          "RTA 新奥尔良公交"
+        ]
+      }
+    },
+    "suno": {
+      "short": "南方大学新奥尔良分校",
+      "place": "新奥尔良 · 6400 Press Drive, New Orleans, LA 70126（Gentilly 片区）",
+      "cityKey": "neworleans",
+      "calShort": "两学期制；2026 秋新生报到注册 8 月 12–13 日；各退课与毕业节点以学校校历为准。",
+      "calendar": "Fall 2026：8 月 10 日教职工会议；8 月 12 日转学生、老兵与残障学生注册；8 月 12–13 日新生与新转学生 Orientation & Registration；8 月 13–15 日在读与返校生常规注册；8 月 17 日秋季开课；8 月 21 日各系开放毕业申请、第一次未到课清退；8 月 28 日注册期结束；8 月 31 日第二次未到课与未缴费清退；9 月 3 日人口普查日；9 月 7 日劳动节停课；9 月 8 日为无 W 加退课截止；9 月 14 日出勤报告截止；9 月 18 日毕业申请截止；10 月 5 日期中开始，10 月 10 日期中结束，10 月 13 日期中成绩截止；10 月 15–16 日秋季假；10 月 16 日为带 W 退课与退学最后日；11 月 2 日提前注册开始；11 月 26–27 日感恩节假；12 月 7 日期末考试开始，12 月 12 日期末考试结束；12 月 18 日学期结束、成绩截止。Spring 2027：1 月 4 日教职工会议；1 月 5 日转学生、老兵与残障学生注册；1 月 6–8 日常规注册；1 月 7 日新生 Orientation；1 月 11 日春季开课；1 月 15 日第一次清退；1 月 18 日马丁·路德·金日停课；1 月 22 日注册期结束并为无 W 加退课截止；1 月 25 日第二次清退；1 月 29 日人口普查日；2 月 8–10 日狂欢节假；2 月 12 日恢复注册最后日；3 月 1 日期中开始，3 月 6 日期中结束，3 月 9 日期中成绩截止；3 月 8–12 日春假；3 月 12 日为带 W 退课与退学最后日；3 月 26 日耶稣受难日停课；4 月 19–23 日毕业生成人考试周，4 月 27 日毕业生成绩截止；5 月 1 日期末考试开始，5 月 7 日期末考试结束并举行研究生授帽仪式；5 月 8 日毕业典礼；5 月 14 日学期结束、成绩截止。Mini Session I/II 短学期另有独立开课、加退课与考试日期，以 Registrar 校历附件为准。学校同时提供在校与在线学位项目，在线学期的注册、退课与考核节点与在校学期并行公布；学业顾问在选课周核对毕业学分与先修课要求，助学金与奖学金续领有单独的材料截止日；跨校选修课程的成绩回传以两校 Registrar 对接为准。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与国际学生事务口径确认并在 SEVIS 备案；全日制口径以 SUNO catalog 当期说明为准。",
+      "drop": "加退课经注册系统按校历办理；无 W 加退课截止为秋季 9 月 8 日、春季 1 月 22 日；带 W 退课与退学截止为秋季 10 月 16 日、春季 3 月 12 日；退费档位按 Bursar 当期条款执行。",
+      "ins1": "强制学生保险计划范围、承保方与豁免条件以学校国际学生事务与 Bursar 当期口径为准；国际学生应自行确认符合签证要求的健康保险。",
+      "ins2": "是否可参加 Southern University System 团体学生保险计划、豁免条件与承保方，以学校当期口径为准。",
+      "ins3": "保存保险卡、保单号、生效到期日与网络医院清单；牙科、视力为独立选购计划，须自行向承保方办理；就诊与转诊时携带保险卡，未列入学校计划的保障项目不要默认包含在学生保费内。",
+      "clinic": "校内健康服务位置与预约方式以学生事务办公室当期公布为准；基础医疗对接新奥尔良东部与 Gentilly 片区本地诊所，急症拨 911 或去最近急诊医院。",
+      "commute": "校区在 Gentilly 片区、Press Drive 一带，近 Lake Terrace 与 Dillard 大学校区；自驾经 I-10 或 Gentilly Boulevard 出入；公交由 RTA 连接 Gentilly、Lakefront 与 French Quarter；距 MSY 约 25–30 分钟车程。",
+      "scene": "SUNO 创立于 1956 年，前身为 Southern University and A&M College New Orleans Branch Unit，后定名 Southern University at New Orleans；是 Southern University System 成员校之一、公立 HBCU，设人文与艺术、商科、教育、社会科学、自然科学与数学等学院；校队昵称 Knights，赛事信息以学校 athletic 官网为准。",
+      "safety": "SUNO Police Department（SUNOPD）办公室位于 Maintenance Building 内；非紧急 504-286-5290 或 504-286-5291，紧急 504-286-3355 或 911；校园警务安排以年度安全报告为准；校外归新奥尔良警察局与奥尔良堂区警长办公室。",
+      "transit": "校内停车按学校管理安排；市区公交由 RTA 运营，线路连接 Gentilly、Lake Terrace 与市中心；去 MSY 机场无轨交直达，靠自驾、网约车或接驳。",
+      "rentnote": "校内住宿申请在入学步骤中办理（If Needed），宿舍名额与房型以 Residence Life 当期分配为准；校外租房集中在 Gentilly、Lake Terrace、Lake Vista、Eastern New Orleans 与 Chalmette 方向，合租多按学期签约，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.suno.edu/page/academic-calendars",
+          "学术日历"
+        ],
+        "ins": [
+          "https://www.suno.edu/page/tuition-and-fees",
+          "学费与费用"
+        ],
+        "police": [
+          "https://www.sus.edu/assets/sus/titleix/reports/Clery-Report-2023---SUNO.pdf",
+          "SUNOPD 年度安全报告"
+        ],
+        "housing": [
+          "https://www.suno.edu/page/enrollmentsteps",
+          "入学步骤（含住宿申请）"
+        ],
+        "clinic": [
+          "https://www.suno.edu/",
+          "SUNO 官网"
+        ],
+        "transit": [
+          "https://www.rtaneworleans.com/",
+          "RTA 新奥尔良公交"
+        ]
+      }
+    },
+    "uno": {
+      "short": "新奥尔良大学",
+      "place": "新奥尔良 · 2000 Lakeshore Drive, New Orleans, LA 70148（庞恰特雷恩湖湖岸校区）",
+      "cityKey": "neworleans",
+      "calShort": "两学期制 + A/B 短学期；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026 Full Term：8 月 17 日（周一）秋季开课；8 月 20 日为排课调整与罚金截止；9 月 3 日为第 14 上课日，同日为无记录退课（drop/resign without record）截止；9 月 7 日劳动节停课；10 月 12–13 日秋季假；10 月 16 日期中成绩截止；11 月 6 日为最终退课（final withdraw）截止；11 月 26–27 日感恩节假；12 月 2 日结课；12 月 4–10 日期末考试；12 月 11 日秋季毕业典礼；12 月 15 日成绩截止；12 月 18 日学位授予。Spring 2027 Full Term：1 月 11 日（周一）春季开课；1 月 14 日排课调整截止；1 月 18 日马丁·路德·金日停课；1 月 29 日人口普查日，同日为无记录退课截止；2 月 8–13 日狂欢节假；3 月 8 日期中成绩截止；3 月 26 日耶稣受难日停课；4 月 1 日为最终退课截止；4 月 28 日结课；4 月 30 日至 5 月 6 日期末考试；5 月 7 日春季毕业典礼；5 月 11 日成绩截止；5 月 14 日学位授予。每学期注册缴费、选课确认与欠费冻结节点随 Registrar 通知办理，跨学期学位申请与毕业审核按 OISS 与 Registrar 时间表提交；Session A/B 短学期另有独立开课、加退课与考试日期，以 Registrar 校历为准。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与 OISS 事前批准并在 SEVIS 备案；在线课学分上限与全日制口径以 OISS 当期通知为准。",
+      "drop": "加退课经 Registrar 系统按校历办理；无记录退课截止为秋季 9 月 3 日、春季 1 月 29 日；最终带 W 退课截止为秋季 11 月 6 日、春季 4 月 1 日；退费档位按 Bursar 当期条款执行。",
+      "ins1": "F/J 身份国际学生按学校规定须持有健康保险，保费随账单按学期计收；保险计划满足法律最低要求，保障范围与覆盖期以 OISS 当期说明为准。",
+      "ins2": "持有与学校保单相当保险者可向 OISS 提交豁免申请；豁免须每学期重新提交，既往批准不延续；替代保单覆盖时段须与 UNO 保单同期（秋季、春季各对应一期）。",
+      "ins3": "豁免获批后保留批准记录与保险卡、保单号、生效到期日；到校供 OISS 与校园健康中心核验；牙科与视力为独立选购计划，须自行办理。",
+      "clinic": "Ochsner Health Center-UNO 位于 University Center 238 室，工作日 8:00–16:30 提供基础诊疗；咨询服务 Counseling Services 电话 504-280-6683；心理危机拨 911 或 988 24 小时热线；课后与周末急症转新奥尔良本地医院急诊。",
+      "commute": "湖岸校区在新奥尔良东北角、庞恰特雷恩湖堤道旁；距 French Quarter 约 15 英里，自驾经 Elysian Fields、Gentilly 大道或 Lake Shore Drive 进入；校区沿湖开阔，步行与自行车覆盖宿舍到教学区；民航走 MSY。",
+      "scene": "UNO 前身为 Louisiana State University in New Orleans，后更名 University of New Orleans；设商科、教育与人类发展、工程、文理、护理、理科、艺术等学院；校队昵称 Privateers，联盟归属以学校 athletic 官网为准。湖岸校区沿庞恰特雷恩湖展开，覆盖教学、实验室、体育与学生生活设施；本科、硕士与博士项目经各学院开设，国际学生与学者事务由 OISS 统一对接；校区与新奥尔良东部 Gentilly、Lake Terrace 等邻里相邻，日常通勤依托 RTA 公交与自驾。",
+      "safety": "UNO Police Department（UNOPD）为 24 小时全服务校警部门，办公点 2000 Lakeshore Drive, 234 Computer Center，电话 504-280-6371，紧急 504-280-6666；校园设护送服务、Rave Guardian 应用与紧急通知推送；校外归新奥尔良警察局与奥尔良堂区警长办公室，紧急拨 911。",
+      "transit": "市区公交由 RTA 运营，线路连接湖岸校区、Gentilly 与 French Quarter；校内以步行、自行车与校车为主；去 MSY 机场无轨交直达，靠自驾、网约车或机场接驳。",
+      "rentnote": "校内住宿为 Pontchartrain Halls 南北两楼（Milneburg Road 与 St. Anthony Avenue 交口），住校生须持餐计划，未选档时按学校默认餐计划办理；另有 Privateer Place 公寓与 Lafitte Village，单元带独立厨房，不强制餐计划；校外租房多在 Gentilly、Lake Terrace、Lake Vista 与 East End 一带，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uno.edu/registrar/academic-calendar",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.uno.edu/oiss/currentstudents/insurance",
+          "OISS 学生保险"
+        ],
+        "police": [
+          "https://www.lsuneworleans.edu/upd/mission-authority",
+          "UNOPD"
+        ],
+        "housing": [
+          "https://www.lsuneworleans.edu/housing/faqs",
+          "住宿与餐计划"
+        ],
+        "clinic": [
+          "https://www.lsuneworleans.edu/student-health/",
+          "校园健康中心"
+        ],
+        "transit": [
+          "https://www.rtaneworleans.com/",
+          "RTA 新奥尔良公交"
+        ]
+      }
+    },
+    "latech": {
+      "short": "路易斯安那理工大学",
+      "place": "拉斯顿（Ruston，林肯堂区），Keeny Circle #3155, Ruston, LA 71272",
+      "cityKey": "ruston",
+      "calShort": "学季制（Fall / Winter / Spring / Summer quarters，11 周学季）",
+      "calendar": "2026 秋学季：9 月 10 日周四开课；9 月 14 日周一加退课截止；11 月 25–27 日感恩节假；12 月 4 日周五最后上课日；12 月 7–10 日期末考；12 月 11 日周六秋季毕业典礼。2026–27 冬学季：1 月 4 日周一开课；1 月 8 日周五加退课截止；3 月 2 日周二最后上课日；3 月 3–4 日期末考；3 月 6 日周六冬季毕业典礼。2027 春学季：3 月 9 日周二开课；3 月 12 日周五加退课截止；5 月 14 日周五最后上课日；5 月 17–20 日期末考；5 月 22 日周六春季毕业典礼。暑期学季与各研究生项目节点以 Registrar 当期学季历为准；工程、航空与实验课程的集中实验周按学院安排执行。学季制每学季约 11 周，秋、冬、春三季为主教学段，暑期另设夏季学季；各学季的注册、加退课、census 统计、缴费截止与成绩提交节点，以 Registrar 当期学季历为准。线上班、短课程与研究生项目的起止可能与主学季不同，选课前先核对对应 session 日历。节假日含感恩节、寒假、春假等，具体停课日期以官方校历公布为准。工程、航空与实验类课程的集中实验周、项目评审与飞行训练安排，按学院与项目计划执行；晚注册、退费比例与退课记 W 规则按 Catalog 当期条款执行。毕业申请、礼服领取与学位授予流程见毕业事项页面；遇恶劣天气或应急事件，课表、考试与毕业典礼安排按学校通知调整。",
+      "fulltime": "学季制下的全日制学分门槛以学校 Catalog 当期规章为准；F-1 学生低于全日制前必须取得国际学生办公室与 DSO 的 Reduced Course Load 书面批准（学业困难、医疗、最后学期等法定情形），在线课程计入全日制负荷的上限以学校规章为准。",
+      "drop": "加退课截止日见各学季历：秋 9 月 14 日、冬 1 月 8 日、春 3 月 12 日；其后退课与退学记 W，窗口之后按校规处理。退课、退学与身份维持先联系 Advising 与国际学生办公室，再走 Registrar 流程；学季学费退款以 Bursar 当期口径为准。",
+      "ins1": "计划与强制范围：国际学生须持有覆盖在美停留全期的合格健康保险；学校学生健康保险计划的承保方、档位与自动入保规则，以学生事务与 Bursar 当期公布为准，学生健康服务费按章程另列。",
+      "ins2": "凭证与豁免：持其他合格保单者按当期豁免窗口提交保险卡、保单号、生效与到期日及保障明细，获批后保费从账单移除；未在窗口提交或未通过核验者不适用豁免，电子保险卡保留备查。",
+      "ins3": "边界与咨询：替代保单的免赔额、既往症、预防保健、医疗转运与遗体遣返等条款逐项核对；牙科与视力多为独立选购。保费、豁免条件与材料清单以学校当期说明为准。",
+      "clinic": "校内学生健康与咨询服务经 Life on Campus / Student Affairs 渠道安排，具体门诊地点、电话与开放时间以官网当期公布为准；急症与夜间伤病就近前往 Ruston 当地医院急诊并拨打 911。心理咨询与危机转介经 Counseling 服务对接，下班后由校警转接值班人员。",
+      "commute": "校园在 Ruston 镇区，Tech Drive 与 Hergot Avenue 一带教学楼、宿舍与实验设施连成步行圈；校内以步行、自行车与校车为主。Ruston 为 I-20 旁的大学城，校园到 Grambling 约 5 英里，跨城出行靠自驾或拼车。",
+      "scene": "学校 1894 年以 Industrial Institute and College of Louisiana 创立，工程与理学见长，设工程与科学学院、商务学院、教育学院、文理学院与应用及自然科学学院，航空航天工程与专业航空项目依托校内飞行与实验设施。校队为 Bulldogs，参加 NCAA Division I / Conference USA；注册学生组织、希腊社团与体育社团名录以 Student Affairs 当期发布为准。",
+      "safety": "Louisiana Tech Police Department 位于 South Hall（Tech Drive 与 Hergot Avenue 交口），24 小时电话 318-257-4018，备用线 318-257-4019 / 257-4010 / 257-3363；交通办公室 318-257-2921；紧急情况拨 911。Residential Life 办公室工作日 8:00–17:00，电话 318-257-4917，可发起 welfare check。校外治安归 Ruston 市警察局与林肯堂区警长办公室。",
+      "transit": "航空主用 Shreveport Regional Airport（SHV），以西经 I-20 约 60 英里量级；备选 Monroe Regional Airport（MLU），以东约 35 英里；近处 Ruston Regional Airport（RSN）以通用航空与飞行教学为主。无轨道交通直达校区，机场衔接靠自驾、拼车或网约车。",
+      "rentnote": "校内住宿由 Residential Life 统一管理，传统宿舍与公寓分布在校园 Wisteria Street 一带；住宿资格、合约与配餐规则以 Residential Life 当期章程为准，包裹收件地址按 CWID 与 305 Wisteria St, Ruston, LA 71272 格式办理。校外租房在 Ruston 镇区与 I-20 沿线，大学城房源多按学年签约；租金、押金随区位与户型浮动，本页不列固定数字，以挂牌当期报价查询为准。",
+      "link": {
+        "cal": [
+          "https://catalog.latech.edu/content.php?catoid=13&navoid=939",
+          "Catalog 秋学季校历"
+        ],
+        "ins": [
+          "https://www.latech.edu/life-on-campus/",
+          "学生生活与保险服务入口"
+        ],
+        "police": [
+          "https://www.latech.edu/student-advancement-affairs/university-police/",
+          "Louisiana Tech Police Department"
+        ],
+        "housing": [
+          "https://www.latech.edu/life-on-campus/residential-life/",
+          "Residential Life 住宿申请"
+        ],
+        "clinic": [
+          "https://www.latech.edu/life-on-campus/",
+          "学生健康与咨询服务入口"
+        ],
+        "transit": [
+          "https://flyshv.com/",
+          "Shreveport Regional Airport（SHV）"
+        ]
+      }
+    },
+    "lsuhscshv": {
+      "short": "路易斯安那州立大学健康科学中心什里夫波特",
+      "place": "什里夫波特医学区（Shreveport Medical District），1501 Kings Highway, Shreveport, LA 71103",
+      "cityKey": "shreveport",
+      "calShort": "专业学院制；2026 秋 8 月 24 日开课、2027 春 1 月 11 日开课；医学/护理/联合健康按轮转执行",
+      "calendar": "Shreveport 校区 2026 秋学期：8 月 24 日周一开课；10 月 30 日周五为最后无 W 退课日；11 月 25–27 日感恩节假；12 月 14–18 日期末考周；12 月 18 日周五学期结束。2027 春学期：1 月 11 日周一开课；2 月 13 日周六为最后无 W 退课日；3 月 12 日周五为最后带 W 退课日；3 月 15–19 日春假；5 月 14 日周五学期结束；5 月 17–21 日期末考周。医学、健康职业、研究生等各专业项目按轮转、实验与论文节点执行，不套用本科 16 周日历；具体项目日历见所在学院 Registrar 页面。本校为医学、研究生与健康职业专业学院，不适用本科 16 周日历；各学院（医学院、研究生院、健康职业学院）按轮转、实验、论文与临床节点独立排期，具体日历见所在学院 Registrar 页面。基础科学阶段按学期开课、考试与假期安排，临床阶段按科室轮转周期推进，轮转起止、考核与休假由项目主管公布。秋春两季的注册、加退课、缴费截止与成绩提交节点，以 Shreveport 校区 Academic Calendar 为准；节假日停课、期末考周与毕业典礼安排随学年滚动更新。住院医、fellow 与研究生雇员的排班与假期按聘用关系和医院体系规则执行，不走学生学季日历。遇公共卫生事件或应急情况，临床教学与考试安排按学校与附属医院通知调整。",
+      "fulltime": "本校以医学、研究生与健康职业专业学院为主，不适用本科 12 学分全日制口径；学籍与出勤要求按所在学院、项目和轮转计划规定。F-1/J-1 学生若因学业、健康或毕业原因需降低负荷，须先经国际学生办公室与项目主管批准 Reduced Course Load，再到 Registrar 办理。",
+      "drop": "退课分界按各学院当期日历执行：秋学期 10 月 30 日前为无 W 退课窗口，春学期 2 月 13 日前为无 W 窗口、3 月 12 日前为带 W 退课截止；临床轮转阶段的退出与项目变更须经项目主任批准。退课、退学与身份维持先联系项目主管与国际学生办公室，再走 Registrar 流程。",
+      "ins1": "计划与强制范围：2025–2026 学年学生健康保险计划由 Arthur J. Gallagher & Co. 协调、UnitedHealthcare 理赔；在读学生可在注册截止日前经 Gallagher Student Health 门户入保。专业项目、住院医与研究生雇员的保险渠道按各自聘用关系另行列明。",
+      "ins2": "凭证与豁免：持有其他合格替代保险者，须在当期豁免截止日前经 Gallagher Student Health 网站完成 waiver 流程并提交证明；获批后才不计入学生保险账单。未按期办理或未通过核验者留在计划内扣费；电子保险卡与保单号经承保方账户领取。",
+      "ins3": "边界与咨询：替代保单须覆盖在美停留全期，并满足学校最低保障标准；医疗转运、遗体遣返、既往症与预防保健条款逐项核对。豁免窗口、材料清单与保费档位以 Registrar 学生保险页面当期公布为准。",
+      "clinic": "校区位于 Kings Highway 医学区，基础科学楼、临床教学设施与附属医院相邻；学生日常健康问题经学校学生服务与附属医院体系对接，具体校内门诊地点、电话与开放时间以官网当期公布为准。急症与夜间伤病就近前往医院急诊并拨打 911；心理咨询与危机转介经 Student Affairs 渠道安排。",
+      "commute": "学校为研究生与专业院校，不设本科式通勤圈；学生与住院医多住 Shreveport 市区、Bossier City 及医学区周边，通勤靠自驾、拼车与网约车。校区沿 Kings Highway / Claiborne Avenue 分布，楼间步行可达，跨院区以车辆衔接。",
+      "scene": "LSU Health Shreveport 设 School of Medicine、School of Graduate Studies 与 School of Health Professions & Sciences，开展基础与临床科研、医学教学与健康职业培养；临床依托 LSU Health Shreveport 医院体系。学生活动按学院、实验室与临床项目聚合，Student Government 与注册学生组织名录以 Student Life 当期发布为准；本校与邻近的 LSU Shreveport 为相互独立的法人机构。",
+      "safety": "LSU Health Shreveport University Police 24 小时、365 天值守：紧急电话 318-675-6165 / 318-675-6233，犯罪线索热线 318-675-3873，可使用 LSU Shield App；校内师生须随身佩戴 ID badge。院区外事务联系 Shreveport Police Department 非紧急 318-673-7300 或 Caddo Parish Sheriff，紧急情况拨 911。",
+      "transit": "航空主用 Shreveport Regional Airport（SHV），在市区西南方向；航班经达拉斯、休斯敦等枢纽转机，无轨道交通直达医学区。地面衔接靠租车、网约车或拼车；市内跨河到 Bossier City 走 Red River 桥梁。",
+      "rentnote": "学校不提供本科式校内宿舍；Student Life 维护附近租房房源与 roommate 信息供参考，校方不审核不背书。常用片区为 Kings Highway 医学区周边、Shreveport 市区与隔河的 Bossier City，步行或短车程到院区；房源多按学年或按月签约。租金、押金随区位与户型浮动，本页不列固定数字，以挂牌当期报价查询为准。",
+      "link": {
+        "cal": [
+          "https://shp.lsuhsc.edu/admin/academiccalendar.aspx",
+          "Shreveport 校区 Academic Calendar"
+        ],
+        "ins": [
+          "https://www.lsuhs.edu/our-schools/registrar/student-insurance",
+          "Student Health Insurance 与豁免门户"
+        ],
+        "police": [
+          "https://www.lsuhs.edu/about/university-police/safety-and-security",
+          "University Police 安全与应急电话"
+        ],
+        "housing": [
+          "https://www.lsuhs.edu/",
+          "学校主页（校外住宿信息入口）"
+        ],
+        "clinic": [
+          "https://www.lsuhs.edu/",
+          "学校主页（学生健康服务入口）"
+        ],
+        "transit": [
+          "https://flyshv.com/",
+          "Shreveport Regional Airport（SHV）"
+        ]
+      }
+    },
+    "lsus": {
+      "short": "路易斯安那州立大学什里夫波特",
+      "place": "什里夫波特南郊（south Shreveport），One University Place, AD 168, Shreveport, LA 71115",
+      "cityKey": "shreveport",
+      "calShort": "学期制；2026 秋 8 月 24 日开课、12 月 18 日毕业典礼；2027 春 1 月 11 日开课、5 月 14 日毕业典礼",
+      "calendar": "2026 秋学期：8 月 15–19 日新生接机与迎新周；8 月 19 日研究生迎新；8 月 21 日国际学生迎新；8 月 24 日周一开课；9 月 11 日为 Census 注册统计日；11 月 6 日毕业礼服订购截止；12 月 18 日周五在 Bossier City 的 Brookshire Grocery Arena 举行秋季毕业典礼。2027 春学期：1 月 3–6 日新生接机与迎新；1 月 7 日国际学生迎新；1 月 8 日 SEVIS 资格核验；1 月 11 日周一开课；5 月 14 日周五春季毕业典礼。各短学期、夜间与在线班的加退课、带 W 退课截止日与期末考周日期，以 Office of Records and Registration 当期校历公布为准。秋春两季的注册、census 注册统计、缴费截止与成绩提交节点，以 Office of Records and Registration 当期校历为准；短学期、夜间班与线上班的起止、退课窗口可能与全学期不同，选课前先核对对应 session 日历。迎新周含机场接机、研究生迎新、国际学生迎新与 SEVIS 资格核验，日期随学年安排；毕业礼服订购、毕业典礼地点与入场要求以毕业事项页面当期通知为准，秋季典礼在 Bossier City 的 Brookshire Grocery Arena 举行。节假日含劳动节、感恩节、寒假、春假等，具体停课日期以官方校历公布为准。晚注册、退费比例与带 W 退学规则按 Catalog 当期条款执行；研究生项目的学籍与课程要求以所在学院规则为准。遇恶劣天气或应急事件，课表、考试与毕业典礼安排按学校通知调整。",
+      "fulltime": "全日制学分门槛以学校 Catalog 当期规章为准；F-1 学生低于全日制前必须取得国际学生办公室与 DSO 的 Reduced Course Load 书面批准（学业困难、医疗、最后学期等法定情形），在线课程计入全日制负荷的上限以学校规章为准；研究生项目的学籍要求以所在学院规则为准。",
+      "drop": "加退课、无 W 退课与带 W 退课分界见 Office of Records and Registration 当期校历；Census 日前后的记录规则按 Registrar 说明执行。退课、退学与身份维持先联系 Advising 与国际学生办公室，再走 Registrar 流程；学费退款以 Bursar 当期口径为准。",
+      "ins1": "计划与强制范围：国际学生须提供适当的健康保险并含医疗转运与遣返保障；学校推荐 Gallagher-UHC 学生计划（体育生须使用 Gallagher 计划），也接受符合要求的 ISI 等替代计划。具体自动入保规则、承保档位以国际学生办公室与 Bursar 当期公布为准。",
+      "ins2": "凭证与豁免：入学时提交保险凭证（保险卡、保单号、生效与到期日、转运遣返条款）供国际学生办公室核验；持合格替代保险按当期窗口完成豁免，获批后才不计入对应账单。电子保险卡与批准记录保留备查。",
+      "ins3": "边界与咨询：替代保单须覆盖在美停留全期，免赔额、既往症、预防保健、医疗转运与遗体遣返逐项核对；牙科、视力是否覆盖按保单条款确认。国际学生办公室联系人 Anne-Marie Bruner-Tracey，电话 318-798-4134，邮箱 international@lsus.edu。",
+      "clinic": "Counseling Services 在 Noel Memorial Library 1411 室，电话 318-797-5365，提供短期心理咨询与 TimelyCare 远程咨询；校内基础健康服务与转诊渠道以 Student Success Center 当期公布为准。急症与夜间伤病就近前往 Shreveport 医院急诊并拨打 911；下班后危机事项联系校警转接。",
+      "commute": "校区为 258 英亩南郊校园，沿 Highway 1 分布，教学楼、Noel Memorial Library、Student Union 与 Pilots Pointe 公寓间以步行、自行车和校车衔接；校外通勤靠自驾与网约车。学校与 Kings Highway 医学区的 LSU Health Shreveport 相距约十英里量级，二者法人与校区各自独立。",
+      "scene": "LSUS 依 1967 年州议会法案创办，1967 年 9 月以两年制通勤学院开学；现设 College of Business、College of Education and Human Development 与 College of Arts and Sciences，并开设研究生项目。校队为 Pilots，参加 NAIA / Red River Athletic Conference；注册学生组织 45 个以上，含 SGA、SAB 与学术、文化、兴趣社团；名录以 Student Life 当期发布为准。",
+      "safety": "LSUS University Police 紧急电话 318-797-5082（校园内拨 5082），下班后手机线 318-455-5497；Dean of Students 在 NML 142 室。校外治安归 Shreveport 市警察局与卡多堂区警长办公室；紧急情况拨 911，校园警报经学校通知系统推送。",
+      "transit": "航空主用 Shreveport Regional Airport（SHV）；航班经达拉斯（DFW）、休斯敦（IAH）或新奥尔良（MSY）等枢纽转机，无轨道交通直达校区。地面衔接靠租车、网约车或提前联系的接机安排；往 Bossier City 跨 Red River 桥梁通行。",
+      "rentnote": "校内住宿为 Pilots Pointe Apartments，入住学生 350 人以上，含单间与两居、四居户型，配泳池、排球场与会所；住宿办公室电话 318-333-3407，邮箱 reslife@lsus.edu，申请与合约经住宿门户办理。校外租房分布在南郊、Highway 1 沿线与 Bossier City，多按学年签约；租金、押金随区位与户型浮动，本页不列固定数字，以挂牌当期报价查询为准。",
+      "link": {
+        "cal": [
+          "https://www.lsus.edu/academics/office-of-records-and-registration",
+          "Office of Records and Registration 校历"
+        ],
+        "ins": [
+          "https://www.lsus.edu/international-admissions/int-graduate",
+          "国际学生保险与材料要求"
+        ],
+        "police": [
+          "https://www.lsus.edu/current-students/dean-of-students/lsus-cares",
+          "LSUS Cares 与校警应急电话"
+        ],
+        "housing": [
+          "https://www.pilotspointe.com/",
+          "Pilots Pointe 住宿申请"
+        ],
+        "clinic": [
+          "https://www.lsus.edu/student-life",
+          "Counseling Services"
+        ],
+        "transit": [
+          "https://flyshv.com/",
+          "Shreveport Regional Airport（SHV）"
+        ]
+      }
+    },
+    "nicholls": {
+      "short": "尼古拉斯州立大学",
+      "place": "蒂博多（Thibodaux，拉福什堂区），University Drive, Thibodaux, LA 70310",
+      "cityKey": "thibodaux",
+      "calShort": "学期制（Term A/B 短学期与线上班并行；南部飓风季可能影响校历执行）",
+      "calendar": "2026 秋学期：3 月 25 日早鸟注册开始；8 月 17 日周一开课；8 月 21 日周五晚注册截止；12 月 3–9 日期末考周；12 月 12 日（周六）在 Stopher Gymnasium 举行秋季毕业典礼。2027 春学期：2026 年 11 月 3 日开始春季注册；1 月 19 日周二开课；1 月 25 日周一晚注册截止。各 Term A/B 短学期、线上班的加退课、自动 W 退学截止日、期中节点与春季毕业典礼日期，以 Registrar 当期 Academic Calendar 公布为准；护理、烹饪、海洋与环境科学等专业项目按所属学院安排执行。秋春两季按全学期与 Term A/B 短学期并行排课，注册、加退课、缴费截止与成绩提交节点，以 Registrar 当期 Academic Calendar 为准；线上班与 Term A/B 的起止、退课窗口可能与全学期不同，选课前先核对对应 session 日历。早鸟注册、晚注册截止与退费比例按 Catalog 当期条款执行；自动 W 退学（resignation）截止日按短学期与全学期分别公布。节假日含劳动节、秋假、感恩节、寒假、春假等，具体停课日期以官方校历公布为准；护理、烹饪、海洋与环境科学专业的实践、实习与实验安排以所属学院通知为准。毕业申请、礼服领取与学位授予流程见 Registrar 毕业事项页面当期说明。学校地处南部湾乡，飓风季可能出现停课、撤离与内涝应急，届时课表、考试与毕业典礼安排按学校应急计划与堂区通知调整。",
+      "fulltime": "全日制学分门槛以学校 Catalog 当期规章为准；F-1 学生低于全日制前必须取得国际学生办公室与 DSO 的 Reduced Course Load 书面批准（学业困难、医疗、最后学期等法定情形），在线课程计入全日制负荷的上限以学校规章为准。",
+      "drop": "加退课与晚注册分界见校历；自动 W 退学（resignation）截止日按 Term A/B 与全学期分别公布，窗口后退学记 W，逾期按校规处理。退课、退学与身份维持先联系 Advising 与国际学生办公室，再走 Registrar 流程；学费退款以 Bursar 当期口径为准。",
+      "ins1": "计划与强制范围：国际学生须持有覆盖在美停留全期的合格健康保险；学校学生健康保险计划的承保方、档位与自动入保规则，以 University Health Services 与 Bursar 当期公布为准，健康服务费按章程另列。",
+      "ins2": "凭证与豁免：持其他合格保单者按当期豁免窗口提交保险卡、保单号、生效与到期日及保障明细，获批后保费从账单移除；未在窗口提交或未通过核验者不适用豁免，电子保险卡与豁免记录到校备查。",
+      "ins3": "边界与咨询：替代保单的免赔额、既往症、预防保健、医疗转运与遗体遣返等条款逐项核对；牙科与视力多为独立选购。保费、豁免条件与材料清单以 Health Services 和学校当期说明为准。",
+      "clinic": "University Health Services 在 Betsy Cheramie Ayo Hall，通讯地址 P.O. Box 2054, Thibodaux, LA 70310；电话 985-493-2600，传真 985-493-2601，联系人 Tancy C. McCartt；门诊时间 7:30–16:00，由护士与医师处理急性常见病、健康宣教与预防保健。University Counseling Center 电话 985-448-4080；下班后紧急健康建议联系 Thibodaux Regional Medical Center（985-447-5500）急诊。",
+      "commute": "校区在 Thibodaux 镇内，287 英亩校园沿 Bayou Lafourche 展开，教学区、宿舍与 Student Union 步行圈完整；校内以步行、自行车为主，跨片区靠自驾或网约车。镇域路网结合 Hwy 1 与 Hwy 90，往 Houma、New Orleans 与 Baton Rouge 方向均需驾车；飓风季关注学校撤离与停课通知。",
+      "scene": "学校 1948 年 9 月 23 日建校，以 Francis Redding Tillou Nicholls 命名，校队 Colonels，校色红灰；设商务、教育、护理、文理与 John Folse Culinary Institute 等学院，海洋与环境科学、河口农业相关项目依托南部湾乡区位。注册学生组织、希腊社团与体育社团名录以 Student Affairs 当期发布为准。校园沿 Bayou Lafourche 展开，287 英亩内分布教学楼、宿舍、体育场馆与烹饪学院设施；河口农业、海洋与环境相关项目依托南部湾乡区位，本地餐饮与节庆带有卡真与克里奥尔风味。",
+      "safety": "Nicholls State University Police Department 办公点 305 Bowie Rd, Thibodaux, LA 70301；校园紧急电话 985-448-4911，下班后调度 985-448-4746，紧急情况拨 911。校外治安归 Thibodaux 市警察局与拉福什堂区警长办公室；飓风与内涝应急按学校应急计划与堂区通知执行。",
+      "transit": "航空主用 Louis Armstrong New Orleans International Airport（MSY），以东约 60 英里量级；备选 Baton Rouge Metropolitan Airport（BTR），以西约 60 英里；近处 Houma-Terrebonne Airport（HUM）以通用航空为主。无轨道交通直达校区，机场衔接靠自驾、拼车或网约车，长途沿 Hwy 1 / Hwy 90 转州际公路。",
+      "rentnote": "校内住宿由 Office of Residential Living 管理，办公室在 Brady Residential Complex Clubhouse；住宿资格、合约与配餐规则以当期章程为准。校外租房在 Thibodaux 镇区与 Bayou Lafourche 两岸居住带，小镇房源有限，多按学年签约；租金、押金随区位与户型浮动，本页不列固定数字，以挂牌当期报价查询为准。",
+      "link": {
+        "cal": [
+          "https://www.nicholls.edu/academics/resources/register/2027-spring-semester/",
+          "Registrar 学期注册与校历入口"
+        ],
+        "ins": [
+          "https://www.nicholls.edu/student-life/student-services/health-services/",
+          "University Health Services 保险与健康服务"
+        ],
+        "police": [
+          "https://www.nicholls.edu/police/",
+          "Nicholls State University Police Department"
+        ],
+        "housing": [
+          "https://www.nicholls.edu/housing/",
+          "Residential Living 住宿申请"
+        ],
+        "clinic": [
+          "https://www.nicholls.edu/student-life/student-services/health-services/",
+          "University Health Services 门诊"
+        ],
+        "transit": [
+          "https://flymsy.com/",
+          "Louis Armstrong New Orleans International（MSY）"
+        ]
+      }
+    },
+    "unc": {
+      "short": "北卡罗来纳大学教堂山分校",
+      "place": "教堂山 · Chapel Hill, NC 27599（主校区 South Building 一带）",
+      "cityKey": "chapelhill",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 6 日开课。",
+      "calendar": "Fall 2026：8 月 16 日（周日）新生 Convocation；8 月 17 日（周一）开课；8 月 21 日（周五）末注册截止；9 月 7 日（周一）劳动节停课；9 月 21 日（周一）、10 月 6 日（周二）Well-being Day 停课；10 月 12 日（周一）University Day 照常上课；10 月 15–16 日（周四至周五）秋假；11 月 25–27 日（周三至周五）感恩节假；12 月 2 日（周三）结课；12 月 3 日（周四）、12 月 9 日（周三）Reading Day；期末 12 月 4、5、7、8、10、11 日；12 月 13 日（周日）秋季毕业典礼。Spring 2027：1 月 6 日（周三）开课；1 月 12 日（周二）末注册截止；1 月 18 日（周一）马丁·路德·金日停课；2 月 8 日（周一）、3 月 25 日（周四）Well-being Day；3 月 5 日（周五）17:00 起春假，3 月 15 日（周一）8:00 复课；3 月 26 日（周五）春假停课；4 月 26 日（周一）结课；4 月 27 日（周二）、4 月 30 日（周五）、5 月 5 日（周三）Reading Day；期末 4 月 28、29 日，5 月 1、3、4、6 日；5 月 8 日（周六）春季毕业典礼。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与研究生院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "加课与无成绩退课截止为秋 8 月 21 日、春 1 月 12 日（末注册口径）；带 W 退课与全学期退学退费档位以 Registrar 当期校历与 University Cashier 条款为准；跨校选课截止见校历 Cross Registration 节点。",
+      "ins1": "符合资格的学位生（本科注册 6 及以上在校学分、研究生 1 及以上在校学分并缴纳 Health Fee）为保险强制对象；UNC System Student Blue 计划由 Blue Cross Blue Shield of North Carolina 承保，保费自动计入学生账单。",
+      "ins2": "持合格私保者每学期经 Student Blue 门户提交豁免申请；替代保单须在秋 9 月 1 日、春 2 月 1 日前生效并覆盖整个学期；豁免核实通过后 Cashier 在 5–10 个工作日内移除保费；电子保险卡经承保方会员账户领取。",
+      "ins3": "秋投保/豁免截止 9 月 10 日、春 1 月 31 日；F-1 学生可投保 Student Blue 或凭达标保单豁免；J-1 学生因计划免赔额超出联邦 J-1 要求，不能投 Student Blue，可选 BCBS Global Solutions 或达标替代保单并经门户提交豁免；咨询 Campus Health 保险代表，邮箱 insurancerep@unc.edu，承保方电话 1-888-351-8283。",
+      "clinic": "UNC Health Campus Care（Campus Health），James A. Taylor Building, 320 Emergency Room Dr., Chapel Hill, NC 27599；Same Day Care 电话 919-966-2281；学年周一至周六 8:00–17:00，假期仅工作日 8:00–17:00；服务含 Primary Care、Same Day Care、CAPS 心理咨询（919-966-3658）、Campus Health Pharmacy（919-966-6554）、Sports Medicine、Physical Therapy、Wellbeing 与 Campus Smiles Dental Clinic；Student Stores 内设 Mini Clinic 与药房；校外转诊按当期安排。",
+      "commute": "主校区位于 Chapel Hill 镇中心 Franklin Street 一带；自驾经 US-15-501 与 NC-54 进出；Chapel Hill Transit 免费公交覆盖校园与镇区；到 RDU 机场约 20–25 分钟车程量级，到 Raleigh、Durham 约 30–40 分钟量级。",
+      "scene": "1789 年立法特许设立、1795 年开学，是美国第一所公立大学，Old East 为美国最古老的州立大学建筑；下设文理学院及 Kenan-Flagler 商学、法学、医学、药学、护理、公共卫生、教育、新闻与传媒、社会工作等专业学院；校队 Carolina Tar Heels，参加 NCAA Division I 大西洋沿岸联盟（ACC），吉祥物 Rameses 公羊。",
+      "safety": "UNC Police，Public Safety Building, 285 Manning Drive, Chapel Hill, NC 27599；紧急拨 911，非紧急 919-962-8100；24 小时值守，SafeWalk 为学生夜间护送项目，校园设蓝灯电话，预警经 Alert Carolina 发布；校外归 Town of Chapel Hill Police 与 Orange County Sheriff 辖区。",
+      "transit": "Chapel Hill Transit 上车免费，校园 U 与 RU（Reverse U）环线 7:00–20:00 连续绕行；GoTriangle 区域巴士连通 Raleigh、Durham、Hillsborough；校内 P2P 接驳与应急返程服务；去 RDU 机场自驾或区域交通约 20–25 分钟量级。",
+      "rentnote": "高中毕业后修满不足 30 学分的首年学生第一学年须住校内宿舍或 Granville Towers；餐计划自愿参加，经 onecard.unc.edu 门户办理；UNC One Card 为校园身份、门禁、就餐与消费卡；校外租房集中在 Chapel Hill 与 Carrboro 周边邻里，步行或免费公交可达，租金随区位与户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.unc.edu/academic-calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://campushealth.unc.edu/charges-insurance/mandatory-student-health-insurance-hard-waiver-process/",
+          "学生健康保险与豁免"
+        ],
+        "police": [
+          "https://police.unc.edu/",
+          "UNC Police"
+        ],
+        "housing": [
+          "https://housing.unc.edu/",
+          "Carolina Housing 住宿"
+        ],
+        "clinic": [
+          "https://campuscare.unc.edu/about-us/locations-hours-parking/",
+          "Campus Health 门诊"
+        ],
+        "transit": [
+          "https://www.chtransit.org/",
+          "Chapel Hill Transit"
+        ]
+      }
+    },
+    "ncsu": {
+      "short": "北卡罗来纳州立大学",
+      "place": "罗利 · 2610 Cates Avenue（Talley Student Union 一带）, Raleigh, NC 27695",
+      "cityKey": "raleigh",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 17 日（周一）开课；8 月 24 日（周一）最后无许可加课日；8 月 28 日（周五）Census Date；9 月 7 日（周一）劳动节停课；9 月 29 日（周二）Wellness Day；10 月 19–20 日（周一至周二）秋假；10 月 22 日（周四）Drop/Revision Deadline；11 月 25 日（周三）起假期；11 月 26–27 日（周四至周五）感恩节闭校；11 月 30 日（周一）复课；12 月 1 日（周二）结课；12 月 2 日（周三）Reading Day；期末 12 月 3 日（周四）至 12 月 9 日（周三）；12 月 12 日（周六）毕业典礼。Spring 2027：1 月 11 日（周一）开课；1 月 18 日（周一）马丁·路德·金日；1 月 19 日（周二）最后无许可加课日；1 月 25 日（周一）Census Date；2 月 16 日（周二）Wellness Day；3 月 15–19 日（周一至周五）春假；3 月 24 日（周三）Drop/Revision Deadline；4 月 28 日（周二）结课；4 月 29 日（周三）Reading Day；期末 4 月 29 日（周三）至 5 月 5 日（周三）；5 月 8 日（周六）毕业典礼。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与研究生院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "无 W 加退课截止秋 8 月 24 日、春 1 月 19 日（23:59 MyPack Portal）；Census Date 秋 8 月 28 日、春 1 月 25 日为退费与本科降至 12 学分以下口径节点；Drop/Revision Deadline（带 W 与课表修订）秋 10 月 22 日、春 3 月 24 日，之后修订须提交 Schedule Revision Request；退费档位以 Student Services/Cashier 当期条款为准。",
+      "ins1": "学位生中本科 6 及以上在校学分、研究生 1 及以上在校学分并缴纳 Student Health Fee 者为强制对象；UNC System Student Blue 由 BCBSNC 承保，保费自动计入账单。",
+      "ins2": "持合格私保者每学期经 Student Blue 门户提交豁免；核实通过后保费从账单移除；电子保险卡经承保方会员账户领取。",
+      "ins3": "秋 2026 投保/豁免截止 9 月 10 日，春 2027 截止 2 月 1 日；F-1 自动入账，可投保 Student Blue 或凭达标保单豁免；J-1 走 Global Solutions 或达标替代保单；保险事务联系 Campus Health，电话 919-515-2563 转 6。",
+      "clinic": "Campus Health，2815 Cates Avenue, Campus Box 7304, Raleigh, NC 27695；总机 919-515-2563，医疗预约 919-515-7107；工作日门诊，时段以健康中心当期公布为准；提供初级保健、妇科、免疫、药房与心理咨询，社区转诊按当期安排。",
+      "commute": "主校区在 Raleigh 西北部 North Campus 与 Centennial Campus 一带；自驾经 I-440 与 US-1 进出；Wolfline 校园接驳，GoRaleigh 公交衔接；到 RDU 机场约 20–30 分钟车程量级。",
+      "scene": "1887 年创立为北卡罗来纳农工机械学院（North Carolina College of Agriculture and Mechanic Arts）；下设农业与生命科学、工程、理科、设计、Poole 商学院、自然资源、人文与社会科学、教育、纺织、兽医学等学院；校队 Wolfpack，参加 NCAA Division I，吉祥物 Mr. Wuf。",
+      "safety": "NC State University Police，2610 Wolf Village Way, Box 7220, Raleigh, NC 27695；紧急拨 911，非紧急 919-515-3000；24 小时值守，经 On Campus App 呼叫，校园设蓝灯电话；校外归 Raleigh Police Department 辖区。",
+      "transit": "Wolfline 免费校园接驳连接 North、Central 与 Centennial 校区；GoRaleigh 公交连通 Downtown Raleigh；GoTriangle 区域巴士连通三角区；去 RDU 机场自驾约 20–30 分钟量级。",
+      "rentnote": "入学新生前两个学期须住校内；住校一年级学生须选 Flex 500 或 Flex 800 餐计划；Wolfpack One Card 为身份、门禁、就餐与消费卡；校外租房集中在 Raleigh 西北近校社区与 Downtown 周边，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://studentservices.ncsu.edu/calendars/academic-calendar/",
+          "Student Services 校历"
+        ],
+        "ins": [
+          "https://healthypack.dasa.ncsu.edu/insurance-charges/unc-system-student-health-insurance-plan/",
+          "UNC System SHIP 与豁免"
+        ],
+        "police": [
+          "https://police.ehps.ncsu.edu/",
+          "NC State University Police"
+        ],
+        "housing": [
+          "https://housing.dasa.ncsu.edu/",
+          "University Housing 住宿"
+        ],
+        "clinic": [
+          "https://healthypack.dasa.ncsu.edu/",
+          "Campus Health"
+        ],
+        "transit": [
+          "https://goraleigh.org/",
+          "GoRaleigh 公交"
+        ]
+      }
+    },
+    "nccu": {
+      "short": "北卡罗来纳中央大学",
+      "place": "达勒姆 · 1801 Fayetteville Street, Durham, NC 27707",
+      "cityKey": "durham",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 17 日（周一）开课；8 月 28 日（周五）中午 drop/add 截止（census）；8 月 31 日（周一）起可带 WC/W 退课；9 月 7 日（周一）劳动节；9 月 18 日（周五）校整体退学按比例退费截止；11 月 30 日（周一）毕业班最后上课日；12 月 1 日（周二）结课与 Reading Day；期末 12 月 2–4 日、12 月 7–10 日；12 月 10 日毕业典礼排练与 Chancellor’s Reception，McDougald-McLendon Arena。Spring 2027：1 月 11 日（周一）开课；1 月 18 日（周一）马丁·路德·金日；1 月 25 日（周一）中午 census 与 drop/add 截止；1 月 26 日（周二）起可退课；2 月 12 日（周五）校退学按比例退费截止；3 月 26 日（周五）Good Friday；4 月 1 日（周四）带 W 退课截止；4 月 26 日（周一）毕业班最后上课日；4 月 27 日（周二）Reading Day；期末 4 月 28–30 日、5 月 3–6 日；5 月 7 日（周四）14:00 本科毕业典礼，5 月 8 日（周五）9:00 研究生及专业学院典礼，McDougald-McLendon Arena。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与研究生院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "drop/add 截止秋 8 月 28 日中午、春 1 月 25 日中午；带 WC/W 退课秋 8 月 31 日起、春 1 月 26 日起；校整体退学按比例退费截止秋 9 月 18 日、春 2 月 12 日；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "学位生中本科 6 及以上在校学分、研究生 1 及以上学分并缴健康费者为强制对象；住校生不论学分亦在适用范围；学生健康保险计划经 Student Blue（BCBSNC）投保，保费自动入账。",
+      "ins2": "持合格私保者每学期经 Student Blue 门户提交豁免；通过后保费从账单移除；电子保险卡经会员账户领取。",
+      "ins3": "秋投保/豁免截止 9 月 11 日、春 1 月 31 日；F-1/J-1 国际学生须持有健康保险，可投学生计划或达标替代保单；保险事务联系 Student Health Center。",
+      "clinic": "Student Health Center，200 Cafeteria Dr., Durham, NC 27707；电话 919-530-6317，药房 919-530-6289；学期内门诊预约制；Counseling Center 位于 Student Health Building 2 楼，下班后危机热线 919-530-7646（ProtoCall）；校外转诊按当期安排。",
+      "commute": "校园在 Durham 东南 Fayetteville Street 走廊；自驾经 NC-55 与 US-70；GoDurham 公交衔接；与 Duke 校区同城不同片；到 RDU 机场约 25–35 分钟车程量级。",
+      "scene": "1910 年 7 月 5 日由 James E. Shepard 博士创立，是北卡 HBCU；下设法学、商学、教育、护理、文理与研究生院等学院；校队 Eagles，参加 NCAA Division I（FCS）中东部体育联盟（MEAC）。",
+      "safety": "NCCU Police and Public Safety，Police and Public Safety Building；紧急拨 911，值班电话 919-530-6106；24 小时值守；校外归 Durham Police Department 辖区。",
+      "transit": "GoDurham 公交连通 Downtown Durham 与校区；GoTriangle 区域巴士至 Chapel Hill、Raleigh；RDU 机场自驾约 25–35 分钟量级。",
+      "rentnote": "住校大一新生须选 21 餐/周餐计划；Eagle Card（Eagle One Card）为身份、门禁、就餐与消费卡；校外租房集中在 Durham 东南与 Downtown 周边，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://myeol.nccu.edu/sites/default/files/2026-01/Academic-Calendar-Fall-2026-Summer-2027.pdf",
+          "Academic Calendar 2026–2027"
+        ],
+        "ins": [
+          "https://www.nccu.edu/dsa/health-wellness/student-health-center/insurance-and-billing",
+          "学生健康保险与账单"
+        ],
+        "police": [
+          "https://www.nccu.edu/administration/university-police/learn-about-police-department",
+          "NCCU Police Department"
+        ],
+        "housing": [
+          "https://ecatalog.nccu.edu/content.php?catoid=8&navoid=1054&print",
+          "Student Housing and Meals（Catalog）"
+        ],
+        "clinic": [
+          "https://www.nccu.edu/life-nc-central/health-and-well-being/student-health-center",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://godurhamtransit.org/",
+          "GoDurham 公交"
+        ]
+      }
+    },
+    "uncc": {
+      "short": "北卡罗来纳大学夏洛特分校",
+      "place": "夏洛特 · 9201 University City Boulevard, Charlotte, NC 28223-0001",
+      "cityKey": "charlotte",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 17 日（周一）开课；8 月 24 日（周一）23:59 最后无成绩加退课日；8 月 28 日（周五）census；10 月 8 日（周四）最后带 W 退课日；11 月 11 日（周三）退伍军人节；11 月 25–28 日（周三至周六）感恩节假（26–27 闭校）；12 月 2 日（周三）结课；12 月 3 日（周四）Reading Day；期末 12 月 4–5 日、12 月 7–10 日；12 月 11–12 日毕业典礼。Spring 2027：1 月 11 日（周一）开课；1 月 18 日（周一）马丁·路德·金日；1 月 19 日（周二）最后无成绩加退课日；3 月 8–13 日（周一至周六）春假；3 月 15 日（周一）最后带 W 退课日；4 月 28 日（周三）结课；4 月 29 日（周四）Reading Day；期末 4 月 30 日–5 月 6 日；5 月 7–8 日毕业典礼。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与研究生院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "无成绩加退课截止秋 8 月 24 日 23:59、春 1 月 19 日；带 W 退课截止秋 10 月 8 日、春 3 月 15 日；退费档位按 Withdrawal Policy 与 Student Accounts 当期条款办理。",
+      "ins1": "学位本科生 6 及以上在校学分、学位或证书研究生 3 及以上在校学分，以及所有 F-1/J-1 国际学生（不论学分）为强制对象；学校学生健康保险计划保费自动计入账单。",
+      "ins2": "持合格私保者经 Student Health 门户提交豁免；核实通过后保费从账单移除；电子保险卡经承保方会员账户领取。",
+      "ins3": "国际学生 F-1/F-2/J-1/J-2 无论在美或境外均须有保险；可投学校计划或符合学校最低要求的美国或母国保单；替代保单须满足学校最低保障口径；咨询 Student Health。",
+      "clinic": "Student Health（Joyce Davis Waddell Center for Student Health and Wellbeing, Building 65），9201 University City Blvd, Charlotte, NC 28223；电话 704-687-7400，病历 704-687-7192，免疫 704-687-7424；工作日门诊；服务含初级保健、妇科、免疫、药房与健康促进，校外转诊按当期安排。",
+      "commute": "校园在 Charlotte 东北部 University City；自驾经 I-85 与 NC-49 进出；CATS 公交 29 路等线路到校；到 CLT 机场约 30–40 分钟车程量级。",
+      "scene": "1946 年创立为 Charlotte Center of the University of North Carolina；下设 Liberal Arts & Sciences、工程、Computing and Informatics、Belk 商学、教育、Health and Human Services、Arts + Architecture 与研究生院；校队 49ers，参加 NCAA Division I。",
+      "safety": "UNC Charlotte Police and Public Safety，Facilities Management and Police & Public Safety Building Suite 152, 9201 University City Blvd；紧急拨 704-687-2200 或 911；24 小时值守，LiveSafe App 与蓝灯电话；校外归 Charlotte-Mecklenburg Police Department（CMPD）辖区。",
+      "transit": "CATS 公交连通 Uptown 与 University City；校园接驳配合 CATS 班次；CLT 机场自驾约 30–40 分钟量级。",
+      "rentnote": "FTIC 首年有住校要求；住校生及传统/套房宿舍居民须选餐计划；49er ID（49er Card）为身份、门禁、就餐与 49er Account 消费卡；校外租房集中在 University City 周边与东北部社区，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.charlotte.edu/calendars-schedules/academic-calendar/",
+          "Registrar 学年校历"
+        ],
+        "ins": [
+          "https://studenthealth.charlotte.edu/",
+          "Student Health 保险"
+        ],
+        "police": [
+          "https://police.charlotte.edu/",
+          "Police and Public Safety"
+        ],
+        "housing": [
+          "https://housing.charlotte.edu/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://studenthealth.charlotte.edu/",
+          "Student Health"
+        ],
+        "transit": [
+          "https://www.ridetransit.org/",
+          "CATS 公交"
+        ]
+      }
+    },
+    "uncg": {
+      "short": "北卡罗来纳大学格林斯伯勒分校",
+      "place": "格林斯伯勒 · Spring Garden Street, Greensboro, NC 27412",
+      "cityKey": "greensboro",
+      "calShort": "两学期制；2026 秋 8 月 18 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 18 日（周二）8:00 开课；8 月 18–24 日末注册；8 月 24 日（周一）drop/add 截止与退费截止；8 月 31 日（周一）census；9 月 7 日（周一）劳动节；10 月 9 日（周五）18:00 秋假开始，10 月 14 日（周三）复课；10 月 23 日（周五）最后带 W 退课日；11 月 24 日（周二）22:00 起感恩节停课，11 月 30 日（周一）复课；12 月 2 日（周三）结课；12 月 3 日（周四）Reading Day；期末 12 月 4–5 日、12 月 7–10 日；12 月 10 日（周四）博士披肩典礼，12 月 11 日（周五）10:00 毕业典礼，First Horizon Coliseum。Spring 2027：1 月 11 日（周一）8:00 开课；1 月 11–15 日末注册；1 月 15 日（周五）drop/add 截止与退费截止；1 月 18 日（周一）马丁·路德·金日；1 月 25 日（周一）census；3 月 6 日（周五）13:00 春假开始，3 月 15 日（周一）复课；3 月 25 日（周四）最后带 W 退课日；3 月 26 日（周五）春假停课；4 月 28 日（周三）结课；4 月 29 日（周四）Reading Day；期末 4 月 30 日–5 月 1 日、5 月 3–6 日；5 月 6 日（周四）研究生典礼，5 月 7 日（周五）10:00 毕业典礼，First Horizon Coliseum。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与研究生院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "drop/add 与退费截止秋 8 月 24 日、春 1 月 15 日；带 W 退课截止秋 10 月 23 日、春 3 月 25 日；退费档位以 Cashiers 当期条款为准。",
+      "ins1": "学位在校本科生 6 及以上学分、研究生 1 及以上学分，以及所有 F-1/F-2/J-1/J-2 国际学生为强制对象；UNC System Student Blue（BCBSNC 承保）保费自动计入账单；远程教育学位不在适用范围。",
+      "ins2": "经 Student Blue 门户（studentbluenc.com/#/uncg）提交合格保单豁免；保单须秋 9 月 1 日、春 2 月 1 日前生效并覆盖整学期；通过后账单记贷方；电子保险卡经会员账户领取。",
+      "ins3": "秋投保/豁免截止 9 月 11 日，逾期有两周申诉期；春截止 1 月 31 日；国际替代保单最低总保障 10 万美元/事故或疾病、免赔额不超过 500 美元、医疗转运不少于 5 万美元、遣返不少于 2.5 万美元，须提交英文申报页；Student Blue 不含家属；咨询保险办公室 336-334-5759。",
+      "clinic": "Gove Student Health Center（Student Health Services），107 Gray Drive, Greensboro, NC 27412；电话 336-334-5340；内科门诊、心理咨询、药房、按摩治疗与免疫接种；工作日预约制，下班后与急诊选项见健康中心当期公布；校外转诊按当期安排。",
+      "commute": "校园距 Downtown Greensboro 约 1 英里；自驾经 Spring Garden Street 与 US-220；GTAG 城市公交与 PART 区域巴士衔接；到 GSO 机场约 15–25 分钟车程量级。",
+      "scene": "1891 年 2 月 18 日立法设立、1892 年 10 月 5 日开学，初为 State Normal and Industrial School，是北卡第一所州立女子高等教育机构，由 Charles Duncan McIver 推动创立，1963 年男女同校；校队 Spartans，参加 NCAA Division I 南部联盟（Southern Conference）。",
+      "safety": "UNCG Police，1200 W. Gate City Blvd；紧急 336-334-4444，非紧急 336-334-5963；24 小时值守，Spartan Safe 应用与蓝灯电话；校外归 Greensboro Police Department 辖区。",
+      "transit": "GTAG 城市公交与 PART 区域巴士连通校园与 Downtown Greensboro；到 GSO 机场自驾约 15–25 分钟量级。",
+      "rentnote": "校内含传统宿舍、Spring Garden Apartments、Spartan Village 与 Lofts on Lee 研究生公寓；住校生默认 All Access Blue 餐计划，可在变更窗口调整；SpartanCard 为身份、门禁、就餐与消费卡；校外租房在 Spring Garden、Westside 与 Downtown 邻里，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://reg.uncg.edu/fall-2026-academic-calendar/",
+          "Registrar 秋学期校历"
+        ],
+        "ins": [
+          "https://shs.uncg.edu/student-insurance",
+          "Student Blue 保险与豁免"
+        ],
+        "police": [
+          "https://www.uncg.edu/campus-life-resources/health-safety/university-police/",
+          "UNCG Police"
+        ],
+        "housing": [
+          "https://hrl.uncg.edu/",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://shs.uncg.edu/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://partnc.org/",
+          "PART 区域公交"
+        ]
+      }
+    },
+    "ncat": {
+      "short": "北卡罗来纳农工州立大学",
+      "place": "格林斯伯勒 · 1601 E. Market Street, Greensboro, NC 27411",
+      "cityKey": "greensboro",
+      "calShort": "两学期制；2026 秋 8 月 19 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 19 日（周三）第一期开课；8 月 21 日（周五）最后无 penalty 加退课日与退费截止；8 月 29 日（周六）census；秋季研究生典礼 12 月 11 日、本科典礼 12 月 12 日；其余假日、期末与毕业节点以 Registrar 当期校历为准。Spring 2027：1 月 11 日（周一）学期开始；春假、期末与毕业节点以 Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与研究生院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "无 penalty 加退课与退费截止秋 8 月 21 日；census 8 月 29 日；带 W 退课、春季节点与退费档位以 Registrar 校历和 Student Accounts 当期条款为准。",
+      "ins1": "修读 6 及以上学分（主校区或符合资格的远程教育项目）学生为强制对象；BCBS Student Blue 保费自动计入账单；远程教育学位与非学位生不在适用范围。",
+      "ins2": "持可核实合格私保者经 Student Blue 门户提交豁免；通过后保费移除；电子保险卡经会员账户领取。",
+      "ins3": "秋投保/豁免窗口随开学开放，截止日以当期公告为准；国际学生须有健康保险；咨询 Health Services 保险办公室。",
+      "clinic": "Alvin V. Blount Jr. Student Health Center，112 N. Benbow Rd, Greensboro, NC 27411；接待 336-334-7880，health@ncat.edu；门诊、免疫、药房与健康教育；校外转诊按当期安排。",
+      "commute": "校园在 Greensboro 东部 East Market Street 走廊，占地 188 英亩；自驾经 US-421 与 I-40；与 UNCG 同在 Greensboro，相距约 2–3 英里量级；到 GSO 机场约 20–30 分钟车程量级。",
+      "scene": "1891 年立法设立，初为面向有色人种的农工机械学院；下设农业与环境科学、人文艺术社科、Deese 商经学院、教育、工程、健康与人文科学、科学技术、纳米科学联合学院、研究生院与荣誉学院；2025-26 注册学生 15,275 人；校队 Aggies，参加 NCAA Division I。",
+      "safety": "NC A&T University Police Department，Department of Public Safety, 406 Laurel Street（Ward Hall）, Greensboro, NC 27411；紧急拨 911，24 小时调度 336-334-7675，匿名热线 336-334-7879；校外归 Greensboro Police Department 辖区。",
+      "transit": "GTAG 城市公交与 PART 区域巴士连通 Downtown Greensboro；到 GSO 机场自驾约 20–30 分钟量级。",
+      "rentnote": "校内宿舍与 Aggie Village 公寓；餐计划经 Housing and Residence Life 办理；Aggie OneCard 为官方身份卡与预付消费账户；校外租房在 East Market 与 Downtown 周边，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.ncat.edu/content.php?catoid=19&navoid=935",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.ncat.edu/campus-life/student-affairs/departments/health-services/insurance/",
+          "Health Insurance Requirement"
+        ],
+        "police": [
+          "https://www.ncat.edu/campus-life/public-safety/police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.ncat.edu/campus-life/student-affairs/departments/housing-and-residence-life/",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://www.ncat.edu/campus-life/student-affairs/departments/health-services/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://partnc.org/",
+          "PART 区域公交"
+        ]
+      }
+    },
+    "uncw": {
+      "short": "北卡罗来纳大学威尔明顿分校",
+      "place": "威尔明顿 · 601 S. College Road, Wilmington, NC 28403-5985",
+      "cityKey": "wilmingtonnc",
+      "calShort": "两学期制；2026 秋 8 月 19 日开课，2027 春 1 月 12 日开课。",
+      "calendar": "Fall 2026：8 月 18 日（周二）Convocation；8 月 19 日（周三）开课；8 月 26 日（周三）最后加退课日；9 月 1 日（周二）census；9 月 7 日（周一）假日；10 月 8–10 日（周四至周六）秋假；10 月 20 日（周二）本科最后带 W 退课日；11 月 9 日（周一）研究生最后带 W 退课日；11 月 25 日（周三）无课（开放），11 月 26–28 日假日；12 月 2 日（周三）结课；12 月 3 日（周四）Reading Day；期末 12 月 4–10 日；12 月 11–12 日毕业典礼。Spring 2027：1 月 11 日（周一）学期开始；1 月 12 日（周二）开课；1 月 19 日（周二）最后加退课日；1 月 25 日（周一）census；3 月 1–7 日（周一至周日）春假；3 月 17 日（周三）本科最后带 W 退课日；4 月 8 日（周四）研究生最后带 W 退课日；4 月 28 日（周三）结课；4 月 29 日（周四）Reading Day；期末 4 月 30 日–5 月 6 日；5 月 7–8 日毕业典礼。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与研究生院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "加退课截止秋 8 月 26 日、春 1 月 19 日；带 W 退课本科秋 10 月 20 日、春 3 月 17 日，研究生秋 11 月 9 日、春 4 月 8 日；退费按 Withdrawal Credit Schedule（add/drop 内为 100%）办理，档位以 Cashiers 当期条款为准。",
+      "ins1": "本科生修读 6 及以上学分须持有健康保险；未提供合格证明者自动投保学校学生健康保险计划；国际学生口径以 Student Health 当期要求为准。",
+      "ins2": "持合格私保者经健康中心指定门户提交豁免；通过后保费从账单移除；电子保险卡经承保方会员账户领取。",
+      "ins3": "投保/豁免窗口随开学开放；替代保单须达标并覆盖在美停留全期；咨询 Student Health Center。",
+      "clinic": "Student Health Center（DePaolo Hall 2 层），601 S. College Road, Wilmington, NC 28403-5985；学期内门诊；暑期周一至周三 7:30–17:00、周四 9:00–17:00、周五 7:30–11:30；心理咨询 910-962-3746；校外转诊按当期安排。",
+      "commute": "校园在 Wilmington 南部 College Road 一带，近大西洋岸；自驾经 US-17 与 NC-132；Wave Transit 公交与 Seahawk Shuttle；到 ILM 机场约 10–15 分钟车程量级。",
+      "scene": "1947 年创立为 Wilmington College，1963 年取得四年制地位；下设文理、商学、教育、健康与人文服务、工程等学院；校队 Seahawks，参加 NCAA Division I。",
+      "safety": "UNCW Police；紧急拨 911，非紧急 910-962-2222，police@uncw.edu；24 小时值守；校外归 Wilmington Police Department 辖区。",
+      "transit": "Seahawk Shuttle 校园接驳；持 UNCW One Card 免费乘坐 Wave Transit 城市公交；ILM 机场自驾约 10–15 分钟量级。",
+      "rentnote": "首年新生须住校方所有或管理的宿舍、套房或公寓（豁免申请通过除外；获准豁免情形含父母或法定监护人 primary residence 在 Brunswick、New Hanover 或 Pender County）；校内设施含传统宿舍、公寓与套房；UNCW One Card 为身份、门禁、图书馆、就餐与免费公交凭证；校外租房在 College Road 沿线与近海滩社区，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://uncw.edu/myuncw/academics/registrar/dates-deadlines",
+          "Registrar 日期与截止"
+        ],
+        "ins": [
+          "https://uncw.edu/seahawk-life/health-wellness/health-center/support/insurance",
+          "学生健康保险"
+        ],
+        "police": [
+          "https://uncw.edu/emergency-safety",
+          "UNCW Police 与应急安全"
+        ],
+        "housing": [
+          "https://uncw.edu/housing/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://uncw.edu/seahawk-life/health-wellness/health-center/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.wavetransit.com/",
+          "Wave Transit"
+        ]
+      }
+    },
+    "uncp": {
+      "short": "北卡罗来纳大学彭布罗克分校",
+      "place": "彭布罗克 · 1 University Drive, Pembroke, NC 28372",
+      "cityKey": "pembroke",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 17 日（周一）开课；8 月 21 日（周五）最后加退课日；8 月 24–25 日注册名册核验；9 月 11 日（周五）第一段 8 周课退课截止；10 月 16 日（周五）本科学期课带 W 退课截止；12 月 4 日（周五）结课；期末 12 月 7–11 日；12 月 12 日（周六）9:00 本科毕业典礼。Spring 2027：1 月 11 日（周一）开课；1 月 15 日（周五）最后加退课日；2 月 5 日（周五）第一段 8 周课退课截止；3 月 19 日（周五）本科学期课带 W 退课截止；4 月 9 日（周五）第二段 8 周课退课截止；4 月 30 日（周五）结课；期末 5 月 3–7 日；5 月 10 日成绩截止。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与研究生院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "加退课截止秋 8 月 21 日、春 1 月 15 日；本科学期课带 W 截止秋 10 月 16 日、春 3 月 19 日；8 周课段退课节点见校历；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "在校修读 6 及以上学分且符合资格的学生为强制对象；UNC 系统统一计划经 Student Blue（BCBSNC 承保）投保，保费自动计入账单；远程教育学位不适用。",
+      "ins2": "持等效可核实合格私保者经 studentbluenc.com/#/uncp 门户提交豁免；通过后保费移除；电子保险卡经会员账户领取。",
+      "ins3": "秋 2026 投保/豁免截止 9 月 11 日；替代保单须等效并覆盖在美停留全期；咨询 Student Health Services（www.uncp.edu/shs）。",
+      "clinic": "Student Health Services，Brave Health Center 1 层，1 University Drive, Pembroke, NC 28372；电话 910-521-6219，shs@uncp.edu；周一至周五 8:00–17:00；下班后护士咨询按 910-521-6219 转 1（UNC Nurse Connect）；含远程医疗；校外转诊按当期安排。",
+      "commute": "校园在 Robeson County 乡村小镇 Pembroke；自驾经 US-711 与 NC-710；县域公共交通有限；到 Fayetteville 机场约 50 分钟–1 小时量级。",
+      "scene": "1887 年 3 月 7 日经州议会立法设立 Croatan Normal School，议案由 Robeson County 众议员 Hamilton McMillan 提出，应当地原住民请愿，最初培养原住民教师；校园位于 Lumbee 部落聚居的 Pembroke，图书馆特藏有 Lumbee 史料；校队 Braves。",
+      "safety": "UNCP Campus Police & Public Safety，全执法机构；紧急拨 911，值班 910-521-6235，police@uncp.edu；校外归 Robeson County Sheriff's Office 辖区。",
+      "transit": "县域以自驾为主；就近跨城交通见区域公交当期班次；FAY、MYR 机场自驾量级约 1 小时上下。",
+      "rentnote": "校内宿舍经 Housing and Residence Life 分配；餐计划与 Dining Dollars 经校园餐饮办理；Braves Card 为校园身份卡与消费凭证；校外租房在 Pembroke 镇内及周边县域，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.uncp.edu/content.php?catoid=44&navoid=2990",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.uncp.edu/admissions/orientation/",
+          "Health Insurance Requirement"
+        ],
+        "police": [
+          "https://www.uncp.edu/campus-life/campus-safety/police-and-public-safety.html",
+          "Campus Police & Public Safety"
+        ],
+        "housing": [
+          "https://www.uncp.edu/campus-life/housing-and-residence-life/",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://catalog.uncp.edu/content.php?catoid=44&navoid=3032",
+          "Student Services and Resources"
+        ],
+        "transit": [
+          "https://www.uncp.edu/",
+          "UNCP 官网"
+        ]
+      }
+    },
+    "unca": {
+      "short": "北卡罗来纳大学阿什维尔分校",
+      "place": "阿什维尔 · One University Heights, Asheville, NC 28804",
+      "cityKey": "asheville",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：学期 8 月 13 日（周四）开启；课程 8 月 17 日（周一）开始；Term I 加退课与注册截止 8 月 20 日（周四），全学期课程加退课截止 8 月 21 日（周五）；8 月 24 日（周一）起 W 退课开始、迟加课开始；人口普查日 8 月 28 日（周五）；12 月毕业申请截止 9 月 1 日（周一）；劳动节 9 月 7 日（周一）停课；Term I 退课截止 9 月 11 日（周五）；Term I 结课 10 月 2 日（周五）；秋假 10 月 5–6 日（周一、周二），10 月 7 日（周三）复课并进入 Term II；Term II 加退课截止 10 月 9 日（周五）；全学期课程退课/旁听截止 10 月 16 日（周五）；Term II 退课/旁听截止 11 月 4 日（周三）；Undergraduate Research Symposium 11 月 17 日（周二）；感恩节 11 月 25–27 日（周三至周五）；结课 12 月 1 日（周二）；Reading Day 12 月 2 日（周三）；期末 12 月 3–9 日（周四至周三）；12 月 11 日（周五）正午前提交期末成绩并举行毕业典礼。Spring 2027：学期 1 月 7 日（周四）开启；课程 1 月 11 日（周一）开始；Term I 加退课截止 1 月 14 日（周四），全学期加退课截止 1 月 15 日（周五）；马丁·路德·金日 1 月 18 日（周一）停课；1 月 19 日（周二）起 W 退课开始；人口普查日 1 月 25 日（周一）；5 月毕业申请截止 2 月 1 日（周一）；Term I 退课截止 2 月 5 日（周五）；Term I 结课 3 月 5 日（周五）；春假 3 月 8–12 日（周一至周五）；Term II 加退课截止 3 月 17 日（周三）；全学期退课/旁听截止 3 月 19 日（周五）；Term II 退课/旁听截止 4 月 9 日（周五）；研讨日 4 月 20 日（周二）；结课 4 月 27 日（周二）；Reading Day 4 月 28 日（周三）；期末 4 月 29 日–5 月 5 日（周四至周三）；5 月 7 日（周五）正午前提交成绩并举行毕业典礼。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须先经学业顾问与国际学生事务办公室批准，再由 Registrar 系统办理；学期注册与学分口径以当期学籍通知为准。",
+      "drop": "加退课按 Registrar 校历节点办理：秋季全学期截止 8 月 21 日、春季 1 月 15 日；W 退课分别自 8 月 24 日、1 月 19 日起办理，全学期课程退课截止秋季 10 月 16 日、春季 3 月 19 日；退费档位与 W/旁听标记以 Bursar 当期条款和校历为准。",
+      "ins1": "UNC 系统学生健康保险计划（Student Blue，Blue Cross Blue Shield of North Carolina 承保）面向符合资格的学位学生；达到健康费与学分资格（本科 6 学分及以上）者账单自动计入保费，未在窗口内通过豁免核验的学生默认投保 Value Plan。",
+      "ins2": "已持合格替代保单者须在 Student Blue 门户按学年提交豁免申请并通过核验，保费方可从账单移除；电子保险卡、保单号与生效到期日经 Student Blue 会员账户领取；豁免不覆盖未达资格或不符合条款的保单。",
+      "ins3": "豁免与投保窗口每学期开学初开放，替代保单须合格并覆盖在美停留全期；家属投保、计划升级（Premium Plan）与保险咨询经 HCC 学生健康服务或 Student Blue 门户办理。",
+      "clinic": "Health & Counseling Center（HCC）位于 W.T. Weaver Building（Office 105/107/101），One University Heights；门诊电话 828-251-6668；工作日门诊，具体时段以 HCC 当期公布为准；提供初级保健、化验、疫苗与心理咨询；下班后与节假日经 Bulldog Health Link 远程咨询 984-364-4685；超出校园能力的情形转诊阿什维尔市区医疗机构。",
+      "commute": "主校区位于 Asheville 北侧山坡，地址 One University Heights；自驾经 Merrimon Avenue（US 25）转入校园通道；距阿什维尔市区约 10 分钟车程；校区步行圈成熟，宿舍区到教学区有校内步行与接驳衔接；冬季山区偶有降雪与路面结冰，出行预留时间。",
+      "scene": "UNC Asheville 1927 年创立，前身为 Buncombe County Junior College，是北卡罗来纳州公立文理学院；以本科文理教育、环境研究、人文学科与 STEM 交叉项目见长；校队为 Bulldogs，参加 NCAA Division I，联盟为 Big South Conference。",
+      "safety": "University Police Department 驻 Weizenblatt Hall，CPO 2700, One University Heights, Asheville, NC 28804；24 小时紧急线 828-232-5000，办公室 828-251-6710，邮箱 police@unca.edu；校园设蓝灯紧急电话并提供夜间护送；校外归 Asheville Police Department 调度 828-252-1110，Buncombe County Sheriff's Office 828-250-6670。",
+      "transit": "Asheville Redefining Transit（ART）运营市区固定线路，可衔接校园周边；校内步行通道为主；城际无铁路直达，靠自驾、长途接驳或经 Asheville Regional Airport（AVL）航空出行。",
+      "rentnote": "校内宿舍包括 Founders Hall（900 Founders Drive）、Ponder Hall（300 Field Drive）、Mills Hall、South Ridge 与 West Ridge（The Ridges，300–400 Ridge Hall Drive），高年级另有 The Woods 公寓式宿舍（Aspen、Beech、Cedar、Chestnut、Magnolia、Willow 楼栋）；OneCard 同时是校园身份卡与校内借记消费卡；2026–27 校内费率见 Housing 当期费率表，餐计划口径以 Dining 当期说明为准；校外租房集中在 Merrimon Avenue 与 Charlotte Street 沿线住宅区，依赖公交或自驾，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.unca.edu/academics/academic-calendar/",
+          "Registrar 学术日历"
+        ],
+        "ins": [
+          "https://go.unca.edu/hcc/insurance-and-immunizations/",
+          "HCC 保险与疫苗"
+        ],
+        "police": [
+          "https://go.unca.edu/police/",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.unca.edu/housing/",
+          "住宿与宿舍"
+        ],
+        "clinic": [
+          "https://go.unca.edu/hcc/about/",
+          "Health & Counseling Center"
+        ],
+        "transit": [
+          "https://www.ashevillenc.gov/departments/transit/",
+          "ART 市区公交"
+        ]
+      }
+    },
+    "appstate": {
+      "short": "阿巴拉契亚州立大学",
+      "place": "布恩 · 287 Rivers Street, Boone, NC 28608",
+      "cityKey": "boone",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 17 日（周一）开课；全学期加退课、改成绩方式与降课退费截止 8 月 21 日（周五）；人口普查日 8 月 28 日（周五）；9 月 7 日（周一）州假日闭校；秋假 10 月 5–6 日（周一、周二）；全学期退课截止 10 月 21 日（周三）；11 月 2–13 日春季提前选课；11 月 25 日（周三）学生休息日，11 月 26–27 日（周四、周五）州假日闭校；12 月 2 日（周三）结课、12 月 3 日（周四）Reading Day，期末 12 月 4–5 日与 12 月 7–9 日；12 月 11 日（周五）毕业典礼，12 月 14 日（周一）13:00 成绩提交截止。Spring 2027：1 月 11 日（周一）开课；全学期加退课与退费截止 1 月 15 日（周五）；1 月 18 日（周一）马丁·路德·金日闭校；人口普查日 1 月 25 日（周一）；春假 3 月 8–12 日（周一至周五）；全学期退课截止 3 月 22 日（周一）；3 月 26 日（周五）州假日闭校；4 月 28 日（周三）结课、4 月 29 日（周四）Reading Day，期末 4 月 30 日–5 月 6 日；5 月 6–8 日毕业典礼，5 月 10 日（周一）13:00 成绩提交截止。第一/第二半学期（half semester）另设加退课与退课截止。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须先经学业顾问与国际学生事务办公室批准，再由 Registrar 办理；学期注册与学分口径以当期学籍通知为准。",
+      "drop": "全学期加退课与降课退费截止：秋季 8 月 21 日、春季 1 月 15 日；全学期退课（记 W）截止：秋季 10 月 21 日、春季 3 月 22 日；第一半学期退课截止秋季 9 月 15 日、春季 2 月 9 日，第二半学期秋季 11 月 5 日、春季 4 月 7 日；退费档位以 Bursar 当期条款为准。",
+      "ins1": "UNC 系统学生健康保险计划（Student Blue，Blue Cross Blue Shield of North Carolina 承保）面向学位生；达到健康费与学分资格（本科 6 学分及以上）者账单自动计入保费，未在窗口内通过豁免核验的学生默认投保计划内默认方案。",
+      "ins2": "已持合格替代保单者须在 Student Blue 门户按学期提交豁免申请并通过核验，保费方可从账单移除；电子保险卡、保单号与生效到期日经门户会员账户领取；替代保单须符合 UNC 系统合格标准并覆盖在美停留全期。",
+      "ins3": "豁免与投保窗口每学期开学初开放；家属投保、计划升级与保险资格咨询经 Student Health Service 或 Student Blue 门户办理；研究生 TA/RA 等群体口径以学校当期通知为准。",
+      "clinic": "Mary S. Shook Student Health Service，Miles Annas Student Support Services Building 二层（Howard Street）；电话 828-262-3100；工作日 8:00–16:00（周三 9:00–16:00），周六 10:00–14:00、周日 13:00–17:00 有限服务；提供初级保健、妇科、化验与疫苗；心理咨询与危机支持经学生健康服务体系对接。",
+      "commute": "主校区位于 Blue Ridge 山脉小镇 Boone，校园沿 Rivers Street、Howard Street 展开；自驾经 US 321 进出山；距 Asheville 方向约 65 英里、1.5 小时量级；山区冬季有降雪与结冰，山路行车预留时间并备冬季出行安排。",
+      "scene": "Appalachian State University 1899 年由 Dougherty 兄弟创立 Watauga Academy，发展为北卡西部公立综合大学；下设 Walker 商学院、Reich 教育学院、文理学院、艺术与应用艺术学院、Hayes 音乐学院、Beaver 健康科学学院等；校队为 Mountaineers，参加 NCAA Division I，联盟为 Sun Belt Conference。",
+      "safety": "Appalachian Police Department（APD）驻 Rivers Street Parking Deck，461 Rivers Street；紧急 828-262-8000，非紧急 828-262-2150；校警 24 小时值守，提供护送与校园安全提示；校外归 Boone Police Department 与 Watauga County Sheriff's Office 管辖。",
+      "transit": "AppalCART 免费运营校园与社区公交线路，衔接宿舍区、教学区与镇内商业点；Boone 为山地小镇，城际无铁路直达，靠自驾、长途接驳或机场接驳进出；进城方向经 US 321。",
+      "rentnote": "校内传统宿舍包括 Belk、Bowie、Cone、Dogwood、Doughton、East、Eggers、Mountaineer、Newland、Summit 等；校外公寓区 Mountaineer Ridge 距校园约 1.5 英里，由 AppalCART 接驳；2026–27 校内费率见 Housing 当期费率表，餐计划口径以 Dining 当期说明为准；研究生、带家属学生与校外租房由 offcampus.appstate.edu 对接，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.appstate.edu/sites/default/files/printable_2026-27_academic_calendar.pdf",
+          "App State 2026–27 校历 PDF"
+        ],
+        "ins": [
+          "https://bulletin.appstate.edu/content.php?catoid=19&navoid=1101",
+          "学生健康保险说明"
+        ],
+        "police": [
+          "https://police.appstate.edu/",
+          "Appalachian Police Department"
+        ],
+        "housing": [
+          "https://housing.appstate.edu/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://healthservices.appstate.edu/",
+          "Mary S. Shook Student Health Service"
+        ],
+        "transit": [
+          "https://appalcart.com/",
+          "AppalCART 校园与社区公交"
+        ]
+      }
+    },
+    "wcu": {
+      "short": "西卡罗来纳大学",
+      "place": "卡洛希 · 1 University Drive, Cullowhee, NC 28723",
+      "cityKey": "cullowhee",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 17 日（周一）开始；迟注册与加退课 8 月 17–18 日；8 月 19 日（周三）起退课开始，不再办理迟加退课；人口普查日 8 月 28 日（周五）；劳动节 9 月 7 日（周一）停课；8 周课程加退课截止 9 月 9 日（周三）；毕业申请截止 9 月 15 日（周二）；8 周课程退课截止 10 月 2 日（周五）；第一 8 周课程结课 10 月 5 日（周一），成绩 10 月 8 日（周四）提交；第二 8 周课程 10 月 12 日（周一）开始，加退课截止 10 月 13 日（周二）；秋季学期课程退课截止 10 月 15 日（周四）；毕业申请截止 11 月 12 日（周四）；全校退课截止 11 月 16 日（周一）；感恩节后 11 月 19 日（周四）停课开始，11 月 23–27 日放假，11 月 30 日（周一）复课；结课 12 月 4 日（周五）；Reading Day 12 月 5–6 日；期末 12 月 7–10 日（周一至周四）；毕业典礼 12 月 11 日（周五）；成绩 12 月 14 日（周一）正午前提交。Spring 2027：课程 1 月 11 日（周一）开始；迟注册与加退课 1 月 11–12 日；1 月 13 日（周二）起退课开始；人口普查日 1 月 22 日（周五）；8 周课程加退课截止 1 月 27 日（周三）；8 周课程退课截止 2 月 5 日（周五）；第一 8 周课程结课 2 月 8 日（周一），成绩 2 月 10 日（周三）提交；第二 8 周课程 2 月 12 日（周五）开始，加退课截止 2 月 16 日（周二）；春季学期课程退课截止 2 月 18 日（周四）；毕业申请截止 3 月 12 日（周五）；春假 3 月 15 日（周一）开始，3 月 22 日（周一）复课；全校退课截止 3 月 26 日（周五）；期末安排 4 月 12 日（周一）公布；结课 4 月 22 日（周四）；Reading Day 4 月 23 日（周五）；期末 4 月 26–29 日（周一至周四）；毕业典礼 4 月 30 日（周五）；成绩 5 月 3 日（周一）正午前提交。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须先经学业顾问与国际学生事务办公室批准，再由 Registrar 办理；学期注册与学分口径以当期学籍通知为准。",
+      "drop": "迟注册与加退课截止秋季 8 月 18 日、春季 1 月 12 日；学期课程退课截止秋季 10 月 15 日、春季 2 月 18 日；全校退课截止秋季 11 月 16 日、春季 3 月 26 日；退费档位与 W 标记以 Bursar 当期条款和校历为准。",
+      "ins1": "UNC 系统学生健康保险计划（Student Blue，Blue Cross Blue Shield of North Carolina 承保）为学位生强制安排；达到健康费与学分资格者账单自动计入保费，须投保或在窗口内通过合格替代保单豁免，未通过核验者自动进入默认方案。",
+      "ins2": "豁免经 Student Blue 门户在线提交保单证明并通过核验，保费方可从账单移除；电子保险卡、保单号与生效到期日经门户会员账户领取；替代保单须合格并覆盖在美停留全期。",
+      "ins3": "保险资格、账单与家属投保问题联系 Health Services 或 Student Accounts；计划升级与变更经 Student Blue 门户办理；研究生群体口径以学校当期通知为准。",
+      "clinic": "University Health Services，校园内；电话 828-227-7640，传真 828-227-7400，邮箱 cathealth@wcu.edu；工作日门诊，具体时段以 Health Services 当期公布为准；提供初级保健、化验、疫苗与转诊；超出校园能力的情形转诊 Sylva 或 Asheville 医疗机构。",
+      "commute": "主校区位于 Jackson County 山区谷地 Cullowhee，沿 NC 107 距 Sylva 约 5 英里；进出校走 NC 107 与 US 23/74 通道；最近枢纽机场为 Asheville（AVL），山路约 1.5 小时；冬季山区有降雪、结冰与局部雾情，山路行车预留时间。",
+      "scene": "Western Carolina University 1889 年 8 月创立，1891 年注册为 Cullowhee High School，创始人 Robert Lee Madison，最初以师资培养为宗旨；下设文理学院、工程与技术学院、商学院、教育与相关职业学院、艺术与表演艺术学院、健康与人文科学学院及护理学院；校队为 Catamounts，参加 NCAA Division I，联盟为 Southern Conference。",
+      "safety": "University Police Department 驻 Camp Building Annex；紧急 828-227-8911，非紧急 828-227-7301，部门主任线 828-227-3445；校警 24 小时值守并提供护送；校外警情拨 911，由 Jackson County Communications Center 调度。",
+      "transit": "Cullowhee 为山区小镇，无成规模的固定城市公交；校园内有校方接驳与步行通道；去 Sylva、Asheville 方向依赖自驾、拼车或预约接驳；城际无铁路直达。",
+      "rentnote": "校内宿舍含传统宿舍与公寓式布局，申请与押金规则见 Housing 门户；2026–27 校内费率见 Housing 当期费率表，餐计划口径以 Dining 当期说明为准；校外房源集中在 Cullowhee 谷地与 Sylva 镇，依赖自驾；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.wcu.edu/content.php?navoid=2391",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.wcu.edu/experience/health-and-wellness/health-services/patient-information/student-health-insurance.aspx",
+          "学生健康保险"
+        ],
+        "police": [
+          "https://www.wcu.edu/discover/campus-services-and-operations/university-police/",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.wcu.edu/experience/life-on-campus/housing-residence-life/index.aspx",
+          "University Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://www.wcu.edu/experience/health-and-wellness/health-services/index.aspx",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.wcu.edu/experience/index.aspx",
+          "学生生活与校园交通指引"
+        ]
+      }
+    },
+    "ecsu": {
+      "short": "伊丽莎白城市立州立大学",
+      "place": "伊丽莎白城 · 1704 Weeksville Road, Elizabeth City, NC 27909",
+      "cityKey": "elizabethcity",
+      "calShort": "两学期制；2026 秋宿舍 8 月 15 日开放，其余节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026：校内宿舍 8 月 15 日开放；注册、加退课、退课、期中与期末考试节点以 Registrar 当期校历为准。Spring 2027：开学、注册、退课与毕业典礼节点以 Registrar 当期校历为准；参考往届春季口径，学期课程通常 1 月中旬开始，5 月上旬结课并举行毕业典礼，具体日期以官方校历公布为准。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须先经学业顾问与国际学生事务办公室批准，再由 Registrar 办理；学期注册与学分口径以当期学籍通知为准。",
+      "drop": "加退课与退课按 Registrar 校历节点办理；8 周课程与全学期课程的退课截止分别在校历上标注；退费档位、W 标记与申诉口径以 Bursar 当期条款和校历为准。",
+      "ins1": "UNC 系统学生健康保险计划（Student Blue，Blue Cross Blue Shield of North Carolina 承保）面向符合资格的学位生；缴健康费、本科 6 学分及以上资格者账单自动计入保费，未在窗口内通过豁免核验者默认由校方投保计划覆盖。",
+      "ins2": "已持合格替代保单者须通过 Student Blue 门户在线提交豁免申请并通过核验，保费方可从账单移除；豁免设有两周申诉期；电子保险卡、保单号与生效到期日经门户会员账户领取。",
+      "ins3": "保险资格、账单与豁免问题联系 Student Accounts（252-335-3471）或 Student Health Services；家属投保与计划升级经 Student Blue 门户办理；研究生群体口径以学校当期通知为准。",
+      "clinic": "Student Health Services，Griffin Hall Suite 300；工作日 9:00–17:00；门诊主任 252-335-3267，邮箱 ckeyes@ecsu.edu；疫苗与免疫记录护士 252-335-3521；提供初级保健、化验、疫苗与转诊；心理咨询经 NC-STEP 远程精神健康项目（ECU 与 BCBS 合作）对接。",
+      "commute": "主校区位于东北北卡沿海平原 Elizabeth City，校园沿 Weeksville Road 展开；进出校走 US 17 与本地通道；诺福克方向约 1 小时车程；地势平坦，夏季湿热，冬季少见持续积雪。",
+      "scene": "Elizabeth City State University 1891 年创立，是北卡 HBCU 之一；开设文理、教育、商学、自然科学与计算机等本科项目；校队为 Vikings，参加 NCAA Division II，联盟为 CIAA。",
+      "safety": "University Police Department 校内警务线 252-335-3266；宿舍值班线 252-340-0233；校警 24 小时值守并提供护送；急症或重大警情先拨 911，校外归 Elizabeth City Police Department 与 Pasquotank County 管辖。",
+      "transit": "Elizabeth City 本地公交规模有限，校园内有校方接驳；去 Norfolk、Raleigh 方向依赖自驾或预约接驳；城际无铁路直达。",
+      "rentnote": "校内宿舍按 Housing 门户分配，2026–27 校内费率见 Housing 当期费率表，餐计划口径以 Dining 当期说明为准；校外房源在 Elizabeth City 镇区与邻近街区，依赖自驾；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.ecsu.edu/content.php?catoid=5&navoid=214",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.ecsu.edu/student-life/health-services.php",
+          "Student Health Services 保险说明"
+        ],
+        "police": [
+          "https://www.ecsu.edu/student-life/",
+          "学生生活与警务渠道"
+        ],
+        "housing": [
+          "https://www.ecsu.edu/student-life/",
+          "住宿与宿舍"
+        ],
+        "clinic": [
+          "https://www.ecsu.edu/student-life/health-services.php",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.ecsu.edu/student-life/",
+          "学生生活与交通指引"
+        ]
+      }
+    },
+    "fsu": {
+      "short": "费耶特维尔州立大学",
+      "place": "费耶特维尔 · 1200 Murchison Road, Fayetteville, NC 28301",
+      "cityKey": "fayettevillenc",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：第一节课与迟注册加退课 8 月 17 日（周一）开始（迟注册收 20 美元费用）；迟注册与加退课 8 月 25 日（周二）截止；课程与全校退课自 8 月 26 日（周三）起办理；人口普查日 8 月 28 日（周五）；劳动节 9 月 7 日（周一）校方关闭；免疫材料截止 9 月 17 日（周四）8:00；Founders' Day 9 月 18 日（周五）；期中考试 10 月 5–9 日（周一至周五）；期中成绩 10 月 14 日（周三）提交；Homecoming 10 月 17 日（周六）；秋假 10 月 19–20 日（周一、周二）；课程退课截止 10 月 30 日（周五）；春季注册 11 月 2 日（周一）开始；全校与学期退课截止 11 月 9 日（周一）；退伍军人节 11 月 11 日（周三）校方关闭；感恩节 11 月 26–27 日（周四、周五）；结课 12 月 2 日（周三）；期末 12 月 3 日（周四）至 12 月 9 日（周三）；毕业典礼 12 月 11 日（周五）。Spring 2027：宿舍 1 月 8 日（周五）开放；第一节课 1 月 11 日（周一）；马丁·路德·金日 1 月 18 日（周一）关闭；加退课截止 1 月 19 日（周二）；退课自 1 月 20 日（周三）起办理；人口普查日 1 月 25 日（周一）；期中考试 3 月 1–5 日（周一至周五）；春假 3 月 8–12 日（周一至周五）；课程退课截止 3 月 22 日（周一）；耶稣受难日 3 月 26 日（周五）关闭；全校与学期退课截止 4 月 14 日（周三）；结课 4 月 30 日（周五）；期末 5 月 3 日（周一）至 5 月 7 日（周五）；研究生与博士毕业典礼 5 月 7 日（周五），本科生毕业典礼 5 月 8 日（周六）于 Crown Coliseum 举行；宿舍 5 月 8 日（周六）关闭。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须先经学业顾问与国际学生事务办公室批准，再由 Registrar 办理；学期注册与学分口径以当期学籍通知为准。",
+      "drop": "加退课截止秋季 8 月 25 日、春季 1 月 19 日；课程退课截止秋季 10 月 30 日、春季 3 月 22 日；全校与学期退课截止秋季 11 月 9 日、春季 4 月 14 日；退费档位与 W 标记以 Bursar 当期条款和校历为准。",
+      "ins1": "UNC 系统学生健康保险计划（Student Blue，Blue Cross Blue Shield of North Carolina 承保）为合格学生强制安排；保费在注册后自动计入学生账户，须在截止前选择投保或提交合格替代保单豁免。",
+      "ins2": "已持合格替代保单者须在 SHIP 豁免窗口内通过承保方门户提交保单证明并通过核验，保费方可从账单移除；电子保险卡、保单号与生效到期日经门户会员账户领取；替代保单须合格并覆盖在美停留全期。",
+      "ins3": "保险资格、账单与豁免问题联系 Clinical Health Care Services 或 Student Accounts；家属投保与计划升级经承保方门户办理；研究生与运动员群体口径以学校当期通知为准。",
+      "clinic": "Spaulding Student Health Center，Cook Hall Lower Level，1200 Murchison Road, Fayetteville, NC 28314；前台 910-672-1259，药房 910-672-2080，保险咨询 910-672-2155；工作日门诊，具体时段以 Health Center 当期公布为准；提供初级保健、药房、化验、疫苗与转诊。",
+      "commute": "主校区位于 Cumberland County  Fayetteville 城区，Murchison Road 一带，邻近 Fort Liberty 方向；进出校走 US 401 与本地通道；地势平坦，夏季湿热，冬季温和少雪。",
+      "scene": "Fayetteville State University 1867 年 11 月 29 日由七位黑人市民创立 Howard School，是北卡历史悠久的 HBCU 之一；开设文理、商学、教育、自然科学、计算机与专业项目；校队为 Broncos，参加 NCAA Division II，联盟为 CIAA。",
+      "safety": "Department of Police and Public Safety，Mitchell Building，1200 Murchison Road；紧急 910-672-1911（校园座机拨 1911），非紧急 910-672-1775；夜间护送 910-672-1295，停车咨询 910-672-1726（工作日 8:00–16:30）；校警 24 小时值守；校外归 Fayetteville Police Department 与 Cumberland County 管辖。",
+      "transit": "FAST（Fayetteville Area System of Transit）运营市区固定线路，可衔接校园周边；城际无铁路直达，靠自驾、长途接驳或经 Fayetteville Regional Airport（FAY）出行。",
+      "rentnote": "校内共十栋宿舍与一处公寓式住宿，房间配家具、网络与空调，公共洗衣免费；2026–27 校内费率见 Housing 当期费率表，餐计划口径以 Dining 当期说明为准；校外房源在 Fayetteville 城区与邻近街区，依赖公交或自驾；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uncfsu.edu/faculty-and-staff/departments-and-offices/office-of-the-registrar/academic-calendars",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.uncfsu.edu/faculty-and-staff/divisions-departments-and-offices/division-of-student-affairs/clinical-health-care-services",
+          "Clinical Health Care Services 保险说明"
+        ],
+        "police": [
+          "https://www.uncfsu.edu/campus-life/our-campus/police-and-public-safety/emergency-contact-information",
+          "Police and Public Safety"
+        ],
+        "housing": [
+          "https://www.uncfsu.edu/campus-life/housing-and-residence-life",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://www.uncfsu.edu/faculty-and-staff/divisions-departments-and-offices/division-of-student-affairs/clinical-health-care-services",
+          "Spaulding Student Health Center"
+        ],
+        "transit": [
+          "https://www.ridefast.net/",
+          "FAST 市区公交"
+        ]
+      }
+    },
+    "ecu": {
+      "short": "东卡罗来纳大学",
+      "place": "格林维尔 · East Carolina University, Greenville, NC 27858",
+      "cityKey": "greenvillenc",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 17 日（周一）开始；注册与课程调整截止 8 月 21 日（周五）17:00；劳动节 9 月 7 日（周一）州假日；毕业申请截止 9 月 15 日（周二）；秋假 10 月 3–6 日（周六至周二）；学期课程退课截止 10 月 26 日（周一）17:00；感恩节 11 月 25–29 日（周三至周日）；结课 11 月 30 日（周一）；Reading Day 12 月 2 日（周三）；期末 12 月 3 日（周四）至 12 月 9 日（周三）；毕业典礼 12 月 11 日（周五）。Spring 2027：学业指导、注册与课程调整 1 月 8 日（周五）；课程 1 月 11 日（周一）开始；注册与课程调整截止 1 月 15 日（周五）；马丁·路德·金日 1 月 18 日（周一）州假日；学期课程退课截止 3 月 25 日（周四）17:00；期末与毕业典礼日期以 Registrar 当期校历公布为准。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须先经学业顾问与 Office of Global Affairs 批准，再由 Registrar 办理；学期注册与学分口径以当期学籍通知为准。",
+      "drop": "注册与课程调整截止秋季 8 月 21 日、春季 1 月 15 日（均 17:00）；学期课程退课截止秋季 10 月 26 日、春季 3 月 25 日（17:00）；退费档位与 W 标记以 Bursar 当期条款和校历为准。",
+      "ins1": "UNC 系统学生健康保险计划（SHIP，Student Blue，Blue Cross Blue Shield of North Carolina 承保）；符合学生保险资格并在学费账单中计费的 F-1/J-1 学位生必须投保或提交合格替代保单豁免；未通过核验者默认入保计划默认方案。",
+      "ins2": "已持合格替代保单者可在 Student Blue 门户申请 waiver 并提交保单证明；电子保险卡、保单号与生效到期日经门户会员账户领取；计划可选 Value Plan 与 Premium Plan，经 Student Blue 选择升级。",
+      "ins3": "保险资格、账单与豁免问题联系 Student Health Services 或 Office of Global Affairs；J-1 访问学者医疗保险按项目规定办理；家属投保与计划变更经门户或 SHS 咨询。",
+      "clinic": "Student Health Services 设主校区与 Health Sciences Campus Student Center 二层两处；24 小时护士热线与预约、免疫记录 252-328-6841；工作日门诊，具体时段以 SHS 当期公布为准；提供初级保健、妇科、化验、疫苗、药房与转诊；超出校园能力的情形转诊 Greenville 市区医疗机构。",
+      "commute": "主校区位于 Pitt County Greenville 城区东侧，沿 East Tenth Street 一带；进出校走 US 264、US 13 与本地通道；地势平坦，夏季湿热，冬季温和少雪；Health Sciences 校区与主校区之间有校内交通衔接。",
+      "scene": "East Carolina University 1907 年 3 月 8 日经州议会特许为两年制师范学校，1909 年 10 月 5 日开学；下设商学、教育、工程与技术、艺术与传播、健康与人类表现、文理、护理、药学、牙医学、健康科学等学院，以及 Brody School of Medicine；校队为 Pirates，参加 NCAA Division I，联盟为 American Athletic Conference。",
+      "safety": "ECU Police Department 驻 Blount House，609 E. Tenth Street, Greenville, NC；非紧急 252-328-6787；East Campus 恶劣天气线 252-328-0062，West（Health Sciences）校区天气线以警方公布为准；校警 24 小时值守并提供护送；急症或重大警情先拨 911，校外归 Greenville Police Department 与 Pitt County 管辖。",
+      "transit": "ECU 校内接驳与 GTA（Greenville Transit Authority）市区线路衔接宿舍区、教学区与城区；城际无铁路直达，靠自驾、长途接驳或经 PGV、RDU、ORF 航空出行。",
+      "rentnote": "校内宿舍与校区村舍按 Housing 门户分配；2026–27 校内费率见 Housing 当期费率表，餐计划口径以 Dining 当期说明为准；校外房源集中在 Greenville 城区邻近校区街区，依赖公交或自驾；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://facultysenate.ecu.edu/academic-calendars-2/fall-2026/",
+          "Faculty Senate 学术日历"
+        ],
+        "ins": [
+          "https://studenthealth.ecu.edu/ship/",
+          "Student Health Insurance Plan"
+        ],
+        "police": [
+          "https://police.ecu.edu/",
+          "ECU Police Department"
+        ],
+        "housing": [
+          "https://housing.ecu.edu/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://studenthealth.ecu.edu/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.ridegta.com/",
+          "GTA 市区公交"
+        ]
+      }
+    },
+    "uncsa": {
+      "short": "北卡罗来纳大学艺术学院",
+      "place": "温斯顿塞勒姆 · 1533 S. Main Street, Winston-Salem, NC 27127",
+      "cityKey": "winstonsalem",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 24 日（周一）开始；加退课截止 8 月 28 日（周五）17:00；人口普查日 9 月 4 日（周五）；劳动节 9 月 7 日（周一）；Bridge Days 9 月 23–24 日（周三、周四）；W 退课截止 10 月 9 日（周五）17:00；秋假 10 月 10–13 日（周六至周二）；全校退课截止 10 月 30 日（周五）；Wellness Day 11 月 3 日（周二）；感恩节 11 月 25–29 日（周三至周日）；结课 12 月 10 日（周四）；Reading Day 12 月 11 日（周五）；Capstone 展演与考核 12 月 14–18 日（周一至周五）；12 月 19 日（周六）补考与学期结束；成绩 12 月 21 日（周一）16:00 前提交。Spring 2027：课程 1 月 11 日（周一）开始；加退课截止 1 月 15 日（周五）17:00；马丁·路德·金日 1 月 18 日（周一）；人口普查日 1 月 25 日（周一）；Bridge Days 2 月 10–11 日（周三、周四）；W 退课截止 2 月 26 日（周五）；春假 3 月 6–14 日（周六至周日）；全校退课截止 3 月 26 日（周五）17:00；Wellness Day 4 月 6 日（周二）；研究生与本科生结课 4 月 29 日（周四）；Reading Day 4 月 30 日（周五）；Capstone 展演与考核 5 月 3–7 日（周一至周五）；成绩 5 月 10 日（周一）16:00 前提交；毕业典礼 5 月 15 日（周六）。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；音乐、舞蹈、戏剧、电影、设计与制作各专业的排练、展演与 Capstone 计入培养安排；减修须先经学业顾问与国际学生项目办公室批准，再由 Registrar 办理。",
+      "drop": "加退课截止秋季 8 月 28 日、春季 1 月 15 日（均 17:00）；W 退课截止秋季 10 月 9 日、春季 2 月 26 日；全校退课截止秋季 10 月 30 日、春季 3 月 26 日（17:00）；退费档位与 W 标记以 Bursar 当期条款和校历为准。",
+      "ins1": "UNCSA 按学费条款要求学生持有有效的主要医疗保险；符合资格的学位生纳入 UNC 系统学生健康保险计划（Student Blue，Blue Cross Blue Shield of North Carolina 承保）账单安排，未通过豁免核验者默认入保计划默认方案。",
+      "ins2": "已持合格替代保单者须在 Student Blue 门户按学期提交豁免申请并通过核验，保费方可从账单移除；电子保险卡、保单号与生效到期日经门户会员账户领取；替代保单须合格并覆盖在美停留全期。",
+      "ins3": "保险资格、账单与豁免问题联系 Wellness Center 或 Student Accounts；家属投保与计划升级经 Student Blue 门户办理；艺术专业外出展演期间的保险安排以学校当期通知为准。",
+      "clinic": "Wellness Center 位于 Hanes Student Commons 上层，邮寄地址 1533 S. Main Street, Winston-Salem, NC 27127；工作日门诊，具体时段以 Wellness Center 当期公布为准；提供初级保健、心理咨询与转诊；医疗合作方为 Atrium Health Wake Forest Baptist Health，超出校园能力的情形转诊该体系医疗机构。",
+      "commute": "校园位于 Winston-Salem 南侧 S. Main Street 一带，沿 Old 第三街方向展开；进出校走 US 52 与 First Street 通道；距市中心与 Old Salem 不远；平原丘陵地形，夏季湿热，冬季温和少雪。",
+      "scene": "UNCSA 由北卡州议会 1963 年立法设立，1965 年在 Winston-Salem 开学，是美国第一所公立艺术 conservatory，1972 年加入 UNC 系统，2008 年改为现名；下设 Dance、Design & Production、Drama、Filmmaking、Music 五所学院；本科与研究生录取按院系口径：音乐以现场试镜为主，舞蹈、戏剧以试镜考核为主，设计与制作提交作品集并安排面试，电影提交作品集；专业学习包含排练、展演与 Capstone 作品。",
+      "safety": "UNCSA Police 下班后联系线 336-770-3321；Residence Life 336-770-3281，Artist Village 336-770-3373；校警与宿舍管理 24 小时值守，提供护送；急症或重大警情先拨 911，校外归 Winston-Salem Police Department 与 Forsyth County 管辖。",
+      "transit": "WSTA（Winston-Salem Transit Authority）运营市区固定线路，可衔接校园与市中心；校园内部以步行与校方接驳为主；城际无铁路直达，靠自驾、长途接驳或经 Piedmont Triad International Airport（GSO）出行。",
+      "rentnote": "校内 Artist Village 为套房式宿舍，主要面向大一、大二学生；Center Stage 为相邻校外公寓，预留大三、大四、研究生与非传统年龄学生；2026–27 校内费率见 Housing 当期费率表，餐计划口径以 Dining 当期说明为准；校外租房在 Winston-Salem 城区，依赖 WSTA 或自驾；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uncsa.edu/current-students/academics/calendar.aspx",
+          "学术日历"
+        ],
+        "ins": [
+          "https://www.uncsa.edu/current-students/services/tuition-and-fees/index.aspx",
+          "学费与保险要求"
+        ],
+        "police": [
+          "https://www.uncsa.edu/police/index.aspx",
+          "Public Safety 与校警"
+        ],
+        "housing": [
+          "https://www.uncsa.edu/current-students/campus-life/housing/index.aspx",
+          "住宿与宿舍"
+        ],
+        "clinic": [
+          "https://www.uncsa.edu/current-students/health-wellness/health-center/index.aspx",
+          "Health Center"
+        ],
+        "transit": [
+          "https://www.wstransit.com/",
+          "WSTA 市区公交"
+        ]
+      }
+    },
+    "wssu": {
+      "short": "温斯顿塞勒姆州立大学",
+      "place": "温斯顿塞勒姆 · 601 South Martin Luther King Jr. Drive, Winston-Salem, NC 27110-0001",
+      "cityKey": "winstonsalem",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 17 日（周一）开始；感恩节 11 月 25 日（周三）起放假；最后授课日 11 月 30 日（周一）；Reading Day 12 月 1 日（周二）；期末考试 12 月 2 日（周三）开始，12 月 7 日（周一）、12 月 9 日（周三）第二 8 周课程结束；毕业班成绩 12 月 10 日（周四）17:00 前提交；毕业典礼与最终成绩 12 月 11 日（周五）。Spring 2027：12 月 16 日（周三）选课调整与行政退课；1 月 7 日（周四）14:00 注册清理；课程 1 月 11 日（周一）开始；加退课、W 退课与期末安排节点以 Registrar 当期校历公布为准。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上、研究生 9 学分及以上注册；减修须先经学业顾问与国际学生事务办公室批准，再由 Registrar 办理；学期注册与学分口径以当期学籍通知为准。",
+      "drop": "选课调整与行政退课按 Registrar 校历节点办理；W 退课截止日期以当期校历公布为准；退费档位与 W 标记以 Bursar 当期条款和校历为准。",
+      "ins1": "WSSU 选用 Blue Cross Blue Shield of North Carolina 的 Student Blue 作为学生健康保险计划（SHIP）；本科 6 学分及以上、研究生 3 学分及以上学生自动计入保险账单；Wellness Center 多数校内服务不设共付。",
+      "ins2": "已持其他合格保险者须向保险承保方提交证明办理豁免，保费方可从账单移除；投保或豁免须在当期截止（秋季口径 9 月 12 日）前完成；电子保险卡、保单号与生效到期日经 Student Blue 会员账户领取。",
+      "ins3": "保险资格、账单与豁免问题联系 University Wellness Center 或 Student Accounts；家属投保与计划升级经 Student Blue 门户办理；研究生群体口径以学校当期通知为准。",
+      "clinic": "H. Ray Health Center（A. H. Ray Building, Suite 155, 815 Bruce Street）；Student Health 336-750-3301，传真 336-750-3303，邮箱 studenthealth@wssu.edu；工作日 8:00–17:00；医务主任 336-750-3451；心理咨询 336-750-3270（24/7）；提供初级保健、化验、疫苗与转诊。",
+      "commute": "主校区位于 Winston-Salem 南侧，沿 Martin Luther King Jr. Drive 与 Bruce Street 一带；进出校走 US 52 与本地通道；距市中心不远；平原丘陵地形，夏季湿热，冬季温和少雪。",
+      "scene": "Winston-Salem State University 1892 年 9 月 28 日由 Simon Green Atkins 创立 Slater Industrial Academy，是北卡 HBCU 之一，师范与护理教育历史深厚；开设文理、商学、教育、健康科学、护理与本科专业项目；校队为 Rams，参加 NCAA Division II，联盟为 CIAA。",
+      "safety": "WSSU Police and Public Safety；紧急 336-750-2911，非紧急 336-750-2900；办公室驻 Old Maintenance Building；校警 24 小时值守并提供护送；急症或重大警情先拨 911，校外归 Winston-Salem Police Department 与 Forsyth County 管辖。",
+      "transit": "WSTA（Winston-Salem Transit Authority）运营市区固定线路，可衔接校园与市中心；校园内部以步行与校方接驳为主；城际无铁路直达，靠自驾、长途接驳或经 Piedmont Triad International Airport（GSO）出行。",
+      "rentnote": "校内宿舍按 Housing and Residence Life 门户分配；2026–27 校内费率见 Housing 当期费率表，餐计划口径以 Dining 当期说明为准；校外房源在 Winston-Salem 城区邻近街区，依赖 WSTA 或自驾；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wssu.edu/admissions/registrar/academic-calendar.html",
+          "Registrar 学术日历"
+        ],
+        "ins": [
+          "https://rnbsnapply.wssu.edu/student-life/university-wellness-center/health-services/cost-of-service.html",
+          "Student Blue 保险与费用"
+        ],
+        "police": [
+          "https://www.wssu.edu/student-life/",
+          "Police and Public Safety 渠道"
+        ],
+        "housing": [
+          "https://www.wssu.edu/student-life/housing-and-residence-life/",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://www.wssu.edu/student-life/university-wellness-center/after-hours-emergency.html",
+          "University Wellness Center"
+        ],
+        "transit": [
+          "https://www.wstransit.com/",
+          "WSTA 市区公交"
+        ]
+      }
+    },
+    "gmu": {
+      "short": "乔治梅森大学",
+      "place": "费尔法克斯 · 4400 University Drive, Fairfax, VA 22030",
+      "cityKey": "fairfax",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）首日上课；8 月 31 日（周一）加课截止；9 月 7 日劳动节放假；9 月 8 日（周二）100% 退费退课截止；9 月 15 日（周二）50% 退费截止；9 月 16–29 日无限制退学（全额学费责任）；9 月 30 日–10 月 26 日本科选择性退课（记 W）；10 月 12 日（周一）秋假；11 月 3 日选举日无课；11 月 25–29 日感恩节假期；12 月 7 日（周一）结课；期末考试按 Registrar Final Exam Schedule 安排。Spring 2027：1 月 18 日马丁·路德·金日放假；1 月 19 日（周二）首日上课；1 月 26 日（周二）加课截止；2 月 2 日（周二）100% 退费退课截止；2 月 9 日（周二）50% 退费截止；2 月 10–23 日无限制退学；2 月 24 日–3 月 29 日本科选择性退课（记 W）；3 月 8–14 日春假；5 月 3 日（周一）结课；5 月 4 日与 5 月 9 日阅读日；5 月 5–12 日期末考试；5 月 13 日（周四）毕业典礼。",
+      "fulltime": "F-1 全日制按每学期本科 12 学分、研究生 9 学分注册；住校资格以全日制为基准；减修须经学业顾问与国际学生办公室批准并在 Patriot Web 办理。",
+      "drop": "加退课秋 8 月 31 日、春 1 月 26 日截止；100% 退费秋 9 月 8 日、春 2 月 2 日；50% 退费秋 9 月 15 日、春 2 月 9 日；无限制退学秋 9 月 16–29 日、春 2 月 10–23 日；本科选择性退课（W）秋 9 月 30 日–10 月 26 日、春 2 月 24 日–3 月 29 日；退费档位与学费责任以 Student Accounts 当期条款为准。",
+      "ins1": "F-1/J-1 签证学生按 University Policy #6002 强制投保，Insurance Office 自动注册，保费计入 Patriot Web 学生账户；学生健康保险计划由 Aetna Student Health 承保（PPO，全美覆盖）。",
+      "ins2": "持合格替代保单的 F-1/J-1 学生须在每学期 waiver 截止日前提交豁免申请；审核通过后账户保费余额为 0；电子保险卡经 Aetna 会员网站或移动应用领取。",
+      "ins3": "投保、豁免与家属加保在每学期 open enrollment 窗口办理；牙科计划须另行购买，视力保障已含在学生计划内；咨询 Insurance Office 703-993-2826、insure@gmu.edu。",
+      "clinic": "Student Health Services 位于 SUB I Suite 2300（Fairfax 主校区），电话 703-993-2831；学期门诊周一 8:45–18:00、周二至周三 8:45–16:30、周四 8:45–18:00，周五时段与午间闭诊安排见 SHS 官网当期公告；Mason Square 与 SciTech 校区另设门诊点；心理咨询与校外转诊按 SHS 当期安排。",
+      "commute": "主校区 4400 University Drive 落在 Fairfax County；自驾经 I-66、Braddock Road（VA-620）与 Capital Beltway（I-495）；另有 Arlington 的 Mason Square 校区与 Manassas 的 Science and Technology 校区；校园位于华盛顿都会圈近郊。",
+      "scene": "George Mason University 1957 年作为弗吉尼亚大学北弗分校创立，1972 年独立为州立大学；下设人文与社会科学、Costello 商学、Volgenau 工程、计算、自然科学、教育、护理与健康等学院；22 支 NCAA Division I 校队，昵称 Patriots，2013 年起参加 Atlantic 10（A-10）联盟。",
+      "safety": "George Mason University Department of Police and Public Safety，办公地 4393 University Drive, Fairfax, VA 22030；紧急拨 911，非紧急 703-993-2810；24 小时值守，步行与自行车护送同线，TDD/TTY 703-993-2817；校外归 Fairfax County Police Department 辖区。",
+      "transit": "校园接驳接 Washington Metro Orange Line Vienna 站；CUE Bus 免费到校，Fairfax Connector 覆盖近郊；IAD 约 18.8 英里、DCA 约 20.6 英里，BWI 为跨州备选。",
+      "rentnote": "校内分传统宿舍、套房与公寓房型；住校且无全厨房套房的学生须选 Independence 或 Liberty 餐计划，新生与大二学生须选 Independence 计划；Mason ID（实体卡或 Mason Mobile ID）承担门禁、就餐与 Mason Money 消费；校外租房分布 Fairfax 近郊与 Vienna、Arlington 沿线，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.gmu.edu/calendars-2/fall_2026/",
+          "Registrar 校历（Fall 2026）"
+        ],
+        "ins": [
+          "https://shs.gmu.edu/insurance/international/",
+          "国际学生保险"
+        ],
+        "police": [
+          "https://police.gmu.edu/",
+          "Mason Police and Public Safety"
+        ],
+        "housing": [
+          "https://housing.gmu.edu/",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://shs.gmu.edu/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.wmata.com/",
+          "Washington Metro（WMATA）"
+        ]
+      }
+    },
+    "umw": {
+      "short": "玛丽华盛顿大学",
+      "place": "弗雷德里克斯堡 · 1301 College Avenue, Fredericksburg, VA 22401",
+      "cityKey": "fredericksburg",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）首日上课；8 月 28 日（周五）17:00 加课截止；9 月 7 日劳动节放假；8 周课 9 月 2 日、16 周课 9 月 11 日为无 W 退课截止；10 月 10–13 日秋假；11 月 25–29 日感恩节假期；12 月 4 日（周五）结课；12 月 5–6 日阅读日；12 月 7–11 日期末考试。Spring 2027：1 月 11 日（周一）首日上课；1 月 15 日（周五）17:00 加课截止；1 月 18 日马丁·路德·金日放假；8 周课 1 月 20 日、16 周课 1 月 29 日为无 W 退课截止；2 月 26 日 17:00–3 月 7 日春假；3 月 8 日（周一）复课；4 月 23 日（周五）结课；4 月 24–25 日阅读日；4 月 26–30 日期末考试；5 月 8 日（周六）毕业典礼。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格以全日制为基准；减修须经学业顾问批准并在学生系统办理。",
+      "drop": "加课秋 8 月 28 日 17:00、春 1 月 15 日 17:00 截止；无 W 退课按 8 周/16 周课分别截止；带 W 退课截止与退费档位以 Registrar 与 Student Accounts 当期条款为准。",
+      "ins1": "持 F-1/J-1 签证的国际学生由学校统一安排年度健康保险；计划为 iNext International Insurance，由 CIGNA 承保；J-1 学生必须投保，不适用豁免。",
+      "ins2": "持合格替代保单的 F-1 学生可在 8 月 1 日截止日前提交豁免，保单须满足医院、门诊、处方药、转运与遗返等最低要求；豁免联系 cie@umw.edu。",
+      "ins3": "保险电子卡发放至 UMW 学生邮箱；保障期覆盖整个学年；家属加保与保单问题联系 Center for International Education（CIE）。",
+      "clinic": "Student Health Center 位于 Lee Hall 112，1301 College Avenue；电话 540-654-1040，传真 540-654-1077；学年周一至周五门诊，walk-in 按当日排期；Talley Center 心理咨询在 Lee Hall 106，工作日 8:00–17:00；急诊拨 911 或校警 540-654-4444。",
+      "commute": "校园在 Fredericksburg 历史城区 College Avenue 一带；I-95 连接华盛顿与里士满；城区步行圈成熟，Eagle Village 与主校区相邻。",
+      "scene": "University of Mary Washington 1908 年创立时为 State Normal and Industrial School for Women，1938 年定名 Mary Washington College，现为弗吉尼亚公立文理大学；校队称 Eagles，参加 NCAA Division III Coast-to-Coast Athletic Conference（C2C）赛事。",
+      "safety": "UMW Police Department，驻地 South Hall；校内紧急拨 4444（校外 540-654-4444），非紧急 540-654-1025；校外归 Fredericksburg Police Department 与 Spotsylvania、Stafford 县辖区。",
+      "transit": "Fredericksburg 城区公交由 Fredericksburg Regional Transit（FXBGO!）运营；Amtrak Northeast Regional 在 Fredericksburg 站停靠；机场方向 DCA、IAD 约 1 小时量级，RIC 约 1 小时量级。",
+      "rentnote": "全日制新生须签署两年住校承诺；校内住校新生统一选 Eagle 餐计划，Eagle Landing 与 UMW Apartments 住户可选 Block 计划；EagleOne 卡（Lee Hall Room 110，540-654-1005）承担门禁、就餐与账户消费；校外租房在历史城区与周边社区，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://academics.umw.edu/calendar/",
+          "Registrar 学年校历"
+        ],
+        "ins": [
+          "https://international.umw.edu/cie/isss/international-medical-insurance/",
+          "国际学生医疗保险"
+        ],
+        "police": [
+          "https://www.umw.edu/police/",
+          "UMW Police Department"
+        ],
+        "housing": [
+          "https://www.umw.edu/residencelife/",
+          "Residence Life Housing"
+        ],
+        "clinic": [
+          "https://students.umw.edu/healthcenter/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.amtrak.com/",
+          "Amtrak（Fredericksburg 站）"
+        ]
+      }
+    },
+    "jmu": {
+      "short": "詹姆斯麦迪逊大学",
+      "place": "哈里森堡 · 800 South Main Street, Harrisonburg, VA 22807",
+      "cityKey": "harrisonburg",
+      "calShort": "两学期制；2026 秋 8 月 26 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：8 月 26 日（周三）首日上课；9 月 15 日（周二）为带退费/取消注册的退学截止；10 月 7–11 日秋假；11 月 21 日起感恩节假期，11 月 30 日（周一）复课；12 月 11 日（周五）结课；12 月 12–18 日期末考试；12 月 19 日（周六）12 月毕业典礼。Spring 2027：1 月 17 日宿舍开放；1 月 18 日马丁·路德·金日放假；1 月 19 日（周二）首日上课；2 月 9 日（周二）为带退费/取消注册的退学截止；3 月 15–19 日春假；3 月 22 日（周一）复课；5 月 5 日（周三）结课；5 月 6–12 日期末考试；5 月 13–15 日春季毕业典礼。",
+      "fulltime": "F-1 全日制按每学期本科 12 学分、研究生 9 学分注册；住校资格以全日制为基准；减修须经学业顾问与国际学生办公室批准。",
+      "drop": "学期内加退课在 MyMadison 办理；9 月 15 日、2 月 9 日为带退费退学截止；带 W 退课截止、退费档位与 Bursar 责任以 Registrar 当期校历为准。",
+      "ins1": "持 F-1/J-1 签证的国际学生须持有足额健康保险；学校计划由 CISI 承保，2026-27 学年保费 1,656 美元，按学期分摊计入账户。",
+      "ins2": "持覆盖整个学年、保障对等的替代保单可申请豁免；豁免口径与材料交国际学生办公室审核；保单须覆盖在校全程。",
+      "ins3": "保险卡、保单号与保障明细经承保方会员账户领取；家属加保与理赔问题联系国际项目办公室（ORC）。",
+      "clinic": "University Health Center，724 South Mason Street, Harrisonburg, VA 22807；电话 540-568-6178；学年门诊周一至周三 8:00–16:30、周四 9:00–16:30，午间闭诊时段见 Health Center 官网；急诊联系 JMU Police 540-568-6911。",
+      "commute": "校区在 Harrisonburg 城区 South Main Street 一带，I-81 贯穿 Shenandoah Valley；校内步行与校巴连接教学区、宿舍区与停车场。",
+      "scene": "James Madison University 1908 年创立为师范学校，现为公立 R2 博士型大学；校队称 Dukes，NCAA Division I FBS，2022 年 7 月加入 Sun Belt Conference；2026 年 10 月学校公告受邀加入 American Conference，联盟转接安排以 JMU Athletics 当期公告为准。",
+      "safety": "JMU Police Department，Anthony-Seeger Hall，821 South Main Street, MSC 6810；校内紧急 540-568-6911（校园电话拨 6911），非紧急 540-568-6913，调度邮箱 pd_dispatch@jmu.edu；校外归 Harrisonburg Police Department 与 Rockingham County 辖区。",
+      "transit": "Harrisonburg Department of Public Transportation（HDPT）城市公交衔接校园与镇区；区域客运可接 Virginia Breeze；SHD（Shenandoah Valley Regional Airport）约 15–25 分钟，CHO 约 1 小时，IAD 约 2 小时量级。",
+      "rentnote": "一年级学生须住校内宿舍；住校学生配餐计划；JACard 承担门禁、就餐与账户消费；校内传统宿舍与套房房型以 Housing 当期分配为准；校外租房在 Harrisonburg 城区与 Rockingham County 近郊，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.jmu.edu/registrar/academic-calendar.shtml",
+          "Registrar 学年校历"
+        ],
+        "ins": [
+          "https://www.jmu.edu/orc/international-programs/insurance/",
+          "国际学生保险"
+        ],
+        "police": [
+          "https://www.jmu.edu/police/",
+          "JMU Police Department"
+        ],
+        "housing": [
+          "https://www.jmu.edu/housing/",
+          "Housing Residence Life"
+        ],
+        "clinic": [
+          "https://www.jmu.edu/healthcenter/index.shtml",
+          "University Health Center"
+        ],
+        "transit": [
+          "https://www.harrisonburgva.gov/transportation",
+          "HDPT 城市公交"
+        ]
+      }
+    },
+    "vmi": {
+      "short": "弗吉尼亚军事学院",
+      "place": "列克星敦 · 319 Letcher Avenue, Lexington, VA 24450",
+      "cityKey": "lexingtonva",
+      "calShort": "军校学年制；2026 秋 8 月 25 日开课，2027 春 1 月 14 日开课。",
+      "calendar": "Fall 2026：8 月 19 日（周三）报到注册；8 月 25 日（周二）首日上课；11 月 25–29 日感恩节假期，11 月 30 日（周一）复课；12 月 9 日（周三）常规课程结束；12 月 10 日复习；12 月 10–15 日期末考试；12 月 17 日冬季学末仪式；12 月 17 日–1 月 12 日 Winter Furlough。Spring 2027：1 月 13 日（周三）春季注册；1 月 14 日（周四）首日上课；4 月 5–11 日春假；5 月 7 日（周五）常规课程结束；5 月 8 日复习；5 月 8–12 日期末考试；5 月 31 日阵亡将士纪念日；毕业典礼分 12 月与 5 月两次举行，5 月仪式日期以 VMI 当期公告为准。",
+      "fulltime": "全体学员（cadets）按军校团编制注册；课程负荷与学业进度按 VMI 学术与团部规定执行；学籍身份由 Cadet Administration 管理。",
+      "drop": "退课、挂科学术后果与补考安排按 VMI Catalog 与 Cadet Handbook 当期规定办理；普通大学式自由退课与 W 记录口径不适用军校团制度。",
+      "ins1": "国际学员（持 F-1/J-1）须投保健康保险；2026-27 Catalog 估算保费约 1,300 美元；本地常规医疗与心理护理由 Medical Fee（2026-27 为 630 美元）覆盖，在 Post Hospital/Infirmary 使用。",
+      "ins2": "意外保险作为家庭保单的次一层保障，最高赔付 5,000 美元；家属加保与豁免口径联系 Admissions 与 Infirmary。",
+      "ins3": "保险卡与保单信息留存于个人档案；就医先经 Infirmary 分诊，转诊与急诊安排按军校医疗流程办理。",
+      "clinic": "VMI Infirmary（Post Hospital），电话 540-464-7218，邮箱 Infirmary@vmi.edu；Center for Cadet Counseling 540-464-7667；社区转诊 Carilion Rockbridge Community Hospital，540-458-3300；紧急拨 911 或 VMI Police。",
+      "commute": "Post 在 Lexington 镇内 Letcher Avenue 一带，I-81 连接 Staunton 与 Roanoke；学员车辆受团部规定限制，低年级不得在 Lexington 与 Rockbridge County 拥有或驾驶机动车。",
+      "scene": "Virginia Military Institute 1839 年创立，是公立军校；全体学员组成 Cadet Corps，住 Barracks、着军校制服、在 Crozet Hall 食堂集体就餐，遵循 Honor Code；校队称 Keydets，NCAA Division I，参加 Southern Conference（SoCon），吉祥物 Moe the Kangaroo，校色红、黄、白。",
+      "safety": "VMI Police Department，301 Letcher Avenue，200 Level BOQ；行政线 540-464-7017，紧急拨 911；部门由 14 名持证警官与 6 名安保人员组成，24 小时值守；校外归 Lexington Police Department 与 Rockbridge County 辖区。",
+      "transit": "Lexington 为山城小镇，日常以步行为主；区域衔接 I-81；最近支线机场 SHD 约 30 分钟量级，CHO 约 1 小时，IAD 约 2.5 小时量级；无铁路直达。",
+      "rentnote": "全体学员住 Barracks 集体宿舍，在 Crozet Hall 统一就餐，不适用普通大学自选宿舍与餐计划口径；VMI 发 ID 卡作为入校、场馆与身份凭证；本页不列校外房租数字，学员校外居住安排须符合团部规定。",
+      "link": {
+        "cal": [
+          "https://www.vmi.edu/about/critical-dates-and-academic-calendar/",
+          "Critical Dates and Academic Calendar"
+        ],
+        "ins": [
+          "https://www.vmi.edu/admissions/international/",
+          "International Admissions"
+        ],
+        "police": [
+          "https://www.vmi.edu/cadet-life/health-wellness-safety/vmi-police/",
+          "VMI Police Department"
+        ],
+        "housing": [
+          "https://catalog.vmi.edu/content.php?catoid=20&navoid=601",
+          "Catalog · Co-Curricular Program（Barracks Life）"
+        ],
+        "clinic": [
+          "https://www.vmi.edu/cadet-life/health-wellness-safety/",
+          "Health, Wellness and Safety"
+        ],
+        "transit": [
+          "https://www.flyshd.com/",
+          "SHD Shenandoah Valley Regional Airport"
+        ]
+      }
+    },
+    "longwood": {
+      "short": "朗伍德大学",
+      "place": "法姆维尔 · 201 High Street, Farmville, VA 23909",
+      "cityKey": "farmvilleva",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 13 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）8:00 首日上课；8 月 31 日（周一）17:00 加退课截止；9 月 7 日劳动节放假；10 月 8–9 日秋假；11 月 4 日（周三）17:00 带 W 退课截止；11 月 25–27 日感恩节假期，11 月 30 日（周一）复课；12 月 4 日（周五）结课；12 月 5 日阅读日；12 月 7–11 日期末考试。Spring 2027：1 月 13 日（周三）首日上课；1 月 18 日马丁·路德·金日放假；1 月 21 日（周四）17:00 加退课截止；3 月 8–12 日春假；3 月 31 日（周二）17:00 带 W 退课截止；4 月 30 日（周五）结课；5 月 1 日阅读日；5 月 3–7 日期末考试；5 月 15 日（周六）毕业典礼。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格以全日制为基准；减修须经学业顾问与国际学生办公室批准。",
+      "drop": "加退课秋 8 月 31 日 17:00、春 1 月 21 日 17:00 截止；带 W 退课秋 11 月 4 日、春 3 月 31 日 17:00 截止；退费档位以 Bursar 当期条款为准。",
+      "ins1": "持 F-1/J-1 签证的国际学生须证明持有足额医疗保险，覆盖住院、门诊、处方药、医疗转运与遗返；学校推荐 ISI Atlas Travel Medical Plan，最低保障 10 万美元。",
+      "ins2": "已持对等保单者可向全球教育中心（CGE）提交等值覆盖证明申请豁免；保单须覆盖 I-20/DS-2019 全程。",
+      "ins3": "保险卡、保单号与保障明细自行留存并交学校核验；家属加保与理赔咨询联系 CGE。",
+      "clinic": "University Health Center，106 Midtown Avenue, Longwood Landings, Farmville, VA 23901；电话 434-395-2102，邮箱 studenthealth@longwood.edu；提供常见病诊疗、预防免疫、健康教育与心理转介；急诊联系 Campus Police 434-395-2091 或拨 911。",
+      "commute": "校园在 Farmville 小镇 High Street 一带；US-15/US-460 衔接 Richmond 与 Lynchburg；校园与镇区步行可达，FAB 校巴往返校区与镇内点位。",
+      "scene": "Longwood University 1839 年创立，为弗吉尼亚第三古老的公立大学；校队称 Lancers，NCAA Division I Big South Conference；邻近 High Bridge Trail State Park（32 英里铁路步道）；校园距 Richmond 约 65 英里。",
+      "safety": "Longwood University Campus Police，驻地 Dorrill Dining Hall，201 High Street, Farmville, VA 23909；电话 434-395-2091，邮箱 police@longwood.edu，传真 434-395-2820；校外归 Farmville Police Department 与 Prince Edward County 辖区。",
+      "transit": "Farmville 公共交通以 FAB（Farmville Area Bus）校巴为主，凭 Lancer Card 乘车；跨城依赖自驾或区域客运；RIC 约 1 小时、LYH（Lynchburg）约 45 分钟量级；无铁路直达。",
+      "rentnote": "本科前两年须住校内管理住房，通常为主校区传统宿舍；校外居住须向 Registrar 报备本地地址；餐计划在 Housing 申请中选择；Lancer Card 配 Lancer CA$H 账户；校外租房在 Farmville 镇区与周边乡村，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.longwood.edu/content.php?catoid=19&navoid=964",
+          "Catalog 学年校历"
+        ],
+        "ins": [
+          "https://www.longwood.edu/health/insurance--payments/",
+          "Health Insurance & Payments"
+        ],
+        "police": [
+          "https://www.longwood.edu/police/",
+          "Longwood Campus Police"
+        ],
+        "housing": [
+          "https://catalog.longwood.edu/content.php?catoid=7&navoid=386&print",
+          "Catalog · Residential Policy"
+        ],
+        "clinic": [
+          "https://www.longwood.edu/health/",
+          "University Health Center"
+        ],
+        "transit": [
+          "https://www.longwood.edu/lancercard/",
+          "Lancer Card · FAB 校巴"
+        ]
+      }
+    },
+    "uva": {
+      "short": "弗吉尼亚大学",
+      "place": "夏洛茨维尔 · Madison Hall, 1827 University Avenue, Charlottesville, VA 22903",
+      "cityKey": "charlottesville",
+      "calShort": "两学期制；2026 秋 8 月 25 日开课，2027 春 1 月 20 日开课。",
+      "calendar": "Fall 2026：8 月 20–24 日报到与迎新；8 月 25 日（周二）课程开始；9 月 7 日劳动节（照常上课）；10 月 3–6 日秋季阅读日；11 月 3 日选举日；11 月 25–29 日感恩节假期；12 月 8 日（周二）课程结束；12 月 10–18 日期末考试；12 月 13 日与 16 日阅读日；12 月 18 日秋季学位授予（不举行典礼）。Spring 2027：1 月 18 日马丁·路德·金日放假；1 月 20 日（周三）课程开始；3 月 6–14 日春假；5 月 4 日（周二）课程结束；5 月 6–14 日期末考试；5 月 9 日与 12 日阅读日；5 月 21–23 日 Finals Weekend 毕业典礼（Final Exercises）。",
+      "fulltime": "F-1 全日制按每学期本科 12 学分、研究生 9 学分注册；住校资格以全日制为基准；减修须经学业顾问与国际学生办公室批准。",
+      "drop": "学期内加退课在 SIS 办理；退学、W 记录与退费档位以 Registrar 与 Student Accounts 当期校历为准。",
+      "ins1": "缴纳 comprehensive fee 的全体学生须持有足额健康保险；学校赞助计划为 UVA Student Health Plan，由 Aetna Student Health 承保；保险资格在 SIS 中核验。",
+      "ins2": "持满足学校年度保险要求的其他保单者，须在 7 月 15 日–8 月 30 日核验窗口提交现有保险证明；未提交或不达标的学生注册学校计划。",
+      "ins3": "核验窗口内可加保家属；牙科计划按当期窗口另行办理；Aetna 客服 1-800-466-3027，校内保险与账单办公室在 Student Health and Wellness 二层。",
+      "clinic": "Student Health and Wellness，550 Brandon Avenue, Charlottesville, VA 22903；学年周一至周五 8:00–17:00；药房 434-924-1544，紧急健康咨询 434-972-7004；心理咨询 CAPS 与 TimelyCare 24/7 虚拟服务按当期安排；急诊拨 911 或 UVA Police。",
+      "commute": "校园（Grounds）在 Charlottesville 城区，The Lawn 与 Rotunda 为核心；教学区、宿舍区与体育场馆之间步行衔接，CAT 公交贯通城区。",
+      "scene": "University of Virginia 1819 年由 Thomas Jefferson 创立、弗州议会特许；The Lawn、Rotunda 与周边学院构成世界遗产校区；校队称 Cavaliers，NCAA Division I，参加 Atlantic Coast Conference（ACC）。",
+      "safety": "UVA Police Division，Zehmer Hall, 104 Midmont Lane, P.O. Box 400214, Charlottesville, VA 22904-4214；非紧急 434-924-7166，紧急拨 911；Safe Walk 护送与蓝灯电话覆盖校园；校外归 Charlottesville Police Department 与 Albemarle County Sheriff 辖区。",
+      "transit": "Charlottesville Area Transit（CAT）城市公交接驳 Grounds 与镇区；Amtrak Crescent 与 Northeast Regional 在 Charlottesville 站停靠；CHO（Charlottesville-Albemarle Airport）在城郊，IAD 约 2 小时、RIC 约 1.5 小时量级。",
+      "rentnote": "一年级学生均住校内 Grounds；一年级 All Access 餐计划为必修；UVA 学生 ID 卡承担门禁、图书馆与身份识别，Cavalier Advantage 为校内消费余额；校外租房在 Charlottesville 城区与 Albemarle County 邻里，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://virginia.catalog.acalog.com/content.php?catoid=73&navoid=6831",
+          "Catalog 学年校历"
+        ],
+        "ins": [
+          "https://www.studenthealth.virginia.edu/insurance",
+          "Student Health Insurance"
+        ],
+        "police": [
+          "https://police.virginia.edu/",
+          "UVA Police Division"
+        ],
+        "housing": [
+          "https://housing.virginia.edu/",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://studenthealth.virginia.edu/",
+          "Student Health and Wellness"
+        ],
+        "transit": [
+          "https://charlottesville.gov/CAT",
+          "Charlottesville Area Transit"
+        ]
+      }
+    },
+    "vcu": {
+      "short": "弗吉尼亚联邦大学",
+      "place": "里士满 · 827 West Franklin Street, Richmond, VA 23284",
+      "cityKey": "richmondva",
+      "calShort": "两学期制；2026 秋 8 月 18 日开课，Spring 2027 节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026：8 月 18 日（周二）首日上课；加退课为开课首周（RAR 当期截止日）；学期内带 W 退课、感恩节假期与期末考试日期以 academiccalendars.vcu.edu 当期校历为准；12 月举行冬季学位仪式。Spring 2027：开课、加退课、春假、期末与 5 月毕业典礼节点以 Registrar 当期校历为准；未公开的日期本页不作推测。",
+      "fulltime": "F-1 全日制按每学期本科 12 学分、研究生 9 学分注册；住校资格以全日制为基准；减修须经学业顾问与国际学生办公室批准。",
+      "drop": "加退课在开课首周于学生系统办理；带 W 退课截止与退费档位以 Registrar 与 Student Financial Services 当期条款为准。",
+      "ins1": "持 F/J 签证的国际学生须参加 VCU 学生健康保险计划，或在 open enrollment 窗口通过 waive-out 提交对等保险证明；NCAA 运动员与 ELP 学生豁免。",
+      "ins2": "保费按学期计入学生账户；替代保单须满足学校最低保障要求并经保险审核门户（PSI）提交。",
+      "ins3": "保险卡与保单信息经承保方会员账户领取；家属加保与理赔咨询联系 University Student Health Services。",
+      "clinic": "University Student Health Services 分设两校区：Monroe Park Campus 电话 (804) 828-8828，MCV Campus 电话 (804) 828-9220；门诊时段、预约与心理咨询安排见 health.students.vcu.edu 当期页面；急诊拨 911 或 VCU Police。",
+      "commute": "校区分 Monroe Park 与 MCV 两处，位于 Richmond 市区、相距约一英里；Broad Street 走廊连接两校区，MCV 为学术医疗园区；城内步行加 GRTC 公交衔接。",
+      "scene": "VCU 前身 1838 年为 Hampden-Sydney College 医学部，1854 年成为 Medical College of Virginia；1968 年与 1917 年创立的 Richmond Professional Institute 合并为 Virginia Commonwealth University；健康科学与艺术学科突出；校队称 Rams，NCAA Division I Atlantic 10 Conference。",
+      "safety": "VCU Police Department，224 E. Broad St.；紧急 (804) 828-1234，非紧急 (804) 828-1196；RamSafe 护送 Monroe Park (804) 828-7233，MCV Walk (804) 828-9255，LiveSafe App 上报；两校区 24 小时巡逻；校外归 Richmond Police Department 辖区。",
+      "transit": "GRTC 公交覆盖市区，Pulse BRT 沿 Broad Street 连接两校区，凭 VCU 校卡免费乘 GRTC 本地与 Pulse 线路；RIC 机场近市区；Amtrak 停靠 Staples Mill 与 downtown Richmond 站。",
+      "rentnote": "一年级宿舍含 Rhoads、Brandt、GRC、GRC III 等楼宇；住校学生配住宅餐计划；VCUCard 承担门禁、就餐与校内消费；校外租房在 Richmond 市区邻里，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://academiccalendars.vcu.edu/",
+          "VCU Academic Calendars"
+        ],
+        "ins": [
+          "https://health.students.vcu.edu/",
+          "University Student Health Services"
+        ],
+        "police": [
+          "https://police.vcu.edu/",
+          "VCU Police Department"
+        ],
+        "housing": [
+          "https://housing.vcu.edu/",
+          "Housing and Residential Life"
+        ],
+        "clinic": [
+          "https://health.students.vcu.edu/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.ridegrtc.com/",
+          "GRTC 公交与 Pulse BRT"
+        ]
+      }
+    },
+    "wm": {
+      "short": "威廉与玛丽学院",
+      "place": "威廉斯堡 · P.O. Box 8795, Williamsburg, VA 23187",
+      "cityKey": "williamsburg",
+      "calShort": "两学期制；2026 秋 8 月 26 日开课，2027 春 1 月 27 日开课。",
+      "calendar": "Fall 2026：8 月 25 日（周二）13:00 开始加退课；8 月 26 日（周三）首日上课；9 月 4 日（周五）加退课截止；9 月 5 日起可办理退学；9 月 7 日劳动节闭校；10 月 8–11 日秋假，10 月 12 日复课；10 月 26 日（周一）退学最后日；11 月 3 日选举日；11 月 23–24 日线上授课；11 月 25–29 日感恩节假期，11 月 30 日复课；12 月 4 日（周五）结课；12 月 5–6 日、12–13 日阅读日；12 月 7–11 日、14–15 日期末考试；2027 年 1 月 22 日冬季学位授予（不举行典礼）。Spring 2027：1 月 18 日马丁·路德·金日放假；1 月 26 日（周二）开始加退课；1 月 27 日（周三）首日上课；2 月 5 日（周五）加退课截止；2 月 6 日起可办理退学；3 月 13–21 日春假，3 月 22 日复课；3 月 29 日（周一）退学最后日；5 月 7 日（周五）结课；5 月 8–9 日、15–16 日阅读日；5 月 10–14 日、17–18 日期末考试；5 月 20–22 日毕业典礼。",
+      "fulltime": "F-1 全日制按每学期本科 12 学分、研究生 9 学分注册；住校资格以全日制为基准；减修须经学业顾问与国际学生办公室批准。",
+      "drop": "加退课秋 9 月 4 日、春 2 月 5 日截止；退学最后日秋 10 月 26 日、春 3 月 29 日；退费档位与学籍后果以 Registrar 与 Student Accounts 当期条款为准。",
+      "ins1": "全体全日制本科、研究生、职业学院学生及所有 F-1/J-1 国际学生须持有足额健康保险；学校保险计划由 UnitedHealthcare Insurance Company 承保、UnitedHealthcare Student Resources（UHCSR）管理，保费按秋、春两期计入学生账户。",
+      "ins2": "持有满足 2026-27 学年全年保障要求的其他保单者，可在 waiver 窗口提交证明申请豁免；审核不通过者注册学校计划。",
+      "ins3": "UHCSR 驻校协调员 Trista Sikes，电话 833-789-3460，邮箱 student.insurance@wm.edu；保险卡经 UHCSR 会员账户领取。",
+      "clinic": "Student Health Center，240 Gooch Drive, Williamsburg, VA 23185；电话 757-221-4386；门诊周一、周二、周四、周五 8:00–17:00，周三 10:00–17:00；药房周一至周五 10:00–16:30（每日闭诊一小时）；急诊拨 911 或 W&M Police 757-221-4596。",
+      "commute": "校园在 Williamsburg 历史镇中心，毗邻 Colonial Williamsburg 保护区；教学区、宿舍区与体育场馆步行衔接，WATA 公交连接镇区与 Historic Triangle 景点。",
+      "scene": "College of William & Mary 1693 年获皇家特许，是美国第二古老的高等学府；校队称 Tribe，NCAA Division I，参加 Coastal Athletic Association（CAA），吉祥物 Griffin（Reveley），校色绿、金、银。",
+      "safety": "William & Mary Police Department，201 Ukrop Way, Williamsburg, VA 23187；非紧急 757-221-4596，紧急拨 911；校外归 Williamsburg Police Department（非紧急 757-220-2331）与 James City County 辖区。",
+      "transit": "Williamsburg Area Transit Authority（WATA）城市与区域公交；Amtrak Northeast Regional 在 Williamsburg 站停靠；PHF（Newport News）约 20–30 分钟、ORF（Norfolk）约 45 分钟、RIC 约 1 小时量级。",
+      "rentnote": "住校内管理住房的学生须购餐计划；新生与住校大二学生须选 Freedom、Gold 19 或 Block 175 计划；Tribe Card（实体或移动版）为官方身份卡，承担门禁、就餐与考勤；校外租房在 Williamsburg 与 James City County 邻里，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wm.edu/offices/registrar/catalogs-calendars-exams/ugcalendar/26-27/",
+          "Undergraduate Calendar 2026-27"
+        ],
+        "ins": [
+          "https://www.wm.edu/sites/studentinsurance/",
+          "Student Insurance"
+        ],
+        "police": [
+          "https://www.wm.edu/offices/police/",
+          "William & Mary Police"
+        ],
+        "housing": [
+          "https://www.wm.edu/offices/residencelife/",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.wm.edu/offices/wellness/healthcenter/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.watabus.com/",
+          "WATA 公交"
+        ]
+      }
+    },
+    "vt": {
+      "short": "弗吉尼亚理工大学",
+      "place": "布莱克斯堡 · 210 Burruss Hall, 800 Drillfield Drive, Blacksburg, VA 24061",
+      "cityKey": "blacksburg",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）开课；当日为不缴学费即可退校的最后日（须提交退校表）；10 月 6 日（周二）17:00 为 A-F 与 P/F 等级互改截止；10 月 9 日（周五）秋假停课；10 月 26 日（周一）17:00 为无成绩处罚退课（resign）与等级互改最后日；11 月 10 日（周二）为申请秋季毕业、姓名进入毕业册截止；11 月 18 日（周三）本科生申请期末考试改期截止；11 月 29 日（周日）感恩节假期结束；12 月 9 日（周三）结课；12 月 11–16 日期末考试；12 月 17 日（周四）学位授予日，毕业典礼安排见 commencement.vt.edu。Spring 2027：1 月 19 日（周二）开课，当日为不缴学费退校最后日；3 月 1 日（周一）17:00 等级互改截止；3 月 6–14 日（周六至周日）春假；3 月 30 日（周二）17:00 为无处罚退课与等级互改最后日；4 月 13 日（周二）申请春季毕业截止；4 月 21 日（周三）期末考试改期申请截止；5 月 5 日（周三）结课；5 月 7–12 日期末考试；5 月 12 日（周三）学位授予日。",
+      "fulltime": "F-1 全日制按本科每学期 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与所属学院（研究生院）批准，全日制口径以 Registrar 当期规定为准。",
+      "drop": "加退课与无处罚退课节点见校历：秋季 10 月 26 日、春季 3 月 30 日 17:00 前退课无成绩处罚；仅修一门课者须退校、不能在线退掉最后一门；退费比例按大学退课退费政策，分档以 Bursar 当期条款为准。",
+      "ins1": "持 F-1 签证修读 3 及以上学分的学生及随行家属、全部 J-1 签证学生及随行家属为保险强制对象；保险可通过 Virginia Tech 学生医疗保险计划投保，也可持达标替代保险申请豁免。",
+      "ins2": "持符合学校最低要求的替代保单者可在豁免期内向 Office of Risk Management 提交豁免申请；电子保险卡经承保方会员账户领取；未按要求完成保险登记可能被注册 hold。",
+      "ins3": "每学期开学初设投保与豁免窗口；研究生助教按当期规定可申请保险补贴；替代保单须达到或超过学校列明的最低保障；咨询 Office of Risk Management 与 Cranwell International Center。",
+      "clinic": "Schiffert Health Center，895 Washington Street SW，McComas Hall (0140)，Blacksburg, VA 24061；门诊预约电话 540-231-6444，传真 1-866-317-0857；服务含普通内科、妇科、过敏与免疫、营养、旅行门诊、放射与检验；重症与专科转诊至本地社区医疗机构。",
+      "commute": "主校区位于弗吉尼亚西部山区 Blacksburg，核心为 Drillfield 片区；自驾由 I-81 出口 118-B 转 US-460 西行到校；校区距 Roanoke 约 40 英里；城区日常依靠步行、Blacksburg Transit 与自驾。",
+      "scene": "1872 年 3 月 19 日州立法设立 Virginia Agricultural and Mechanical College，同年 10 月 1 日首名学生注册，为联邦赠地大学；下设工程、建筑与艺术、农业与生命科学、文理、科学、自然资源与环境、商学、兽医医学、医学院等学院及 Corps of Cadets；工程、建筑、农业与生命科学见长；校队为 Hokies，参加 NCAA Division I 大西洋沿岸联盟（ACC），吉祥物 HokieBird。",
+      "safety": "Virginia Tech Police Department（VTPD），330 Sterrett Drive (0523)，Blacksburg, VA 24061；紧急拨 911，非紧急 540-382-4343，总机 540-231-6411；24/7 值守，SafeRide 夜间护送 540-231-7233，校园蓝灯电话与 VTPD 直通；校外归 Blacksburg Police Department 与 Montgomery County 辖区。",
+      "transit": "Blacksburg Transit（BT）免费接驳校园、 Downtown Blacksburg 与周边住宅区；Smart Way 区域巴士连通 Roanoke；无城市轨交；最近支线机场为 Roanoke-Blacksburg Regional Airport（ROA），车程约 40 英里量级。",
+      "rentnote": "校内住房含传统宿舍、套房与研究生公寓，房型与人数以当期分配为准；Hokie Passport 为校园身份、门禁、餐计划与预付消费账户；校外租房集中在 Blacksburg 校园周边邻里，步行、BT 或短途驾车可达；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.registrar.vt.edu/dates-deadlines/academic-calendar/2026-2027.html",
+          "Academic Calendar 2026-2027"
+        ],
+        "ins": [
+          "https://risk.vt.edu/smi/international.html",
+          "国际学生医疗保险要求"
+        ],
+        "police": [
+          "https://police.vt.edu/",
+          "Virginia Tech Police Department"
+        ],
+        "housing": [
+          "https://housing.vt.edu/",
+          "Residential Experience"
+        ],
+        "clinic": [
+          "https://healthcenter.vt.edu/about/contact_us.html",
+          "Schiffert Health Center 联系方式"
+        ],
+        "transit": [
+          "https://www.blacksburg.gov/transit",
+          "Blacksburg Transit"
+        ]
+      }
+    },
+    "cnu": {
+      "short": "克里斯托弗纽波特大学",
+      "place": "纽波特纽斯 · 1 Avenue of the Arts, Newport News, VA 23606",
+      "cityKey": "newportnews",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 19–28 日加退课期；8 月 21 日（周五）开学典礼与荣誉准则仪式；8 月 24 日（周一）开课；8 月 28 日（周五）11:59 为加退课截止、17:00 为旁听资格变更截止；9 月 7 日（周一）劳动节照常上课；10 月 9 日（周五）期中成绩提交截止，秋假 17:00 开始；10 月 14 日（周三）复课；10 月 21 日（周三）17:00 为退课与 P/F 选项最后日；11 月 24 日（周二）最后课后开始感恩节假；11 月 30 日（周一）复课；12 月 4 日（周五）结课；12 月 5–6 日阅读日；12 月 7–12 日期末考试；12 月 16 日（周三）10:00 期末成绩提交截止。Spring 2027：1 月 6–15 日加退课期；1 月 11 日（周一）开课；1 月 15 日（周五）11:59 加退课截止；1 月 18 日（周一）马丁·路德·金日停课；2 月 26 日（周五）期中成绩截止，春假 17:00 开始；3 月 8 日（周一）复课；3 月 19 日（周五）17:00 为退课与 P/F 选项最后日；4 月 26 日（周一）结课；4 月 27 日阅读日；4 月 28 日–5 月 4 日期末考试；5 月 7 日（周五）成绩提交截止；5 月 15 日（周六）春季毕业典礼。",
+      "fulltime": "F-1 全日制按本科每学期 12 学分及以上注册；研究生注册口径以所属项目与 Registrar 当期规定为准；减修须经学业顾问批准。",
+      "drop": "加退课截止为秋 8 月 28 日、春 1 月 15 日 11:59；退课并记 P/F 截止为秋 10 月 21 日、春 3 月 19 日 17:00；退费档位与退课口径以 Student Accounts 当期条款为准。",
+      "ins1": "学校不设统一强制投保的学生健康保险计划，也不代学生投保；校内 Health and Wellness Services 门诊不向保险公司计费；学校鼓励学生本人持有健康保险以覆盖校外就医。",
+      "ins2": "学生自行保留保险卡、保单号与保障明细；校外影像、检验、专科就诊由 Riverside Health 网络机构直接向学生或其保险计费；就诊时携带保险凭证。",
+      "ins3": "家属加保、替代保单选择自行安排；门诊收费按当期 Clinic Fees 口径；健康与保险事项咨询 Health and Wellness Services。",
+      "clinic": "Health and Wellness Services，Freeman Center First Floor，1 Avenue of the Arts, Newport News, VA 23606；电话 757-594-7661，传真 757-594-8853，邮箱 uhws@cnu.edu；门诊时间周一至周五 8:30–17:00；与 Riverside Health 合作提供护理从业者、医师与护士服务；下班后 24 小时护理指导拨 757-594-2000 接 Riverside Nurse；重症与专科转本地医院与诊所。",
+      "commute": "校园位于 Newport News 中部 Avenue of the Arts 与 Warwick Boulevard 片区；自驾经 I-64 与 US-17 衔接；到 Norfolk、Hampton 城区约 20–30 分钟车程量级；校内以步行为主。",
+      "scene": "1960 年州议会设立 Christopher Newport College，初为 College of William & Mary 两年制分部；1971 年起授予四年制学位，1977 年脱离 William & Mary 独立，1992 年升格为大学；公立文理型大学，200 余个学生组织与 24 支校队；校队称 Captains，参加 NCAA Division III Coast-to-Coast Athletic Conference，橄榄球参加 New Jersey Athletic Conference。",
+      "safety": "CNU Police Department，12270 Warwick Boulevard, Newport News, VA 23606；紧急 757-594-7777，非紧急 757-594-7053，邮箱 cnupd@cnu.edu；全职专业警队 24 小时值守；校外归 Newport News Police Department 辖区。",
+      "transit": "Hampton Roads Transit（HRT）公交覆盖 Newport News 与 Hampton Roads 各城；城市无轨交；最近机场为 Newport News/Williamsburg International Airport（PHF）， Norfolk 国际机场（ORF）约 30–40 分钟车程量级。",
+      "rentnote": "学校为前三年在校学生保证校内住房；校内宿舍与套房分布在校园步行圈内；校园身份卡用于门禁与就餐；校外租房沿 Warwick Boulevard 与 Hampton 走廊分布，依赖 HRT 或驾车；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://cnu.edu/public/_documents/academic-calendar/cnu-2026-2027-academic_calendar.pdf",
+          "Academic Calendar 2026-2027"
+        ],
+        "ins": [
+          "https://cnu.edu/life/health/",
+          "Health and Wellness Services"
+        ],
+        "police": [
+          "https://cnu.edu/public/safety/",
+          "CNU University Police"
+        ],
+        "housing": [
+          "https://cnu.edu/life/housing/",
+          "Residence Life and Housing"
+        ],
+        "clinic": [
+          "https://cnu.edu/life/health/",
+          "校内门诊"
+        ],
+        "transit": [
+          "https://www.hrt.org/",
+          "Hampton Roads Transit"
+        ]
+      }
+    },
+    "evms": {
+      "short": "东弗吉尼亚医学院",
+      "place": "诺福克 · 825 Fairfax Avenue, Norfolk, VA 23507",
+      "cityKey": "norfolk",
+      "calShort": "研究生健康科学项目；并入 ODU 后学业节点参照 ODU 校历，2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "EVMS 自 2024 年 7 月 1 日并入 Old Dominion University，组建 Macon & Joan Brock Virginia Health Sciences at ODU；当期开课、加退课、退课与毕业节点参照 ODU 校历：Fall 2026 全学期 8 月 24 日（周一）开课，9 月 2 日（周三）全学期加退课截止，11 月 13 日（周五）全学期退课截止，12 月 11 日学期结束，12 月 12 日毕业典礼；Spring 2027 1 月 11 日（周一）开课，1 月 20 日（周三）加退课截止，4 月 9 日（周五）全学期退课截止，5 月 7 日学期结束，5 月 7–8 日毕业典礼；各研究生项目另有临床与轮转安排，以项目当期通知为准。",
+      "fulltime": "F-1 全日制口径按 ODU 国际学生办公室规定执行；研究生注册学分要求以各健康科学项目与研究生院当期培养方案为准；减修须经项目导师批准。",
+      "drop": "加退课与退课节点参照 ODU 校历全学期及分段学期安排；退课记 W 口径与退费档位以 ODU Student Accounts 当期条款为准；临床轮转与项目特殊政策以项目办公室说明为准。",
+      "ins1": "持 ODU 签发文件的 F-1/J-1 学生必须投保 ODU 签约的学生健康保险（Aetna 承保）或取得经批准的豁免；计划面向国际学生、J-1 访问学者、学位研究生与博士后研究者设计，保费并入学费账单。",
+      "ins2": "豁免仅限两类情形：家长或配偶受雇于美国机构并持有美国保单；或使馆全额资助学费、生活费与保险且持美国达标保单；材料经 International Student Portal 提交 VISA 办公室；保险卡经 Aetna 会员账户领取。",
+      "ins3": "OPT/学术训练期间可在开放投保期续 Aetna 学期、年度或短期计划；随行家属可经 Aetna 账户加保；视力牙科为自愿计划；咨询 VISA 办公室与 Student Health Services。",
+      "clinic": "学生健康服务接入 ODU Student Health Services，4700 Powhatan Avenue, Suite 1402, Norfolk, VA 23529，757-683-3132；EVMS 医学中心片区邻近 Sentara Norfolk General Hospital 与 CHKD 等教学医疗机构；专科与重症转诊按当期安排。",
+      "commute": "医学中心校区位于 Norfolk 市区 Fairfax Avenue 与 Gresham Drive 一带，与 ODU 主校区相距约 2 英里；自驾经 Hampton Boulevard 与市区道路；HRT 公交接入 Norfolk 城区。",
+      "scene": "EVMS 由 Hampton Roads 社区发起筹建，1973 年 9 月首届 MD 班入学；2024 年 7 月 1 日正式并入 ODU，成为弗吉尼亚规模最大的学术健康科学中心组成部分；下设 Ellmer College of Health Sciences、EVMS School of Health Professions、Joint School of Public Health 等学院与数十个住院医师/研究员项目；提供医学、医师助理、公共卫生、生物医学、咨询心理学等研究生健康科学培养，不设普通本科项目。",
+      "safety": "EVMS Police & Public Safety 为弗吉尼亚 DCJS 认证执法机构，通信中心 757.446.5199，办公室设于 Lewis Hall 与 Staff Garage，服务 24/7；校外归 Norfolk Police Department 辖区；紧急拨 911。",
+      "transit": "Hampton Roads Transit（HRT）公交接入 Norfolk 市区；城市无轨交；最近民航机场为 Norfolk International Airport（ORF），车程约 15–20 分钟量级。",
+      "rentnote": "研究生项目一般自行安排校外住房，集中在 Norfolk 医学中心周边与 Ghent、Larchmont 等邻里；身份、门禁与就餐凭证按 ODU/健康科学学院当期安排办理；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.odu.edu/undergraduate/academiccalendar/",
+          "ODU Academic Calendar"
+        ],
+        "ins": [
+          "https://www.evms.edu/visa/insurance",
+          "国际学生健康保险要求"
+        ],
+        "police": [
+          "https://www.evms.edu/about_evms/police_public_safety/",
+          "EVMS Police & Public Safety"
+        ],
+        "housing": [
+          "https://www.odu.edu/housing",
+          "ODU Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://www.odu.edu/studenthealth/services",
+          "ODU Student Health Services"
+        ],
+        "transit": [
+          "https://www.hrt.org/",
+          "Hampton Roads Transit"
+        ]
+      }
+    },
+    "nsu": {
+      "short": "诺福克州立大学",
+      "place": "诺福克 · 700 Park Avenue, Norfolk, VA 23504",
+      "cityKey": "norfolk",
+      "calShort": "两学期制（含七周分段学期）；2026 秋 8 月 15 日开课，2027 春 1 月 9 日开课。",
+      "calendar": "Fall 2026：8 月 15 日（周六）开课/迟注册；8 月 21 日（周五）迟注册、改课与申报旁听截止，退课全额退费截止；9 月 18 日（周五）申请 12 月毕业截止；10 月 13 日（周二）研究生期中成绩截止；10 月 26 日（周一）春季注册开始；10 月 27 日（周二）第二次咨询成绩截止；11 月 17 日（周二）退课截止；11 月 24 日（周二）结课，为学期退校最后日；11 月 25–29 日感恩节假；11 月 30 日（周一）期末考试开始；12 月 5 日（周六）毕业典礼；12 月 8 日（周二）期末成绩提交截止。Spring 2027：1 月 9 日（周六）开课/迟注册；1 月 15 日（周五）迟注册、改课与申报旁听截止；2 月 5 日（周五）申请 5 月毕业截止；3 月 8–14 日（周一至周六）春假；3 月 22 日（周一）夏季与秋季注册开始；4 月 20 日（周二）退课截止；4 月 28 日（周三）五月毕业生成绩截止；4 月 30 日（周五）结课，学期退校最后日；5 月 1–7 日期末考试；5 月 8 日（周六）毕业典礼；5 月 11 日（周二）成绩提交截止。",
+      "fulltime": "F-1 全日制按本科每学期 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与所属学院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "迟注册/改课/旁听与全额退费截止为秋 8 月 21 日、春 1 月 15 日；课程退课截止为秋 11 月 17 日、春 4 月 20 日，记 W；学期退校最后日为秋 11 月 24 日、春 4 月 30 日；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "全部国际学生（不分全日制/在职、本科/研究生）自动投保学生意外保险计划（Accident Only Expense Benefit 与门诊处方药福利），BCS Insurance Company 承保；全日制本科 12 学分及以上的美国公民与永久居民同列强制范围，该意外计划不可豁免。",
+      "ins2": "疾病保障（Sickness Expense）部分自愿投保，兼职与研究生可参加可选计划；学校鼓励学生自购健康保险覆盖专科转诊、处方药与住院；就诊携带 NSU ID 与已有保险凭证。",
+      "ins3": "计划条款与保费分期经 Spartan Health Center 或 Student Services/Judicial Affairs 办理；家属加保自行安排；保险与免疫记录要求见校历目录学生事务章节。",
+      "clinic": "Spartan Health Center，Spartan Station（校园东端），700 Park Avenue, Norfolk, VA 23504；电话 757-278-3360；门诊周一至周五 8:00–17:00，急性病人 walk-in 8:00–10:00；基础医疗服务由 Fort Norfolk Plaza Urgent Care 提供，含常见病诊疗、免疫记录、健康教育与过敏针注射；专科转本地执业医师。Counseling Center 位于 Student Services Center Room 312，757-823-8173。",
+      "commute": "校园位于 Norfolk 东部 Park Avenue 与 Corprew Avenue 片区；近 I-64；与 ODU 同在 Norfolk，相距数英里量级；到 ORF 机场约 15–20 分钟车程量级。",
+      "scene": "1935 年 9 月 18 日创立，初为 Virginia Union University 诺福克分部；1942 年独立为 Norfolk Polytechnic College，后定名 Norfolk State University；公立 HBCU，开设文理、商、教育、工程技术、健康与人文科学、科学及研究生项目；校队 Spartans，参加 NCAA Division I Mid-Eastern Athletic Conference（MEAC）。",
+      "safety": "Norfolk State University Police Department，University Police Station, 2501 Corprew Ave., Norfolk, VA 23504；紧急 757-823-9000，非紧急 757-823-8102；警员 24 小时值守，NSU Safe 移动应用可报警与联络，校园蓝灯电话直通校警；校外归 Norfolk Police Department 辖区。",
+      "transit": "Hampton Roads Transit（HRT）公交连通 Norfolk 城区与 Hampton Roads 各城；城市无轨交；最近民航机场为 Norfolk International Airport（ORF），车程约 15–20 分钟量级。",
+      "rentnote": "校内为 Spartan Residential Housing 宿舍区；NSU ID 卡为身份与就诊凭证；校外租房沿 Park Avenue、Corprew Avenue 周边分布，依赖 HRT 或短途驾车；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://cat.nsu.edu/academiccalendar",
+          "2026-2027 Academic Calendar"
+        ],
+        "ins": [
+          "https://catalog.nsu.edu/undergraduate/administrative-offices/student-affairs/",
+          "学生事务目录：保险与免疫"
+        ],
+        "police": [
+          "https://www.nsu.edu/About/Administrative-Offices-Services/University-Police-Department",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.nsu.edu/Campus-Life/Our-Campus-Our-Home/Housing/Life-on-Campus/About-Student-Housing",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://catalog.nsu.edu/undergraduate/administrative-offices/student-affairs/",
+          "Spartan Health Center"
+        ],
+        "transit": [
+          "https://www.hrt.org/",
+          "Hampton Roads Transit"
+        ]
+      }
+    },
+    "odu": {
+      "short": "老道明大学",
+      "place": "诺福克 · 5115 Hampton Boulevard, Norfolk, VA 23529",
+      "cityKey": "norfolk",
+      "calShort": "两学期制（含八周分段学期）；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026（主校区）：8 月 24 日（周一）全学期与第一个八周学期开课；8 月 28 日（周五）第一个八周加退课截止；9 月 2 日（周三）全学期加退课截止；10 月 2 日（周五）第一个八周退课截止；10 月 16 日（周五）第一个八周结束；10 月 19 日（周一）第二个八周开课；10 月 23 日（周五）第二个八周加退课截止；11 月 13 日（周五）全学期退课截止；11 月 30 日（周一）第二个八周退课截止；12 月 11 日（周五）学期结束；12 月 12 日（周六）毕业典礼。Spring 2027：1 月 11 日（周一）开课；1 月 20 日（周三）全学期加退课截止；2 月 19 日（周五）第一个八周退课截止；3 月 5 日（周五）第一个八周结束；3 月 15 日（周一）第二个八周开课；3 月 19 日（周五）第二个八周加退课截止；4 月 9 日（周五）全学期退课截止；4 月 23 日（周五）第二个八周退课截止；5 月 7 日（周五）学期结束；5 月 7–8 日（周五至周六）毕业典礼。",
+      "fulltime": "F-1 全日制按本科每学期 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与研究生院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "加退课截止见校历全学期与八周分段节点；退课截止后成绩单记 W；退费档位以 Student Accounts 当期条款为准；ODUGlobal 在线学生校历节点分列。",
+      "ins1": "持 ODU 签发文件的 F-1/J-1 学生注册后自动计入 ODU 学生伤病保险计划，Aetna 承保，保费并入学费账单；计划面向国际学生、J-1 访问学者、学位研究生与博士后研究者设计。",
+      "ins2": "有限情形可申请豁免：美籍雇主提供的美国保单、或使馆全额资助并持美国达标保单；材料经 International Student Portal 提交 VISA 办公室（intlstu@odu.edu）；保险卡经 Aetna 会员账户领取。",
+      "ins3": "开放投保期可续 OPT/学术训练保险；随行家属可经 Aetna 账户加保；视力与牙科为自愿计划；研究生助教按当期规定可享保险补贴；咨询 VISA 办公室与 Student Health Services。",
+      "clinic": "Student Health Services，4700 Powhatan Avenue, Suite 1402, Norfolk, VA 23529；办公室 757-683-3132，传真 757-683-5930，邮箱 studenthealth@odu.edu；当期已缴健康费的在册学生可就诊；下班后急症经 ODU Public Safety 757-683-4000 呼叫值班医师；专科与重症转本地医院。",
+      "commute": "主校区占地 335 英亩，沿 Hampton Boulevard 滨水分布，近 Norfolk 市区；医学校区距主校区约 2 英里；自驾经 I-64 与 Hampton Blvd；HRT 公交接入城区。",
+      "scene": "1930 年作为 College of William & Mary 诺福克分部开办，1962 年独立为 Old Dominion College，1969 年定名 Old Dominion University；卡内基 R1 研究型大学；下设 Batten 工程与技术、Darden 教育与职业研究、Ellmer 健康科学、Ellmer 护理、Strome 商学、文理、科学、研究生院、联合公共卫生学院、网络安全学院、供应链物流与海事运营学院等；2024 年 7 月 1 日 EVMS 并入，组建 Macon & Joan Brock Virginia Health Sciences at ODU；校队 Monarchs，NCAA Division I，多数项目参加 Sun Belt Conference。",
+      "safety": "ODU Police Department，4516 Monarch Way, Norfolk, VA 23508；紧急 911 或 757-683-4000，非紧急 757-683-5665，邮箱 police@odu.edu；巡逻辅警 24/7 校园巡查，Powhatan Station 与护送项目在校内运行；校外归 Norfolk Police Department 辖区。",
+      "transit": "Hampton Roads Transit（HRT）公交与 The Tide 轻轨连通 Norfolk 市区、Hampton 与 Newport News；主校区步行圈覆盖教学与宿舍区；最近民航机场为 Norfolk International Airport（ORF），车程约 15–20 分钟量级。",
+      "rentnote": "校内传统宿舍与 Powhatan 等公寓区；Monarch ID Card 为官方身份、门禁、就餐与消费卡，支持 Apple Wallet 移动 ID；校外租房集中在 Larchmont、Ghent 等邻里，步行、HRT 或短途驾车可达；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.odu.edu/undergraduate/academiccalendar/",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.odu.edu/graduateschool/graduate-student-health-insurance",
+          "研究生学生健康保险"
+        ],
+        "police": [
+          "https://www.odu.edu/dean-students/faculty-staff-resources",
+          "ODU Police Department"
+        ],
+        "housing": [
+          "https://www.odu.edu/housing",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://www.odu.edu/studenthealth/services",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.hrt.org/",
+          "Hampton Roads Transit"
+        ]
+      }
+    },
+    "virginiastate": {
+      "short": "弗吉尼亚州立大学",
+      "place": "彼得斯堡（Ettrick）· 1900 East Washington Street, Petersburg, VA 23806",
+      "cityKey": "petersburgva",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春节点以当期春季校历公布为准。",
+      "calendar": "Fall 2026：8 月 17 日（周一）开课；8 月 21 日（周五）加退课截止；9 月 8 日（周二）八周段退课截止；11 月 13 日（周五）在校学生退课截止；11 月 30 日（周一）线上复课；12 月 1 日（周二）结课；12 月 2 日（周三）阅读日；12 月 3–8 日期末考试；12 月 12 日（周六）毕业典礼。Spring 2027：开课、加退课、春假、退课、期末考试与毕业典礼日期以 vsu.edu 当期春季校历公布为准；毕业申请与学位授予安排见官网公告。",
+      "fulltime": "F-1 全日制按本科每学期 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与所属学院批准，全日制口径以国际学生办公室当期通知为准。",
+      "drop": "加退课截止为秋 8 月 21 日；八周段退课 9 月 8 日；在校学期退课 11 月 13 日；退课记 W 口径与退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "校官网公开目录未列明统一强制投保的学生健康保险计划；学生应自备符合健康要求的保险，到校后将保险卡与保单凭证交 Health Center 核验。",
+      "ins2": "校外转诊、检验与住院费用由学生或其保险承担；就诊携带保险凭证；保险咨询经 Health Center 与学生事务办公室。",
+      "ins3": "家属加保与替代保单选择自行安排；免疫与健康记录按学校要求提交；保险计划变动以当期学校通知为准。",
+      "clinic": "Health Center，Memorial Hall 一层，PO Box 9082, Petersburg, VA 23806；电话 804-524-5711；基础门诊、免疫记录与健康指导；重症与专科转本地医疗机构。Counseling Center 位于 Memorial Hall 411，电话 804-524-5939。",
+      "commute": "校园位于 Ettrick 村，阿波马托克斯河（Appomattox River）畔，与 Petersburg 城区隔河相望；经 I-95 与 US-1 衔接，距 Richmond 以南约 20 分钟车程量级；校内以步行为主。",
+      "scene": "1882 年 3 月 6 日立法设立，弗吉尼亚历史最悠久的公立 HBCU 之一，1890 年法案赠地大学；校园 231 英亩，位于 Ettrick 高地俯瞰阿波马托克斯河；开设文理、商、教育、工程、健康与人文科学、农学及研究生项目；校队 Trojans，参加 NCAA Division II Central Intercollegiate Athletic Association（CIAA）。",
+      "safety": "Virginia State University Police Department，21012 Service Road, PO Box 9405, Petersburg, VA 23806；紧急 804-524-5411，非紧急 804-524-5360，邮箱 police@vsu.edu；24 小时值守校园；校外归 Petersburg Police Department 与 Chesterfield County 辖区。",
+      "transit": "GRTC 公交与 Pulse 快速公交连通 Petersburg 与 Richmond 方向；城市无轨交；最近民航机场为 Richmond International Airport（RIC），车程约 30–40 分钟量级。",
+      "rentnote": "校内传统宿舍分布在校园居住片区；校内身份卡用于门禁、就餐与就诊；校外租房在 Ettrick 与 Petersburg 城区邻里，依赖步行、GRTC 或短途驾车；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.vsu.edu/files/docs/academics/calendar/fall2026.pdf",
+          "Fall 2026 Academic Calendar"
+        ],
+        "ins": [
+          "https://www.vsu.edu/healthservices/health-center.php",
+          "Student Health Center"
+        ],
+        "police": [
+          "https://www.vsu.edu/police/about/",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.vsu.edu/reslife/apply-for-housing.php",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.vsu.edu/healthservices/health-center.php",
+          "Health Center"
+        ],
+        "transit": [
+          "https://www.ridegrtc.com/",
+          "GRTC Transit"
+        ]
+      }
+    },
+    "radford": {
+      "short": "拉德福德大学",
+      "place": "拉德福德 · 801 East Main Street, Radford, VA 24142",
+      "cityKey": "radford",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）开课；9 月 1 日（周二）劳动节假期；9 月 4 日（周五）加退课截止；9 月 7 日（周一）成绩变更提交截止；10 月 23 日（周五）退课最后日；10 月 26–30 日秋假；11 月 20 日（周五）结课；11 月 25–27 日感恩节假；11 月 30 日（周一）复课；12 月 2 日（周三）论文提交截止；12 月 3–11 日期末考试；12 月 12 日（周六）毕业典礼。Spring 2027：1 月 11 日（周一）开课；1 月 15 日（周五）加退课截止；1 月 18 日（周一）马丁·路德·金日；2 月 26 日（周五）退课最后日；3 月 8–13 日春假；5 月 3 日（周一）结课；5 月 5–11 日期末考试；5 月 15 日（周六）毕业典礼。",
+      "fulltime": "F-1 全日制按本科每学期 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问与所属学院批准，全日制口径以 Office of Global Education 当期通知为准。",
+      "drop": "加退课截止为秋 9 月 4 日、春 1 月 15 日；退课最后日为秋 10 月 23 日、春 2 月 26 日；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "国际学生健康保险计划由 CISI 托管，学生注册后自动加入，计划强制、不可豁免；保单随注册生效，面向在校国际学生及其家属设计。",
+      "ins2": "2026-27 学年保费口径为 $1,876.68/学年、$938.34/学期（金额以当期保单与账单为准）；电子保险卡经 CISI 会员账户领取。",
+      "ins3": "家属加保、OPT 与学术训练续保按 CISI 当期计划办理；咨询 Office of Global Education 与 Student Health Services；就诊携带保险凭证。",
+      "clinic": "Student Health Services，主校区校内；预约电话 540-831-5111；门诊提供基础诊疗、疫苗、体检、女性健康、过敏针注射、快速检验与转诊；24/7 护士咨询线 866-205-2164；重症转 Carilion New River Valley Medical Center，距校不到 5 英里。",
+      "commute": "校园位于 New River Valley 小镇 Radford，New River 河畔；经 US-11 与 I-81 衔接；Roanoke 方向约 36 英里车程量级；校内以步行为主，跨城依赖自驾或区域巴士。",
+      "scene": "1910 年州立法设立，1913 年开门招生；公立综合性大学，护理与健康科学见长，下设 College of Nursing 与 Waldron College of Health and Human Services 等学院；校队 Highlanders，参加 NCAA Division I Big South Conference。",
+      "safety": "Radford University Police Department，Allen Building（East Main Street 与 University Drive 交叉口）；校内拨 5500 或 911，校外拨 540-831-5500 或 911，邮箱 police@radford.edu；24 小时值守；校外归 Radford City Police Department 辖区。",
+      "transit": "Radford Transit 公交覆盖校园与小镇；城市无轨交；最近民航机场为 Roanoke-Blacksburg Regional Airport（ROA），车程约 36 英里量级。",
+      "rentnote": "校内传统宿舍与公寓住房分布在校园居住片区；校园身份卡用于门禁、就餐与就诊；校外租房在 Radford 小镇及周边邻里，依赖步行、Radford Transit 或自驾；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.radford.edu/registrar/academic-calendar.html",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.radford.edu/global-education",
+          "International Student Health Insurance"
+        ],
+        "police": [
+          "https://www.radford.edu/police",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.radford.edu/housing",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://www.radford.edu/student-health/services.html",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.radford.gov/transit",
+          "Radford Transit"
+        ]
+      }
+    },
+    "uvawise": {
+      "short": "弗吉尼亚大学怀斯学院",
+      "place": "怀斯 · 1 College Avenue, Wise, VA 24293",
+      "cityKey": "wise",
+      "calShort": "两学期制；2026 秋 8 月 19 日开课，2027 春 1 月 13 日开课。",
+      "calendar": "Fall 2026：8 月 17 日（周一）新生指导；8 月 18 日（周二）开学典礼；8 月 19 日（周三）开课；9 月 12 日（周六）注册普查（census）；9 月 24–25 日（周四至周五）秋假；10 月 19 日（周一）退课最后日；12 月 4 日（周五）结课；12 月 7–11 日期末考试。Spring 2027：1 月 12 日（周二）新生指导；1 月 13 日（周三）开课；2 月 6 日（周六）注册普查；3 月 8–12 日（周一至周五）春假；3 月 22 日（周一）退课最后日；4 月 30 日（周五）结课；5 月 3–7 日期末考试；5 月 8 日（周六）毕业典礼。",
+      "fulltime": "F-1 全日制按本科每学期 12 学分及以上、研究生 9 学分及以上注册；减修须经学业顾问批准，全日制口径以国际项目办公室当期通知为准。",
+      "drop": "注册普查日为秋 9 月 12 日、春 2 月 6 日；退课最后日为秋 10 月 19 日、春 3 月 22 日；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "学校不统一代办学生健康保险，要求学生自行持有符合健康要求的保险；可经校园合作的 ISI 等保险计划购买学生费率保单。",
+      "ins2": "报到时提交保险卡与保单凭证；校外就诊、检验与专科转诊出示保险材料；门诊不向保险计费的项目以当期说明为准。",
+      "ins3": "家属加保与 OPT 续保自行办理；保险与健康记录咨询 Health Clinic 与国际项目办公室。",
+      "clinic": "Health Clinic，Cantrell Hall 105；电话 276-376-3475，邮箱 healthclinic@uvawise.edu；基础门诊、免疫记录与健康指导；重症与专科转诊至 Wise 地区医院与 Carilion/Wellmont 网络机构。",
+      "commute": "校园位于阿巴拉契亚山区 Wise 小镇，396 英亩；经 US-23 走廊衔接周边城镇；区域内公共交通有限，日常出行以步行为主、跨镇依赖自驾。",
+      "scene": "1954 年创立为 Clinch Valley College，为弗吉尼亚大学附属四年制学院；1999 年更名 The University of Virginia's College at Wise；文理与职业项目并设；校队 Cavaliers，参加 NCAA Division II South Atlantic Conference。",
+      "safety": "UVA Wise Campus Police，Cantrell Hall 一层；工作日 276-328-0190，24/7 值班 276-328-2677；紧急拨 911；校外归 Wise County Sheriff's Office 与 Town of Wise Police 辖区。",
+      "transit": "校区所在 Wise 为阿巴拉契亚山区小镇，无固定城市公交；跨镇与去机场依赖自驾或拼车；最近民航机场为 Tri-Cities Regional Airport（TRI，布里斯托尔-金斯波特-约翰逊城 TN/VA 交界），车程约 1 小时量级。",
+      "rentnote": "校内传统宿舍分布在校园居住片区；CAVS Card 为校园身份、门禁与就餐凭证；校外租房在 Wise 小镇周边邻里，依赖步行或自驾；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.uvawise.edu/content.php?catoid=9&navoid=1068&print",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.uvawise.edu/academics/international-programs/current-international-students",
+          "Current International Students"
+        ],
+        "police": [
+          "https://www.uvawise.edu/campus-police",
+          "Campus Police"
+        ],
+        "housing": [
+          "https://www.uvawise.edu/college-life/housing",
+          "Housing"
+        ],
+        "clinic": [
+          "https://www.uvawise.edu/college-life/campus/health-safety",
+          "Health Clinic"
+        ],
+        "transit": [
+          "https://www.uvawise.edu/visit/map-directions",
+          "Visit & Directions"
+        ]
+      }
+    }
+  },
+  "EXTRA": {}
+}

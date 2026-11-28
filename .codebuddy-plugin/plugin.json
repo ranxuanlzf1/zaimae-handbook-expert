@@ -1,7 +1,7 @@
 {
   "name": "zaimae-v2-handbook",
-  "version": "1.0.1",
-  "description": "Full-content Q&A expert for the ZaiMei v2/v3 US Study & Life Handbook: 178 school profiles, 1050 undergraduate majors, 303 funding routes, 12 study pathways, city and state rules, and the handbook's five tracks. Queries the handbook data directly, adds a controlled live verification layer against official pages for schools outside the index, and keeps the no-proxy, no-ghostwriting, non-advisory boundary.",
+  "version": "1.2.0",
+  "description": "Full-content Q&A expert for the ZaiMei v2/v3 US Study & Life Handbook: 607 school profiles, 1050 undergraduate majors, 303 funding routes, 12 study pathways, city and state rules, and the handbook's five tracks. Queries the handbook data directly, adds a controlled live verification layer against official pages for schools outside the index, and keeps the no-proxy, no-ghostwriting, non-advisory boundary.",
   "author": {
     "name": "刘忠锋（在美）",
     "email": "377418614@QQ.COM"

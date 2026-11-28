@@ -2,7 +2,7 @@
 
 [中文版](README.md) · English
 
-Source repository for the **full-data edition** of the *Daoge the International Student* (道哥是留子) WorkBuddy expert. It bundles 15 static reference files — 178 school profiles, ~1050 undergraduate majors, 303 funding routes, city and state rules — together with the Agent prompt and two Skills. The handbook itself is v3 (2026-11-22 snapshot); the package ID `zaimae-v2-handbook` is a historical codename for the same handbook.
+Source repository for the **full-data edition** of the *Daoge the International Student* (道哥是留子) WorkBuddy expert. It bundles 25 static reference files — 607 school profiles, 532 cities, 51 states, ~1050 undergraduate majors, 303 funding routes, city and state rules — together with the Agent prompt and two Skills. The handbook itself is v3 (2026-11-28 snapshot); the package ID `zaimae-v2-handbook` is a historical codename for the same handbook.
 
 Licensed under [CC BY-NC-SA 4.0](LICENSE). You may share and adapt it with attribution, **non-commercial use only**, and adaptations must carry the same license. Paid consulting, reselling the data, or using it as a commercial product's knowledge base requires separate written permission from the copyright holder.
 
@@ -12,7 +12,7 @@ Licensed under [CC BY-NC-SA 4.0](LICENSE). You may share and adapt it with attri
 
 **Option A · ready-made package (recommended)**
 
-1. Download the latest `zaimae-v2-handbook-v1.0.1.zip` from Releases. You can also run `python tools/pack.py` and find the build in `dist/`.
+1. Download the latest `zaimae-v2-handbook-v1.2.0.zip` from Releases. You can also run `python tools/pack.py` and find the build in `dist/`.
 2. Extract with 7-Zip / Bandizip. You get a `zaimae-v2-handbook/` folder.
 3. Move the **whole folder** into your "My Experts" plugin directory:
    - Windows: `C:\Users\<you>\.workbuddy\plugins\marketplaces\my-experts\plugins\`
@@ -61,7 +61,7 @@ Five tracks, 147 checkpoints, school-specific answers always framed as "when to 
 | Safety net | Insurance and waivers, SSN, tax filing, documents, consular emergencies |
 | Funding (add-on) | Who can give, four kinds of money, the application timeline, five common traps |
 
-**Data scale**: 178 school profiles in 4 volumes, 135 cities plus 15 supplements and 16 states, 164–178 schools in each of the housing / shopping / insurance / social tables, ~1050 majors across 13 detailed schools, 303 funding routes, 594 institutions, 12 pathways and 5 application stages.
+**Data scale**: 607 school profiles in 14 volumes, 532 cities plus 15 supplements and 51 states, 607 schools in each of the housing / shopping / insurance / social tables, ~1050 majors across 13 detailed schools, 303 funding routes, 594 institutions, 12 pathways and 5 application stages.
 
 ## Answer style
 
@@ -84,8 +84,8 @@ Agent-type expert (a single AI persona) with two Skills:
 
 ## Data source and licensing
 
-- Source: Feishu Miaoda app `app_17j7z4evysm`, `https://vcnl8tmrq6tg.feishu.link/app/app_17j7z4evysm`
-- Snapshot: v3, 2026-11-22; school data collected 2026-11-17 / 18, funding library verified through 2026-11-21
+- Source: online single-file site `app_17j7z4evysm`, `https://vcnl8tmrq6tg.doubao.link/app/app_17j7z4evysm`
+- Snapshot: v3, 2026-11-28 (batches B01–B75, rebuilt after six-layer audit); funding library verified through 2026-11-21
 - Handbook © 2026 刘忠锋 (writing as "在美"). The copyright holder has authorized this package to include the full handbook for public Q&A, including school tables, the major index, the funding library and the institution index.
 - Repository license: [LICENSE](LICENSE) · CC BY-NC-SA 4.0. The "all rights reserved" line inside the handbook text serves as an attribution notice; for distribution from this repository, this license governs.
 - Static snapshot only. Policies change every academic year; for signing, payment, filing, waivers and claims, the current official page prevails.
@@ -134,4 +134,4 @@ python <WorkBuddy>/skills/expert-manager/scripts/validate_expert.py <expert-dir>
 python <WorkBuddy>/skills/expert-manager/scripts/register_expert.py <expert-dir>
 ```
 
-To update the handbook data: edit the Feishu handbook → re-export → regenerate `references/` → verify the key counts (1050 majors, 303 funding routes, 178 school tables, 594 institutions) → rebuild the zip. Schools discovered through live checks must go through the handbook-side update before they can be added to `references/`.
+To update the handbook data: edit the handbook site → re-export → regenerate `references/` → verify the key counts (1050 majors, 303 funding routes, 607 school tables, 594 institutions) → rebuild the zip. Schools discovered through live checks must go through the handbook-side update before they can be added to `references/`.

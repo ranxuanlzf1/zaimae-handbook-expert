@@ -1,0 +1,1985 @@
+{
+  "SCHOOL": {
+    "umich": {
+      "short": "密歇根大学安娜堡分校",
+      "place": "安娜堡 · 500 S. State Street, Ann Arbor, MI 48109",
+      "cityKey": "annarbor",
+      "calShort": "三学期制（Fall/Winter/Spring-Summer）；2026 秋 8 月 31 日开课，2027 冬 1 月 13 日开课。",
+      "calendar": "Fall 2026：8 月 31 日（周一）开课；9 月 7 日（周一）劳动节停课；秋假 10 月 19–20 日（周一至周二）；11 月 25 日（周三）感恩节假，11 月 30 日（周一）8:00 复课；12 月 11 日（周五）结课；12 月 12–13 日学习日；期末 12 月 14–18 日（周一至周五）与 12 月 21 日（周一）；12 月 20 日（周日）毕业典礼；秋季学期 12 月 21 日结束。Winter 2027：1 月 13 日（周三）开课；1 月 18 日（周一）马丁·路德·金日无常规课；寒假 3 月 6 日（周六）中午开始，3 月 15 日（周一）8:00 复课；4 月 27 日（周二）结课；4 月 28 日（周三）与 5 月 1–2 日学习日；期末 4 月 29–30 日（周四至周五）与 5 月 3–6 日（周一至周四）；5 月 6–9 日毕业典礼活动。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制注册口径以所属学院与 Registrar 当期规定为准；减修须经学业顾问与国际学生办公室批准。",
+      "drop": "加退课与无 W、带 W 退课截止按各学期 Registrar 校历节点执行；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "F-1/J-1 国际学生与学者在完成强制 check-in 后自动加入 U-M 国际学生/学者健康保险计划（IHIP），承保方为 Blue Care Network of Michigan；F-2/J-2 家属同步自动参保，保单期限跟随 I-20/DS-2019 结束日。",
+      "ins2": "已有符合 U-M 国际学生/学者保险标准的替代保单者，可向 International Center 申请保险豁免（waiver）；豁免审核通过后保险费用按流程处理；电子保险卡经承保方会员账户领取。",
+      "ins3": "替代保单须达到或超过 U-M 公布的保险标准（处方药、预防保健、孕产覆盖等口径见 Standards 页面）；家属加保、自费投保与咨询经 International Center 保险事务窗口办理。",
+      "clinic": "University Health & Counseling（UHC，原 UHS）Medical Services，207 Fletcher Street, Ann Arbor, MI 48109；电话 734-764-8320，邮箱 UHC@med.umich.edu；CAPS 心理咨询在 Michigan Union, Suite 4079, 530 South State Street；在校注册学生多项校内服务免收自付费用；专科与住院转诊按当期安排。",
+      "commute": "主校区位于 Ann Arbor 中部，分 Central、North、Medical 等片区；自驾经 US-23、I-94 衔接；AAATA TheRide 公交覆盖校区与镇区；校内以步行与校方接驳为主；到 Detroit 都会区约 30–45 分钟车程量级。",
+      "scene": "密歇根大学 1817 年建校，是美国中西部历史最久的公立研究型大学之一；下设文学艺术与科学、工程、Ross 商学、法律、医学、公共卫生、教育、音乐戏剧舞蹈等学院；工程、商学、医学、法律、社科与文理学科见长；校队 Wolverines，参加 NCAA Division I 十大联盟（Big Ten）。",
+      "safety": "U-M Division of Public Safety & Security（DPSS），Campus Safety Services Building, 1239 Kipke Drive, Ann Arbor, MI 48109-2036；紧急拨 911，非紧急 734-763-1131，邮箱 dpss@umich.edu；24/7 值守，提供蓝灯电话、护送与安全提醒；校外归 Ann Arbor Police Department 辖区。",
+      "transit": "AAATA（TheRide）公交串联 Central、North 校区与镇区；校内有校方接驳；跨城靠自驾或 TheRide 衔接；底特律都会机场（DTW）约 30–45 分钟车程量级。",
+      "rentnote": "校内住房分布在 Central、North 与 South 校区的传统宿舍、套房与研究生公寓，房型与当期费率见 Housing 官网；MCard 为校园身份、门禁、图书馆与消费卡；校外租房集中在 Ann Arbor 镇区南部、北部及与 Ypsilanti 相邻片区，步行或公交可达，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://bulletin.engin.umich.edu/academic-calendar-and-deadlines/academic-calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://internationalcenter.umich.edu/healthins/coverage-and-rates",
+          "国际学生健康保险"
+        ],
+        "police": [
+          "https://www.dpss.umich.edu/",
+          "Division of Public Safety & Security"
+        ],
+        "housing": [
+          "https://housing.umich.edu/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://uhc.umich.edu/",
+          "University Health & Counseling"
+        ],
+        "transit": [
+          "https://www.theride.org/",
+          "TheRide 城市公交"
+        ]
+      }
+    },
+    "umdearborn": {
+      "short": "密歇根大学迪尔伯恩分校",
+      "place": "迪尔伯恩 · 4901 Evergreen Road, Dearborn, MI 48128",
+      "cityKey": "dearborn",
+      "calShort": "两学期制；2026 秋 8 月 26 日开课，2027 冬学期节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026：8 月 25 日（周二）Wolverine Welcome Day；8 月 26 日（周三）开课；9 月 7 日（周一）劳动节停课；感恩节假 11 月 21–29 日（周六至周日），11 月 30 日（周一）复课；12 月 7 日（周一）结课；期末与毕业节点以 Registrar 当期校历为准。Winter 2027：开课、加退课、期末与毕业日期以 Office of the Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制按学校当期学分口径注册（本科每学期上限 18 学分、研究生 15 周学期上限 12 学分，以 Catalog 当期规定为准）；减修须经学业顾问批准。",
+      "drop": "加退课、无 W 与带 W 退课截止按各学期 Registrar 校历节点执行；退费档位与 Bursar 口径以当期条款为准。",
+      "ins1": "F-1/J-1 国际学生须符合 U-M 国际学生/学者健康保险标准；保险要求与账单口径由 Office of International Affairs（OIA）管理，承保计划与费用以 OIA 当期页面为准。",
+      "ins2": "已有合格替代保单者，须在 I-20/DS-2019 项目开始日后 30 天内提交保险豁免申请与材料；豁免按 U-M 保险标准审核；保险卡与保单凭证自行留存。",
+      "ins3": "豁免仅在符合特定条件时可申请；家属加保、替代保单标准与咨询经 OIA 办理；替代旅行保单通常不满足标准，投保前先核对 Standards。",
+      "clinic": "校内 Wellness Center 位于 Fieldhouse 内，面向在校学生、教职工开放健身与健康资源；校内不设常规门诊，轻伤可由 Public Safety 协助转运至 Henry Ford Hospital-Fairlane；专科与住院按当期社区医疗安排。",
+      "commute": "校区位于 Dearborn 西南部 Evergreen Road，前 Henry Ford Estate 地块，分 Main Campus 与 Fairlane Center；自驾经 I-94、US-24 衔接；以通勤学生为主，停车需求大；到 Detroit 市区约 20–30 分钟车程量级。",
+      "scene": "UM-Dearborn 1959 年建校，初为 University of Michigan Dearborn Center，后发展为 U-M 分校；下设 Arts, Sciences and Letters、Engineering and Computer Science、Management、Education、Health and Human Services 等学院；工程、商学、教育与文理应用见长；分校与 Ann Arbor、Flint 为三所独立校区，校警、住宿与保险口径各自独立。",
+      "safety": "Department of Public Safety，1300 Campus Support Services, 4901 Evergreen Rd, Dearborn, MI 48128；办公室 313-593-9953，调度中心 313-593-5333（24/7）；紧急拨 911；邮箱 public-safety-requests-umd@umich.edu；校外归 Dearborn Police Department 辖区。",
+      "transit": "通勤型校区，公共交通靠 SMART 公交衔接 Dearborn 与 Detroit 都会区；校内以步行与停车为主；底特律都会机场（DTW）约 15–25 分钟车程量级。",
+      "rentnote": "分校以通勤学生为主，校内不设传统宿舍；相邻的 The Union at Dearborn 为学生公寓选择，其余学生在 Dearborn 及周边社区自行租房；校园身份卡办理口径以校方当期通知为准；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://umdearborn.edu/",
+          "Office of the Registrar"
+        ],
+        "ins": [
+          "https://umdearborn.edu/",
+          "OIA 健康保险"
+        ],
+        "police": [
+          "https://catalog.umd.umich.edu/campus-services/public-safety/",
+          "Department of Public Safety"
+        ],
+        "housing": [
+          "https://umdearborn.edu/",
+          "住宿与邻近公寓"
+        ],
+        "clinic": [
+          "https://umdearborn.edu/",
+          "Wellness Center"
+        ],
+        "transit": [
+          "https://www.smartbus.org/",
+          "SMART 公交"
+        ]
+      }
+    },
+    "umflint": {
+      "short": "密歇根大学弗林特分校",
+      "place": "弗林特 · 303 E. Kearsley Street, Flint, MI 48502",
+      "cityKey": "flint",
+      "calShort": "三学期制；2026 秋 8 月 24 日开课，2027 冬学期节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026（Full Term，8 月 24 日–12 月 12 日）：8 月 24 日（周一）开课；8 月 24 日 9:00–8 月 30 日 23:59 可在线加课；8 月 31 日 9:00–9 月 4 日 17:00 持 override 加课；9 月 4 日 17:00 为 100% 退费退课截止；9 月 5 日 9:00–10 月 16 日 23:59 为带 W 退课与全退（50% 退费档）窗口；9 月 7 日（周一）劳动节停课；秋假 10 月 19–20 日，10 月 21 日复课；感恩节 11 月 25–29 日，11 月 30 日复课；12 月 4 日（周五）结课；12 月 5 日学习日；期末 12 月 7–12 日；12 月 13 日（周日）毕业典礼。Winter 2027：开课、加退课、期末与毕业节点以 Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制按学校当期注册学分口径；本科/研究生减修须经学业顾问批准；各 part of term（14/10/7 周）学分要求以 Catalog 当期规定为准。",
+      "drop": "无 W 退课截止 9 月 4 日 17:00（100% 退费）；带 W 退课与全退窗口 9 月 5 日 9:00–10 月 16 日 23:59（50% 退费）；退费档位与各 part of term 截止以 Registrar 当期校历为准。",
+      "ins1": "校内提供面向 U-M 学生的 Domestic Student Health Insurance Plan（DSHIP，Blue Care Network of Michigan），2026-27 保单年（2026 年 8 月 24 日–2027 年 8 月 23 日）个人保费与保障条款见保险页面；国际学生参保要求按 U-M 体系与国际学生事务当期口径执行。",
+      "ins2": "DSHIP 可覆盖本人、配偶/同居伴侣及 26 岁以下家属（学生本人已参保前提下）；保险卡经 Blue Care Network 会员账户领取；校外就诊携带保险凭证。",
+      "ins3": "替代保单标准、豁免与家属加保口径以 Student Health & Well-being 与国际学生事务当期页面为准；telehealth 面向住校学生提供 episodic care、护理咨询、用药续方、营养咨询与 minor illness/injury 服务。",
+      "clinic": "校内以 telehealth 服务为主（episodic care、护理咨询、用药续方、营养与 minor illness/injury、性健康）；心理咨询 Counseling and Psychological Services（CAPS）在 264 University Center，电话 810-762-3456；急症拨 911 或 DPS 810-762-3333；附近医院含 Hurley Medical Center、Henry Ford Genesys Hospital、McLaren Regional Hospital。",
+      "commute": "校区位于 Flint 市中心，沿 Kearsley Street、Mill Street 与 Flint River 展布；自驾经 I-69、I-75 衔接；MTA 公交覆盖市区；校区以步行为主。",
+      "scene": "UM-Flint 1956 年建校，初为 University of Michigan Flint College，1973 年成为 U-M 分校；下设 Arts and Sciences、Business、Education & Human Services、Health Professions & Studies、Engineering、Computer Science 等学院；健康、教育、商学与工程见长；分校与 Ann Arbor、Dearborn 独立运营，校警与住宿口径各自核。",
+      "safety": "UM-Flint Department of Public Safety，103 Hubbard Building, 602 Mill Street, Flint, MI 48503；校园紧急 810-762-3333（24/7），非紧急 810-762-3335，邮箱 flint.dps.support@umich.edu；提供安全护送、车辆协助、医疗协助与锁匠服务；校外归 Flint Police Department（210 E. 5th Street, Flint, MI 48502, 810-237-6800）与 Flint Fire Department。",
+      "transit": "MTA（Mass Transportation Authority of Flint）市区公交衔接校区与周边；城际靠自驾；Bishop International Airport（FNT）近 Flint 市区，约 10–15 分钟车程；DTW 约 1 小时车程量级。",
+      "rentnote": "校内住宿为 First Street Residence Hall，2026 秋入住日 8 月 20 日；2026-27 房型费率见 Housing & Dining Rates 页面；其余学生在 Flint 市区与周边自行租房；校园身份卡办理口径以校方当期通知为准；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.umflint.edu/registrar/academic-calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.umflint.edu/health-well-being/student-health-insurance/",
+          "学生健康保险与医疗"
+        ],
+        "police": [
+          "https://www.umflint.edu/campus-safety-information-and-resources/?catoid=9",
+          "Campus Safety 资源"
+        ],
+        "housing": [
+          "https://www.umflint.edu/housing/suite-layouts-dimensions/",
+          "住宿与费率"
+        ],
+        "clinic": [
+          "https://www.umflint.edu/health-well-being/student-health-insurance/",
+          "健康与安全"
+        ],
+        "transit": [
+          "https://www.mtaflint.org/",
+          "MTA Flint 公交"
+        ]
+      }
+    },
+    "waynestate": {
+      "short": "韦恩州立大学",
+      "place": "底特律 · 5700 Cass Avenue, Detroit, MI 48202",
+      "cityKey": "detroit",
+      "calShort": "两学期制；2026 秋 8 月 31 日开课，2027 冬 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 18 日（周二）学年预约开始；8 月 24–30 日开放注册；8 月 31 日（周一）开课；9 月 7 日（周一）劳动节停课；8 月 31 日–9 月 7 日第一周迟注册/迟加课，9 月 8–14 日第二周迟加课（系里 override）；9 月 14 日（周一）为撤课退费截止与普查日（census date）；9 月 15 日–11 月 9 日可经 Academica 退课（带 W）；10 月 12–13 日秋假；11 月 3 日（周二）联邦选举日停课；11 月 25 日停课，11 月 26–28 日校方关闭；12 月 15 日（周二）结课；12 月 16 日（周三）学习日与毕业典礼；期末 12 月 17 日–12 月 23 日。Winter 2027：1 月 4–10 日开放注册；1 月 11 日（周一）开课；1 月 18 日（周一）马丁·路德·金日停课；1 月 11–18 日第一周迟加课，1 月 19–25 日第二周迟加课；1 月 25 日（周一）撤课退费截止与普查日；1 月 26 日–3 月 29 日退课窗口；3 月 15–21 日春假；4 月 26 日（周一）结课；4 月 27 日（周二）学习日；期末 4 月 28 日–5 月 4 日。",
+      "fulltime": "F-1 全日制按本科/研究生当期注册学分口径；减修须经学业顾问批准；研究生 TA/RA 学分要求以学院与 OISS 当期规定为准。",
+      "drop": "撤课退费截止（普查日）秋 9 月 14 日、冬 1 月 25 日；带 W 退课窗口秋 9 月 15 日–11 月 9 日、冬 1 月 26 日–3 月 29 日，经 Academica 办理；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "凡 I-20/DS-2019 由 WSU 签发的 F-1/J-1 学生与学者，必须参加 WSU Student/Scholar Health Insurance Plan（IHIP），承保方 Blue Cross Blue Shield of Michigan，由 Gallagher Student Health 管理；F-1/F-2、J-1/J-2 家属同步纳入计划。",
+      "ins2": "保险费用计入学生账单；就诊时出示保险卡；保险卡与保单号经承保方/管理方门户领取；符合豁免条件者按 OISS 当期流程申请。",
+      "ins3": "计划覆盖期、家属加保与替代保单标准以 OISS 保险页面当期说明为准；咨询 Office of International Students and Scholars。",
+      "clinic": "Campus Health Center（CHC），5282 Anthony Wayne Drive（Anthony Wayne Dr 与 Kirby Ave 西北角）；电话 313-577-5041；Warrior Pharmacy 紧邻；每学期前两次就诊为 Warrior Visits，保险未覆盖部分不另出账单；CAPS 心理咨询 313-577-3398；急症转诊 Detroit Receiving Hospital ER 与 Henry Ford Hospital-Detroit ER。",
+      "commute": "校园位于 Detroit Midtown，沿 Cass Avenue、Anthony Wayne Drive 与 Kirby Street 展布；自驾经 I-75、I-94；DDOT 与 SMART 公交覆盖 Midtown；校园以步行为主。",
+      "scene": "WSU 1868 年建校，前身为 Detroit Medical College，后发展为底特律市区公立研究型大学；下设文理、工程、商学、教育、法学院、医学院、药学院、社会工作、图书馆信息等学院；城市研究、医学、药学、工程与商学见长；校队 Warriors，参加 NCAA Division II（联盟口径以官网当期为准）。",
+      "safety": "Wayne State University Police Department（WSUPD），6050 Cass Avenue, Detroit, MI；校园紧急 313-577-2222，非紧急 313-577-6057；24/7 值守；校园事件优先拨 WSUPD（911 直连 DPD/EMS）；校外归 Detroit Police Department Third Precinct（2875 W. Grand Blvd.）辖区。",
+      "transit": "DDOT 市区公交、SMART 郊区公交与 QLINE 有轨电车覆盖 Midtown 与 Detroit 全市；Amtrak Wolverine 线经 Detroit 站；DTW 距 Midtown 约 25–40 分钟车程量级。",
+      "rentnote": "校内住房含 Anthony Wayne Drive Apartments（5235 Anthony Wayne Dr, 48202）、University Tower Apartments（4500 Cass Ave, 48201）、The Thompson（4756 Cass Ave）、Towers Residential Suites（655 W. Kirby）、Chatsworth Suites（630 Williams Mall）与 Atchison Hall（5110 Anthony Wayne）；OneCard 为官方学生身份与门禁、就餐、停车、图书馆消费卡；校外租房集中在 Midtown、New Center 与周边邻里，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://wayne.edu/registrar/registration/calendar26-27",
+          "Academic and Registration Calendar"
+        ],
+        "ins": [
+          "https://oip.wayne.edu/oiss/health-wellness/doctor",
+          "OISS 健康与保险"
+        ],
+        "police": [
+          "https://police.wayne.edu/contact",
+          "WSUPD 联系"
+        ],
+        "housing": [
+          "https://housing.wayne.edu/residents",
+          "住宿与公寓"
+        ],
+        "clinic": [
+          "https://health.wayne.edu/",
+          "Campus Health Center"
+        ],
+        "transit": [
+          "https://detroitmi.gov/departments/detroit-department-transportation",
+          "DDOT 公交"
+        ]
+      }
+    },
+    "michiganstate": {
+      "short": "密歇根州立大学",
+      "place": "东兰辛 · 426 Auditorium Road, East Lansing, MI 48824",
+      "cityKey": "eastlansing",
+      "calShort": "两学期制；2026 秋 8 月 31 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：8 月 31 日（周一）开课；9 月 4 日（周五）23:59 在线开放加课截止；9 月 7 日（周一）劳动节停课；9 月 24 日（周四）学期四分之一节点、全期限学费退费截止；10 月 19 日（周一）学期中段，全期限课程无成绩退课最后日；秋假 10 月 26–27 日（周一至周二）；11 月 26–27 日校方关闭；12 月 13 日（周日）结课；期末 12 月 14–18 日；毕业典礼 12 月 18–20 日。Spring 2027：1 月 18 日（周一）马丁·路德·金日关闭；1 月 19 日（周二）开课；1 月 25 日（周一）23:59 开放加课截止；2 月 11 日（周四）退费截止；春假 3 月 6–14 日；3 月 15 日（周一）学期中段、无成绩退课最后日；5 月 2 日（周日）结课；期末 5 月 3–7 日；毕业典礼 5 月 7–9 日。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制注册口径以所属学院与 Registrar 当期规定为准；减修须经学业顾问批准。",
+      "drop": "开放加课截止秋 9 月 4 日 23:59、春 1 月 25 日 23:59；学费退费截止秋 9 月 24 日、春 2 月 11 日；无成绩退课最后日为学期中段 10 月 19 日、3 月 15 日；退费档位以 Controller 当期条款为准。",
+      "ins1": "国际学生须参加 MSU Student Health Insurance Plan（SHIP），承保方为 Aetna 学生健康保险计划，保费自动计入注册账单；自 Fall 2020 起多数国际学生无豁免选项。",
+      "ins2": "仅符合有限条件的国际学生可凭满足豁免标准的其他保险申请 waiver；研究生助理、医学与兽医学学生保险口径分列；保险卡经计划门户领取。",
+      "ins3": "豁免资格、家属加保与替代保单标准以 OISS 与 MSU Benefits 当期页面为准；咨询 Office for International Students and Scholars。",
+      "clinic": "University Health and Wellbeing Campus Health Services，Olin Health Center, 463 East Circle Drive, East Lansing, MI 48824；电话 517-884-6546；提供过敏与免疫、理疗、营养咨询、妇科等服务；心理咨询 Counseling 517-355-8270、精神科 517-353-8737；专科与住院按当期转诊安排。",
+      "commute": "主校区位于 East Lansing，沿 Red Cedar River 与 Circle Drive 展布；自驾经 US-127、I-69 衔接；CATA 公交覆盖校园与 Lansing 都会区；校内以步行与校方接驳为主。",
+      "scene": "MSU 1855 年建校，初为密歇根州立农业学院，是美国公立赠地大学代表之一；下设农业与自然资源、文理、工程、商学、教育、人类医学、骨科医学、兽医学、护理、社工、传播艺术等学院；农学、工程、商学、传播、教育与医学见长；校队 Spartans，参加 NCAA Division I 十大联盟（Big Ten），吉祥物 Sparty。",
+      "safety": "MSU Police and Public Safety，1120 Red Cedar Road, East Lansing, MI 48824；电话 517-355-2221，邮箱 info@dpps.msu.edu；24/7 值守；校外归 East Lansing Police Department 辖区。",
+      "transit": "CATA（Capital Area Transportation Authority）公交串联校园、East Lansing 与 Lansing；校内有校方接驳；Capital Region International Airport（LAN）约 15 分钟车程，DTW 约 1.5 小时车程量级。",
+      "rentnote": "校内住宿分多个 Neighborhood 与宿舍区，住校生须签订住房协议并配餐计划（Dine On Silver 含在住房协议内，另有 Gold、Platinum 档位）；MSU ID 卡含 Spartan Cash 储值；校外租房集中在 East Lansing 镇区与 Lansing 相邻片区，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://reg.msu.edu/roinfo/calendar/academic.aspx",
+          "Registrar 学术日历"
+        ],
+        "ins": [
+          "https://hr.msu.edu/benefits/stu-grad-asst/internatl-stu-health.html",
+          "OISS 健康保险"
+        ],
+        "police": [
+          "https://dpps.msu.edu/",
+          "MSU Police and Public Safety"
+        ],
+        "housing": [
+          "https://liveon.msu.edu/",
+          "Live On 住宿"
+        ],
+        "clinic": [
+          "https://uhw.msu.edu/health-and-wellbeing-services/medical-care/campus-health-services/",
+          "Campus Health Services"
+        ],
+        "transit": [
+          "https://www.cata.org/",
+          "CATA 公交"
+        ]
+      }
+    },
+    "oakland": {
+      "short": "奥克兰大学",
+      "place": "罗切斯特山 · 201 Meadow Brook Road, Rochester, MI 48309",
+      "cityKey": "rochestermi",
+      "calShort": "两学期制（Fall/Winter）；2026 秋 9 月 3 日开课，2027 冬学期节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026：Welcome Week 为 9 月 2–12 日；住宿入住 8 月 31 日起分批办理；9 月 3 日（周四）7:30 开课；秋假、退课、期末与毕业节点以 Registrar 当期校历为准。Winter 2027：开课、加退课、期末与毕业日期以 Office of the Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制按学校当期注册学分口径；本科/研究生减修须经学业顾问批准；学分上限以 Catalog 当期规定为准。",
+      "drop": "加退课、无 W 与带 W 退课截止按 SAIL 门户与 Registrar 校历节点执行；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "F-1/J-1 国际学生必须购买校方赞助的 UnitedHealthcare（UHC）Student Resources 学生健康保险计划；2026-27 学年保费 $2,382（年度口径，以当期页面为准）。",
+      "ins2": "保险要求由 International Office for Student and Scholars（ISSO）管理；符合豁免条件者按 ISSO 当期流程申请；保险卡经 UHC 会员账户领取。",
+      "ins3": "替代保单须满足联邦学生保险标准与校方要求；家属加保、保单咨询联系 ISSO；不建议在本国购买保单来满足 OU 保险标准。",
+      "clinic": "Graham Health Center，408 Meadow Brook Road, Rochester, MI 48309；电话 248-370-2341；门诊时间周一、周二、周四、周五 8:00–17:00，周三 8:00–18:30；提供基础门诊、免疫、性健康等服务；校外转诊 Ascension Providence Rochester 等社区医院。",
+      "commute": "校园位于 Rochester Hills/Rochester 北部郊区，沿 Meadow Brook Road 与 University Drive 展布；自驾经 I-75、M-59 衔接；SMART 公交覆盖有限，校内以步行为主；到 Detroit 市区约 30–45 分钟车程量级。",
+      "scene": "OU 1957 年建校，初为 Oakland County Community College，1970 年升格为大学；下设 Arts and Sciences、Business、Engineering and Computer Science、Education and Human Services、Health Sciences、Nursing 等学院；工程、商学、健康科学与教育见长；校队 Golden Grizzlies，参加 NCAA Division I Horizon League。",
+      "safety": "Oakland University Police Department（OUPD），201 Meadow Brook Road, Rochester, MI 48309；电话 248-370-3331，24/7 监控值守；服务台 248-370-3407；校外归 Rochester Hills Police Department 与 Rochester Police Department 辖区。",
+      "transit": "郊区校区，公共交通靠 SMART 公交衔接 Oakland County 沿线；日常出行以自驾为主；DTW 约 30–45 分钟车程，Oakland County Airport（PTK）近北郊。",
+      "rentnote": "校内宿舍集中在校园核心区，步行可达教室、实验楼、Rec Center 与 Kresge Library；另有 George T. Matthews Apartments 两居室公寓，公寓住户不强制配餐计划；GrizzCard 为校园身份卡，GrizzCa$h 为储值；校外租房在 Rochester Hills/Rochester 郊区社区，依赖自驾，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.oakland.edu/thisisou/registrar/",
+          "Office of the Registrar"
+        ],
+        "ins": [
+          "https://www.oakland.edu/isso/health-insurance/",
+          "ISSO 健康保险"
+        ],
+        "police": [
+          "https://oakland.edu/campus-safety-information-and-resources/",
+          "Campus Safety 资源"
+        ],
+        "housing": [
+          "https://oakland.edu/housing/options/residencehalls/",
+          "Residence Halls"
+        ],
+        "clinic": [
+          "https://oakland.edu/ghc/services-and-insurance/",
+          "Graham Health Center"
+        ],
+        "transit": [
+          "https://www.smartbus.org/",
+          "SMART 公交"
+        ]
+      }
+    },
+    "easternmichigan": {
+      "short": "东密歇根大学",
+      "place": "伊普西兰蒂 · 1200 Oakwood Street, Ypsilanti, MI 48197",
+      "cityKey": "ypsilanti",
+      "calShort": "两学期制；2026 秋 8 月 31 日开课，2027 冬 1 月 11 日开课（4 月 30 日结束）。",
+      "calendar": "Fall 2026：8 月 31 日（周一）开课；9 月 7 日（周一）劳动节停课、校方关闭；10 月 19–25 日秋假（无课、校方开放）；11 月 25 日感恩节前一日无课、校方关闭；11 月 26–29 日感恩节假；12 月 13 日（周日）最后上课日；12 月 14–18 日期末考试；12 月 19 日（周六）毕业典礼。Winter 2027：1 月 11 日开课，4 月 30 日学期结束；加退课与期末节点以 Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制按学校当期注册学分口径；本科/研究生减修须经学业顾问批准；各 part of term 学分要求以 Catalog 当期规定为准。",
+      "drop": "秋学期在线加课截止 9 月 4 日；100% 退费与带 W 退课档位按 Registrar 当期 Dates and Deadlines 执行；退费口径以 Student Accounts 当期条款为准。",
+      "ins1": "F-1/J-1 国际学生须参加 EMU 学生健康保险计划；保单为年度计划，9 月 1 日至次年 8 月 31 日；保费计入秋、冬学期 e-Bill（夏季保费在冬季账单加入）。",
+      "ins2": "保险办公室位于 246F Student Center，电话 734-487-3048，邮箱 student_insurance@emich.edu；保险卡与保单凭证自行留存；豁免条件以 OISS 与保险办公室当期口径为准。",
+      "ins3": "家属加保、替代保单与保险咨询经保险办公室与 OISS 办理；校内医疗合作机构为 Trinity Health IHA Primary Care - EMU。",
+      "clinic": "Trinity Health IHA Health Center @ EMU，1065 N. Huron River Dr.，位于校园北侧 Oakwood 与 Huron River Drive 之间，提供初级保健与紧急护理门诊；CAPS 心理咨询在 1075 North Huron River Drive, Ypsilanti, MI 48197，电话 734-487-1118，周一至周五 9:00–17:00；专科与住院按当期转诊安排。",
+      "commute": "校区位于 Ypsilanti 中部，沿 Oakwood Street、Huron River Drive 与 Mayhew Street 展布；自驾经 US-23 衔接 Ann Arbor 与 Detroit；TheRide 公交覆盖镇区；校内以步行为主。",
+      "scene": "EMU 1849 年建校，初为 Michigan State Normal School，是美国最早的师范学校之一；下设 Arts and Sciences、Business、Education、Health and Human Services、Engineering and Computing、Technology 等学院；教育、商学、护理、工程与航空项目见长；校队 Eagles，参加 NCAA Division I Mid-American Conference（MAC）。",
+      "safety": "EMU Police Department（Department of Public Safety），1200 Oakwood Street, Ypsilanti, MI 48197；紧急 911 或 734.487.1222；非紧急调度 734.487.1222；行政与记录 734.487.0892；线索热线 734.487.4847；24/7/365 值守；校外归 Ypsilanti Police Department 辖区。",
+      "transit": "AAATA（TheRide）公交覆盖 Ypsilanti 与 Ann Arbor 走廊，SMART 衔接 Detroit 方向；校内有 Westview 接驳；DTW 约 20–30 分钟车程量级。",
+      "rentnote": "校内宿舍含 Downing Hall 等传统宿舍与 Lakeview Apartments（1000 Mayhew St.）；Housing & Residence Life Office 电话 734.487.1300，邮箱 housing@emich.edu；校园身份卡用于门禁、就餐与图书馆；校外租房在 Ypsilanti 老城、Depot Town 与 Ann Arbor 相邻片区，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.emich.edu/registrar/calendars/fall-2026/index.php",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.emich.edu/staying-healthy/student-health-insurance/index.php",
+          "学生健康保险"
+        ],
+        "police": [
+          "https://www.emich.edu/publicsafety/",
+          "EMU Police"
+        ],
+        "housing": [
+          "https://www.emich.edu/housing/",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://www.emich.edu/oiss/health/index.php",
+          "健康与保险资源"
+        ],
+        "transit": [
+          "https://www.theride.org/",
+          "TheRide 公交"
+        ]
+      }
+    },
+    "svsu": {
+      "short": "萨吉诺谷州立大学",
+      "place": "大学中心 · 7400 Bay Road, University Center, MI 48710-0001",
+      "cityKey": "universitycenter",
+      "calShort": "三学期制（Fall/Winter/Summer）；2026 秋 8 月 31 日开课，2027 冬 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 31 日（周一）开课；9 月 7–8 日（周一至周二）劳动节假；迟注册 8 月 31 日–9 月 4 日；退课、期末与毕业节点以 Registrar 当期校历为准。Winter 2027：1 月 11 日（周一）开课；迟注册 1 月 11–15 日；其余节点以 Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制按学校当期注册学分口径；本科/研究生减修须经学业顾问批准；学分要求以 Catalog 当期规定为准。",
+      "drop": "加退课与无 W、带 W 退课截止按各学期 Registrar 校历节点执行；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "多数国际学生须参加 SVSU 国际学生健康保险计划，保险供应商为 LewerMark；2026-27 总保费 $1,672.32：秋季 8 月 15 日–12 月 31 日 $636.85，冬季与夏季 1 月 1 日–8 月 14 日 $1,035.47（金额随当期调整）。",
+      "ins2": "加拿大学生豁免校方计划要求；其他豁免仅在极有限情形下经 Office of International Programs（OIP）审核，典型为配偶在美雇主险；J-1/J-2 须另满足联邦交换访问者保险要求（医疗、医疗转运与遣返）。",
+      "ins3": "保险 ID 卡经 LewerMark 学生账户领取；福利、网络医院与理赔咨询 LewerMark（800-821-7710）；参保、豁免与账单咨询 OIP（989-964-4473）。",
+      "clinic": "University Health Center 位于紧邻校园的 2970 Pierce Road, Saginaw, MI 48604，电话 989-583-0285，门诊时间以当期页面为准；心理健康经 Campus Mental Health & Wellness Center（Curtiss Hall 112，989-964-7078）；急症拨 911 或 University Police 989-964-4141。",
+      "commute": "校园位于 Saginaw 与 Bay City 之间的 University Center，沿 Bay Road 展布；自驾经 US-10、M-13 衔接；区域公交为 STARS；校园以步行为主。",
+      "scene": "SVSU 1963 年建校，初为 Saginaw Valley College，1977 年升格为大学；下设 Arts and Behavioral Sciences、Business、Education、Health & Human Services、Science, Engineering and Technology 等学院；教育、商学、护理、工程与社会科学见长；校队 Cardinals，参加 NCAA Division II（联盟口径以官网当期为准）。",
+      "safety": "SVSU University Police and Campus Parking Services，South Campus Complex A；电话 989-964-4141，邮箱 dispatch@svsu.edu；紧急拨 911；校外归 Saginaw County Sheriff 与周边市政警局辖区。",
+      "transit": "STARS（Saginaw Transit Authority Regional Services）区域公交衔接 Saginaw、Bay City 与校园；日常出行以自驾为主；MBS International Airport 约 15–20 分钟车程量级。",
+      "rentnote": "校内宿舍容量较大，2026 秋约 2,625 名学生住校（含 73% 新生）；ACCESS SVSU 为校园 ID 卡，在 Campus Financial Service Center 领取，用于身份、餐计划与楼门准入；Housing Operations 电话 989-964-4255；校外租房在 Saginaw、Bay City 与沿线社区，依赖自驾，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.svsu.edu/academicandstudentaffairs/calendar/academiccalendar/",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.svsu.edu/officeofinternationalprograms/advising/healthinsurancerequirement/",
+          "OIP 健康保险要求"
+        ],
+        "police": [
+          "https://www.svsu.edu/universitypolice/officedetails/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.svsu.edu/livingoncampus/move-ininformation/",
+          "On-Campus Housing"
+        ],
+        "clinic": [
+          "https://www.svsu.edu/universityhealthcenter/",
+          "University Health Center"
+        ],
+        "transit": [
+          "https://www.saginaw-mi.com/stars/",
+          "STARS 区域公交"
+        ]
+      }
+    },
+    "gvsu": {
+      "short": "大谷州立大学",
+      "place": "艾伦代尔 · 1 Campus Drive, Allendale, MI 49401",
+      "cityKey": "allendale",
+      "calShort": "两学期制；2026 秋 8 月 31 日开课，2027 冬春学期 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 31 日（周一）开课；9 月 6–7 日劳动节停课；10 月 25–27 日秋假；11 月 25–29 日感恩节假；12 月 12 日结课并举行毕业典礼；12 月 12–19 日期末考试；学期 12 月 19 日结束，成绩 12 月 21 日截止。Winter 2027：1 月 11 日（周一）开课；1 月 18 日 MLK 日停课；3 月 7–14 日春假；4 月 24 日结课；4 月 30 日–5 月 1 日毕业典礼；4 月 24 日–5 月 1 日期末考试；学期 5 月 1 日结束，成绩 5 月 4 日截止。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 Padnos Center for Global Experiences（PCGE）与学术顾问批准，学分口径以 Registrar 与 PCGE 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课的具体截止日以 Registrar 当期校历与 Bursar 退费条款为准；改退课在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "持 F-1/J-1 等签证的国际学生须持合格健康保险；学校提供 LewerMark 国际学生保险计划，符合条件者保费计入学生账户；计划福利、免赔额与家庭附加口径以当期保险页为准。",
+      "ins2": "豁免须满足三类条件之一：学生的父母或配偶持有覆盖学生的 ACA 合规保单；学生为政府或机构赞助项目（如 SACM）赴美学签；学生本国保单在美可用且达到或超过 LewerMark 计划全部保障。豁免表提交至 LewerMark 邮箱，凭证与保险卡经 LewerMark 会员门户领取。",
+      "ins3": "保险资格、豁免与家属加保咨询 Padnos Center for Global Experiences（PCGE）；门诊健康服务由 Campus Health Center 对接；豁免窗口与开学初公告一致。",
+      "clinic": "Trinity Health GVSU Campus Health Center：Water Tower Place, 10383 42nd Ave., Suite A, Allendale, MI 49401，电话 616-252-6030；University Counseling Center：206 Student Services Center, Allendale，电话 616-331-3266，工作日 8:00–17:00；Pew Grand Rapids 校区设咨询接待点。超出校园能力的情形转诊 Grand Rapids 地区医疗机构。",
+      "commute": "Allendale 主校区 1 Campus Drive, Allendale, MI 49401；Robert C. Pew Grand Rapids Campus：401 Fulton Street West, Grand Rapids, MI 49504。两校区沿 Lake Michigan Drive（M-45）相距约 12 英里；Laker Line 快速公交连接校区与 Grand Rapids 市中心；抵离最近商用机场为 Gerald R. Ford International Airport（GRR）。",
+      "scene": "1960 年密歇根州立法特许设立，初名 Grand Valley State College；Allendale 主校区约 1,300 英亩，另设 Grand Rapids Pew 校区、Holland 校区及 Muskegon、Traverse City 区域中心；学科覆盖文理、商科、工程与计算机、健康职业、教育、刑事司法等；校队 Lakers，吉祥物 Louie the Laker，参加 NCAA Division II 赛事。",
+      "safety": "Grand Valley Police Department：Allendale 校区 616-331-3255，Pew 校区 616-331-6677；紧急情况拨 911；校警 24 小时值守，提供夜间护送与蓝灯紧急电话；校园边界外分别归 Allendale Township/Ottawa County 与 Grand Rapids 警务辖区。",
+      "transit": "The Rapid 公交：Laker Line（LL）快速公交连接 Grand Rapids 市中心与 Allendale 校区；37 路 GVSU North Campus、48 路 GVSU South Campus、44 路 44th Street；Pew 校区接 Silver Line（SL）、12 路、50 路；85 路公寓环线。持有效 GVSU 学生或教职工身份卡可免费乘车；假期与停课期间执行缩减班次。",
+      "rentnote": "校内传统宿舍与 living centers 按申请与住校要求分配；校外房源集中在 Allendale 沿线公寓与 Grand Rapids 方向；身份卡兼作门禁、就餐与乘车凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.gvsu.edu/registrar/current-future-academic-calendars-80.htm",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.gvsu.edu/istudents/lewermark-health-insurance-37",
+          "LewerMark 国际学生保险"
+        ],
+        "police": [
+          "https://www.gvsu.edu/dps/",
+          "Grand Valley Police Department"
+        ],
+        "housing": [
+          "https://www.gvsu.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.gvsu.edu/campushealth/",
+          "Campus Health Center"
+        ],
+        "transit": [
+          "https://www.ridetherapid.org/schedules-maps/routes-schedules",
+          "The Rapid 线路与时刻"
+        ]
+      }
+    },
+    "ferris": {
+      "short": "费里斯州立大学",
+      "place": "比格拉皮兹 · 1201 South State Street, Big Rapids, MI 49307",
+      "cityKey": "bigrapids",
+      "calShort": "两学期制；2026 秋 8 月 31 日开课，2027 冬学期 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 27–28 日迟注册；8 月 31 日（周一）开课；8 月 31 日–9 月 3 日 17:00 为 Drop/Add；9 月 7 日劳动节停课；10 月 19–20 日秋假；11 月 25 日中午–11 月 29 日感恩节假，11 月 30 日复课；12 月 11 日结课；12 月 14–18 日期末考试；12 月 18 日毕业典礼；12 月 21 日 13:00 成绩截止。Winter 2027：Wintermester 2026/12/21–2027/1/8；1 月 7–8 日迟注册；1 月 11 日（周一）开课；1 月 11–14 日（周四 17:00）Drop/Add；1 月 18 日 MLK 日停课；3 月 6–14 日春假，3 月 15 日复课；3 月 24 日全学期课程带 W 退课截止；3 月 25–28 日中期假；4 月 30 日结课；5 月 3–7 日期末考试；5 月 7–8 日毕业典礼；5 月 10 日 13:00 成绩截止。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际教育办公室与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课截止 9/3；带 W 退课截止：秋季 11/5，冬季全学期课程 3/24；退费档位与退课手续以 Registrar 与 Student Financial Services 当期条款为准。",
+      "ins1": "国际学生须持合格健康保险；学校提供 GeoBlue 学生保险计划，符合资格者自动入保并计入学生账户；计划福利、免赔额与家庭附加口径以当期保险说明为准。",
+      "ins2": "持有可比合格保单者可按学期申请豁免；豁免通知与表格在学期初由国际教育办公室邮件发给学生；保险卡每学期更新，凭证供 Birkam Health Center 核验。",
+      "ins3": "保险资格、豁免与家属加保咨询 Office of International Education；门诊健康问题对接 Birkam Health Center；家属投保渠道以当期保险页说明为准。",
+      "clinic": "Birkam Health Center：1019 Campus Drive, Big Rapids, MI 49307，电话 231-591-2614，门诊时段 8:00–17:00；Personal Counseling Center 同校区，电话 231-591-5968；提供初级保健、疫苗、咨询与转诊；校园能力之外转 Big Rapids 周边医疗机构。",
+      "commute": "主校区 1201 South State Street, Big Rapids, MI 49307；Big Rapids 为 Mecosta County 小镇，最近商用机场为 Grand Rapids 的 Gerald R. Ford International Airport（GRR）；Bulldog Line 班车连接 Big Rapids 与 Grand Rapids The Rapid Central Station。",
+      "scene": "1884 年由 Woodbridge 与 Helen Ferris 创立，初名 Big Rapids Industrial School；1950 年转为州立院校，1987 年升格州立大学；药学、工程技术、健康职业、商科与教育见长；校队 Bulldogs，参加 NCAA Division II（GLIAC），男子冰球为 Division I（CCHA）。",
+      "safety": "Ferris State Department of Public Safety：1319 Cramer Cir, Big Rapids, MI 49307；紧急 911；非紧急 231-591-5000，24 小时值守；主任办公室 231-591-5904；匿名报案 BulldogsTextTip@ferris.edu；校园边界外归 Big Rapids 警察局与 Mecosta County 辖区。",
+      "transit": "Bulldog Line 通勤班车往返 Big Rapids 主校区与 Grand Rapids The Rapid Central Station（250 Grandville Ave SW），经停 KCAD 与 Cedar Springs Meijer（3700 17 Mile Road），仅学年开课期间运行；本地有 Big Rapids Dial-A-Ride；Indian Trails 城际巴士停靠 Big Rapids。",
+      "rentnote": "校内宿舍与 East Campus Suites 等住宿按申请与住校要求分配；校外房源集中在 Big Rapids 镇内；身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ferris.edu/academics/calendars/",
+          "校历（Registrar）"
+        ],
+        "ins": [
+          "https://www.ferris.edu/international/office-of-international-education/admitted-international-students.htm",
+          "国际学生保险与豁免"
+        ],
+        "police": [
+          "https://www.ferris.edu/campus-safety/Police_Services_Section/index.htm",
+          "Department of Public Safety"
+        ],
+        "housing": [
+          "https://www.ferris.edu/student-life/reslife/",
+          "Residence Life 住宿"
+        ],
+        "clinic": [
+          "https://www.ferris.edu/student-life/HCenter/",
+          "Birkam Health Center"
+        ],
+        "transit": [
+          "https://www.ferris.edu/shuttlebus/",
+          "Bulldog Line 班车"
+        ]
+      }
+    },
+    "michigantech": {
+      "short": "密歇根理工大学",
+      "place": "霍顿 · 1400 Townsend Drive, Houghton, MI 49931",
+      "cityKey": "houghton",
+      "calShort": "两学期制；2026 秋 8 月 31 日开课，2027 冬学期 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 31 日（周一）开课；9 月 7 日劳动节停课；9 月 11 日（周五）中午起 K-Day recess；10 月 22–23 日十月假；11 月 21 日（周六）起秋假，11 月 30 日（周一）复课；12 月 11 日（周五）结课；12 月 14–18 日期末考试；12 月 19 日（周六）毕业典礼。Winter 2027：1 月 11 日（周一）开课；1 月 18 日 MLK 日停课；2 月 4–5 日冬季嘉年华假；3 月 6 日（周六）起春假，3 月 15 日（周一）复课；4 月 23 日（周五）结课；4 月 26–30 日期末考试；4 月 30 日（周五）研究生毕业典礼，5 月 1 日（周六）本科毕业典礼。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 International Students Services 与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "加退课与无 W、带 W 退课截止在 Registrar 校历与课程注册表中标注；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "强制范围：国际本科生、学生运动员、全体研究生（本国与国际）由 UnitedHealthcare 承保的学生健康保险计划覆盖；保费在学费账单后入账；其他本科生可自愿投保，注册后经学生门户办理。",
+      "ins2": "保险资格、豁免与家属加保由 Student Insurance Office / Benefit Services 办理；联系 studentinsurance@mtu.edu，电话 906-487-1088；保险卡经 UHC 会员账户领取，门诊就诊携带凭证。",
+      "ins3": "替代保单豁免条件、免赔额与保障明细以当期保险页为准；健康咨询对接 Center for Student Mental Health and Well-being 与校内医疗资源。",
+      "clinic": "Upper Great Lakes Houghton Family Health Center：与 Student Development Complex（SDC）相连的 University Center 内，工作日 walk-in；Express Care on Sharon Avenue（距校不到 3 英里）处理常规急病；急诊转诊 UP Health System Portage（Hancock）。心理：Center for Student Mental Health and Well-being，Admin Building 三层，电话 906-487-2538，邮箱 Counseling@mtu.edu；24 小时危机联系 DPS，电话 906-487-2216。",
+      "commute": "主校区 1400 Townsend Drive, Houghton, MI 49931，位于上半岛 Keweenaw Peninsula 西侧；本地支线机场 Houghton County Memorial Airport（CMX）；区域枢纽 Marquette 的 Sawyer International Airport（MQT）；另有 Green Bay（GRB）方向备选。",
+      "scene": "1885 年创立为 Michigan Mining School；R1 研究型理工大学，工程、计算机、科学、商科、人文与健康职业见长；校队 Huskies，吉祥物 Blizzard T. Husky；NCAA Division II（GLIAC），男子冰球 Division I（CCHA）。",
+      "safety": "Michigan Tech Department of Public Safety & Police Services：206 MacInnes Drive；紧急 911；非紧急 906-487-2216，短信 906-421-4911；警员持证并具 Houghton County 完整执法权；提供护送、安全提醒与校园警报；校外归 Houghton County Sheriff's Office 与 Hancock/Houghton 辖区。",
+      "transit": "免费全年校内/社区班车：Houghton-Hancock Commuter Loop（学期内工作日循环）、Memorial Road 购物线路、冰球 shuttle；冬季降雪量大，班车时刻表与路线以 Transportation 当期公布为准；区域交通靠自驾、CMX/MQT 航班或 Indian Trails 长途巴士。",
+      "rentnote": "校内宿舍含 DHH、EWH、WWH、McNair、East Hall 与 Hillside Place；一年级单身学生须住校；校外房源集中在 Houghton 与 Hancock 两镇；身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.mtu.edu/registrar/students/calendars/academic/grid.html",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.mtu.edu/hr/students/insurance/",
+          "学生健康保险"
+        ],
+        "police": [
+          "https://www.mtu.edu/publicsafety/about/contact/",
+          "DPS & Police Services"
+        ],
+        "housing": [
+          "https://www.mtu.edu/residential-living/",
+          "Residential Living 住宿"
+        ],
+        "clinic": [
+          "https://www.mtu.edu/well-being/",
+          "学生 Well-being 与心理服务"
+        ],
+        "transit": [
+          "https://www.mtu.edu/transportation/options/shuttle/",
+          "校内与社区班车"
+        ]
+      }
+    },
+    "westernmichigan": {
+      "short": "西密歇根大学",
+      "place": "卡拉马祖 · 1903 West Michigan Avenue, Kalamazoo, MI 49008",
+      "cityKey": "kalamazoo",
+      "calShort": "两学期制；2026 秋 9 月 2 日开课，2027 冬学期 1 月 11 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）8:00 开课；9 月 10 日 Drop/Add 与 Census 截止，9 月 11 日起计迟注册费并记 W；9 月 7 日劳动节停课；10 月 21–23 日秋假；11 月 16 日退课截止；11 月 25 日中午起感恩节假，11 月 30 日复课；12 月 14–17 日期末考试；学期 12 月 19 日结束，当日毕业典礼；成绩 12 月 22 日截止。退费：100% 至 9 月 16 日，50% 至 9 月 30 日；部分退 100% 至 9 月 10 日。Winter 2027：1 月 11 日（周一）开课；1 月 19 日 Drop/Add 与 Census 截止，1 月 20 日起迟注册费/W；1 月 18 日 MLK 日停课；3 月 8–12 日春假；4 月 5 日退课截止；4 月 26–29 日期末考试；学期 5 月 1 日结束，4 月 30 日–5 月 1 日毕业典礼；成绩 5 月 4 日截止。退费：100% 至 1 月 25 日，50% 至 2 月 8 日。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 ISS 与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "Drop/Add 与 Census：秋 9/10、冬 1/19；带 W 退课截止：秋 11/16、冬 4/5；退费档位见 Registrar 校历与 Student Accounts 当期条款。",
+      "ins1": "国际学生由 BCBS Global Solutions 学生健康保险计划承保，注册后自动入保并计入学生账户；计划福利、免赔额与保费口径以当期保险页为准。",
+      "ins2": "豁免仅限两类：赞助方提供的美国等效保单，或美国雇主保险；豁免按计费周期邮件至 wmuwaivers@bcbsglobalsolutions.com，抄送 ias-insurance@wmich.edu，并注明 WIN；协调员 Tiedra Robertson，电话 269-387-5804；牙科与眼科保险经 Ameritas。",
+      "ins3": "OPT 阶段保险不强制，须自行投保；家属加保与替代保单咨询 International Admissions & Services（IAS）；保险卡经 BCBS 会员账户领取。",
+      "clinic": "Sindecuse Health Center：预约 269-387-3287；咨询/精神科 269-387-1850；账单咨询 269-387-4219；提供初级保健、疫苗、心理与转诊；超出校园能力转 Kalamazoo 地区医院与专科机构。",
+      "commute": "主校区 1903 West Michigan Avenue, Kalamazoo, MI 49008；College of Aviation 位于 Battle Creek；最近商用机场 Kalamazoo/Battle Creek International Airport（AZO），区域枢纽 GRR 与 DTW 为备选。",
+      "scene": "1905 年创立为 Western State Normal School；公立大学，工程、商学、航空、健康职业、教育与传播见长；校队 Broncos，参加 NCAA Division I（MAC）。",
+      "safety": "WMU Department of Public Safety：511 Monroe Street；24/7 值守；紧急 911；非紧急调度 269-488-8911；前台 269-387-5555；校园边界外归 Kalamazoo Department of Public Safety 与 Kalamazoo County 辖区。",
+      "transit": "Kalamazoo Metro 公交覆盖校区与市区；Bronco Card 学生身份卡可免费乘车；另有校方接驳与夜间护送；城际交通靠自驾、Amtrak 与长途巴士。",
+      "rentnote": "校内传统宿舍、套房与公寓按申请与住校要求分配；校外房源集中在 Kalamazoo 校区周边与市区；Bronco Card® 为校园身份、门禁、就餐与乘车凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://wmich.edu/registrar/wmicheduregistraracademic-calendar-2026-27",
+          "Academic Calendar 2026-27"
+        ],
+        "ins": [
+          "https://wmich.edu/international/insurance",
+          "国际学生保险"
+        ],
+        "police": [
+          "https://wmich.edu/campus-safety",
+          "Campus Safety"
+        ],
+        "housing": [
+          "https://wmich.edu/housing",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://wmich.edu/healthcenter",
+          "Sindecuse Health Center"
+        ],
+        "transit": [
+          "https://www.kmetro.com/",
+          "Kalamazoo Metro 公交"
+        ]
+      }
+    },
+    "northernmichigan": {
+      "short": "北密歇根大学",
+      "place": "马凯特 · 1401 Presque Isle Avenue, Marquette, MI 49855",
+      "cityKey": "marquette",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 冬学期 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）开课；9 月 7 日劳动节停课；11 月 21 日（周六）17:00 起感恩节假，11 月 30 日复课；12 月 5 日（周六）结课；12 月 7–12 日期末考试；12 月 12 日毕业典礼；成绩 12 月 15 日截止。Winter 2027：1 月 11 日（周一）开课；1 月 18 日 MLK 日停课；2 月 27 日（周六）17:00 起中期假，3 月 8 日（周一）复课；4 月 24 日（周六）结课；4 月 26 日–5 月 1 日期末考试；5 月 1 日毕业典礼；成绩 5 月 4 日截止。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 International Programs 与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "加退课与无 W、带 W 退课截止见 Registrar 的 Add/Drop 与 Withdrawal Deadlines 专页；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "F-1/J-1 国际学生由 LewerMark 学生健康保险计划覆盖，按学期账单自动入保；F-1 学生须保持 12 个月保险。",
+      "ins2": "计划要求：医疗保障不少于 25 万美元、遗体送返 2.5 万美元、医疗转运 5 万美元、自付额不超过 500 美元；含 30 天门诊与住院心理健康；保单须有美国账单地址与理赔电话；保障不得中断。",
+      "ins3": "OPT 阶段可选 LewerGlobal；豁免资格、家属加保与替代保单标准咨询 International Programs；保险卡经 LewerMark 会员账户领取。",
+      "clinic": "NMU Health Center：Lot #15 off Lincoln Ave，电话 906-227-2355；Counseling & Consultation Services：2001 Hedgcock，电话 906-227-2980；提供初级保健、疫苗、心理与转诊；超出校园能力转 Marquette 地区医疗中心。",
+      "commute": "主校区 1401 Presque Isle Avenue, Marquette, MI 49855，临苏必利尔湖；最近商用机场 Sawyer International Airport（MQT），Green Bay（GRB）与 Minneapolis-St. Paul（MSP）为区域备选枢纽。",
+      "scene": "1899 年创立为 Northern State Normal School；公立大学，教育、艺术、健康职业、商科、户外与环境相关学科见长；Superior Dome 为世界最大木穹顶室内场；校队 Wildcats，吉祥物 Wildcat Willy；主要参加 NCAA Division II，男子冰球 Division I。",
+      "safety": "NMU Police：102 Services Building；紧急 911；调度与非紧急 906-227-2151，传真 906-227-2173；24/7 值守；校园边界外归 Marquette Police Department 与 Marquette County 辖区。",
+      "transit": "MarqTran 市内公交覆盖校区与 Marquette 市区；校区到机场与周边社区靠公交接驳、自驾或班车；冬季雪季时刻表以 MarqTran 当期公布为准。",
+      "rentnote": "校内宿舍与校园公寓经 Housing & Residence Life 分配；The Woods 为 Greystar 运营的校外学生公寓；身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://nmu.edu/registrar/academiccalendar",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://nmu.edu/internationalprograms/international-student-insurance-requirements",
+          "国际学生保险要求"
+        ],
+        "police": [
+          "https://nmu.edu/policedepartment/node/184",
+          "NMU Police Department"
+        ],
+        "housing": [
+          "https://nmu.edu/housing",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://nmu.edu/healthcenter",
+          "NMU Health Center"
+        ],
+        "transit": [
+          "https://marq-tran.com/",
+          "MarqTran 公交"
+        ]
+      }
+    },
+    "centralmichigan": {
+      "short": "中密歇根大学",
+      "place": "芒特普莱森特 · 1200 East University Drive, Mount Pleasant, MI 48859",
+      "cityKey": "mountpleasant",
+      "calShort": "两学期制；2026 秋 8 月 31 日开课，2027 冬学期 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 31 日开课；9 月 6 日 23:59 Drop/Add 截止；9 月 7 日劳动节停课；10 月 12–13 日秋季 Wellness Break；11 月 8 日 23:59 16 周课程退课截止；11 月 25 日 17:00 起感恩节假，11 月 30 日 8:00 复课；12 月 12 日结课；12 月 14–18 日期末考试；12 月 18–20 日毕业典礼；学期 12 月 19 日结束，成绩 12 月 21 日 23:59 截止。Winter 2027：1 月 11 日开课；1 月 17 日 23:59 Drop/Add 截止；1 月 18 日 MLK 日停课；3 月 6 日 13:00 起春假，3 月 15 日 8:00 复课；3 月 28 日退课截止；4 月 1–2 日 Gentle Break；5 月 1 日结课；5 月 3–7 日期末考试；5 月 7–9 日毕业典礼；学期 5 月 8 日结束，成绩 5 月 12 日截止。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 ISSS 与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "Drop/Add：秋 9/6 23:59、春 1/17 23:59；带 W 退课截止：秋 11/8 23:59、春 3/28；退费档位见 Registrar 校历与 Student Accounts 当期条款。",
+      "ins1": "在美校区任意学分注册的国际学生由 ISSS 自动加入 LewerMark（Aetna 网络）学生健康保险计划并计入账单；年度保障期 8 月 1 日至 7 月 31 日，年度保费分两期（秋 5 月、春 7 月）入账。",
+      "ins2": "豁免仅限：赞助方保单、美国雇主保险、美国境内父母/配偶/同居伴侣保单，且保障达到或超过学校要求；豁免邮件 ihealth@cmich.edu；LewerMark 支持 1-800-821-7710，lewermarksupport@lewer.com。",
+      "ins3": "保险不含牙科与眼科；OPT 阶段不强制投保；家属加保走 Dependent enrollment；ISSS 办公室 Ronan Hall 330，电话 989-774-4308，邮箱 isss@cmich.edu；保险卡经 LewerMark 会员账户领取。",
+      "clinic": "University Health Services：电话 989-774-6599，工作日 8:00–12:00、13:00–17:00；心理与咨询服务经健康与Wellness 入口预约；急症转诊 McLaren Central Michigan Hospital，电话 989-772-6700。",
+      "commute": "主校区 1200 East University Drive, Mount Pleasant, MI 48859，位于密歇根中部 Isabella County；最近商用机场 MBS International Airport（Freeland，Saginaw/Bay City/Midland 方向）；另以 Flint 的 FNT 与 Grand Rapids 的 GRR 为备选枢纽。",
+      "scene": "1892 年 9 月 13 日创立为 Central Michigan Normal School and Business Institute；公立大学，教育、商科、传媒、健康职业、工程与人文见长；300 余个学生组织；校队 Chippewas，参加 NCAA Division I FBS（MAC）。",
+      "safety": "CMU Police：Combined Services Building, 1720 S. East Campus Dr., Mount Pleasant, MI 48859；紧急 911；非紧急 989-774-3081，邮箱 police@cmich.edu；24/7 值守，州认证并经 Isabella County Sheriff 授权；配 Rave Guardian App；校外归 Isabella County Central Dispatch，电话 989-773-1000。",
+      "transit": "本地公交衔接 Mount Pleasant 镇区与周边；校内有校方接驳与停车系统；城际交通靠自驾、Indian Trails 长途巴士；MBS 机场需驾车或预约接驳。",
+      "rentnote": "校内 17 座宿舍、3 个住宅社区与研究生住宿，含 9 个生活学习共同体（LLC）；Residence Life 在 Towers basement Room 002，邮箱 reslife@cmich.edu；CentralCard/Central ID 为校园身份与门禁消费凭证；校外房源集中在 Mount Pleasant 镇内，租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.cmich.edu/offices-departments/registrars-office/calendars/academic-calendar",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.cmich.edu/offices-departments/international-student-scholars/student-resources/health-insurance",
+          "学生健康保险"
+        ],
+        "police": [
+          "https://www.cmich.edu/about/campus-safety",
+          "CMU Campus Safety"
+        ],
+        "housing": [
+          "https://www.cmich.edu/student-life/housing",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.cmich.edu/student-life/health-wellness",
+          "Health & Wellness"
+        ],
+        "transit": [
+          "https://www.cmich.edu/student-life",
+          "Student Life 入口"
+        ]
+      }
+    },
+    "lssu": {
+      "short": "苏必利尔湖州立大学",
+      "place": "苏圣玛丽 · 650 West Easterday Avenue, Sault Ste. Marie, MI 49783",
+      "cityKey": "saultstemarie",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 冬学期 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 24 日开课；9 月 7 日劳动节停课，9 月 8 日复课；10 月 12 日 Indigenous Peoples' Day 停课，10 月 13 日复课；11 月 24 日 22:00 起感恩节假，11 月 30 日复课；12 月 4 日 22:00 常规课程结束；12 月 7 日起期末考试周；学期 12 月 11 日 18:00 结束。Winter 2027：1 月 11 日开课；1 月 18 日 MLK 日停课，1 月 19 日复课；2 月 26 日 22:00 起春假，3 月 8 日复课；4 月 23 日 22:00 常规课程结束；4 月 26 日起期末考试周；学期 4 月 30 日 18:00 结束；5 月 1 日毕业典礼。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "加退课与无 W、带 W 退课截止以 Registrar 当期公告为准；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "F-1 国际学生须持符合 LSSU 要求的健康与意外保险；学校提供 GeoBlue 计划选项；计划福利、免赔额与保费口径以当期保险说明为准。",
+      "ins2": "加拿大安大略省学生可凭省保险卡复印件与 Commuting Canadian 表格申请豁免；其他国别学生的豁免条件与替代保单标准以国际学生办公室当期公布为准。",
+      "ins3": "保险资格、豁免与家属加保咨询 International Students 办公室；保险卡经 GeoBlue 会员账户领取，门诊就诊携带凭证。",
+      "clinic": "Health Care Center：电话 906-635-2110；Counseling Services：电话 906-635-2752；提供初级保健、疫苗、心理与转诊；超出校园能力转 Sault Ste. Marie 地区医疗机构。",
+      "commute": "主校区 650 West Easterday Avenue, Sault Ste. Marie, MI 49783，位于上半岛东端、紧邻加拿大安大略省苏圣玛丽与 Soo Locks；跨境经 International Bridge，口岸为 CBP（美方）/CBSA（加方）；最近商用机场 Chippewa County International Airport（CIU）；区域备选枢纽 MQT 与 DTW。",
+      "scene": "1946 年创立；校园约 115 英亩，为原 Fort Brady 旧址，14 栋建筑列入历史名录；本科规模 1,500 余人；消防科学、渔业与野生动物、工程、地理空间、护理与商科见长；60 余个社团；校队 Lakers；男子冰球 Division I，其余项目参加 NCAA Division II（GLIAC）。",
+      "safety": "LSSU Department of Public Safety：电话 906-635-2100（校园内分机 2100）；紧急 911；24/7 值守；校园边界外归 Sault Ste. Marie Police Department 与 Chippewa County 辖区；跨境口岸事项遵 CBP/CBSA 规定。",
+      "transit": "Seamore Shuttle 校园接驳；本地固定公交班次有限；社区与机场出行以自驾为主；跨安大略省经 International Bridge，出行前核对口岸开放时间与证件要求。",
+      "rentnote": "校内 Moloney Hall、Neveu Hall 与 Student Village（680 W. Easterday Ave）集中在五分钟步行范围内；大一、大二学生须住校；身份卡兼作门禁与就餐凭证；校外房源集中在 Sault Ste. Marie 镇内，租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.lssu.edu/academics/registrar/important-dates/",
+          "Important Dates（Registrar）"
+        ],
+        "ins": [
+          "https://www.lssu.edu/international-students/",
+          "国际学生入口"
+        ],
+        "police": [
+          "https://www.lssu.edu/resources/about-lssu/contact-lssu/public-safety/contact-us/",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://www.lssu.edu/life-at-lssu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.lssu.edu/life-at-lssu/health-safety-services/health-care-center/",
+          "Health Care Center"
+        ],
+        "transit": [
+          "https://www.lssu.edu/life-at-lssu/student-life/seamore-shuttle/",
+          "Seamore Shuttle"
+        ]
+      }
+    },
+    "eastcentralok": {
+      "short": "东中央大学",
+      "place": "阿达 · 1100 E. 14th Street, Ada, OK 74820",
+      "cityKey": "ada",
+      "calShort": "学期制；2026 秋 8 月 31 日缴费截止，开课与退课节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026：学费与费用 8 月 31 日（周一）前缴清；加退课、无 W/带 W 退课、期末与毕业节点以 ECU Registrar 当期 Academic Calendar 为准。Spring 2027 注册、开课、退课与毕业节点同以校历公布为准。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生最低注册学分与减修审批以国际学生办公室与 Registrar 当期规定为准；低于全日制须先取得 DSO 批准。",
+      "drop": "加退课与无 W、带 W 退课截止按 Bursar 与 Registrar 当期校历节点执行；退费档位以 Bursar 当期退费表为准。",
+      "ins1": "俄克拉何马州高校学生按规定须持健康保险；ECU 学生保险计划与费用是否自动入账，以 Bursar 与国际学生办公室当期说明为准。",
+      "ins2": "已有替代保单者，豁免与凭证提交流程以 ISS 当期窗口要求为准；电子保险卡经承保方会员账户领取，就诊携带凭证。",
+      "ins3": "替代保单标准、家属加保与自费投保咨询经 International Student Programs and Services（1100 E 14th St, PMB E-1，580-559-5669）办理。",
+      "clinic": "The Clinic - Student Health Services，Student Health Services 1100 E 14th Street PMB S-7, Ada, OK 74820，传真 580-559-5276；健康中心位于 Memorial Student Union Room 137-A，电话 580-559-5713，校内服务含常见急症检查与限类处方。心理健康在 Counseling Center，Memorial Student Union 137B，580-559-5714，周一至周五 8:00–17:00；专科与急诊转诊以当期安排为准。",
+      "commute": "校园位于 Ada 东部 14th Street 沿线，小镇尺度步行可达；自驾经 US-377 等干道衔接周边；到 Oklahoma City 约 1.5–2 小时车程量级，到 Tulsa 约 2 小时车程量级。",
+      "scene": "East Central University 1909 年建校，位于俄克拉何马东南部 Ada；下设文理、商科、教育、健康与科学（含护理）等学院；校队 Tigers，校色橙黑，联盟归属以官网体育页为准。",
+      "safety": "ECU Police Department，830 East Main Street, Ada, OK；电话 580-559-5555，传真 580-559-5399；紧急拨 911；校外归 Ada Police Department（580-332-4466）辖区。",
+      "transit": "小镇日常以步行为主，无固定城市公交线路承担校园通勤；跨城靠自驾；航空主用 Will Rogers World Airport（OKC），备选 Tulsa International（TUL），车程量级见 commute。",
+      "rentnote": "校内住宿含 Pontotoc Hall、Briles Hall、Chokka-Chaffa' Hall 等宿舍；21 岁以下新生首学年住校政策以 Housing 当期规定为准；Housing & Residence Life 1100 E 14th Street PMB R-7，580-559-5602。校外租房集中在 Ada 镇区，依赖步行或自驾；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://ecok.edu/current-students/paying-college/office-bursar/dates-and-deadlines.php",
+          "Bursar 日期与截止"
+        ],
+        "ins": [
+          "https://ecok.edu/current-students/",
+          "学生服务索引"
+        ],
+        "police": [
+          "https://ecok.edu/about-east-central-university/emergency-procedures/earthquake.php",
+          "ECU Police 联系方式"
+        ],
+        "housing": [
+          "https://ecok.edu/current-students/",
+          "学生服务与住宿入口"
+        ],
+        "clinic": [
+          "https://ecok.edu/current-students/student-services/student-counseling-center/",
+          "Student Health 与 Counseling"
+        ],
+        "transit": [
+          "https://www.flyokc.com/",
+          "Will Rogers World Airport"
+        ]
+      }
+    },
+    "uco": {
+      "short": "中俄克拉何马大学",
+      "place": "埃德蒙 · 100 N. University Drive, Edmond, OK 73034",
+      "cityKey": "edmond",
+      "calShort": "学期制；2026 秋 8 月 17 日前后新生摸底，开课与退课节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026：8 月 17 日（周一）Central Locate 新生摸底；感恩节 11 月 25–27 日停课；其余开学、加退课、退 W、期末与毕业节点以 UCO Campus Calendar 与 Registrar 当期校历为准。Spring 2027 注册、开课、退课与毕业节点同以校历公布为准。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生最低学分以学院与 Office of Global Affairs 当期规定为准；减修须经 OGA DSO 批准。",
+      "drop": "加退课与无 W、带 W 截止按 Registrar 当期校历；退费档位以 Student Financial Services 当期条款为准。",
+      "ins1": "国际学生健康保险要求与承保计划以 Office of Global Affairs 当期说明为准；保险费用是否自动入账以 Bursar 账户当期口径为准。",
+      "ins2": "替代保单豁免流程与保险凭证提交经 OGA 办理；电子保险卡经承保方会员账户领取，就诊携带凭证。",
+      "ins3": "家属加保、自费计划与保险咨询：OGA，Nigh University Center Room 137，405-974-2390，international@uco.edu。",
+      "clinic": "校内设 Center for Counseling and Well-Being，Nigh University Center Room 402，405-974-2215，周一至周五 8:00–17:00（校历假日休），面向在读学生；常规医疗门诊未在校 catalog 核到，就医以 Edmond/Oklahoma City 当期医疗资源为准；Wellness Center 为健身与康乐设施。",
+      "commute": "校园位于 Edmond 市中心以北，约 210 英亩；自驾经 I-35 衔接 Oklahoma City 都会区；到 OKC 核心约 20–30 分钟车程量级。",
+      "scene": "UCO 是俄克拉何马规模领先的都会型公立大学；下设文理、商科、教育、工程与计算机、数学科学、健康等学院；校队 Bronchos，联盟归属以官网体育页为准。",
+      "safety": "UCO Department of Public Safety（DPS），楼址在 Old North 西北侧 University Drive 旁；24/7 值守；非紧急 405-974-2345，紧急 911；提供建筑安保、Safe-Walk 护送与车辆援助；校外归 Edmond Police Department 辖区。",
+      "transit": "Edmond 为 OKC 北郊，日常通勤多依赖自驾与校园周边步行；公交衔接以 EMBARK 当期线路为准；航空主用 Will Rogers World Airport（OKC）。",
+      "rentnote": "校内五栋宿舍由 Housing & Residential Engagement 管理，联系 housing@uco.edu；房型、费率与餐计划以当期分配为准；校园身份卡在 Nigh University Center Room 222A 的 Campus Card Services 办理。校外租房集中在 Edmond 镇区，依赖自驾或公交衔接；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://calendar.uco.edu/",
+          "UCO Campus Calendar"
+        ],
+        "ins": [
+          "https://catalog.uco.edu/content.php?catoid=29&navoid=1047&print",
+          "Catalog：学生服务与国际学生"
+        ],
+        "police": [
+          "https://catalog.uco.edu/content.php?catoid=29&navoid=1047&print",
+          "DPS 公共安全"
+        ],
+        "housing": [
+          "https://catalog.uco.edu/content.php?catoid=4&navoid=66",
+          "Living on Campus"
+        ],
+        "clinic": [
+          "https://catalog.uco.edu/content.php?catoid=33&navoid=1234",
+          "Center for Counseling & Well-Being"
+        ],
+        "transit": [
+          "https://embarkok.com/",
+          "EMBARK 城市公交"
+        ]
+      }
+    },
+    "langston": {
+      "short": "兰斯顿大学",
+      "place": "兰斯顿 · P.O. Box 728, Langston, OK 73050",
+      "cityKey": "langston",
+      "calShort": "学期制（16 周 + 两个 8 周短学期）；Fall 2026 校历见 Registrar 公布 PDF。",
+      "calendar": "Fall 2026：第二 8 周学期 AW 退课截止 11 月 13 日；第二 8 周与 16 周学期期末 11 月 16–20 日；宿舍 11 月 22 日（中午）关闭；寒假 11 月 23 日–12 月 18 日（以上节点以 Fall 2026 Academic Calendar PDF 为准）。Spring 2027 注册、开课、退课与毕业节点以 Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生最低学分与减修审批以国际学生办公室与 Registrar 当期规定为准；低于全日制须先取得 DSO 批准。",
+      "drop": "加退课、无 W/带 W（AW）退课分界见校历；退费与账户责任以 Bursar 当期条款为准。",
+      "ins1": "HBCU 口径：学生健康保险要求与计划以 LU 当期国际学生办公室与 Bursar 说明为准；强制对象与保费自动入账口径以当期公告为准。",
+      "ins2": "替代保单豁免与凭证提交流程以学校当期窗口要求为准；电子保险卡经承保方会员账户领取。",
+      "ins3": "家属加保、自费投保与保险咨询经国际学生办公室办理；联系方式以官网当期目录为准。",
+      "clinic": "Health Clinic，University Women 楼一层，电话 405-466-3335，预约口径见官网；Wellness Center（心理咨询）同楼一层 Room 110，周一至周五 8:00–17:00；急症与专科转诊以当期安排为准。",
+      "commute": "主校区位于 Logan County 乡间 Langston 镇，北距 Oklahoma City 约 30–45 分钟车程量级；无城市公交线路承担校园通勤；日常靠自驾、拼车与校方接驳（如有）。",
+      "scene": "Langston University 1897 年建校，是俄克拉何马唯一的公立 HBCU、1890 赠地院校；主校区在 Langston，另设 Oklahoma City、Tulsa（Greenwood 区）与 Ardmore 教学点；下设农学、教育、商学、文理、护理与健康职业等学院；校队 Lions，联盟归属以官网体育页为准。",
+      "safety": "校园警务经 Langston University Department of Public Safety 负责（联系方式以官网当期目录为准）；紧急拨 911；校外归 Logan County 与 Langston 镇辖区。",
+      "transit": "小镇校区无固定城市公交；跨城靠自驾；航空主用 Will Rogers World Airport（OKC），备选 Tulsa International（TUL）。",
+      "rentnote": "校内住宿含 Centennial Court Apartments（新生 Village）、Langston Commons、Cimarron Gardens、Scholars' Inn、Young Hall（传统宿舍）等；住宿合同与餐计划以 Residential Life and Housing Services 当期口径为准；校外房源在 Langston 镇与周边城镇；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://langston.edu/wp-content/uploads/2026/05/Fall-2026-Academic-Calendar-5.20.26.pdf",
+          "Fall 2026 Academic Calendar"
+        ],
+        "ins": [
+          "https://langston.edu/",
+          "学校官网"
+        ],
+        "police": [
+          "https://langston.edu/",
+          "校园安全入口"
+        ],
+        "housing": [
+          "https://langston.edu/student-experience/campus-life/residential-life-and-housing-services/",
+          "Residential Life and Housing"
+        ],
+        "clinic": [
+          "https://langston.edu/student-experience/students-services/health-clinic/",
+          "Health Clinic"
+        ],
+        "transit": [
+          "https://www.flyokc.com/",
+          "Will Rogers World Airport"
+        ]
+      }
+    },
+    "oklahoma": {
+      "short": "俄克拉何马大学",
+      "place": "诺曼 · 550 Parrington Oval, Norman, OK 73019",
+      "cityKey": "norman",
+      "calShort": "学期制；2026 秋 12 月 12 日结课、12 月 14 日起期末；Spring 2027 节点以 Registrar 校历为准。",
+      "calendar": "Fall 2026：12 月 12 日（周六）课程结束；12 月 14 日（周一）期末开始；其余开学、加退课、退 W、假期与毕业节点以 OU Registrar 当期 Academic Calendar 为准。Spring 2027 注册、开课、退课与毕业节点同以校历公布为准。",
+      "fulltime": "F-1 全日制本科每学期 ≥12 学分；研究生 ≥9 学分（以 Graduate College 与学院口径为准）；减修须经国际学生办公室批准 Reduced Course Load。",
+      "drop": "加退课与无 W、带 W 截止按 Registrar 当期校历；退费以 Student Financial Center 当期条款为准。",
+      "ins1": "OU 为 Norman 项目学生运营自筹 Student Health Plan（SHP）；强制对象与保费是否自动入账，以 Student Health Coverage 页面当期规定为准。",
+      "ins2": "符合替代标准的保单可申请豁免；电子保险卡经承保方/会员账户领取，就诊携凭证。",
+      "ins3": "替代保单标准、家属加保与咨询经 Student Health Coverage 与国际学生服务窗口办理。",
+      "clinic": "Goddard Health Center（Student Health），620 Elm Ave., Norman, OK；预约线 405-325-4441；University Counseling Center 同楼 Room 201，405-325-2911，周一至周五 8:00–17:00；校内提供初级保健、药房、X光、生殖健康与校内实验室；专科转诊按当期安排。",
+      "commute": "主校区位于 Norman 中部，紧邻 OU Oval；自驾经 I-35 衔接 Oklahoma City 与 Dallas 方向；到 OKC 核心约 20–30 分钟车程量级。",
+      "scene": "OU 1890 年建校，是俄克拉何马旗舰公立研究型大学；下设文理、工程、商学、教育、艺术、建筑、新闻传播、法学等学院（医学教育在 OKC 健康科学中心）；校队 Sooners，NCAA Division I。",
+      "safety": "OU Police Department（OUPD）Norman 总部 2775 Monitor Avenue；非紧急 405-325-1717，紧急 911；校外归 Norman Police Department 辖区。",
+      "transit": "校园与 Norman 镇区步行相邻；城市公交以 Norman Mobility 当期线路为准；航空主用 Will Rogers World Airport（OKC）约 25–35 分钟车程，备选 Tulsa International（TUL）。",
+      "rentnote": "校内住宿分布各 living community（含 Headington Hall 等），房型、费率与餐计划见 housing.ou.edu；校园身份卡为 Sooners Card；校外租房在 Norman 镇区与周边邻里，步行或自驾；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ou.edu/registrar",
+          "Registrar 校历入口"
+        ],
+        "ins": [
+          "https://www.ou.edu/hr/students/student-health-coverage",
+          "Student Health Coverage"
+        ],
+        "police": [
+          "https://www.ou.edu/police/",
+          "OU Police Department"
+        ],
+        "housing": [
+          "https://housing.ou.edu/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://ou.edu/ucc",
+          "University Counseling Center"
+        ],
+        "transit": [
+          "https://embarkok.com/",
+          "EMBARK 城市公交"
+        ]
+      }
+    },
+    "ouhsc": {
+      "short": "俄克拉何马大学健康科学中心",
+      "place": "俄克拉何马城 · OU Health Sciences Center, Oklahoma City, OK 73104",
+      "cityKey": "oklahomacity",
+      "calShort": "研究生与临床项目制；各学院日历独立，不套用本科 16 周日历。",
+      "calendar": "各专业学院（Medicine、Allied Health、Nursing、Pharmacy、Public Health）与 Graduate College 按项目和轮转日历执行；开学、退课、临床节点与毕业以各学院与 Registrar 当期校历为准。",
+      "fulltime": "研究生/职业项目注册学分与出勤要求以所在学院规章与 I-20/DS-2019 口径为准；低于全日制须先经国际学生办公室批准。",
+      "drop": "退课、退项目与轮转分界按所在学院当期校历；学费责任与退款以 Bursar/Student Affairs 当期条款为准。",
+      "ins1": "按 Regents 政策，所有注册 OU Health Sciences 学术项目的学生须维持健康保险并每学期提交保险信息；可购买 OU Health Campus Student Health Insurance Plan（AHP 经办），或提交替代保单 waiver；纯 OU Online 项目学生例外。",
+      "ins2": "每学期在 AHP 门户（ouhsc.myahpcare.com）登记并领取会员号与电子保险卡；waiver 经学生保险 waiver 项目逐学期提交；Summer/Fall 2026 豁免开放至课程首月。",
+      "ins3": "替代保单要求见 waiver 要求说明；AHP 客服 1-888-924-7758（工作日 8:30–17:00 CT）；针伤暴露险可单独选购。",
+      "clinic": "Student Health Clinic，OU Health Physicians Building, 825 NE 10th St, Suite 2C, Oklahoma City, OK 73104；周一至周五 7:30–16:30。Student Counseling Services，David L. Boren Student Union Suite 300，405-271-7336，counselors@ouhsc.edu。",
+      "commute": "HSC 位于 Oklahoma City 东北侧医疗走廊，距 State Capitol 几个街区；研究生、住院医与家属多住 OKC 周边；通勤以步行、自驾与 EMBARK 公交为主。",
+      "scene": "OUHSC 是 OU 的健康科学研究生与职业校区，含六所专业学院与 Graduate College（生物医学、临床转化、遗传咨询等硕士/博士项目）；临床依托 OU Health 院区；不设普通本科部。",
+      "safety": "OUHSC Campus Police，非紧急 405-271-4300（HSC 线 405-271-4911）；紧急 911；校外归 Oklahoma City Police Department 辖区。",
+      "transit": "EMBARK 市区公交覆盖 OKC 核心区与医疗走廊；航空主用 Will Rogers World Airport（OKC），约 20–30 分钟车程量级。",
+      "rentnote": "医学中心不提供本科式校内宿舍；学生多在 OKC 医疗走廊周边及邻近邻里租房，依赖步行、公交或自驾；本页不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://discover.ouhsc.edu/contact",
+          "招生与学院联系入口"
+        ],
+        "ins": [
+          "https://students.ouhsc.edu/Resources/Health-Insurance",
+          "Student Health Insurance"
+        ],
+        "police": [
+          "https://www.ouhsc.edu/police/Important-Links/Health-Sciences-Center-Resource-Guide",
+          "OUHSC Campus Police"
+        ],
+        "housing": [
+          "https://www.ouhsc.edu/Visitors",
+          "校区与访客信息"
+        ],
+        "clinic": [
+          "https://students.ouhsc.edu/Services/Student-Health-Clinic",
+          "Student Health Clinic"
+        ],
+        "transit": [
+          "https://www.okc.gov/",
+          "Oklahoma City 市政入口"
+        ]
+      }
+    },
+    "oklahomastate": {
+      "short": "俄克拉何马州立大学",
+      "place": "斯蒂尔沃特 · Oklahoma State University, Stillwater, OK 74078",
+      "cityKey": "stillwater",
+      "calShort": "学期制；2026 秋 8 月 17 日开课，12 月 7–11 日期末；Spring 2027 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 17 日（周一）开课；8 月 24 日 100% 退费/无限制退加课截止；8 月 28 日部分退费/限制性退加课截止；9 月 7 日校节假日；11 月 6 日 W 退课截止；11 月 23–25 秋假（无课）；11 月 26–27 校节假日；11 月 30 日 W/F 退课截止；12 月 4 日结课；12 月 7–11 日期末周；12 月 11 日研究生毕业礼、12 月 12 日本科毕业礼；12 月 16 日中午成绩截止。Spring 2027：1 月 11 日（周一）开课；其余节点以 Registrar Academic Calendar 为准。",
+      "fulltime": "F-1 全日制本科 ≥12 学分；研究生 ≥9 学分（以 Graduate College 口径为准）；低于全日制须先经 Office of International Students and Scholars 批准 Reduced Course Load。",
+      "drop": "16 周全学期退加课/退费分界见校历（短学期另有独立截止）；W 截止 11 月 6 日、最后 W/F 截止 11 月 30 日；退费档位以 Bursar 当期条款为准。",
+      "ins1": "校董事会要求非移民学生维持健康保险；Student Health Insurance Plan 保费自动计入 Bursar 账户；F/J 国际学生不接受自购保险 waiver（catalog 口径）。",
+      "ins2": "保险凭证与免疫记录到 University Health Services 提交；电子保险卡经承保方账户领取。",
+      "ins3": "家属加保、计划标准与咨询经 Office of International Students and Scholars（ISS）与 UHS 办理。",
+      "clinic": "University Health Services（UHS），1202 W. Farm Road, Stillwater, OK；电话 405-744-7665；周一至周五 8:00–17:00；含医疗与精神科服务，保险按当期口径受理。University Counseling Services 心理服务 405-744-5975。",
+      "commute": "主校区位于 Stillwater 中部；自驾经 US-177/Highway 51 衔接 OKC 与 Tulsa；Stillwater Regional Airport（SWO）有支线航班。",
+      "scene": "OSU 1890 年建校，是俄克拉何马旗舰公立研究型大学之一；下设文理、工程、农业、商科、教育、人文科学、人类环境科学、航空等学院；校队 Cowboys/Cowgirls，NCAA Division I。",
+      "safety": "OSU Police Department（OSUPD），104 USDA Building, Stillwater, OK 74078；非紧急 405-744-6523，紧急 911；校外归 Stillwater Police Department（723 S. Lewis St, 405-372-4171）辖区。",
+      "transit": "校园有校方接驳；Stillwater 镇区日常以步行、自驾与校园班车为主；SWO 支线航空，地面到 OKC/Tulsa 各约 1 小时车程量级。",
+      "rentnote": "校内宿舍由 Housing and Residential Life 管理；国际新生住校要求与房型、费率见 Housing 门户；校园身份卡为 OSU ID；校外租房在 Stillwater 镇区邻里；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.okstate.edu/academic-calendar/academic-calendar-fall-2026",
+          "Registrar Academic Calendar"
+        ],
+        "ins": [
+          "https://catalog.okstate.edu/about/student-services/",
+          "Catalog：学生服务与保险要求"
+        ],
+        "police": [
+          "https://police.okstate.edu/",
+          "OSU Police Department"
+        ],
+        "housing": [
+          "https://reslife.okstate.edu/",
+          "Housing and Residential Life"
+        ],
+        "clinic": [
+          "https://uhs.okstate.edu/",
+          "University Health Services"
+        ],
+        "transit": [
+          "https://www.flystillwater.com/",
+          "Stillwater Regional Airport"
+        ]
+      }
+    },
+    "nsuok": {
+      "short": "东北州立大学",
+      "place": "塔勒阔 · 601 N. Grand Ave., Tahlequah, OK 74464",
+      "cityKey": "tahlequah",
+      "calShort": "学期制；开学、退课与期末节点以 Registrar 当期校历为准。",
+      "calendar": "春秋学期加退课、无 W/带 W 退课、假期、期末与毕业节点以 NSU Registrar 当期 Academic Calendar 为准；Broken Arrow 与 Muskogee 校区节点同以校历为准。",
+      "fulltime": "F-1 全日制本科 ≥12 学分；研究生最低学分以学院与国际学生服务口径为准；减修须经 DSO 批准。",
+      "drop": "退课分界与退费档位按 Registrar/Bursar 当期校历执行。",
+      "ins1": "国际学生健康保险要求与计划以 NSU 国际学生服务与 Bursar 当期说明为准；强制对象与保费口径以当期公告为准。",
+      "ins2": "替代保单豁免与凭证提交流程以学校当期窗口为准；电子保险卡经承保方领取。",
+      "ins3": "家属加保与保险咨询经 International Student Services（John Vaughan Library 内）办理。",
+      "clinic": "Student Health Center，位于 Wyly Hall 与棒球场（Thomas Rousey Field）之间；NEOHealth Medical Center 在校园内为 NSU 社区提供医疗；心理咨询与健康资源以 Student Affairs 当期目录为准。",
+      "commute": "主校区位于 Tahlequah 镇区，Ozark 丘陵地带；自驾经 US-62 等干道衔接 Tulsa 方向；到 Tulsa 约 45–60 分钟车程量级。",
+      "scene": "NSU 1890 年建校，位于 Cherokee Nation 所在地 Tahlequah；下设文理、商科、教育、健康与教育职业、光学（Oklahoma College of Optometry）等学院；校区另含 Broken Arrow 与 Muskogee 教学点；校队 RiverHawks，联盟归属以官网体育页为准。",
+      "safety": "NSU Department of Public Safety（University Police），Grand House（Grand 与 Crafton 街角）；电话 918-444-2468，传真 918-458-2379；Tahlequah 校区 24/7 执勤；紧急 911；校外归 Tahlequah 警方与 Cherokee County 辖区。",
+      "transit": "Tahlequah Area Transit Agency（TTA）本地公交覆盖镇区；校园与镇中心步行相邻；航空主用 Tulsa International Airport（TUL）。",
+      "rentnote": "校内宿舍含 Leoser 系列传统宿舍、Wyly Hall、Cobb Hall、Seminary Suites 套房与 Courtside/Cedar Craft 公寓；住宿与餐计划以 Housing 当期分配为准；校外房源在 Tahlequah 镇区；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.nsuok.edu/",
+          "NSU 官网校历入口"
+        ],
+        "ins": [
+          "https://catalog.nsuok.edu/content.php?catoid=7&navoid=178&print",
+          "Catalog：学生服务"
+        ],
+        "police": [
+          "https://nsuok.edu/contactus.aspx",
+          "University Police 联系方式"
+        ],
+        "housing": [
+          "https://catalog.nsuok.edu/content.php?catoid=7&navoid=178&print",
+          "Residence Facilities"
+        ],
+        "clinic": [
+          "https://catalog.nsuok.edu/content.php?catoid=7&navoid=178&print",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.tulsaairports.com/",
+          "Tulsa International Airport"
+        ]
+      }
+    },
+    "okstatehealth": {
+      "short": "俄克拉何马州立大学健康科学中心",
+      "place": "塔尔萨 · 1111 W. 17th Street, Tulsa, OK 74107-1898",
+      "cityKey": "tulsa",
+      "calShort": "研究生与骨科医学项目制；各项目日历独立，不套用本科 16 周日历。",
+      "calendar": "College of Osteopathic Medicine 与研究生项目（Athletic Training、Biomedical Sciences、Forensic Sciences、Health Care Administration、Physician Assistant Studies）按项目日历与轮转执行；开学、退课、临床节点与毕业以 CHS Registrar 当期校历为准。",
+      "fulltime": "项目注册学分与出勤要求以所在项目规章与 I-20/DS-2019 口径为准；低于全日制须先经国际学生顾问批准。",
+      "drop": "退课、退项目与轮转分界按项目当期日历；学费责任与退款以 Bursar 当期条款为准。",
+      "ins1": "OSU 体系非移民学生须维持健康保险；CHS 学生适用的学生保险计划与强制/豁免口径以 OSU 系统当期规定为准。",
+      "ins2": "保险凭证提交与电子保险卡领取按 OSU/UHS 当期流程办理。",
+      "ins3": "家属加保、计划标准与咨询经 CHS Student Affairs 与 OSU ISSS 办理。",
+      "clinic": "CHS 校内 Wellness/Fitness Center 凭 OSU ID 进入；常规医疗与心理咨询依托 Tulsa 院区与 OSU Medical Center 周边资源，口径以 Student Affairs 当期目录为准。",
+      "commute": "CHS 位于 Tulsa 西侧 Arkansas 河畔 16 英亩校园；通勤以步行、自驾与 Tulsa Transit 公交为主；到 Tulsa 核心约 10–20 分钟车程量级。",
+      "scene": "OSU Center for Health Sciences 是 OSU 体系的健康科学校区，含 College of Osteopathic Medicine（D.O.）与生物医学、法证科学、医师助理、运动训练、医疗管理等研究生项目；临床轮转依托 OSU Medical Center（Tulsa）；不设普通本科部。",
+      "safety": "OSUPD Tulsa 片区：Center for Health Sciences，1716 S Phoenix Ave, Tulsa, OK 74107，918-561-1234；紧急 911；校外归 Tulsa Police Department 辖区。",
+      "transit": "Tulsa Transit 公交覆盖 Tulsa 核心区；航空主用 Tulsa International Airport（TUL），约 15–25 分钟车程量级；备选 Will Rogers World Airport（OKC）。",
+      "rentnote": "CHS 不提供本科式校内宿舍；学生多在 Tulsa 西侧与邻近邻里租房，依赖步行、公交或自驾；本页不列固定租金数字。",
+      "link": {
+        "cal": [
+          "https://medicine.okstate.edu/",
+          "OSU-CHS 官网"
+        ],
+        "ins": [
+          "https://catalog.okstate.edu/health-sciences/health-sciences.pdf",
+          "Catalog：Center for Health Sciences"
+        ],
+        "police": [
+          "https://police.okstate.edu/contact",
+          "OSUPD Tulsa 片区联系"
+        ],
+        "housing": [
+          "https://medicine.okstate.edu/",
+          "CHS 学生生活入口"
+        ],
+        "clinic": [
+          "https://medicine.okstate.edu/wellness/index.html",
+          "Wellness Center"
+        ],
+        "transit": [
+          "https://www.cityoftulsa.org/",
+          "Tulsa 市政入口"
+        ]
+      }
+    },
+    "nwosu": {
+      "short": "西北俄克拉何马州立大学",
+      "place": "阿尔瓦 — 709 Oklahoma Blvd., Alva, OK 73717",
+      "cityKey": "alva",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "2026 秋：8 月 15 日新生/转学生导向，8 月 17 日常规课程开课，8 月 25 日截止注册 16 周课程，8 月 28 日全额退费与无成绩退课截止，9 月 7 日劳动节，10 月 15–16 日秋假，11 月 25–27 日感恩节，12 月 6 日毕业典礼，12 月 8–11 日期末考试，12 月 11 日学期结束，12 月 15 日中午前成绩截止。2027 春：1 月 11 日常规课程开课，1 月 18 日马丁·路德·金日，1 月 20 日截止加 16 周课程，1 月 25 日全额退费与无成绩退课截止，3 月 15–19 日春假，5 月 3–6 日期末考试，5 月 7 日学期结束，5 月 8 日毕业典礼，5 月 12 日中午前成绩截止。",
+      "fulltime": "本科每学期至少注册 12 学分，研究生至少 9 学分；因特殊情况低于全日制须先经国际学生学术顾问按 SEVP 规定批准；F-1 身份每学期线上课程限 3 学分。",
+      "drop": "16 周课程无成绩退课与全额退费截止见校历（秋季 8 月 28 日、春季 1 月 25 日前后），其后退课记 W；两段制课程截止日更早；退课、退费与身份保留以 Registrar 当期校历和 Student Services 说明为准。",
+      "ins1": "国际学生健康保险事项由 International Student Office 对接；官网未列明统一承保计划，保险资格、替代保单与家属加保口径以国际学生办公室当期说明为准。",
+      "ins2": "按 Oklahoma State Regents 与州法律要求提交免疫记录；住校须提交脑膜炎疫苗表单；国际学生须在到校 30 天内完成结核皮肤试验并提供阴性证明，可在 Alva 的 Share Medical Center 完成。",
+      "ins3": "保险、免疫与身份咨询：International Student Advisor, Ryerson Hall 126, Alva, OK 73717，580-327-8414，international@nwosu.edu。",
+      "clinic": "Student Health Services 设于 Ryerson Hall；Share Medical Center，800 Share Drive, Alva, OK 73717，580-327-2800，为在校注册学生提供免费门诊（周一、周三、周五），须当天中午前预约；心理咨询对接 Office of Counseling and Career Services；校园门诊能力之外转 Alva 及周边医疗机构。",
+      "commute": "主校区 709 Oklahoma Blvd., Alva, OK 73717；另有 Enid、Woodward 校区。Alva 位于州西北、堪萨斯边境以南约 14 英里，距 Oklahoma City 约 152 英里，距 Wichita, KS 约 115 英里；校园到镇区步行可达。",
+      "scene": "西北俄克拉何马州立大学是州立区域大学，三校区办学，开设教育、商科、人文与社会科学等本科与少量硕士项目；校队昵称 Rangers，红黑配色，吉祥物 Rowdy Ranger，参加 NCAA 二级大美国联盟（GAC）赛事。",
+      "safety": "Campus Police 驻 Student Center，警长 Dennis Kilmer；Alva 校区 580-327-8511，Enid 校区 580-213-3130，Woodward 校区 580-327-8511；紧急拨打 911；校园以外归 Alva Police Department 与 Woods County 调度。",
+      "transit": "Alva 为小镇，无固定城市公交，日常以步行和自驾为主；学期初末学校提供往返 Wichita 与 Oklahoma City 机场/汽车站的班车（Student Travel Request）；镇区范围内交通需求可联系国际学生办公室。",
+      "rentnote": "校内宿舍与公寓按 Housing/Meal Contract 申请分配，住宿押金 100 美元，未收到免疫信息前不安排宿舍；校外房源集中 Alva 镇内，数量有限；学生身份卡兼作停车与门禁凭证；租金与押金按当期挂牌，具体以房源合同为准。",
+      "link": {
+        "cal": [
+          "https://www.nwosu.edu/academic-calendar/",
+          "2026–2027 校历"
+        ],
+        "ins": [
+          "https://www.nwosu.edu/apply-for-admission/international-students/",
+          "国际学生办公室"
+        ],
+        "police": [
+          "https://www.nwosu.edu/campus-safety",
+          "Campus Police"
+        ],
+        "housing": [
+          "https://www.nwosu.edu/living-on-campus",
+          "校内住宿"
+        ],
+        "clinic": [
+          "https://www.nwosu.edu/student-services",
+          "Student Services"
+        ],
+        "transit": [
+          "https://www.nwosu.edu/visit-northwestern/visitor-information/",
+          "到校与访客交通"
+        ]
+      }
+    },
+    "usao": {
+      "short": "俄克拉何马科学与艺术大学",
+      "place": "奇卡沙 — 1727 West Alabama Avenue, Chickasha, OK 73018",
+      "cityKey": "chickasha",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 7 日开课。",
+      "calendar": "2026 秋（15 周面授学期）：8 月 20 日入学与改进日，8 月 21 日 Convocation，8 月 21–23 日新生导向，8 月 24 日开课，8 月 31 日截止加课，9 月 4 日截止退课，9 月 7 日劳动节，10 月 13 日期中成绩截止，10 月 15–16 日秋假，10 月 30 日自动 W 退课截止，11 月 23–27 日感恩节，12 月 4 日最后上课日，12 月 7 日研习日，12 月 8–11 日期末考试，12 月 15 日 8:00 成绩截止。2027 春：1 月 7 日开课，1 月 15 日截止加课，1 月 18 日马丁·路德·金日，1 月 20 日截止退课，3 月 12 日自动 W 截止，3 月 15–19 日春假，4 月 16 日最后上课日，4 月 19 日研习日，4 月 20–23 日期末考试，4 月 24 日毕业典礼，4 月 27 日 8:00 成绩截止。",
+      "fulltime": "F-1 本科保持全日制注册学分；减修、停课或转非全日制须先经国际学生事务与学术顾问批准；学分口径以 Registrar 当期公布为准。",
+      "drop": "add-drop 期内退课全额退费，add-drop 期后不退费；自动 W 截止见校历（秋季 10 月 30 日、春季 3 月 12 日）；短期线上 7 周学期截止日另见校历；退费与学籍状态以 Student Services 当期条款为准。",
+      "ins1": "国际学生手册要求健康保险与免疫记录；学校统一承保计划未在官网列明，保险资格与替代保单标准以 Student Services / 国际学生事务当期说明为准。",
+      "ins2": "新生须提交 MMR、Hep B 免疫与健康史；住校须脑膜炎疫苗证明；替代保单须覆盖在美停留全期，凭证交 Student Services 核验。",
+      "ins3": "保险与免疫咨询：Student Services, 1727 W Alabama Ave, Chickasha, OK 73018，405-574-1311；虚拟医疗与心理健康经 TimelyCare 平台对接。",
+      "clinic": "Health & Wellness Services 提供校内健康与咨询服务；线下咨询由持证 LPC 对接，counseling@usao.edu；急诊转 Grady Memorial Hospital ER, 2222 W. Iowa Ave., Chickasha, OK 73018；虚拟医疗经 TimelyCare 24/7 接入。",
+      "commute": "校区 1727 W Alabama Ave, Chickasha, OK 73018；Chickasha 位于 Oklahoma City 西南方向，车程约 40 分钟量级；最近商用机场为 OKC Will Rogers（OKC）。",
+      "scene": "USAO 是俄克拉何马州唯一的公立文理学院，规模较小，以跨学科通识课程与小班教学为特色；校区为 Chickasha 历史校园；校队昵称 Drovers，参加 NAIA 13 项校际运动。",
+      "safety": "官网未列独立校警队伍；紧急拨打 911；校园事件对接 Dean of Students 与 Student Services；校外归 Chickasha Police Department 与 Grady County 调度。",
+      "transit": "小镇无成规模公共交通；出行以步行、自驾为主；沿 US-62 / US-81 往返 Oklahoma City 方向。",
+      "rentnote": "校内宿舍按 Housing 申请与分配；校外房源集中 Chickasha 镇内；身份卡兼作门禁与就餐凭证；租金不列固定数字，按当期房源合同为准。",
+      "link": {
+        "cal": [
+          "https://usao.edu/academics/academic-calendar.html",
+          "2026–2027 校历"
+        ],
+        "ins": [
+          "https://usao.edu/student-life/images-docs/international-student-handbook.pdf",
+          "国际学生手册"
+        ],
+        "police": [
+          "https://usao.edu/student-life/student-services/",
+          "Student Services"
+        ],
+        "housing": [
+          "https://usao.edu/student-life/student-services/general-services.html",
+          "住宿与学生服务"
+        ],
+        "clinic": [
+          "https://usao.edu/student-life/student-services/health-services.html",
+          "Health Services"
+        ],
+        "transit": [
+          "https://usao.edu/index.html",
+          "学校主页"
+        ]
+      }
+    },
+    "rsu": {
+      "short": "罗杰斯州立大学",
+      "place": "克莱尔莫尔 — 1701 West Will Rogers Blvd., Claremore, OK 74017-3252",
+      "cityKey": "claremore",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "2026 秋：8 月 17 日开课，8 月 21 日截止加 16 周课程，8 月 28 日截止退课与退费，9 月 7 日劳动节，11 月 6 日 16 周课程自动 W 截止，11 月 20 日第二段 8 周课程 W 截止，11 月 23–27 日感恩节，12 月 4 日最后上课日，12 月 7–11 日期末考试。2027 春：1 月 11 日开课，1 月 15 日截止加 16 周课程，1 月 18 日马丁·路德·金日，1 月 25 日截止退 16 周课程，3 月 15–19 日春假，4 月 9 日 16 周课程自动 W 截止，4 月 23 日第二段 8 周课程 W 截止，4 月 30 日最后上课日，5 月 3–7 日期末考试，5 月 8 日毕业典礼。",
+      "fulltime": "F-1 全日制学分口径；减修、停课或转非全日制须先经国际学生事务与学术顾问批准；每学期学分下限以 Registrar 当期公布为准。",
+      "drop": "退课与退费截止见校历；自动 W 截止秋季 11 月 6 日、春季 4 月 9 日（16 周课程）；两段制课程截止日另见校历；退费档位以 Bursar 当期条款为准。",
+      "ins1": "全日制国际学生须注册 International Student Insurance Plan（Academic Health Plans 出单、Sirius America 承保）；保费自动计入学生账户。",
+      "ins2": "计划含眼科保障；牙科 Cigna 选项可另行购买；豁免与替代保单标准以保险计划页与国际学生办公室当期说明为准。",
+      "ins3": "保险资格、家属加保与保险卡核验对接 Student Affairs；保险凭证供 Student Health Center 留存备查。",
+      "clinic": "Student Health Center, Health Sciences Room 164B，918-343-7614；Student Counseling Services 提供线上与线下咨询；能力之外转 Claremore 地区医疗机构。",
+      "commute": "主校区 1701 W Will Rogers Blvd., Claremore, OK 74017-3252；另有 Bartlesville、Pryor 校区。Claremore 位于 Tulsa 东北方向，I-44 与 Historic Route 66 沿线；最近机场 Tulsa International（TUL）。",
+      "scene": "RSU 是 Tulsa 都会区唯一的公立四年制寄宿大学，开设学士、副学士与少量硕士项目，商科、护理、人文与计算机等见长；校队昵称 Hillcats，蓝与深红配色，吉祥物 Hillcat，2016 年成为 NCAA 二级正式成员，2019 年加入 MIAA。",
+      "safety": "RSU Campus Police；紧急 911；Claremore 校区 918-343-7624，警站位于校区北入口 Foundation Alumni Center 后方；Bartlesville 校区 918-338-8020；校外归 Claremore Police Department 与 Rogers County 调度。",
+      "transit": "Claremore 至 Tulsa 方向自驾沿 I-44；本地无大学直达公交；Tulsa Transit 覆盖 Tulsa 都会区；校区步行尺度适中，Pryor 校区位于 MidAmerica Industrial Park 内。",
+      "rentnote": "校内学生公寓 2011 年启用，设一至四居室，按申请分配；校外房源集中 Claremore 镇内；身份卡兼作门禁、就餐与活动凭证；租金不列固定数字，以当期房源合同为准。",
+      "link": {
+        "cal": [
+          "https://www.rsu.edu/academic-calendar/",
+          "校历"
+        ],
+        "ins": [
+          "https://catalog.rsu.edu/content.php?catoid=5&navoid=146",
+          "学生事务目录（保险）"
+        ],
+        "police": [
+          "https://www.rsu.edu/offices-services/rsu-police-department/important-phone-numbers/",
+          "RSU Police"
+        ],
+        "housing": [
+          "https://www.rsu.edu/campus-life/housing/",
+          "校内住宿"
+        ],
+        "clinic": [
+          "https://catalog.rsu.edu/content.php?catoid=4&navoid=112",
+          "学生事务目录（健康中心）"
+        ],
+        "transit": [
+          "https://www.rsu.edu/",
+          "学校主页"
+        ]
+      }
+    },
+    "southeasternok": {
+      "short": "东南俄克拉何马州立大学",
+      "place": "杜兰特 — 425 West University Boulevard, Durant, OK 74701",
+      "cityKey": "durantok",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春学期日期以 Registrar 校历为准。",
+      "calendar": "2026 秋：8 月 17 日开课；add/drop、带 W 退课、感恩节假与期末考试日期见 Registrar 校历专页。2027 春：开学、加退课、春假与期末安排见 Spring 2027 校历页；短期/block 课程的加退课与退费截止短于全学期课程，具体以当期 Academic Calendar 为准。",
+      "fulltime": "F-1 全日制学分；减修、停课或转非全日制须先经 International Student Services 与学术顾问批准；学分下限以 Registrar 当期公布为准。",
+      "drop": "短期/block 课程加退课与退费截止短于全学期课程；退学退费档位以 Bursar 当期条款为准；退课与身份保留以 Academic Calendar 和 International Student Services 说明为准。",
+      "ins1": "ICE、Oklahoma State Regents 与校方规定国际学生须提供住院保险（hospitalization insurance）验证；保单须覆盖整个学期。",
+      "ins2": "保单须含最低 5,000 美元遣返（Repatriation）给付，并覆盖住院费用、门诊费用、医疗转运、意外身故与伤残（疾病/意外）；私人保单须被认定为同等保障（deemed comparable）。",
+      "ins3": "向 Office of International Student Services（Welcome Center）提交保单副本，注明保障起止日期与遣返保额；家属加保与替代保单标准以保险页当期说明为准。",
+      "clinic": "Student Wellness Services 为 Durant 校区学生提供免费健康、咨询与健身服务；Counseling Center 提供个体、团体与伴侣咨询；校园服务能力之外转 Durant 地区医疗机构。",
+      "commute": "校区 425 W University Blvd, Durant, OK 74701-3347；Durant 位于州东南、靠近德州边界；最近大型枢纽 Dallas-Fort Worth（DFW）约 85 英里，Tulsa 方向次之。",
+      "scene": "东南俄克拉何马州立大学是州东南区域公立大学，开设商科、教育、人文与职业项目；校队昵称 Savage Storm，NCAA 二级大美国联盟（GAC）。",
+      "safety": "SE Police Department 全职持证警官 24/7/365 值守；非紧急 580-745-2727，紧急 911（Bryan County Communication Center）；警车、电瓶车与步巡，提供护送与呼叫箱；校园设风暴避难所；校外归 Durant Police Department 与 Bryan County 调度。",
+      "transit": "Durant 小镇出行以自驾为主；机场交通经 International Student Services 页面对接；DFW 方向约 85 英里车程，无固定校车往返。",
+      "rentnote": "校内宿舍与餐计划按 HRL 合同分配；学校不提供个人财产保险，建议自购租客保险；校外房源集中 Durant 镇内；租金不列固定数字，以当期房源合同为准。",
+      "link": {
+        "cal": [
+          "https://www.se.edu/registrar/academic-calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.se.edu/international-student/insurance-for-international-students/",
+          "国际学生保险"
+        ],
+        "police": [
+          "https://www.se.edu/campus-guests/",
+          "校园访客与安保"
+        ],
+        "housing": [
+          "https://www.se.edu/hrl/residence-life-faq/",
+          "住宿 FAQ"
+        ],
+        "clinic": [
+          "https://www.se.edu/student-wellness/",
+          "Student Wellness"
+        ],
+        "transit": [
+          "https://www.se.edu/international-student/new-student-next-steps/",
+          "国际学生到校指南"
+        ]
+      }
+    },
+    "opsu": {
+      "short": "俄克拉何马潘汉德尔州立大学",
+      "place": "古德韦尔 · PO Box 430, Goodwell, OK 73939",
+      "cityKey": "goodwell",
+      "calShort": "两学期制；秋学期 8 月中下旬开课、12 月中旬结束，春学期 1 月开课、5 月结束；逐日日期以 Catalog 校历为准。",
+      "calendar": "秋学期通常 8 月中下旬开课、12 月中旬进行期末并结束；春学期 1 月开课、5 月结束；加退课、带 W 截止、春假与毕业典礼日期以 OPSU Catalog 校历当期公布为准（2025–26 参考：秋季 8 月 20 日开课、12 月 16 日学期结束）。",
+      "fulltime": "F-1 全日制学分；减修、停课或转非全日制须先经国际学生事务与学术顾问批准；学分下限以 Registrar 当期公布为准。",
+      "drop": "加退课与退费截止以 Catalog 校历和 Student Accounts 当期条款为准；两段制课程截止日更早；退课与身份保留以国际学生事务说明为准。",
+      "ins1": "学校当前不强制国际学生购买健康保险，但强烈建议自行投保；在校学生自带意外保险（accident insurance）保障。",
+      "ins2": "学生可自行比较购买适合预算与需求的健康保险；豁免、家属加保与保单标准以国际学生 FAQ 当期说明为准。",
+      "ins3": "保险咨询对接 International Students 办公室；虚拟医疗与心理健康经 TimelyCare 24/7 平台接入。",
+      "clinic": "Student Health Services 提供 TimelyCare 24/7 虚拟医疗与心理健康服务；校内线下能力之外转 Goodwell、Guymon 及周边医疗机构；在校意外保险按学生身份自动覆盖。",
+      "commute": "校区邮寄地址 PO Box 430, Goodwell, OK 73939；位于 Panhandle 狭长地带，距 Liberal, KS 约 56 英里/1 小时车程，距 Amarillo, TX 约 120 英里/2 小时，距 Oklahoma City 约 275 英里/4.5 小时；无公交，出行依赖自驾或预约接驳。",
+      "scene": "OPSU 是 Panhandle 地区小型公立本科院校，农业、畜牧、教育、商科与健康职业见长；校队昵称 Aggies，18 项校际运动，参加 NAIA Sooner Athletic Conference，另含 IHSA、NIRA 马术项目；校内 Aggie Grill 与食堂提供餐饮。",
+      "safety": "校园设 Campus Police / Safety & Security（警车巡查、停车管理、极端天气与枪支禁令管理、安全报告）；紧急 911；校外归 Goodwell 镇与 Texas County 调度；非紧急联系渠道见校园安全页面。",
+      "transit": "Panhandle 偏远，无固定公交；日常步行/自驾；机场接驳以 Liberal（LBL）与 Amarillo（AMA）方向为主，OKC 为远途备选；长途驾驶注意燃油与天气补给。",
+      "rentnote": "校内两栋传统宿舍、公寓套房、附属单元与已婚学生住房；校外房源极少且依赖自驾；身份卡兼作门禁与就餐凭证；租金不列固定数字，以当期房源合同为准。",
+      "link": {
+        "cal": [
+          "https://opsu.b-cdn.net/app/uploads/2025/09/OPSU-Catalog-2025-26-September-29-Corrections.pdf",
+          "Catalog 校历（2025–26 PDF）"
+        ],
+        "ins": [
+          "https://opsu.edu/international-students/frequently-asked-questions/",
+          "国际学生 FAQ"
+        ],
+        "police": [
+          "https://opsu.edu/aggie-life/",
+          "校园生活与安全"
+        ],
+        "housing": [
+          "https://opsu.edu/university-student-housing/",
+          "校内住宿"
+        ],
+        "clinic": [
+          "https://opsu.edu/student-health-services/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://opsu.edu/international-students/frequently-asked-questions/",
+          "国际学生 FAQ（交通）"
+        ]
+      }
+    },
+    "cameron": {
+      "short": "卡梅伦大学",
+      "place": "劳顿 — 2800 West Gore Boulevard, Lawton, OK 73505",
+      "cityKey": "lawton",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "2026 秋（16 周）：8 月 17 日开课，8 月 24 日截止加课，8 月 28 日截止无记录退课与退费，9 月 7 日劳动节，10 月 14 日 16:00 期中成绩截止，10 月 15–16 日秋假，11 月 11 日自动 W 退课截止，11 月 25–27 日感恩节，12 月 7–11 日期末考试，12 月 11 日学期结束，12 月 15 日 16:00 最终成绩截止。2027 春：1 月 11 日开课，1 月 18 日马丁·路德·金日，1 月 19 日截止加课，1 月 25 日截止无记录退课与退费，3 月 10 日期中，3 月 15–19 日春假，4 月 12 日自动 W 截止，5 月 4–7 日期末考试，5 月 7 日学期结束，5 月 8 日毕业典礼，5 月 11 日 16:00 成绩截止。",
+      "fulltime": "F-1 全日制学分；减修、停课或转非全日制须先经国际学生事务与学术顾问批准；学分下限以 Registrar 当期公布为准。",
+      "drop": "无记录退课与退费截止见校历（秋季 8 月 28 日、春季 1 月 25 日）；自动 W 截止秋季 11 月 11 日、春季 4 月 12 日；其余计费周期档位以 Student Accounts 当期条款为准。",
+      "ins1": "国际学生保险要求见 Health Insurance and Immunizations 页面；Oklahoma Statutes Title 70 §3244 要求提交 Hep B、MMR 免疫证明；住校须脑膜炎疫苗；到校后须做结核检测。",
+      "ins2": "保险资格、豁免与替代保单标准以 Health Insurance and Immunizations 页面与 International Student Services 当期说明为准；保单凭证供 Student Wellness Center 核验。",
+      "ins3": "保险与免疫咨询对接 International Student Services；家属加保渠道以当期保险页为准。",
+      "clinic": "Student Wellness Center, North Shepler Room 101, 2800 W. Gore Blvd., Lawton, OK 73505，580-581-6725，StudentWellness@cameron.edu；提供初级保健与健康服务；能力之外转 Lawton 地区医疗机构。",
+      "commute": "主校区 2800 W Gore Blvd, Lawton, OK 73505；另有 Duncan 分校区。Lawton 紧邻 Fort Sill 陆军基地；Lawton–Fort Sill Regional Airport（LAW）在市内，OKC 约 80 英里，DFW 约 160 英里。",
+      "scene": "卡梅伦大学 1908 年创立（初名 Cameron State Agricultural College），是西南俄克拉何马综合公立大学，开设文理、商科、教育、健康与公共服务类项目；校队昵称 Aggies，黑金配色，NCAA 二级 Lone Star Conference。",
+      "safety": "Office of Public Safety；紧急 580-581-2911，非紧急 580-581-2237，校园电话拨 ext-2911；提供免费搭电、充气、开锁等便民服务；校外归 Lawton Police Department（911）；Duncan 校区归 Duncan Police Department。",
+      "transit": "Lawton Area Transit Service（LATS）公交覆盖 Lawton 地区；校区至 LAW 机场可经 Airport Transport Form 申请接送；抵达其他机场的到校交通自行安排。",
+      "rentnote": "校内住宿含 Shepler 宿舍与 Cameron Village 公寓；Housing Office, McMahon Center Office 111, 502 SW University Dr., Lawton, OK 73505；停车位在 Student Accounts 办理；校外房源分布 Lawton 城区；租金不列固定数字，以当期房源合同为准。",
+      "link": {
+        "cal": [
+          "https://www.cameron.edu/academics/calendar",
+          "2026–2027 校历"
+        ],
+        "ins": [
+          "https://www.cameron.edu/admissions/international-student-services/future-international-students/frequently-asked-questions",
+          "国际学生 FAQ"
+        ],
+        "police": [
+          "https://www.cameron.edu/ops/services",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://www.cameron.edu/housing/faq",
+          "住宿 FAQ"
+        ],
+        "clinic": [
+          "https://www.cameron.edu/wellnesscenter/medical-services",
+          "Wellness Center"
+        ],
+        "transit": [
+          "https://www.cameron.edu/admissions/international-student-services/future-international-students/frequently-asked-questions",
+          "国际学生交通说明"
+        ]
+      }
+    },
+    "swosu": {
+      "short": "西南俄克拉何马州立大学",
+      "place": "韦瑟福德 — 100 Campus Drive, Weatherford, OK 73096",
+      "cityKey": "weatherfordok",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "2026 秋：8 月 12 日新生导向，8 月 17 日 8:00 开课，8 月 21 日截止加 16 周课程与第一段 8 周退费退课，8 月 28 日截止 16 周课程/全部退学退费，9 月 7 日劳动节，9 月 25 日第一段 8 周 W 截止，10 月 9 日第一段 8 周结束，10 月 12 日第二段 8 周开始，10 月 14 日 22:00 秋假开始，10 月 19 日 8:00 复课，10 月 30 日 16 周课程 W 截止，11 月 20 日第二段 8 周 W 截止，11 月 24 日 22:00 感恩节假开始，11 月 30 日复课，12 月 2 日须经许可退课，12 月 7–11 日期末考试，12 月 11 日 22:00 学期结束，12 月 11 日 18:00 秋季毕业典礼，12 月 14 日 17:00 成绩截止。2027 春：1 月 11 日 8:00 开课，1 月 15 日截止加 16 周课程与 8 周退费退课，1 月 18 日马丁·路德·金日，1 月 25 日截止 16 周课程/退学退费，2 月 19 日第一段 8 周 W 截止，3 月 5 日第一段 8 周结束，3 月 8 日第二段 8 周开始，3 月 12 日第二段 8 周退费截止与 22:00 春假开始，3 月 22 日复课，3 月 26 日 16 周课程 W 截止，4 月 16 日第二段 8 周 W 截止，4 月 28 日须经许可退课，5 月 3–7 日期末考试，5 月 7 日 22:00 学期结束，5 月 7–8 日毕业典礼，5 月 10 日 17:00 成绩截止。",
+      "fulltime": "F-1 全日制学分；减修、停课或转非全日制须先经 International Student Services 与学术顾问批准；学分下限以 Registrar 当期公布为准。",
+      "drop": "退费截止秋季 8 月 28 日、春季 1 月 25 日；保证 W 截止秋季 10 月 30 日、春季 3 月 26 日；其后退课须经任课教师许可；退费档位以 Student Financial Services 当期条款为准。",
+      "ins1": "SWOSU 要求所有国际学生维持健康保险；学生自动注册学校赞助计划并收取保费。",
+      "ins2": "仅奖学金项目已提供承保的学生可申请豁免；豁免须向 International Student Services 提交保险卡副本。",
+      "ins3": "保险咨询对接 International Student Services；家属加保与牙科/眼科渠道以当期保险页为准。",
+      "clinic": "Hilltop Health 位于 Jerry and Margaret Hodge Center for Pharmacy and Rural Health（东北入口进入），580-774-3776；Student Health Services, 100 Campus Dr., Weatherford, OK 73096；Wellness Center, 1101 N Broadway St，约 72,000 平方英尺，对在校师生免费开放，经理 580-774-3187。",
+      "commute": "主校区 100 Campus Drive, Weatherford, OK 73096；Sayre 分校区在西侧约 60 英里；Weatherford 位于 I-40 沿线，距 Oklahoma City 约 1 小时车程；最近主力机场 OKC Will Rogers（OKC）。",
+      "scene": "SWOSU 1901 年创立，师范起家，药学、护理、教育、商科与健康职业见长；校队昵称 Bulldogs，深蓝与白色配色，NCAA 二级大美国联盟（GAC）；校园设 Hilltop Health 与大型 Wellness Center。",
+      "safety": "SWOSU Campus Police 580-774-3111；与 Weatherford Police Department（580-772-7791）有互助协议；紧急 911；校外归 Weatherford PD 与 Custer County 调度。",
+      "transit": "Weatherford 小镇无成规模公交；日常步行/自驾；沿 I-40 往返 OKC 与 Amarillo 方向；Sayre 校区需长途驾车前往。",
+      "rentnote": "University Housing 面向全日制学生，提供九个月学术学期或三个月夏季学期床位，先到先得；学校不为学生个人财产投保；校外房源在 Weatherford 镇内；SWOSU ID 用于食堂、便利店、赛事与 Wellness Center 准入；租金不列固定数字，以当期房源合同为准。",
+      "link": {
+        "cal": [
+          "https://www.swosu.edu/calendar/files/2026-27-academic-calendar-unofficial.pdf",
+          "2026–2027 校历 PDF"
+        ],
+        "ins": [
+          "https://www.swosu.edu/admissions/international-students/healthcare-insurance.php",
+          "国际学生保险"
+        ],
+        "police": [
+          "https://bulldog.swosu.edu/student-services/campus-police/clery/report-crime.php",
+          "Campus Police"
+        ],
+        "housing": [
+          "https://www.swosu.edu/campus-life/housing/faqs.php",
+          "住宿 FAQ"
+        ],
+        "clinic": [
+          "https://bulldog.swosu.edu/student-services/health-counseling/begin-services-here.php",
+          "健康与咨询服务"
+        ],
+        "transit": [
+          "https://www.swosu.edu/about/campuses.php",
+          "校区分布"
+        ]
+      }
+    },
+    "uwmadison": {
+      "short": "威斯康星大学麦迪逊分校",
+      "place": "麦迪逊 · Madison, WI 53706",
+      "cityKey": "madison",
+      "calShort": "两学期制（Fall/Spring，另设夏季学期）；2026 秋 9 月 2 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）开课；9 月 7 日（周一）劳动节停课；感恩节假 11 月 26–29 日；12 月 9 日（周三）结课；12 月 10 日（周四）学习日；期末考试 12 月 11–17 日；12 月 13 日（周日）毕业典礼；秋季学期 12 月 17 日结束。Spring 2027：1 月 18 日（周一）马丁·路德·金日无常规课；1 月 19 日（周二）开课；春假 3 月 20–28 日；3 月 29 日（周一）复课；5 月 7 日学期结束；5 月 7–8 日毕业典礼。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制注册口径以所属学院与 Registrar 当期规定为准；减修须经学术顾问与国际学生办公室批准。",
+      "drop": "加退课与无 W、带 W 退课截止按各学期 Registrar 校历节点执行；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "F-1/J-1 国际学生、学者及签证家属须持 UW-Madison 核准的健康保险；符合资格者自动加入 Student Health Insurance Plan（SHIP），保单期限跟随 I-20/DS-2019 结束日。",
+      "ins2": "已有符合 SHIP 标准的替代保单者，可向 SHIP Office 提交豁免申请；审核通过后保险费用按流程处理；电子保险卡经承保方会员账户领取。",
+      "ins3": "替代保单须达到处方药、预防保健、孕产覆盖等当期标准；家属加保、自费投保与保险事项咨询 UHS SHIP Office（333 East Campus Mall，608-265-5232）。",
+      "clinic": "University Health Services（UHS）主诊所，333 East Campus Mall, Madison, WI 53715；电话 608-265-5600，邮箱 uhs@uhs.wisc.edu；Lakeshore Drop-in Clinic 位于 Dejope Hall, 640 Elm Drive；提供初级保健、精神健康、预防保健与转诊，校园能力之外转 Madison 周边医疗机构。",
+      "commute": "主校区位于 Madison 市中心偏东、Mendota 湖南岸；自驾经 US-12/14/151 与 I-90/94 衔接；Metro Transit 公交覆盖校区与镇区；校内以步行与校方接驳为主；到 Dane County Regional Airport（MSN）约 15–20 分钟车程量级。",
+      "scene": "威斯康星大学 1848 年建校，公立赠地大学与州内旗舰研究型大学；下设文理、工程、商学、法律、医学、公共卫生、教育、农业与生命科学、社科等学院；工程、医学、商学、法律、社科与文理学科见长；校队 Badgers，参加 NCAA Division I 十大联盟（Big Ten）。",
+      "safety": "UW–Madison Police Department，1429 Monroe Street, Madison, WI 53711；紧急拨 911，非紧急 608-264-2677，邮箱 police@uwpd.wisc.edu；24/7 值守，提供蓝灯电话、护送与安全提醒；校外归 Madison Police Department 与 Dane County 辖区。",
+      "transit": "Metro Transit（City of Madison）固定线路串联校区、镇区与周边；校内有校方接驳；MSN 机场位于城区东北，约 15–20 分钟车程；跨城靠自驾或 Metro 衔接。",
+      "rentnote": "校内宿舍分布 Lakeshore、Southeast 等片区的传统宿舍、套房与研究生公寓；Wiscard 为校园身份、门禁、图书馆与消费卡；校外租房集中在 State Street 以南、Regent Street、Near East Side 等邻里，步行或公交可达，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://secfac.wisc.edu/academic-calendar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.uhs.wisc.edu/ship/international",
+          "国际学生健康保险（SHIP）"
+        ],
+        "police": [
+          "https://uwpd.wisc.edu/",
+          "UW–Madison Police Department"
+        ],
+        "housing": [
+          "https://www.housing.wisc.edu/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.uhs.wisc.edu/",
+          "University Health Services"
+        ],
+        "transit": [
+          "https://www.metrodane.com/",
+          "Metro Transit 城市公交"
+        ]
+      }
+    },
+    "uwmilwaukee": {
+      "short": "威斯康星大学密尔沃基分校",
+      "place": "密尔沃基 · 2400 E. Kenwood Boulevard, Milwaukee, WI 53211",
+      "cityKey": "milwaukee",
+      "calShort": "两学期制（Fall/Spring，另设 Winterim 与夏季学期）；2026 秋 9 月 2 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）开课；秋季学期 12 月 23 日结束；12 月 20 日秋季毕业典礼。Winterim 2026-27：1 月 4–21 日。Spring 2027：1 月 25 日（周一）开课；春假 3 月 21–28 日；5 月 21 日学期结束；5 月 16 日春季毕业典礼。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制注册口径以所属学院与 Registrar 当期规定为准；减修须经国际学生办公室与学术顾问批准。",
+      "drop": "加退课与无 W、带 W 退课截止按 Registrar 校历节点执行；退费档位与退课口径以 Student Financial Services 当期条款为准。",
+      "ins1": "UW System 要求 F-1/J-1 国际学生持有健康保险；符合资格者参加学校国际学生保险计划并自动计入学生账户；承保方、福利与费率以当期保险说明为准。",
+      "ins2": "持有可比合格保单者可按学期申请豁免；豁免审核通过后保险费用按流程处理；电子保险卡经承保方会员账户领取。",
+      "ins3": "替代保单标准、家属加保与自费投保咨询国际学生办公室；门诊健康问题对接 Student Health and Wellness Center。",
+      "clinic": "Student Health and Wellness Center（SHAC），Northwest Quadrant D, Floors 7–8, 2025 E. Newport Ave., Milwaukee, WI 53211；电话 414-229-7429，邮箱 wellness-info@uwm.edu；心理咨询服务同楼；提供初级保健、咨询与转诊。",
+      "commute": "主校区位于 Milwaukee 东侧住宅区，距密歇根湖岸约五个街区，距 downtown 车程 10 分钟以内；MCTS 公交到校；校区分 central、north、west、northwest 四片区；到 Milwaukee Mitchell International Airport（MKE）约 20–30 分钟车程量级。",
+      "scene": "UW-Milwaukee 1956 年建制（院校渊源可溯至 1885 年），Carnegie 最高研究活动类大学；工程与应用科学、商学、教育、信息研究、公共卫生、淡水科学、建筑与电影等见长；校队 Panthers，参加 NCAA Division I Horizon League。",
+      "safety": "UWM University Police；紧急 414-229-9911，非紧急 414-229-4627；24/7 值守；校外归 Milwaukee Police Department 辖区。",
+      "transit": "Milwaukee County Transit System（MCTS）市区公交覆盖校区、downtown 与湖滨；MKE 机场在城南，约 20–30 分钟车程量级；I-43/I-94 衔接 Madison 与 Chicago 方向。",
+      "rentnote": "校内五栋传统宿舍与公寓式住宿沿 Kenwood/Newport 片区分配；PantherCard 为身份、门禁、就餐与消费卡；校外住房在东侧住宅区、Riverwest 等邻里，依赖 MCTS 或步行，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://uwm.edu/registrar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://uwm.edu/international-students/",
+          "国际学生事务"
+        ],
+        "police": [
+          "https://uwm.edu/police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://uwm.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://uwm.edu/wellness/",
+          "Student Health and Wellness Center"
+        ],
+        "transit": [
+          "https://www.ridemcts.com/",
+          "MCTS 城市公交"
+        ]
+      }
+    },
+    "uwmilwaukeeflex": {
+      "short": "威斯康星大学密尔沃基分校 Flex",
+      "place": "密尔沃基 · 2400 E. Kenwood Boulevard, Milwaukee, WI 53211（合作校区口径）",
+      "cityKey": "milwaukee",
+      "calShort": "胜任力本位线上项目；每月 1 个订阅期（每月第 1 或第 2 个周二开始，每期 81 个教学日约 12 周），无传统春秋学期。",
+      "calendar": "按 UW Flexible Option 订阅周期运行：每年 12 次开班，每期 81 个教学日（约 12 周）；学生通过一系列考核证明胜任力后推进课程，不按固定课时排课；毕业时间由个人进度决定，学位节点以合作校区 Registrar 口径为准。",
+      "fulltime": "线上胜任力本位注册口径，不按传统学期全日制学分计算；Flex 路径本身不按面授 F-1 身份注册，I-20 与全日制身份以转入的线下主校区项目口径为准（以国际学生办公室当期说明为准）。",
+      "drop": "退订、停学与费用按订阅周期与当期学费条款办理；传统意义上的加退课、无 W/带 W 截止不适用，学术政策以 Flex 当期页面为准。",
+      "ins1": "面向成人学习者的线上学位路径；健康保险义务按学生身份与就读校区口径处理；同时注册 UWM 主校区线下项目者按 UWM 保险要求执行。",
+      "ins2": "保险凭证与豁免经就读校区国际学生办公室办理；纯线上自学者的保险安排以个人情况与当期页面为准。",
+      "ins3": "项目咨询、学分认定与入学经 Flex Admissions Office；家属与保险事项对接合作校区办公室。",
+      "clinic": "线上项目不设专属线下门诊；UWM 校区 Student Health and Wellness Center（2025 E. Newport Ave. D 座 7–8 层，414-229-7429）服务于在主校区注册的学生；远程健康资源经 Flex 学生门户提供。",
+      "commute": "项目 100% 线上，无固定到校要求；办公与合作校区位于 Milwaukee 东侧 2400 E. Kenwood Blvd 片区；面授或线下活动按当期安排，到 MKE 机场量级同 UWM 主校区页面。",
+      "scene": "UW Flexible Option 由 Universities of Wisconsin 在线项目办公室管理，UWM 为合作授位校区之一；面向有学分基础或职业经验的在职成人，提供健康科学、商业、信息技术等方向的在线学位与证书；学位证书由合作校区授予。",
+      "safety": "线上项目无专属校警；涉及合作校区线下活动时按 UWM University Police（紧急 414-229-9911，非紧急 414-229-4627）与 Milwaukee Police Department 辖区口径。",
+      "transit": "日常学习不依赖城市交通；如到 Milwaukee 校区，MCTS 公交与 MKE 机场口径同主校区页面。",
+      "rentnote": "线上路径不提供住校床位；如转入或同时注册 UWM 主校区线下项目，住宿与 PantherCard 口径按主校区页面；自行安排居住地，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://flex.wisconsin.edu/",
+          "Flex 订阅周期与项目入口"
+        ],
+        "ins": [
+          "https://flex.wisconsin.edu/admissions-office/",
+          "Flex 招生与学生事务"
+        ],
+        "police": [
+          "https://uwm.edu/police/",
+          "合作校区 University Police"
+        ],
+        "housing": [
+          "https://uwm.edu/housing/",
+          "合作校区住宿口径"
+        ],
+        "clinic": [
+          "https://uwm.edu/wellness/",
+          "合作校区 SHAC"
+        ],
+        "transit": [
+          "https://www.ridemcts.com/",
+          "MCTS 城市公交"
+        ]
+      }
+    },
+    "uwparkside": {
+      "short": "威斯康星大学帕克塞德分校",
+      "place": "基诺沙 · 9000 Penna Road, Kenosha, WI 53141",
+      "cityKey": "kenosha",
+      "calShort": "两学期制（Fall/Spring，另设 Winterim）；2026 秋 9 月 1 日开课，2027 春 1 月 26 日开课。",
+      "calendar": "Fall 2026：9 月 1 日（周二）开课；秋季学期 12 月 11 日结束；12 月 12 日秋季毕业典礼。Winterim 2026-27：1 月 4–25 日。Spring 2027：1 月 26 日（周二）开课；春假 3 月 22–28 日；5 月 14 日学期结束；5 月 15 日春季毕业典礼。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制注册口径以所属学院与 Registrar 当期规定为准；减修须经国际学生办公室与学术顾问批准。",
+      "drop": "加退课与无 W、带 W 退课截止按 Registrar 校历节点执行；退费档位与退课口径以 Student Financial Services 当期条款为准。",
+      "ins1": "UW System 要求 F-1/J-1 国际学生持有健康保险；符合资格者参加学校国际学生保险计划并自动计入学生账户；承保方与费率以当期保险说明为准。",
+      "ins2": "持有可比合格保单者可按学期申请豁免；电子保险卡经承保方会员账户领取，凭证供 SHCC 核验。",
+      "ins3": "替代保单标准、家属加保与自费投保咨询国际学生办公室与 SHCC。",
+      "clinic": "Student Health and Counseling Center（SHCC），毗邻 Tallent Hall；电话 262-595-2366，邮箱 shcc@uwp.edu；提供初级保健、心理咨询与转诊；咨询与常规就诊免收费用，化验、疫苗、药品与耗材收少量费用。",
+      "commute": "校区位于 Kenosha 西南 Wood Road/Penna Road 一带，处 Milwaukee 与 Chicago 之间走廊；自驾经 I-94；Kenosha Area Transit 公交衔接；距 MKE 约 30–45 分钟、距 ORD 约 1 小时车程量级。",
+      "scene": "UW-Parkside 1968 年 7 月 1 日正式建制，服务 Kenosha-Racine 走廊；文理、商学、护理、教育、自然科学与社会科学见长；校队 Rangers，参加 NCAA Division II GLIAC。",
+      "safety": "UW-Parkside University Police，Tallent Hall 188；紧急 262-595-2911，非紧急 262-595-2455，邮箱 police@uwp.edu；校外归 Kenosha Police Department 与 Kenosha County 辖区。",
+      "transit": "Kenosha Area Transit（KAT）固定线路衔接校区、downtown 与 Metra 站；跨城靠 I-94 自驾或 Metra/城际巴士；MKE 与 ORD 为主要机场。",
+      "rentnote": "校内 Ranger Hall 传统宿舍与大学公寓按申请与住校要求分配；Ranger Card 为身份、就餐、打印与门禁卡；校外租房在 Kenosha 城区与周边邻里，依赖 KAT 或自驾，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uwp.edu/live/offices/registrarsoffice/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.uwp.edu/live/offices/studenthealth/",
+          "Student Health & Counseling"
+        ],
+        "police": [
+          "https://www.uwp.edu/live/offices/universitypolice/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.uwp.edu/live/offices/residencelife/",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://www.uwp.edu/live/offices/studenthealth/",
+          "Student Health & Counseling Center"
+        ],
+        "transit": [
+          "https://www.kenosha.org/government/departments/transit/",
+          "Kenosha Area Transit"
+        ]
+      }
+    },
+    "uwparksideflex": {
+      "short": "威斯康星大学帕克塞德分校 Flex",
+      "place": "基诺沙 · 9000 Penna Road, Kenosha, WI 53141（合作校区口径）",
+      "cityKey": "kenosha",
+      "calShort": "胜任力本位线上项目；每月 1 个订阅期（每月第 1 或第 2 个周二开始，每期 81 个教学日约 12 周），无传统春秋学期。",
+      "calendar": "按 UW Flexible Option 订阅周期运行：每年 12 次开班，每期 81 个教学日（约 12 周）；学生通过考核证明胜任力后推进课程；商业管理（BSBA）等方向可衔接社区学院副学士学位转入；毕业时间由个人进度决定。",
+      "fulltime": "线上胜任力本位注册口径，不按传统学期全日制学分计算；Flex 路径本身不按面授 F-1 身份注册，I-20 与全日制身份以转入的线下主校区项目口径为准。",
+      "drop": "退订、停学与费用按订阅周期与当期学费条款办理；传统加退课与 W 截止不适用，学术政策以 Flex 当期页面为准。",
+      "ins1": "面向成人学习者的线上学位路径；健康保险义务按学生身份与就读校区口径处理；同时注册 Parkside 主校区线下项目者按学校保险要求执行。",
+      "ins2": "保险凭证与豁免经就读校区国际学生办公室办理；纯线上自学者的保险安排以个人情况与当期页面为准。",
+      "ins3": "项目咨询、学分认定与入学经 Flex Admissions Office；家属与保险事项对接合作校区办公室。",
+      "clinic": "线上项目不设专属线下门诊；Parkside 校区 SHCC（毗邻 Tallent Hall，262-595-2366，shcc@uwp.edu）服务于在主校区注册的学生；远程健康资源经 Flex 学生门户提供。",
+      "commute": "项目 100% 线上，无固定到校要求；合作校区位于 Kenosha 西南 Penna Road 片区；面授或线下活动按当期安排，到 MKE/ORD 机场量级同 Parkside 主校区页面。",
+      "scene": "UW Flexible Option 由 Universities of Wisconsin 在线项目办公室管理，UW-Parkside 为合作授位校区之一；面向有学分基础或职业经验的在职成人，提供商业管理等方向在线学位；学位证书由合作校区授予。",
+      "safety": "线上项目无专属校警；涉及合作校区线下活动时按 UW-Parkside University Police（紧急 262-595-2911，非紧急 262-595-2455）与 Kenosha Police Department 辖区口径。",
+      "transit": "日常学习不依赖城市交通；如到 Kenosha 校区，KAT 公交与 MKE/ORD 机场口径同主校区页面。",
+      "rentnote": "线上路径不提供住校床位；如转入或同时注册 Parkside 主校区线下项目，住宿与 Ranger Card 口径按主校区页面；自行安排居住地，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://flex.wisconsin.edu/",
+          "Flex 订阅周期与项目入口"
+        ],
+        "ins": [
+          "https://flex.wisconsin.edu/admissions-office/",
+          "Flex 招生与学生事务"
+        ],
+        "police": [
+          "https://www.uwp.edu/live/offices/universitypolice/",
+          "合作校区 University Police"
+        ],
+        "housing": [
+          "https://www.uwp.edu/live/offices/residencelife/",
+          "合作校区住宿口径"
+        ],
+        "clinic": [
+          "https://www.uwp.edu/live/offices/studenthealth/",
+          "合作校区 SHCC"
+        ],
+        "transit": [
+          "https://www.kenosha.org/government/departments/transit/",
+          "Kenosha Area Transit"
+        ]
+      }
+    },
+    "uwgb": {
+      "short": "威斯康星大学绿湾分校",
+      "place": "绿湾 · 2420 Nicolet Drive, Green Bay, WI 54311",
+      "cityKey": "greenbay",
+      "calShort": "两学期制（Fall/Spring，另设 Winterim）；2026 秋 9 月 2 日开课，2027 春 1 月 24 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）开课；秋季学期 12 月 15 日结束；12 月 19 日秋季毕业典礼。Winterim 2026-27：1 月 4–22 日。Spring 2027：1 月 24 日（周日）开课；春假 3 月 16–22 日；5 月 14 日学期结束；5 月 15 日春季毕业典礼。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制注册口径以所属学院与 Registrar 当期规定为准；减修须经国际学生办公室与学术顾问批准。",
+      "drop": "加退课与无 W、带 W 退课截止按 Registrar 校历节点执行；退费档位与退课口径按课程长度与交易日期对应当期规则。",
+      "ins1": "UW System 要求 F-1/J-1 国际学生持有健康保险；符合资格者参加学校国际学生保险计划并自动计入学生账户；承保方与费率以当期保险说明为准。",
+      "ins2": "持有可比合格保单者可按学期申请豁免；电子保险卡经承保方会员账户领取，凭证供 Wellness Center 核验。",
+      "ins3": "替代保单标准、家属加保与自费投保咨询国际学生办公室与 Wellness Center。",
+      "clinic": "Wellness Center，Student Services Room 1400, 2420 Nicolet Drive, Green Bay, WI 54311；电话 920-465-2380；提供医疗、心理咨询、健康促进与转诊；部分服务对注册学生免收或收取低费用。",
+      "commute": "主校区位于 Green Bay 城北 Nicolet Drive 一带，林地与湖湾相邻；自驾经 US-41/141 与 I-43 衔接；Green Bay Metro 公交到校；到 Austin Straubel International Airport（GRB）约 15–20 分钟车程量级。",
+      "scene": "UW-Green Bay 1965 年建校；环境科学、商业、护理、教育、社会科学与通识教育见长；校队 Phoenix，参加 NCAA Division I Horizon League。",
+      "safety": "UW-Green Bay Police，2370 Instructional Services Ct；紧急拨 911，非紧急 920-465-2300；24/7 巡逻与 GB Alert 警报系统；校外归 Green Bay Police Department 与 Brown County 辖区。",
+      "transit": "Green Bay Metro 固定线路覆盖城区、校区与周边市镇；GRB 机场在城东北约 15–20 分钟车程；ATW（Appleton）为备选枢纽。",
+      "rentnote": "校内宿舍集中 Hendrickson Community Center 片区；University ID Card 兼作门禁、图书馆与 Phlash Cash 消费卡；校外租房在 Green Bay 城区与周边社区，依赖 Metro 或自驾，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uwgb.edu/registrar/calendars/academic-calendar-2026-2027/",
+          "Registrar 校历 2026-27"
+        ],
+        "ins": [
+          "https://www.uwgb.edu/wellness-center/",
+          "Wellness Center 健康服务"
+        ],
+        "police": [
+          "https://www.uwgb.edu/public-safety/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.uwgb.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.uwgb.edu/wellness-center/medical/",
+          "Wellness Center 医疗服务"
+        ],
+        "transit": [
+          "https://greenbaymetro.org/",
+          "Green Bay Metro 公交"
+        ]
+      }
+    },
+    "uwoshkosh": {
+      "short": "威斯康星大学奥什科什分校",
+      "place": "奥什科什 · 800 Algoma Boulevard, Oshkosh, WI 54901",
+      "cityKey": "oshkosh",
+      "calShort": "两学期制（Fall/Spring，另设 Winterim）；2026 秋 9 月 9 日开课，2027 春 2 月 1 日开课。",
+      "calendar": "Fall 2026：9 月 9 日（周三）开课；秋季学期 12 月 18 日结束；12 月 19 日秋季毕业典礼。Winterim 2026-27：1 月 4–22 日。Spring 2027：2 月 1 日（周一）开课；春假 3 月 21–28 日；5 月 14 日学期结束；5 月 15 日春季毕业典礼。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制注册口径以所属学院与 Registrar 当期规定为准；减修须经国际学生办公室与学术顾问批准。",
+      "drop": "加退课与无 W、带 W 退课截止按 Registrar 校历节点执行；退费档位与退课口径以 Student Financial Services 当期条款为准。",
+      "ins1": "UW System 要求 F-1/J-1 国际学生持有健康保险；符合资格者参加学校国际学生保险计划并自动计入学生账户；承保方与费率以当期保险说明为准。",
+      "ins2": "持有可比合格保单者可按学期申请豁免；电子保险卡经承保方会员账户领取，凭证供 Student Health Center 核验。",
+      "ins3": "替代保单标准、家属加保与自费投保咨询国际学生办公室与 Student Health Center。",
+      "clinic": "Student Health Center，Radford Hall 一层, 777 Algoma Boulevard, Oshkosh, WI 54901；电话 920-424-2424，邮箱 studenthealth@uwosh.edu；Counseling Center 在 Student Success Center Suite 240, 750 Elmwood Ave.，920-424-2061；提供初级保健、心理咨询与转诊。",
+      "commute": "主校区沿 Algoma Boulevard 与 Elmwood Avenue 片区，近 Lake Winnebago；自驾经 US-41/45 与 I-41 衔接；GO Transit 城区公交到校；到 Appleton International Airport（ATW）约 30–40 分钟车程量级。",
+      "scene": "UW-Oshkosh 1871 年建校；教育、商业、护理、工程、司法与社会科学见长；校队 Titans，参加 NCAA Division III WIAC。",
+      "safety": "UW-Oshkosh Police Department，738 High Ave., Oshkosh, WI 54901；紧急拨 911，非紧急 920-424-1212；24/7/365 值守；校外归 Oshkosh Police Department 与 Winnebago County 辖区。",
+      "transit": "GO Transit 城区公交衔接校区、downtown 与周边；ATW 机场东向约 30–40 分钟；OSH（Wittman Regional）为通用航空机场；MKE 南向约 1.5 小时量级。",
+      "rentnote": "校内传统宿舍分布校区周边（Donner、Evans、Stewart、South Scott 等）；TitanCard 为身份、门禁、就餐与消费卡；校外租房在 Oshkosh 城区，依赖 GO Transit 或自驾，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uwosh.edu/registrar",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.uwosh.edu/studenthealth",
+          "Student Health Center"
+        ],
+        "police": [
+          "https://www.uwosh.edu/police",
+          "UW-Oshkosh Police"
+        ],
+        "housing": [
+          "https://www.uwosh.edu/housing",
+          "Residence Life 住宿"
+        ],
+        "clinic": [
+          "https://www.uwosh.edu/studenthealth",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.ci.oshkosh.wi.us/transit",
+          "GO Transit 城市公交"
+        ]
+      }
+    },
+    "uwstout": {
+      "short": "威斯康星大学斯托特分校",
+      "place": "梅诺莫尼 · Menomonie, WI 54751",
+      "cityKey": "menomonie",
+      "calShort": "两学期制（Fall/Spring，另设 Winterim）；2026 秋 9 月 2 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）开课；秋季学期 12 月 18 日结束；12 月 19 日秋季毕业典礼。Winterim 2026-27：1 月 4–23 日。Spring 2027：1 月 25 日（周一）开课；春假 3 月 13–21 日；5 月 14 日学期结束；5 月 15 日春季毕业典礼。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制注册口径以所属学院与 Registration and Records 当期规定为准；减修须经国际教育办公室与学术顾问批准。",
+      "drop": "加退课与无 W、带 W 退课截止按校历节点执行；退费档位与退课口径以 Student Financial Services 当期条款为准。",
+      "ins1": "UW System 要求 F-1/J-1 国际学生持有健康保险；符合资格者参加学校国际学生保险计划并自动计入学生账户；承保方与费率以当期保险说明为准。",
+      "ins2": "持有可比合格保单者可按学期申请豁免；电子保险卡经承保方会员账户领取，凭证经 Student Health Services 核验。",
+      "ins3": "替代保单标准、家属加保与自费投保咨询国际教育办公室与 Health Services。",
+      "clinic": "Student Health Services，103 1st Avenue West, Menomonie, WI 54751；电话 715-232-1314；Polytechnic Student Counseling Center，410 Bowman Hall, 802 Broadway St. S.，715-232-2468（8:00–16:30，面询与远程结合）；提供初级保健、心理咨询与转诊。",
+      "commute": "主校区在 Menomonie 镇内，Broadway Street 与 10th Avenue 一带；自驾经 US-12/29 与 I-94 衔接；Dunn County Transit 覆盖镇内与校区；到 Minneapolis-St. Paul（MSP）约 1.5 小时车程量级。",
+      "scene": "UW-Stout 1891 年建校，是 UW System 内的理工（polytechnic）大学；设计、工程技术、职业与商业、酒店旅游、纺织与食品科学见长；校队 Blue Devils，参加 NCAA Division III WIAC。",
+      "safety": "UW-Stout University Police，110 University Services, 817 South Broadway Street, Menomonie, WI 54751；紧急拨 911，非紧急 715-232-2222，邮箱 police@uwstout.edu；警员 24 小时值守，办公室 M–F 7:45–16:30；校外归 Menomonie Police Department 与 Dunn County 辖区。",
+      "transit": "Dunn County Transit 固定线路与预约响应公交覆盖镇内与校区；跨城靠自驾；MSP 南向约 1.5 小时，EAU（Eau Claire 支线）就近约 30–40 分钟车程量级。",
+      "rentnote": "校内宿舍沿 Price Commons/Broadway 片区分配；校园身份卡兼作门禁与就餐凭证；校外房源集中 Menomonie 镇内，公共交通有限，通勤多步行或自驾，租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uwstout.edu/registration-records",
+          "Registration and Records 校历"
+        ],
+        "ins": [
+          "https://www.uwstout.edu/student-health-services",
+          "Student Health Services"
+        ],
+        "police": [
+          "https://www.uwstout.edu/police",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.uwstout.edu/housing",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://www.uwstout.edu/student-health-services",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.dunncountywi.gov/government/departments/dunn-county-transit/",
+          "Dunn County Transit"
+        ]
+      }
+    },
+    "uwec": {
+      "short": "威斯康星大学欧克莱尔分校",
+      "place": "欧克莱尔 · 105 Garfield Avenue, Eau Claire, WI 54701",
+      "cityKey": "eauclaire",
+      "calShort": "两学期制；2026 秋 9 月 2 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）开课；9 月 7 日劳动节停课；11 月 26 日感恩节假（假期窗口以校历公布为准）；12 月 19 日毕业典礼；12 月 21 日学期结束。Winterim 2026/12/21–2027/1/22；Spring 2027：1 月 25 日（周一）开课；3 月 15–19 日春假；5 月 14 日学期结束，5 月 15 日毕业典礼。加退课、无 W 与带 W 退课截止日以 Registrar 当期校历为准。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生事务办公室与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课的具体截止日以 Registrar 当期校历与 Bursar 退费条款为准；改退课在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "持 F-1/J-1 等签证的国际学生须持合格健康保险；按 UW System 行政政策 147，学校为国际学生注册 UW System 国际学生健康保险计划，保费计入学生账户；计划福利、免赔额与家属附加口径以当期保险页为准。",
+      "ins2": "持有可比合格保单者按当期保险页公布的窗口提交豁免申请；凭证与保险卡经保险商门户或学生账户领取，学期初供 Student Health Service 核验；豁免资格以国际学生事务办公室当期审核为准。",
+      "ins3": "保险资格、豁免与家属加保咨询国际学生事务办公室；门诊健康问题对接 Student Health Service；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Service：Crest Wellness Center 内，电话 715-836-5360；Counseling Services 电话 715-836-5521；提供初级保健、疫苗、咨询与转诊；校园能力之外转 Eau Claire 地区医疗机构。",
+      "commute": "主校区 105 Garfield Avenue, Eau Claire, WI 54701；上下校区沿 Water Street 与 upper campus 分布；最近商用机场为 Chippewa Valley Regional Airport（EAU）；远途枢纽为 Minneapolis-St. Paul（MSP）方向。",
+      "scene": "1916 年创立，初名 Eau Claire State Normal School；UW 系统公立四年制分校，上下校区沿 Chippewa River 分布；学科覆盖文理、商科、教育、护理、健康与公共事务等；校队 Blugolds，参加 NCAA Division III（WIAC）。",
+      "safety": "UW-Eau Claire Police：119 Crest Wellness Center，邮政地址 105 Garfield Avenue, PO Box 4004 CWC119；非紧急 715-839-4972，邮箱 police@uwec.edu；紧急拨 911；校警值守并提供夜间护送与蓝灯紧急电话；校园边界外归 Eau Claire 市警察局与 Eau Claire County 辖区。",
+      "transit": "Eau Claire Transit：9 路 UWEC Lower Campus、19 路 UWEC Upper Campus，凭 Blugold ID 免费乘车；停课期间执行缩减班次；远途出行靠自驾或城际巴士。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源集中在镇区与校园周边公寓；Blugold ID 兼作门禁、就餐与乘车凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.uwec.edu/uwec/",
+          "校历（Catalog）"
+        ],
+        "ins": [
+          "https://www.uwec.edu/apply/international-students",
+          "国际学生事务"
+        ],
+        "police": [
+          "https://www.uwec.edu/offices-services/uw-eau-claire-police/about-uw-eau-claire-police",
+          "UW-Eau Claire Police"
+        ],
+        "housing": [
+          "https://www.uwec.edu/housing",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.uwec.edu/offices-services/student-health-service",
+          "Student Health Service"
+        ],
+        "transit": [
+          "https://www.uwec.edu/blugold-central/parking/other-transportation-information/",
+          "校区周边交通"
+        ]
+      }
+    },
+    "uwlax": {
+      "short": "威斯康星大学拉克罗斯分校",
+      "place": "拉克罗斯 · 1725 State Street, La Crosse, WI 54601",
+      "cityKey": "lacrosse",
+      "calShort": "两学期制；2026 秋 9 月 8 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：9 月 8 日（周二）开课；9 月 7 日劳动节停课；11 月 25–29 日感恩节假，11 月 30 日复课；12 月 16 日结课；12 月 17–22 日期末考试；12 月 20 日毕业典礼；12 月 22 日学期结束。Winterim 2026/12/21–2027/1/22；Spring 2027：1 月 25 日（周一）开课；3 月 12 日 17:30 起至 3 月 22 日 7:45 春假；5 月 14 日学期结束，5 月 16 日毕业典礼。加退课与带 W 退课截止日以 Records & Registration 当期校历为准。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际招生办公室与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课的具体截止日以 Registrar 当期校历与 Student Accounts 退费条款为准；改退课在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "持 F-1/J-1 等签证的国际学生须持合格健康保险；按 UW System 行政政策 147，学校为国际学生注册 UW System 国际学生健康保险政策，保费计入学生账单；计划福利、免赔额与家属附加口径以当期保险说明为准。",
+      "ins2": "持有可比合格保单者按当期公布的资格与窗口提交豁免；保险卡与保单凭证经保险商门户领取，学期初供 Student Health Center 核验；豁免结果以国际招生办公室当期审核为准。",
+      "ins3": "保险资格、豁免与家属加保咨询国际招生办公室（intladmissions@uwlax.edu）；门诊健康问题对接 Student Health Center；家属投保渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center：Health Science Center 一层（13th 与 Badger Street 一带），电话 608-785-8558，春秋学期周一至周五 8:00–16:00；Counseling and Testing Center 电话 608-785-8073 转 2；超出校园能力转 La Crosse 地区医疗机构（含 Mayo Clinic Health System 本地网络）。",
+      "commute": "主校区 1725 State Street, La Crosse, WI 54601；校园在密西西比河与 La Crosse River 之间的崖壁地带；最近商用机场为 La Crosse Regional Airport（LSE）；远途枢纽为 MSP 与 Chicago 方向。",
+      "scene": "1909 年开学，初名 La Crosse Normal School；UW 系统公立四年制分校，校园位于密西西比河崖壁地带；健康职业（物理治疗、作业治疗、医师助理、护理等）、商科、教育与文理见长；校队 Eagles，参加 NCAA Division III（WIAC）。",
+      "safety": "UW-La Crosse Police Department：605 17th St N（与停车管理同楼）；紧急响应 608-789-9999，非紧急 608-789-9000；Dispatch Center 24 小时值守，校内设蓝灯紧急电话；校园边界外归 La Crosse 市警察局（非紧急 608-782-7575）与 La Crosse County 调度。",
+      "transit": "La Crosse MTU 公交连接校园、downtown 与河滨一带；具体线路与时刻以 MTU 当期公布为准；小镇步行尺度适中，夜间出行结伴或联系校警。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源集中在镇区与河滨方向；身份卡兼作门禁、就餐与乘车凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uwlax.edu/records/",
+          "Records & Registration 校历"
+        ],
+        "ins": [
+          "https://www.uwlax.edu/admissions/",
+          "国际学生招生"
+        ],
+        "police": [
+          "https://www.uwlax.edu/police/faq/",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.uwlax.edu/reslife/",
+          "Residence Life 住宿"
+        ],
+        "clinic": [
+          "https://www.uwlax.edu/student-health-center/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.uwlax.edu/parking/",
+          "停车与交通"
+        ]
+      }
+    },
+    "uwplatteville": {
+      "short": "威斯康星大学普拉特维尔分校",
+      "place": "普拉特维尔 · 1 University Plaza, Platteville, WI 53818",
+      "cityKey": "platteville",
+      "calShort": "两学期制；2026 秋 9 月 2 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）开课；9 月 7 日劳动节停课；11 月 26 日感恩节假；12 月 12 日毕业典礼；12 月 18 日学期结束。Winterim 2027/1/4–1/21；Spring 2027：1 月 25 日（周一）开课；3 月 20–29 日春假；5 月 15 日毕业典礼；5 月 21 日学期结束。加退课与退课截止日以 Registrar 校历与 PASS Portal 当期公告为准。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 International Student & Scholar Services 与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课的具体截止日以 Registrar 当期校历与 Student Accounts 退费条款为准；改退课在 PASS 门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "国际学生须参加学校团体健康保险计划，保费计入学生账单；除沙特阿拉伯、科威特政府奖学金赞助学生外，无其他自动豁免类别；计划福利、免赔额与家属附加口径以当期保险说明为准。",
+      "ins2": "符合豁免资格的政府赞助学生按 ISSS 当期公布的流程提交凭证；保险卡与保单凭证经学生账户或保险商门户领取，学期初供 Student Health Services 核验；其余国别替代保单标准以 ISSS 当期公布为准。",
+      "ins3": "保险资格、豁免与家属加保咨询 International Student & Scholar Services（608.342.1726，isss@uwplatt.edu，工作日 8:00–16:30）；门诊健康问题对接 Student Health Services；家属投保渠道以当期保险页说明为准。",
+      "clinic": "Student Health Services：216 Royce Hall，电话 608-342-1891；University Counseling Services：220 Royce Hall，电话 608-342-1865；急症转诊 Southwest Health（1400 Eastside Road, Platteville，608-348-2331）。",
+      "commute": "主校区 1 University Plaza, Platteville, WI 53818；西南 WI 丘陵地带，临近 Iowa 边境；最近支线机场为 Dubuque Regional Airport（DBQ，IA）方向；Madison（MSN）与 Chicago（ORD）为远途枢纽。",
+      "scene": "1866 年创立，初名 Platteville Normal School；UW 系统公立四年制分校；工程、计算机、刑事司法、农业与商科见长；校队 Pioneers，参加 NCAA Division III（WIAC）。",
+      "safety": "UW-Platteville University Police：101 Royce Hall，非紧急 608-342-1584，邮箱 police@uwplatt.edu；紧急拨 911；工作日 8:00–16:00 有办公值守，紧急情况走 911 调度；校园边界外归 Platteville 市警察局（非紧急 608-348-2313）与 Grant County 辖区。",
+      "transit": "Platteville Public Transportation 镇内公交服务校园与镇区；班次有限，日常出行多步行或自驾；远途靠自驾或 DBQ/MSN 机场衔接。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源集中在镇区公寓与住宅；身份卡兼作门禁、就餐与乘车凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://portal.uwplatt.edu/academic-calendar",
+          "Pioneer Portal 校历"
+        ],
+        "ins": [
+          "https://www.uwplatt.edu/department/international-student-scholar-services/student-information",
+          "ISSS 学生信息"
+        ],
+        "police": [
+          "https://www.uwplatt.edu/department/crime-security",
+          "Crime Prevention and Security"
+        ],
+        "housing": [
+          "https://www.uwplatt.edu/department/residence-life",
+          "Residence Life 住宿"
+        ],
+        "clinic": [
+          "https://www.uwplatt.edu/department/student-health-services",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.uwplatt.edu/",
+          "校园信息门户"
+        ]
+      }
+    },
+    "uwrf": {
+      "short": "威斯康星大学河瀑分校",
+      "place": "河瀑 · 410 South Third Street, River Falls, WI 54022",
+      "cityKey": "riverfalls",
+      "calShort": "两学期制（含 J-Term）；2026 秋 9 月 2 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）开课；9 月 7 日劳动节停课；9 月 9 日无导师签字加退课截止；9 月 23 日无 W 退课截止；11 月 26 日感恩节假；12 月 19 日毕业典礼；12 月 22 日学期结束。J-Term 2026/12/23–2027/1/23；Spring 2027：1 月 25 日（周一）开课；3 月 15–21 日春假；5 月 8 日毕业典礼；5 月 13 日学期结束。带 W 退课截止与退费档位以 Registrar 当期校历为准。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 International Student Services 与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课截止 9 月 23 日；带 W 退课截止与退费档位以 Registrar 当期校历与 Student Financial Services 条款为准；改退课在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "持 F-1/J-1 等签证的国际学生须参加 University of Wisconsin System Student Health Insurance Plan，保费计入学生账户；计划福利、免赔额与家属附加口径以当期保险说明为准。",
+      "ins2": "持有可比合格保单者按当期保险页公布的资格与窗口提交豁免；保险卡与保单凭证经保险商门户领取，学期初供 Student Health Services 核验；豁免结果以 International Student Services 当期审核为准。",
+      "ins3": "保险资格、豁免与家属加保咨询 International Student Services；门诊健康问题对接 Student Health Services；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Services：电话 715-425-3293；Counseling Services 电话 715-425-3884；门诊安排经 Dean of Students 办公区（235 Rodli Hall，715-425-0720）渠道对接；超出校园能力转 River Falls 与 Twin Cities 方向医疗机构。",
+      "commute": "主校区 410 South Third Street, River Falls, WI 54022；St. Croix River 畔，I-94 走廊连接 Twin Cities；距 Minneapolis-St. Paul 国际机场（MSP）约 30–40 英里、车程约半小时量级，为最近枢纽。",
+      "scene": "1874 年创立，为威斯康星州第四所州立师范学校；UW 系统公立四年制分校；农业、教育、商科、文理与科学见长；校队 Falcons，参加 NCAA Division III（WIAC）。",
+      "safety": "UWRF University Police：103 Regional Development Institute，电话 715-425-3133，邮箱 police@uwrf.edu；紧急拨 911；校园边界外归 River Falls 市警察局（非紧急 715-425-0909）与 St. Croix County 辖区。",
+      "transit": "镇内公共交通有限，校园步行圈；跨州通勤 Twin Cities 沿 I-94 自驾或乘通勤巴士；冬季路面积雪预留行车时间。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源集中在镇区公寓与住宅；身份卡兼作门禁、就餐与乘车凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://students.uwrf.edu/registrar/academic-calendar",
+          "Academic Calendar（Registrar）"
+        ],
+        "ins": [
+          "https://students.uwrf.edu/student-health-counseling/health-resources",
+          "健康资源与保险"
+        ],
+        "police": [
+          "https://www.uwrf.edu/about/contact-us",
+          "University Police 联系"
+        ],
+        "housing": [
+          "https://students.uwrf.edu/residence-life/current-and-incoming-students",
+          "Residence Life 住宿"
+        ],
+        "clinic": [
+          "https://students.uwrf.edu/student-health-counseling/health-resources",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://students.uwrf.edu/registrar/academic-calendar",
+          "校园与通勤信息"
+        ]
+      }
+    },
+    "uwsp": {
+      "short": "威斯康星大学斯蒂文斯波因特分校",
+      "place": "斯蒂文斯波因特 · 1000 Fremont Street, Stevens Point, WI 54481",
+      "cityKey": "stevenspoint",
+      "calShort": "两学期制；2026 秋 9 月 2 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）开课；9 月 7 日劳动节停课；11 月 26 日感恩节假；12 月 12 日毕业典礼；12 月 18 日学期结束。Winterim 2027/1/4–1/22；Spring 2027：1 月 25 日（周一）开课；3 月 20–28 日春假；5 月 21 日学期结束，5 月 22 日毕业典礼。加退课与退课截止日以 Registrar 当期校历为准。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课的具体截止日以 Registrar 当期校历与 Student Accounts 退费条款为准；改退课在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "持 F-1/J-1 等签证的国际学生须持合格健康保险；按 UW System 行政政策 147，学校为国际学生注册 UW System 国际学生健康保险计划，保费计入学生账户；计划福利、免赔额与家属附加口径以当期保险页为准。",
+      "ins2": "持有可比合格保单者按当期保险页公布的资格与窗口提交豁免；保险卡与保单凭证经保险商门户领取，学期初供 Student Health Services 核验；豁免资格以国际学生办公室当期审核为准。",
+      "ins3": "保险资格、豁免与家属加保咨询国际学生办公室；门诊健康问题对接 Student Health Services；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Services：电话 715-346-4646；Counseling Center 电话 715-346-3553；提供初级保健、疫苗、咨询与转诊；急症转诊 Aspirus 本地医疗体系（715-346-5000）。",
+      "commute": "主校区 1000 Fremont Street, Stevens Point, WI 54481；威州中部 Wisconsin River 畔，另设 Marshfield 与 Wausau 校区；最近商用机场为 Central Wisconsin Airport（CWA，Mosinee）；远途枢纽为 MSP、ORD 方向。",
+      "scene": "UW 系统公立四年制分校，主校区位于威州中部 Stevens Point，另设 Marshfield 与 Wausau 校区；自然资源（林学、野生动物、渔业、水资源等）学科传统深厚，另有文理、商科、教育与健康职业项目；校队 Pointers，参加 NCAA Division III（WIAC）。",
+      "safety": "UW-Stevens Point Police and Security Services：001 George Stein Building, 1925 Maria Drive，电话 715-346-3456；持照警官 24/7/365 巡逻，校内设紧急电话与 Pointer Alerts 推送；紧急拨 911；校园边界外归 Stevens Point 市警察局（非紧急 715-346-1500）与 Portage County 调度。",
+      "transit": "Stevens Point 本地公交与校园班车覆盖镇区；线路时刻以公交当期公告为准；远途靠 CWA 机场衔接。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源集中在镇区公寓与住宅；身份卡兼作门禁、就餐与乘车凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uwsp.edu/registrar/",
+          "校历（Registrar）"
+        ],
+        "ins": [
+          "https://www.uwsp.edu/",
+          "国际学生事务"
+        ],
+        "police": [
+          "https://blog.uwsp.edu/blog/2026/05/26/everything-you-need-to-know-about-campus-security-at-uwsp/",
+          "校园安全与校警"
+        ],
+        "housing": [
+          "https://www.uwsp.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.uwsp.edu/health/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.uwsp.edu/parking/",
+          "停车与交通"
+        ]
+      }
+    },
+    "uwsuperior": {
+      "short": "威斯康星大学苏必利尔分校",
+      "place": "苏必利尔 · Belknap and Catlin Avenue, Superior, WI 54880",
+      "cityKey": "superior",
+      "calShort": "两学期制；2026 秋 9 月 2 日开课，2027 春 1 月 20 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）开课；9 月 7 日劳动节停课；11 月 26 日感恩节假；12 月 17 日学期结束；秋季不举行官方毕业典礼，12 月举办毕业步行活动。Winterim 2026/12/28–2027/1/14；Spring 2027：1 月 20 日（周三）开课；3 月 8–12 日春假；5 月 13 日学期结束，5 月 15 日毕业典礼。加退课与退课截止日以 Registrar 当期校历为准。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 Intercultural Student Services 与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课的具体截止日以 Registrar 当期校历与 Student Accounts 退费条款为准；改退课在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "UW System 要求所有 F-1 学生持疾病与意外保险；学校提供国际学生意外疾病保险保单，费用自动列于学生账户、无需另行缴费；计划覆盖疾病、意外、预防保健与常规体检，不含运动体检、常规牙科与眼科；承保方与福利口径以当期保险页为准。",
+      "ins2": "替代保单豁免资格与流程以 Intercultural Student Services 当期公布为准；保险卡与保单凭证经保险商门户领取，学期初供 Student Health and Counseling Services 核验；牙科、眼科与运动体检建议在赴美前或回国期间安排。",
+      "ins3": "保险资格、豁免与家属加保咨询 Intercultural Student Services；门诊健康问题对接 SHCS；家属投保渠道以当期保险页说明为准。",
+      "clinic": "Student Health and Counseling Services（SHCS）：电话 715-394-8236，面向校内与线上学生提供保密咨询与健康对接；校内门诊能力有限，合作校外医疗机构覆盖 Superior 与 Duluth 一带；急症拨 911。",
+      "commute": "主校区 Belknap and Catlin Avenue, Superior, WI 54880（PO Box 2000）；苏必利尔湖畔，跨 Blatnik Bridge 即明尼苏达 Duluth；最近机场为 Duluth International Airport（DLH）；远途枢纽为 MSP。",
+      "scene": "1893 年创立，初名 Superior Normal School；UW 系统公立四年制分校，位于苏必利尔湖畔；运输与物流、刑事司法、水资源科学、商科与文理见长；校队 Yellowjackets，参加 NCAA Division III（多数项目属 UMAC）。",
+      "safety": "UW-Superior University Police Department：Public Safety Building 105；非紧急 715-394-8114，邮箱 police@uwsuper.edu；紧急拨 911；校园边界外归 Superior 市警察局（非紧急 715-395-7234）与 Douglas County 调度。",
+      "transit": "Duluth Transit Authority（DTA）线路跨 Blatnik Bridge 连接 Superior 与 Duluth 城区；学生乘车优惠口径以 DTA 当期公告为准；远途靠 DLH 机场衔接。",
+      "rentnote": "校内宿舍按申请与住校要求分配（Residence Life，Yellowjacket Union 140，715-394-8438）；校外房源集中在 Superior 镇区与 Duluth 方向；身份卡兼作门禁、就餐与乘车凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.uwsuper.edu/",
+          "校历（Catalog）"
+        ],
+        "ins": [
+          "https://uwsuper.edu/student-life/get-involved/department-of-student-support-and-engagement/intercultural-student-services/",
+          "Intercultural Student Services"
+        ],
+        "police": [
+          "https://uwsuper.edu/student-life/support-and-services/dean-of-students-office/reporting-a-concern/",
+          "University Police 报告渠道"
+        ],
+        "housing": [
+          "https://catalog.uwsuper.edu/undergraduate/campus-life/residence-life/",
+          "Residence Life 住宿"
+        ],
+        "clinic": [
+          "https://uwsuper.edu/student-life/health-and-wellness/health-and-counseling-services/",
+          "Health and Counseling Services"
+        ],
+        "transit": [
+          "https://www.duluthtransit.com/",
+          "Duluth Transit Authority"
+        ]
+      }
+    },
+    "uwwhitewater": {
+      "short": "威斯康星大学白水分校",
+      "place": "白水 · 800 West Main Street, Whitewater, WI 53190",
+      "cityKey": "whitewater",
+      "calShort": "两学期制；2026 秋 9 月 2 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：9 月 2 日（周三）开课；9 月 7 日劳动节停课；11 月 26 日感恩节假；12 月 18 日学期结束；12 月 19 日毕业典礼。Winterim 2027/1/4–1/22；Spring 2027：1 月 25 日（周一）开课；3 月 22–26 日春假；5 月 14 日学期结束，5 月 15 日毕业典礼。加退课与退课截止日以 Registrar 当期校历为准。",
+      "fulltime": "F-1 本科保持全日制学分、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经 Global Education 国际招生办公室与学术顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课的具体截止日以 Registrar 当期校历与 Bursar 退费条款为准；改退课在学生门户办理，逾期按校方政策记 W 或记成绩。",
+      "ins1": "按 UW System 行政政策 147，所有国际与交换学生须由学校注册的 UW System 国际学生健康保险政策覆盖；学校为学生入保并将费用计入学生账单；计划福利、免赔额与家属附加口径以当期保险说明为准。",
+      "ins2": "持有可比合格保单者按当期公布的资格与窗口提交豁免；保险卡与保单凭证经保险商门户领取，学期初供 Health Services 核验；家属财务证明与加保 instructions 联系 intladmission@uww.edu。",
+      "ins3": "保险资格、豁免与家属加保咨询 Global Education 国际招生办公室；门诊健康问题对接 Health Services；家属投保渠道以当期保险页说明为准。",
+      "clinic": "Health Services：电话 262-472-1300；Counseling Services 电话 262-472-1305（课后接入 UW 心理健康支持线）；提供初级保健、疫苗、咨询与转诊；急症转诊 Fort Atkinson 方向急诊（920-568-5330）。",
+      "commute": "主校区 800 West Main Street, Whitewater, WI 53190；威州东南部田园地带；最近区域机场为 Dane County Regional Airport（MSN，Madison）与 Milwaukee Mitchell（MKE）；Chicago O'Hare（ORD）为远途枢纽。",
+      "scene": "UW 系统公立四年制分校，位于威州东南部 Whitewater；商科、教育、传播、艺术与文理项目规模较大；校队 Warhawks，参加 NCAA Division III（WIAC）。",
+      "safety": "UW-Whitewater Police Department：Goodhue Hall, 790 W. Starin Road；非紧急 262-472-4660；紧急拨 911；工作日 7:45–16:30 办公值守；校园边界外归 Whitewater 市警察局（非紧急 262-473-0555 转 4）与 Walworth County 调度。",
+      "transit": "Whitewater 校园与镇内班车覆盖学生住宿与镇区；线路时刻以校园交通当期公告为准；远途靠 MSN/MKE 机场与自驾。",
+      "rentnote": "校内宿舍按 Board of Regents 住校要求与申请分配（高中毕业不满两年的大一、大二学生原则上住校，豁免须提交申请）；校外房源集中在镇区公寓与住宅；身份卡兼作门禁、就餐与乘车凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://uww-public.courseleaf.com/general-information/academic-legal-policies/academic-calendar/",
+          "Academic Calendar（Catalog）"
+        ],
+        "ins": [
+          "https://uww.edu/global-education/international-admissions",
+          "International Admissions"
+        ],
+        "police": [
+          "https://www.uww.edu/adminaffairs/police/department-information/contact-police",
+          "UW-Whitewater Police"
+        ],
+        "housing": [
+          "https://www.uww.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.uww.edu/",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.uww.edu/parking/",
+          "停车与交通"
+        ]
+      }
+    }
+  },
+  "EXTRA": {}
+}

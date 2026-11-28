@@ -1,6 +1,6 @@
 ---
 name: zaimae-handbook
-description: "Full content of the ZaiMei v2/v3 US Study & Life Handbook (在美v2·学业与生活手册). Load when answering about semester milestones, add/drop windows, GPA thresholds, course registration, housing and leases, campus social life, arrival week, shopping, phone and banking, airport and commute, health insurance and waiver, SSN, tax filing, emergency numbers, 1050 undergraduate majors, 303 scholarships and grants, 178 school profiles, 12 study pathways, or any school/city-specific rule for Chinese international students in the US."
+description: "Full content of the ZaiMei v2/v3 US Study & Life Handbook (在美v2·学业与生活手册). Load when answering about semester milestones, add/drop windows, GPA thresholds, course registration, housing and leases, campus social life, arrival week, shopping, phone and banking, airport and commute, health insurance and waiver, SSN, tax filing, emergency numbers, 1050 undergraduate majors, 303 scholarships and grants, 607 school profiles, 12 study pathways, or any school/city-specific rule for Chinese international students in the US."
 ---
 
 # 在美 · 学业与生活手册（全量资料）
@@ -8,9 +8,9 @@ description: "Full content of the ZaiMei v2/v3 US Study & Life Handbook (在美v
 ## 授权与版本
 
 - 手册 © 2026 刘忠锋（署名「在美」）。**版权所有者已授权本专家包完整收录手册内容并用于对外问答**，包括各校分表、专业索引、资助库与院校库明细。
-- 资料快照：**版本三 · 2026-11-22**；学校相关口径采集于 2026-11-17 / 18，资助库核验至 2026-11-21。
+- 资料快照：**版本三 · 2026-11-28**（B01–B75 批次）；学校与城市口径经六层审计重建，资助库核验至 2026-11-21。
 - 手册本体标作 **v3 / 版本三**；本专家包的 ID 与资料代号沿用 `zaimae-v2-handbook`（历史代号，改 ID 需重建），两者指同一份手册。
-- 原始入口：`https://vcnl8tmrq6tg.feishu.link/app/app_17j7z4evysm`
+- 在线单文件站：`https://vcnl8tmrq6tg.doubao.link/app/app_17j7z4evysm`
 - 手册是经验整理与官方入口索引，**不是官方文件**。政策逐学年调整；涉及签约、付款、申报、豁免、理赔，「办理前打开原页核对当期口径」这句放进末尾「参考索引」，正文只用一句大白话带过。
 
 ## 手册结构口径（v3 架构总览）
@@ -33,7 +33,7 @@ description: "Full content of the ZaiMei v2/v3 US Study & Life Handbook (在美v
 - 我的专业：**专业 → 学院 → 学校** 逐层展开；全量专业清单只在「专业索引」页展示，**学业页不展示**——回答学业节奏问题时不要把 1050 条清单铺出来。
 - 落地八件 8 项勾选存本机、可清零（对应 `02` 通用规则）；组合筛选按「学校 / 阶段 / 目标」生成路径组合（对应 `WAYS` / `STAGES`）。
 
-> **口径提醒（已按导出数据核对）**：架构示意图标注「11 校 / ≈300 KB / 8 视图 / 11 校画像」属早期或示意描述。本专家包以 **2026-11-22 从应用实际导出的快照**为准：3.5MB HTML、178 校学业分表、594 所院校索引、135＋15 城、16 州、1050 条专业、303 条资助、12 条路径；`ROUTES` 实际是 **9 条路由**（含 `/aid` 资助页，图里少画了一条）。回答数据规模时以 `references/` 实际内容为准，不引用示意图数字。
+> **口径提醒（已按导出数据核对）**：架构示意图标注「11 校 / ≈300 KB / 8 视图 / 11 校画像」属早期或示意描述。本专家包以 **2026-11-28 从应用实际导出的快照**为准：8.96MB HTML、607 条院校条目（学业分表）、594 所院校索引、532 城、51 州与特区、1050 条专业、303 条资助、12 条路径；`ROUTES` 实际是 **9 条路由**（含 `/aid` 资助页，图里少画了一条）。回答数据规模时以 `references/` 实际内容为准，不引用示意图数字。
 >
 > 导出时拿到 **43 个顶层数据变量，40 个已拆进 `references/`**。剩余三个是运行时配置、不是资料文件，**不要去资料库里找**：`LAYER` = `{}`（分层覆盖是代码行为：上层没写落回通用、`data` 缺键保留默认文案）、`COMPOSE` = `{}`（组合筛选逻辑）、`SKEY` = `"zaimei:school"`（localStorage 键名）。图里的 `PROFILES` 也不是顶层变量，由 `rebuildProfiles` 在运行时合成学校画像。
 
@@ -42,14 +42,14 @@ description: "Full content of the ZaiMei v2/v3 US Study & Life Handbook (在美v
 | 文件 | 内容 | 什么时候读 |
 |---|---|---|
 | `00-手册正文.md` | 手册完整可见正文：五条线的规则、节点、红线、口径，以及 147 个检查点明细（约 1100 行 / 52KB） | **每次回答前先查**；用 Grep 搜章节标题定位后局部 Read，问题跨多条线时再整份读 |
-| `01-总览与检索.json` | 7 城市圈、178 校清单、学校 ID 与别名、章节路由、口语同义词/意图、**`CITY_EN` 英文名→cityKey（51 条）**、**`PLACES` 15 城补充城市层**、12 条升学路径、5 个申请阶段 | 把用户口语映射到「哪所学校 / 哪条线 / 哪个阶段」，以及把城市名换成 cityKey |
+| `01-总览与检索.json` | 7 城市圈、607 校清单、学校 ID 与别名、章节路由、口语同义词/意图、**`CITY_EN` 英文名→cityKey（51 条）**、**`PLACES` 15 城补充城市层**、12 条升学路径、5 个申请阶段 | 把用户口语映射到「哪所学校 / 哪条线 / 哪个阶段」，以及把城市名换成 cityKey |
 | `02-通用规则.json` | 落地第一周八件事、采购分类、通用口径与阶段映射 | 不随学校变化的通用问题 |
-| `03-本校学业制度-1~4.json` | 178 校学业分表（校历、全日制、加退选、GPA、申诉、转学分）＋ 11 校补充条款 | 问某校学业制度时 |
-| `04-城市与州.json` | 135 城市 + 16 州的税、DMV、领区、气候、交通、房租、安全 | 问城市/州层面规则时 |
-| `05-住宿.json` | 178 校住宿分表（宿舍、校外租房、费用、签约、入住后） | 问住处与租房时 |
+| `03-本校学业制度-1~14.json` | 607 校学业分表（校历、全日制、加退选、GPA、申诉、转学分）＋ 11 校补充条款（在第 14 卷） | 问某校学业制度时 |
+| `04-城市与州.json` | 532 城市 + 51 州与特区的税、DMV、领区、气候、交通、房租、安全 | 问城市/州层面规则时 |
+| `05-住宿.json` | 607 校住宿分表（宿舍、校外租房、费用、签约、入住后） | 问住处与租房时 |
 | `06-购物与通勤.json` | 各校购物点、校园卡与证件、机场往返 | 问吃穿用行、落地交通时 |
-| `07-医保与应急.json` | 178 校保险计划/豁免/理赔、安保与应急号码、四类场景 | 问医保、出事、报警时 |
-| `08-社交.json` | 178 校社交场域、社团、心理支持 | 问社交、孤独、心理时 |
+| `07-医保与应急.json` | 607 校保险计划/豁免/理赔、安保与应急号码、四类场景 | 问医保、出事、报警时 |
+| `08-社交.json` | 607 校社交场域、社团、心理支持 | 问社交、孤独、心理时 |
 | `09-专业索引.json` | 13 所详采校全量本科专业（约 1050 条，按学院分组）＋学院学分规则 | 问某校有哪些专业、学位、申报规则时 |
 | `10-资助库.json` | 303 条已核奖学金/资助路线 | 问奖学金、资助、申请季倒排时 |
 | `11-院校批量库.json` | 594 所院校基础索引 | 问某校是否在库、属于哪个城市圈时 |
@@ -58,9 +58,9 @@ description: "Full content of the ZaiMei v2/v3 US Study & Life Handbook (在美v
 **检索铁律**：`03`–`11` 号文件都在 100KB 以上，**禁止一次性 Read 整份**。做法是：
 1. 在 `01` 的 `ALIAS` / `SCHOOLS` / `UNI` 里把用户说的校名换成 `schoolId`（如 `ucsb`、`nyu`）；别名表也收了英文缩写与口语叫法。
 2. 用 Grep 在目标文件中搜 `"schoolId":` 或中文校名，拿到行号。
-3. 用 Read 的 `offset` / `limit` 只取该校那一段（通常 20–120 行）。`03` 有 4 卷，用 `03-本校学业制度-*.json` 通配一起搜。
+3. 用 Read 的 `offset` / `limit` 只取该校那一段（通常 20–120 行）。`03` 有 14 卷，用 `03-本校学业制度-*.json` 通配一起搜。
 4. **城市/州层不依赖 `schoolId`**：正规换算是 `01` 的 `CITY_EN[英文城市名小写]` → `cityKey`（如 `santa barbara`→`sb`、`champaign`→`urbana`、`houston`→`houston`、`new york`→`ny`），州用 `04.STATE[abbr]`。有 `schoolId` 时也可经 `SCHOOL[schoolId].cityKey` 拿到。
-   - 城市层有**两个来源，都要查**：`04.CITY[cityKey]`（135 城，含 `tax`/`dmv`/`consul`/`wear`/`transit`/`safety`/`rentnote`）与 `01.PLACES[cityKey]`（15 城补充：`urbana` 香槟-厄巴纳、`annarbor` 安娜堡、`atlanta` 亚特兰大、`westlafayette` 西拉法叶、`columbus`、`madison`、`statecollege`、`raleigh`、`tempe`、`gainesville`、`charlottesville`、`collegetx` 等，字段为 `wear`/`transit`/`safety`/`rentnote`/`sceneCity`）。**两个都查过才算城市层缺**。
+   - 城市层有**两个来源，都要查**：`04.CITY[cityKey]`（532 城，含 `tax`/`dmv`/`consul`/`wear`/`transit`/`safety`/`rentnote`）与 `01.PLACES[cityKey]`（15 城补充：`urbana` 香槟-厄巴纳、`annarbor` 安娜堡、`atlanta` 亚特兰大、`westlafayette` 西拉法叶、`columbus`、`madison`、`statecollege`、`raleigh`、`tempe`、`gainesville`、`charlottesville`、`collegetx` 等，字段为 `wear`/`transit`/`safety`/`rentnote`/`sceneCity`）。**两个都查过才算城市层缺**。
    - 中文城市名按 `CITY[*].name`（如 `Houston（休斯敦）`）或 `PLACES[*].name` 匹配；**禁止对整份 JSON 做全文搜索**——说明文字里的地名会把结果串到别的城市。异体写法（休斯顿 / 休斯敦）匹配不到时，改用 `CITY_EN` 英文或键名再试；仍无则留白并联网补。
 5. 资助库不是按学校 ID 组织的：按 `s` 州、`st` 阶段、`tg` 标签、`u` 机构名或 `t` 名称 Grep `10-资助库.json`；院校库按 `n` 校名 / `c` 城市 / `s` 州搜 `11-院校批量库.json`。
 6. 找不到该校时明说「手册没收录这所学校」，按 **通用 → 州 → 城市 → 本校留白** 四层降级在心里组织答案（这是答疑顺序，手册原生仍是三层）；正文不写「四层降级」这类说法、不逐层标来源，各层来源统一收进末尾「参考索引」。本校层交给 `zaimae-live-check` 联网核官方页补全。**不要拿别校数据套，也不要只退回最薄的通用层。**
@@ -113,7 +113,7 @@ description: "Full content of the ZaiMei v2/v3 US Study & Life Handbook (在美v
 
 `zaimae-live-check` Skill 负责学校未收录、城市超库、或需核当期口径时的联网核对。**它不是手册的第四层，也不覆盖三层口径**：
 
-- 三层是手册快照（版本三 · 2026-11-22）；实时层是外部官方页当期内容，**不署名手册、不写进 `references/`**。
+- 三层是手册快照（版本三 · 2026-11-28）；实时层是外部官方页当期内容，**不署名手册、不写进 `references/`**。
 - 触发顺序永远是：先按答疑四层降级答完能答的（手册原生三层 + 州级字段）→ 本校层留白 → 再联网补 → 每条实时结论的 URL 与抓取时间统一收进末尾「参考索引」。
 - 实时页与手册快照冲突时，并列两条、明确「以官方当期页为准」，说明手册为 2026-11 采集的历史快照。
 - 工具不可用或页面打不开时，明说「本次未能实时核到」，退回降级结果 + 官方页清单，不编造。

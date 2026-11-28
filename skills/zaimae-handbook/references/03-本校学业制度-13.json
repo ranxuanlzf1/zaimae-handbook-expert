@@ -1,0 +1,1985 @@
+{
+  "SCHOOL": {
+    "northern": {
+      "short": "北州立大学",
+      "place": "阿伯丁 · 1200 S. Jay St., Aberdeen, SD 57401",
+      "cityKey": "aberdeensd",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校园健康与咨询服务按当期学生健康页安排，提供基础门诊、疫苗与心理咨询；校园能力之外转 Aberdeen 地区医疗机构。",
+      "commute": "主校区位于 Aberdeen 镇区 South Jay Street 一带，US 12 与 US 281 交汇；最近支线机场 Aberdeen Regional Airport（ABR），商业备选 Sioux Falls Regional（FSD），跨州备选 Minneapolis-St. Paul（MSP）；区内出行以步行、自驾为主。",
+      "scene": "南达科他州立高等教育体系公立大学，文理、教育、商学、美术与传播、健康相关项目见长；校队 Wolves，参加 NCAA Division II 北部校际体育协会（NSIC）赛事。",
+      "safety": "Campus Security / 校警部门负责校园巡逻、建筑安全与应急对接；紧急情况拨 911；校园边界外归 Aberdeen Police Department 与 Brown County 辖区。",
+      "transit": "Aberdeen 小镇公交覆盖有限，校区周边以步行、自驾与校方接驳为主；城际沿 US 12、US 281；航空经 ABR、FSD 衔接，班次以机场当期公布为准。",
+      "rentnote": "Office of Residence Life：校内 Briscoe、Kramer、Steele、Great Plains East/West、Wolves Memorial Suites 等宿舍按申请与住校要求分配；校外房源在 Aberdeen 镇区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://northern.edu/academics/records-and-registration/",
+          "Records & Registration"
+        ],
+        "ins": [
+          "https://northern.edu/admissions",
+          "Admissions 学生服务"
+        ],
+        "police": [
+          "https://northern.edu/",
+          "Campus Security 栏目"
+        ],
+        "housing": [
+          "https://northern.edu/admissions",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://northern.edu/",
+          "健康与咨询栏目"
+        ],
+        "transit": [
+          "https://northern.edu/about/campus",
+          "校园与方位"
+        ]
+      }
+    },
+    "sdsmt": {
+      "short": "南达科他矿业技术学院",
+      "place": "拉皮德城 · Rapid City, SD 57701",
+      "cityKey": "rapidcity",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校园健康与咨询服务按当期学生健康页安排；提供基础门诊、疫苗与心理咨询；专科与急诊转 Rapid City 地区医疗机构。",
+      "commute": "主校区位于 Rapid City 城区 Saint Joseph Street 一带，靠近黑山山前地带；最近商业机场 Rapid City Regional Airport（RAP），第二备选 Denver International（DEN），州内备选 Sioux Falls（FSD）；区内出行以步行、自驾为主。",
+      "scene": "南达科他州公立工程、科学与技术专门院校，工程、地质与采矿、计算机、科学与数学项目见长；校队 Hardrockers，参加 NCAA Division II 落基山竞技联盟（RMAC）赛事。",
+      "safety": "SDSM&T Public Safety：电话 605-394-6100，应急信息录音 605-394-2210，紧急拨 911（校园座机拨 9-911）；负责校园巡逻、建筑安全与应急对接；校园边界外归 Rapid City Police Department 辖区。",
+      "transit": "Rapid City 本地公交 Rapid Transit 衔接校区与镇区；自驾沿 I-90 走廊；航空以 RAP 为主，DEN、FSD 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Rapid City 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.sdsmt.edu/",
+          "SDSM&T 校历栏目"
+        ],
+        "ins": [
+          "https://www.sdsmt.edu/student-life/health-and-safety/",
+          "Health & Safety 栏目"
+        ],
+        "police": [
+          "https://www.sdsmt.edu/student-life/health-and-safety/public-safety/",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://www.sdsmt.edu/student-life/",
+          "Student Life 与 Housing"
+        ],
+        "clinic": [
+          "https://www.sdsmt.edu/student-life/health-and-safety/",
+          "健康服务栏目"
+        ],
+        "transit": [
+          "https://www.sdsmt.edu/",
+          "校园交通栏目"
+        ]
+      }
+    },
+    "sdstate": {
+      "short": "南达科他州立大学",
+      "place": "布鲁金斯 · Brookings, SD 57007",
+      "cityKey": "brookingssd",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Clinic and Counseling，Miller Wellness Center，电话 605-688-4157，预约 605-697-9355 转 3；提供初级保健、生殖健康、成人疫苗、营养咨询与心理咨询；专科与急诊转 Brookings 地区医疗机构。",
+      "commute": "主校区位于 Brookings 城区 Campus Drive 一带；最近商业机场 Sioux Falls Regional Airport（FSD），第二备选 Minneapolis-St. Paul（MSP），跨州备选 Fargo（FAR）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "南达科他州立公立赠地大学，农学、工程、护理与健康科学、商学、教育、文理学科见长；校队 Jackrabbits，参加 NCAA Division I，多数项目属 The Summit League，橄榄球属 Missouri Valley Football Conference。",
+      "safety": "University Police Department：电话 605-688-5117（校园座机拨 111），紧急拨 911；由警官、通信专员与学生巡逻组成，提供 24/7 公共安全服务；校园边界外归 Brookings Police Department 与 Brookings County 辖区。",
+      "transit": "Brookings 本地公交与校方接驳串联校区；自驾沿 I-29 走廊；航空以 FSD 为主，MSP、FAR 为备选，班次以机场当期公布为准。",
+      "rentnote": "Housing & Residence Life 协助校内宿舍与公寓分配；校外房源在 Brookings 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.sdstate.edu/content.php?catoid=62&navoid=14292",
+          "Registrar"
+        ],
+        "ins": [
+          "https://catalog.sdstate.edu/content.php?catoid=59&navoid=12621",
+          "Student Health Clinic and Counseling"
+        ],
+        "police": [
+          "https://catalog.sdstate.edu/content.php?catoid=59&navoid=12621",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.sdstate.edu/housing",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://catalog.sdstate.edu/content.php?catoid=59&navoid=12621",
+          "Miller Wellness Center"
+        ],
+        "transit": [
+          "https://www.sdstate.edu/",
+          "SDSU 校园"
+        ]
+      }
+    },
+    "sintegleska": {
+      "short": "辛特格莱斯卡大学",
+      "place": "米申 · Mission, SD 57556",
+      "cityKey": "missionsd",
+      "calShort": "学期制；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校园健康服务按当期学生健康页安排；基础门诊与心理咨询对接校内合作渠道；重症转 Rapid City 方向地区医疗机构。",
+      "commute": "校园位于南达科他州西部 Mission 镇区，松岭保留地（Pine Ridge Reservation）范围内；最近商业机场 Rapid City Regional Airport（RAP），跨州备选 Denver International（DEN），东部备选 Sioux Falls（FSD）；区内出行以自驾为主。",
+      "scene": "奥格拉拉拉科塔（Oglala Lakota）部落设立的部落学院（tribal college），提供本科与本土文化、教育、社会服务相关项目；校园不设主流校队联盟体系。",
+      "safety": "校园安全由 Campus Security 与部落执法渠道协同；紧急情况拨 911；校园边界外归 Oglala Lakota County 执法机构辖区。",
+      "transit": "Mission 为西部保留地小镇，无城市公交干线；区内与保留地内出行以自驾为主；城际沿 US-18 走廊；航空经 RAP 衔接，班次以机场当期公布为准。",
+      "rentnote": "校内住宿按 Housing 办公室安排；校外房源在 Mission 及保留地周边，房源有限；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.sintegleska.edu/",
+          "SGU 校历栏目"
+        ],
+        "ins": [
+          "https://www.sintegleska.edu/",
+          "学生服务栏目"
+        ],
+        "police": [
+          "https://www.sintegleska.edu/",
+          "Campus Security 栏目"
+        ],
+        "housing": [
+          "https://www.sintegleska.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.sintegleska.edu/",
+          "健康服务栏目"
+        ],
+        "transit": [
+          "https://www.sintegleska.edu/",
+          "校园交通栏目"
+        ]
+      }
+    },
+    "usd": {
+      "short": "南达科他大学",
+      "place": "弗米利恩 · 414 E. Clark St., Vermillion, SD 57069",
+      "cityKey": "vermillion",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校园健康与咨询服务按当期学生健康页安排；提供初级保健、疫苗、心理咨询与转诊；学校设州内综合健康科学学院与医学院，专科与急诊转 Sioux Falls 及 Omaha 方向医疗机构。",
+      "commute": "主校区位于 Vermillion 镇区 East Clark Street 一带，密苏里河崖畔；最近商业机场 Sioux City（SUX，艾奥瓦州），第二备选 Omaha Eppley Airfield（OMA），州内备选 Sioux Falls（FSD）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1862 年创立的南达科他州立旗舰公立大学，设文理、商学、教育、法学、艺术、健康科学与医学院；校队 Coyotes，参加 NCAA Division I，多数项目属 The Summit League，橄榄球属 Missouri Valley Football Conference。",
+      "safety": "University Police：电话 605-658-6199，紧急拨 911；负责校园巡逻、建筑安全与应急对接；校园边界外归 Vermillion Police Department 与 Clay County 辖区。",
+      "transit": "Vermillion 小镇公交有限，校区周边以步行、自驾与校方接驳为主；城际沿 US-50、SD-50 走廊；航空经 SUX、OMA 衔接，班次以机场当期公布为准。",
+      "rentnote": "Housing 协助校内宿舍与公寓分配；校外房源在 Vermillion 镇区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.usd.edu/About/Departments-Offices-and-Resources/Registrar",
+          "Office of the Registrar"
+        ],
+        "ins": [
+          "https://www.usd.edu/",
+          "学生健康保险栏目"
+        ],
+        "police": [
+          "https://www.usd.edu/about/contact-us",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.usd.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.usd.edu/",
+          "健康服务栏目"
+        ],
+        "transit": [
+          "https://www.usd.edu/About/Vermillion-Campus-and-Community",
+          "Vermillion 校园与社区"
+        ]
+      }
+    },
+    "bridgew": {
+      "short": "布里奇沃特州立大学",
+      "place": "布里奇沃特 · 131 Summer Street, Bridgewater, MA 02325",
+      "cityKey": "bridgewaterma",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Health Services 位于 Weygand Hall 1 层（351 Great Hill Drive），电话 508.531.1252；提供基础门诊、疫苗与心理咨询；专科与急诊转 Bridgewater 及 Taunton 地区医疗机构。",
+      "commute": "主校区位于 Bridgewater 镇区 Summer Street / Great Hill Drive 一带；MBTA Commuter Rail（Middleborough/Lakeville 线）Bridgewater 站设在校园；最近大型机场 Boston Logan（BOS），第二备选 Providence（PVD），中部备选 Worcester（ORH）；区内以步行、自驾与校方接驳为主。",
+      "scene": "马萨诸塞州立公立大学，文理、商学、教育、航空航天研究、艺术与健康相关项目见长；校队 Bears，参加 NCAA Division II，橄榄球属 MASCAC 联盟。",
+      "safety": "BSU Police Department：Operations Center，200 Great Hill Drive，电话 508.531.1212，紧急拨 911，TTY 508.531.6111；校园边界外归 Bridgewater Police Department 与 Plymouth County 辖区。",
+      "transit": "MBTA 通勤铁路 Bridgewater 站直达波士顿方向；校内步行与接驳为主；自驾沿 I-495 / Route 24；航空以 BOS 为主，PVD、ORH 为备选，班次以机场当期公布为准。",
+      "rentnote": "Office of Residence Life and Housing：校内宿舍与公寓按申请分配；校外房源在 Bridgewater 镇区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.bridgew.edu/registrar",
+          "Registrar"
+        ],
+        "ins": [
+          "https://www.bridgew.edu/student-life/wellness/health-services",
+          "Health Services"
+        ],
+        "police": [
+          "https://www.bridgew.edu/contact-us",
+          "BSU Police Department"
+        ],
+        "housing": [
+          "https://www.bridgew.edu/student-life/residence-life-housing",
+          "Residence Life and Housing"
+        ],
+        "clinic": [
+          "https://www.bridgew.edu/student-life/wellness/health-services",
+          "Weygand Hall Health Services"
+        ],
+        "transit": [
+          "https://www.bridgew.edu/contact-us",
+          "校园与交通栏目"
+        ]
+      }
+    },
+    "fitchburgstate": {
+      "short": "菲奇堡州立大学",
+      "place": "菲奇堡 · 160 Pearl Street, Fitchburg, MA 01420",
+      "cityKey": "fitchburg",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Services：电话 978.665.3643 / 978.665.3894，与 Community Health Connections 合作提供校园基础医疗；心理咨询对接校园咨询渠道；专科与急诊转 Fitchburg 及 Leominster 地区医疗机构。",
+      "commute": "主校区位于 Fitchburg 城区 Pearl Street / Clinton Street 一带；最近大型机场 Manchester-Boston Regional（MHT，新罕布什尔州），第二备选 Boston Logan（BOS），西南备选 Worcester（ORH）；区内以步行、自驾与校方接驳为主。",
+      "scene": "马萨诸塞州立公立大学，教育、商科、人文、传播、计算机与艺术项目见长；校队 Falcons，参加 NCAA Division III MASCAC 联盟赛事。",
+      "safety": "University Police：Station 32 Clinton Street，电话 978.665.3111，24 小时 365 天值守；提供校园与邻近街区护送；紧急情况拨 911；校园边界外归 Fitchburg Police Department 与 Worcester County 辖区。",
+      "transit": "Fitchburg 本地公交 MVRTA 衔接校区与镇区；自驾沿 Route 2；航空以 MHT、BOS 为主，ORH 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请分配，Residence Life 电话 978.665.3219；校外房源在 Fitchburg 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.fitchburgstate.edu/offices-and-services",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.fitchburgstate.edu/offices-and-services",
+          "Student Health Services"
+        ],
+        "police": [
+          "https://www.fitchburgstate.edu/about/university-police",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.fitchburgstate.edu/campus-life/residence-life/services-residence-halls",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.fitchburgstate.edu/offices-and-services",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.fitchburgstate.edu/offices-and-services",
+          "校园交通栏目"
+        ]
+      }
+    },
+    "massmaritime": {
+      "short": "马萨诸塞海事学院",
+      "place": "巴泽兹湾 · 101 Academy Drive, Buzzards Bay, MA 02532",
+      "cityKey": "buzzardsbay",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Health Services：4th Company 片区，电话 508-830-5177，健康服务邮箱 healthservices@maritime.edu；面向军校生提供基础门诊、疫苗与健康评估；海事体检与船员证件体检按学院与海事部门要求办理；重症转 Buzzards Bay 及 New Bedford 地区医疗机构。",
+      "commute": "主校区位于 Cape Cod 运河口 Buzzards Bay 海滨，101 Academy Drive；最近商业机场 Providence（PVD），第二备选 Boston Logan（BOS），支线备选 New Bedford（EWB）；校内以步行与编队出行安排为主，校外出行以自驾为主。",
+      "scene": "马萨诸塞州立海事专科学院，实行学员团（Regiment）管理制度，海事运输、海事工程、应急管理、海洋科学与环境安全等项目见长；校队 Buccaneers，参加 NCAA 校际赛事；校园为禁酒、禁药、禁烟环境。",
+      "safety": "Public Safety 与学员团值班体系协同负责校园巡逻、建筑安全与应急对接；紧急情况拨 911；校园边界外归 Wareham Police Department 与 Barnstable County 辖区。",
+      "transit": "Buzzards Bay 小镇公交有限，校区周边以步行、自驾与学院安排接驳为主；城际沿 Route 28 / I-195；航空经 PVD、BOS 衔接，班次以机场当期公布为准。",
+      "rentnote": "学员团宿舍（Company 编队住宿）按 Regimental 安排分配，军事化住宿管理；校外房源在 Buzzards Bay 及邻近片区，名额有限；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.maritime.edu/student-services",
+          "Student Services 校历栏目"
+        ],
+        "ins": [
+          "https://www.maritime.edu/directory",
+          "Health Services"
+        ],
+        "police": [
+          "https://www.maritime.edu/connect/visit",
+          "Public Safety 栏目"
+        ],
+        "housing": [
+          "https://www.maritime.edu/regiment/orientation",
+          "Regiment 住宿安排"
+        ],
+        "clinic": [
+          "https://www.maritime.edu/directory",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.maritime.edu/connect/visit",
+          "校园与方位"
+        ]
+      }
+    },
+    "mcla": {
+      "short": "马萨诸塞文理学院",
+      "place": "北亚当斯 · 375 Church Street, North Adams, MA 01247",
+      "cityKey": "northadams",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校园健康与咨询服务按当期学生健康页安排，提供基础门诊、疫苗与心理咨询；专科与急诊转 North Adams 及 Berkshire 地区医疗机构。",
+      "commute": "主校区位于北亚当斯 Church Street 一带，伯克希尔山区；最近商业机场 Albany International（ALB，纽约州），第二备选 Bradley International（BDL，康涅狄格州），东北备选 Boston Logan（BOS）；区内以步行、自驾为主。",
+      "scene": "马萨诸塞州立公立文理学院，人文艺术、跨学科研究、教育与社会科学项目见长；校队 Trailblazers，参加 NCAA Division III MASCAC 联盟赛事。",
+      "safety": "Campus Safety 部门负责校园巡逻、建筑安全与应急对接；紧急情况拨 911；校园边界外归 North Adams Police Department 与 Berkshire County 辖区。",
+      "transit": "North Adams 小镇公交有限，校区周边以步行、自驾为主；城际沿 Route 2 / Route 8；航空经 ALB、BDL 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：大一住校，校内宿舍按申请分配；校外房源在 North Adams 镇区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.mcla.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.mcla.edu/",
+          "学生健康服务栏目"
+        ],
+        "police": [
+          "https://www.mcla.edu/",
+          "Campus Safety 栏目"
+        ],
+        "housing": [
+          "https://www.mcla.edu/",
+          "Residence Life 栏目"
+        ],
+        "clinic": [
+          "https://www.mcla.edu/",
+          "健康服务栏目"
+        ],
+        "transit": [
+          "https://www.mcla.edu/",
+          "校园交通栏目"
+        ]
+      }
+    },
+    "umassd": {
+      "short": "马萨诸塞大学达特茅斯分校",
+      "place": "北达特茅斯 · 285 Old Westport Road, North Dartmouth, MA 02747",
+      "cityKey": "northdartmouth",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Services：电话 508-999-8982；Counseling Center 电话 508-999-8650；提供初级保健、疫苗、心理咨询与转诊；专科与急诊转 New Bedford / Fall River 地区医疗机构。",
+      "commute": "主校区位于 North Dartmouth 城区 Old Westport Road 一带；最近商业机场 Providence（PVD，罗得岛州），支线备选 New Bedford（EWB），大型备选 Boston Logan（BOS）；区内以步行、自驾与 Corsair Shuttle 接驳为主。",
+      "scene": "马萨诸塞大学系统公立研究型分校，工程、商科、护理、海洋科学、视觉表演艺术与人文项目见长；校队 Corsairs，参加 NCAA Division III Little East Conference 联盟赛事。",
+      "safety": "University Police：Power Plant Building，285 Old Westport Road；校内紧急 508-999-9191，非紧急 508-999-8107；校园边界外归 Dartmouth Police Department 与 Bristol County 辖区。",
+      "transit": "Corsair Shuttle 串联校区与宿舍；本地公交 SRTA 衔接镇区；自驾沿 Route 6 / I-195；航空以 PVD 为主，EWB、BOS 为备选，班次以机场当期公布为准。",
+      "rentnote": "Housing and Residential Education：电话 508-999-8140，校内宿舍与公寓按申请分配；校外房源在 Dartmouth 与邻近片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.umassd.edu/registrar",
+          "Registrar"
+        ],
+        "ins": [
+          "https://www.umassd.edu/studentaffairs/umassdcare/resources-for-faculty--staff/",
+          "Health Services"
+        ],
+        "police": [
+          "https://www.umassd.edu/studentaffairs/umassdcare/resources-for-faculty--staff/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.umassd.edu/studentaffairs/umassdcare/resources-for-faculty--staff/",
+          "Housing and Residential Education"
+        ],
+        "clinic": [
+          "https://www.umassd.edu/studentaffairs/umassdcare/resources-for-faculty--staff/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.umassd.edu/university-police/safety-matters/from-move-in-to-finals-thriving-safely-every-step-of-the-way.html",
+          "Corsair Shuttle 与校园交通"
+        ]
+      }
+    },
+    "westfield": {
+      "short": "韦斯特菲尔德州立大学",
+      "place": "韦斯特菲尔德 · 577 Western Avenue, Westfield, MA 01086",
+      "cityKey": "westfieldma",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Health Services：Scanlon Hall 后侧，电话 413-572-5415 / 413-572-5545，工作日 8:30–10:00 随到随诊并可预约；Counseling Center 位于 Scanlon Hall 2 层，电话 413-572-5790；急诊转 Baystate Noble Hospital。",
+      "commute": "主校区沿 Western Avenue 分布，分 north/east/main/south 四个片区；最近商业机场 Bradley International（BDL， Hartford 方向），第二备选 Worcester（ORH），大型备选 Boston Logan（BOS）；PVTA 公交对住校生免费；区内以步行、自驾与校方接驳为主。",
+      "scene": "马萨诸塞州立公立大学，教育、商学、人文、艺术、体育与健康相关项目见长；校队 Owls，参加 NCAA Division III MASCAC 联盟赛事。",
+      "safety": "University Police：White House，577 Western Ave，Dispatch Center 24/7，电话 413-572-5262，紧急拨 911；校园边界外归 Westfield Police Department 与 Hampden County 辖区。",
+      "transit": "PVTA 公交衔接校区与镇区，住校生免费；自驾沿 I-90 / Western Avenue；航空以 BDL 为主，ORH、BOS 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residential Life：校内宿舍与公寓按申请分配；校外房源在 Westfield 镇区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.westfield.ma.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.westfield.ma.edu/student-life/navigating-your-path-wellness/student-health-wellness-faqs",
+          "Health Services"
+        ],
+        "police": [
+          "https://www.westfield.ma.edu/offices/department-university-police/crime-prevention",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.westfield.ma.edu/",
+          "Residential Life 栏目"
+        ],
+        "clinic": [
+          "https://www.westfield.ma.edu/student-life/navigating-your-path-wellness/student-health-wellness-faqs",
+          "Scanlon Hall Health Services"
+        ],
+        "transit": [
+          "https://www.westfield.ma.edu/",
+          "PVTA 与校园交通栏目"
+        ]
+      }
+    },
+    "montana": {
+      "short": "蒙大拿州立大学",
+      "place": "博兹曼 · 1400 S. 11th Ave, Bozeman, MT 59717",
+      "cityKey": "bozeman",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Services，Student Wellness Center（950 W. Grant Street）；医疗预约 406-994-2311，牙科 406-994-2314，药房 406-994-5498，心理咨询 406-994-4531；专科与急诊转 Bozeman 地区医疗机构。",
+      "commute": "主校区位于 Bozeman 城区 S. 11th Avenue 一带；最近商业机场 Bozeman Yellowstone International Airport（BZN），备选 Billings Logan（BIL），跨州备选 Denver International（DEN）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "蒙大拿州立公立赠地大学，工程、农学、计算机、商学、教育、文理与艺术项目见长；校队 Bobcats，参加 NCAA Division I FCS 大天空联盟（Big Sky）赛事。",
+      "safety": "University Police Department：101 Huffman Building（7th Ave & Kagy Blvd），非紧急 406-994-2121，紧急拨 911，邮箱 police@montana.edu；提供 24/7 安全协助与夜间护送；校园边界外归 Bozeman Police Department 与 Gallatin County 辖区。",
+      "transit": "Bozeman 本地公交与校方接驳串联校区；自驾沿 I-90 走廊；航空以 BZN 为主，BIL、DEN 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 与 Family & Graduate Housing 协助校内宿舍及家庭/研究生公寓分配；校外房源在 Bozeman 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.montana.edu/registrar/",
+          "Office of the Registrar"
+        ],
+        "ins": [
+          "https://www.montana.edu/",
+          "Student Health Services"
+        ],
+        "police": [
+          "https://www.montana.edu/police/",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.montana.edu/reslife/",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.montana.edu/",
+          "Student Wellness Center"
+        ],
+        "transit": [
+          "https://www.montana.edu/",
+          "MSU 校园"
+        ]
+      }
+    },
+    "msubillings": {
+      "short": "蒙大拿州立大学比林斯分校",
+      "place": "比林斯 · 1500 University Drive, Billings, MT 59101-0245",
+      "cityKey": "billings",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Service：电话 406-657-2153，提供基础门诊、疫苗与心理咨询；校园能力之外转 Billings 地区医疗机构。",
+      "commute": "主校区位于 Billings 城区 University Drive 一带；City College 位于 3803 Central Avenue；最近商业机场 Billings Logan International Airport（BIL），跨州备选 Denver International（DEN），北向备选 Bozeman Yellowstone（BZN）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "蒙大拿州立大学系统公立综合校区，文理、商学、教育、健康相关项目与 City College 应用项目见长；校队 Yellowjackets，参加 NCAA Division II 大西北竞技联盟（GNAC）赛事。",
+      "safety": "University Police Department：电话 406-657-2147，24/7 值守，值班室位于停车场楼西南角；紧急情况拨 911；校园边界外归 Billings Police Department 与 Yellowstone County 辖区。",
+      "transit": "Billings 本地公交与校方接驳串联校区；自驾沿 I-90 与 US-87 走廊；航空以 BIL 为主，DEN、BZN 为备选，班次以机场当期公布为准。",
+      "rentnote": "Housing & Residence Life：电话 406-657-2333，邮箱 housing@msubillings.edu；校内宿舍按申请与住校要求分配；校外房源在 Billings 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.msubillings.edu/",
+          "Registrar"
+        ],
+        "ins": [
+          "https://www.msubillings.edu/",
+          "Student Health Service"
+        ],
+        "police": [
+          "https://www.msubillings.edu/",
+          "University Police Department 栏目"
+        ],
+        "housing": [
+          "https://www.msubillings.edu/",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://www.msubillings.edu/",
+          "Student Health Service"
+        ],
+        "transit": [
+          "https://www.msubillings.edu/",
+          "MSUB 校园"
+        ]
+      }
+    },
+    "msun": {
+      "short": "蒙大拿州立大学北部分校",
+      "place": "哈弗尔 · 300 W. 11th Street, PO Box 7751, Havre, MT 59501",
+      "cityKey": "havremt",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center 栏目提供基础门诊与心理咨询对接；专科与急诊转 Havre 及 Great Falls 方向医疗机构。",
+      "commute": "主校区位于 Havre 镇区 W. 11th Street 一带；最近商业机场 Great Falls International Airport（GFK），备选 Billings Logan（BIL），北向备选 Calgary 方向跨口岸衔接；区内出行以步行、自驾为主。",
+      "scene": "蒙大拿州立大学系统北部校区，教育、商学、护理、能源与技术相关项目见长；校队 Lights，参加 NAIA 前沿联盟（Frontier Conference）赛事。",
+      "safety": "Security and Campus Safety 栏目负责校园巡逻、建筑安全与应急对接；紧急情况拨 911；校园边界外归 Havre Police Department（406-265-4361）与 Hill County 辖区。",
+      "transit": "Havre 小镇无城市公交干线；区内出行以步行、自驾与校方接驳为主；城际沿 US-87、US-2 走廊；航空经 GFK、BIL 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍与公寓分配；校外房源在 Havre 镇区，房源有限；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.msun.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.msun.edu/",
+          "学生服务栏目"
+        ],
+        "police": [
+          "https://www.msun.edu/stuaffairs/campussafety/",
+          "Security and Campus Safety"
+        ],
+        "housing": [
+          "https://www.msun.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.msun.edu/health/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.msun.edu/",
+          "MSU-Northern 校园"
+        ]
+      }
+    },
+    "mtech": {
+      "short": "蒙大拿理工大学",
+      "place": "比尤特 · 1300 West Park Street, Butte, MT 59701",
+      "cityKey": "buttemt",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center，位于 North Campus Student Union 底层；提供基础门诊、疫苗与心理咨询；专科与急诊转 Butte 地区医疗机构。",
+      "commute": "主校区位于 Butte 城区 W. Park Street 一带；最近支线机场 Bert Mooney Airport（BTM），商业备选 Bozeman Yellowstone（BZN）与 Billings Logan（BIL）；区内出行以步行、自驾为主。",
+      "scene": "蒙大拿州立理工专门院校，工程、地质与采矿、计算机、科学、护理与商科项目见长；校队 Orediggers，参加 NCAA Division II 落基山竞技联盟（RMAC）赛事。",
+      "safety": "Campus Security：电话 406-496-4357（HELP）；负责校园巡逻、建筑安全与应急对接；紧急情况拨 911；校园边界外归 Butte-Silver Bow 执法机构辖区。",
+      "transit": "Butte 本地公交覆盖有限，校区周边以步行、自驾与校方接驳为主；城际沿 I-15、I-90 走廊；航空经 BTM、BZN、BIL 衔接，班次以机场当期公布为准。",
+      "rentnote": "Housing 协助三栋校内宿舍与近校公寓分配；校外房源在 Butte 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.mtech.edu/registrar/",
+          "Registrar"
+        ],
+        "ins": [
+          "https://www.mtech.edu/",
+          "学生健康保险栏目"
+        ],
+        "police": [
+          "https://www.mtech.edu/",
+          "Campus Security 栏目"
+        ],
+        "housing": [
+          "https://www.mtech.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.mtech.edu/",
+          "Student Health Center 栏目"
+        ],
+        "transit": [
+          "https://www.mtech.edu/",
+          "MTech 校园"
+        ]
+      }
+    },
+    "umt": {
+      "short": "蒙大拿大学",
+      "place": "米苏拉 · 32 Campus Drive, Missoula, MT 59812",
+      "cityKey": "missoula",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Curry Health Center（634 Eddy Ave）：医疗 406-243-4330，总机 406-243-2122，心理咨询 406-243-4712，牙科 406-243-5445；提供初级保健、疫苗、咨询与转诊；专科与急诊转 Missoula 地区医疗机构。",
+      "commute": "主校区位于 Missoula 城区 Campus Drive 一带；最近商业机场 Missoula Montana Airport（MSO），备选 Bozeman Yellowstone（BZN），跨州备选 Spokane International（GEG）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1893 年创立的蒙大拿公立旗舰大学，文理、商科、法学、艺术、新闻、护理与健康科学项目见长；校队 Grizzlies，参加 NCAA Division I FCS 大天空联盟（Big Sky）赛事。",
+      "safety": "University of Montana Police Department（UMPD）：紧急 406-243-4000，非紧急 406-243-6131；GrizWalk 护送 406-243-2777；校园边界外归 Missoula Police Department 与 Missoula County 辖区。",
+      "transit": "Missoula 本地公交 Mountain Line 与校方接驳串联校区；自驾沿 I-90、US-93 走廊；航空以 MSO 为主，BZN、GEG 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍与公寓分配；校外房源在 Missoula 城区及周边片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.umt.edu/registrar/",
+          "Office of the Registrar"
+        ],
+        "ins": [
+          "https://www.umt.edu/curry-health-center/",
+          "Curry Health Center"
+        ],
+        "police": [
+          "https://www.umt.edu/police/",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.umt.edu/",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.umt.edu/curry-health-center/",
+          "Curry Health Center"
+        ],
+        "transit": [
+          "https://www.umt.edu/",
+          "UM 校园"
+        ]
+      }
+    },
+    "umwestern": {
+      "short": "蒙大拿大学西部分校",
+      "place": "迪伦 · 255 S. 3rd Street, Dillon, MT 59725",
+      "cityKey": "dillonmt",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 7 学分及以上课程的国际学生须持有健康保险；校方提供 Blue Cross and Blue Shield of Montana 学生保险计划，保费按学期计入学生账户；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在注册时通过在线问卷提交豁免；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与学生事务办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Dean of Students Office（528 Poindexter Street，406-683-7388）；门诊与心理咨询对接校内健康渠道；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校园健康服务按当期学生健康页安排，提供基础门诊与心理咨询；专科与急诊转 Dillon 及 Butte 方向医疗机构。",
+      "commute": "主校区位于 Dillon 镇区 S. 3rd Street 一带；Family Housing 在 750 East Cornell Street；最近支线机场 Bert Mooney Airport（BTM，Butte），商业备选 Bozeman Yellowstone（BZN），跨州备选 Denver International（DEN）；区内出行以自驾为主。",
+      "scene": "蒙大拿大学系统西部校区，教育、文理、商学、艺术与户外相关项目见长；校队 Bulldogs，参加 NAIA 前沿联盟（Frontier Conference）赛事。",
+      "safety": "校园安全由 Campus Safety 渠道负责巡逻、建筑安全与应急对接；紧急情况拨 911；校园边界外归 Dillon Police Department 与 Beaverhead County 辖区。",
+      "transit": "Dillon 小镇无城市公交干线；区内出行以步行、自驾与校方接驳为主；城际沿 I-15 走廊；航空经 BTM、BZN 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 政策：修读少于 30 学分的学生原则上住校；Family Housing 面向家庭学生；校外房源在 Dillon 镇区，房源有限；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://umwestern.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.umwestern.edu/section/student-health-insurance/",
+          "Student Health Insurance"
+        ],
+        "police": [
+          "https://umwestern.edu/",
+          "Campus Safety 栏目"
+        ],
+        "housing": [
+          "https://umwestern.edu/",
+          "Residence Life 栏目"
+        ],
+        "clinic": [
+          "https://umwestern.edu/",
+          "健康服务栏目"
+        ],
+        "transit": [
+          "https://umwestern.edu/",
+          "UM-W 校园"
+        ]
+      }
+    },
+    "keene": {
+      "short": "基恩州立学院",
+      "place": "基恩 · 229 Main St, Keene, NH 03435",
+      "cityKey": "keene",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "The Wellness Center：预约 603-358-2200，课后咨询值班 603-358-2436；提供基础门诊、疫苗、心理咨询与健康促进；专科与急诊转 Keene 及 Brattleboro 方向医疗机构。",
+      "commute": "主校区位于 Keene 城区 Main Street 一带，Appian Way 为校园步行主轴；最近支线机场 Dillant-Hopkins Airport（EEN），商业备选 Manchester-Boston（MHT），南向备选 Boston Logan（BOS）；区内出行以步行、自驾为主。",
+      "scene": "新罕布什尔公立文理学院，教育、护理、环境研究、艺术、运动与传播项目见长；校队 Owls，参加 NCAA Division II 东部大西洋竞技联盟（LEC）赛事。",
+      "safety": "Department of Campus Safety：Keddy House（Main St. 与 Wyman Way 转角），调度 603-358-2228，24/7 全年值守，邮箱 ksccampussafety@keene.edu；紧急 911；校园边界外归 Keene Police Department 与 Cheshire County 辖区。",
+      "transit": "Keene 城区步行路网密集；自驾沿 NH-101、NH-12 走廊；航空经 EEN、MHT 衔接，BOS 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Keene 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.keene.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.keene.edu/administration/policy/assets/policies/handbook/services/",
+          "The Wellness Center"
+        ],
+        "police": [
+          "https://www.keene.edu/campus/safety/",
+          "Department of Campus Safety"
+        ],
+        "housing": [
+          "https://www.keene.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.keene.edu/administration/policy/assets/policies/handbook/services/",
+          "The Wellness Center"
+        ],
+        "transit": [
+          "https://www.keene.edu/",
+          "KSC 校园"
+        ]
+      }
+    },
+    "plymouth": {
+      "short": "普利茅斯州立大学",
+      "place": "普利茅斯 · 17 High St, Plymouth, NH 03264",
+      "cityKey": "plymouthnh",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Health Services：12 Merrill，电话 603-535-2350；Counseling Center 603-535-2461；提供基础门诊、疫苗、心理咨询与转诊；专科与急诊转 Speare Memorial Hospital 及周边医疗机构。",
+      "commute": "主校区位于 Plymouth 镇区 High Street 一带，白山山麓；最近商业机场 Manchester-Boston Regional（MHT），第二备选 Boston Logan（BOS），北向备选 Portland（PWM）；区内出行以步行、自驾为主。",
+      "scene": "新罕布什尔公立大学，教育、商科、人文、环境科学、健康与运动相关项目见长；校队 Panthers，参加 NCAA Division II 东部大西洋竞技联盟（LEC）赛事。",
+      "safety": "University Police Department：2 High Street，紧急 603-536-1626（接 Plymouth 警方通信中心），业务线 603-535-2330，24/7；PSU Alert 603-535-3535；校园边界外归 Plymouth Police Department 与 Grafton County 辖区。",
+      "transit": "Plymouth 镇区步行路网密集；自驾沿 NH-25、US-3 走廊；航空以 MHT 为主，BOS、PWM 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍与公寓分配；校外房源在 Plymouth 镇区，房源有限；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.plymouth.edu/contact-us",
+          "Registrar"
+        ],
+        "ins": [
+          "https://www.plymouth.edu/health-services/",
+          "Health Services"
+        ],
+        "police": [
+          "https://www.plymouth.edu/campus-safety/police-department-faq",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.plymouth.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.plymouth.edu/health-services/important-numbers",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.plymouth.edu/",
+          "PSU 校园"
+        ]
+      }
+    },
+    "unh": {
+      "short": "新罕布什尔大学",
+      "place": "达勒姆 · 300 Main St, Durham, NH 03824",
+      "cityKey": "durhamnh",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Health & Wellness，4 Pettee Brook Lane；医疗 603-862-2856，健康总机 603-862-9355，账务 603-862-2840；另有 Psychological & Counseling Services；专科与急诊转 Durham 及 Portsmouth 方向医疗机构。",
+      "commute": "主校区位于 Durham 镇区 Main Street 一带，临近 NH 海岸平原；最近商业机场 Manchester-Boston Regional（MHT），第二备选 Boston Logan International（BOS），北向备选 Portland International Jetport（PWM）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1866 年创立的新罕布什尔公立旗舰大学，文理、工程、商学、教育、护理、海洋法与生命科学项目见长；校队 Wildcats，参加 NCAA Division I，多数项目属 America East，橄榄球属 CAA Football（FCS）。",
+      "safety": "University Police Department（UPD）：18 Waterworks Road，电话 603-862-1427，紧急 911，24/7 值守；校园边界外归 Durham Police Department 与 Strafford County 辖区。",
+      "transit": "校区周边步行路网密集，校方接驳与本地公交串联；自驾沿 NH-108、US-4 走廊；航空以 MHT 为主，BOS、PWM 为备选，班次以机场当期公布为准。",
+      "rentnote": "Housing and Residential Life：住房部 603-862-2120，住宿部 603-862-2268；校内宿舍与本科公寓按申请分配；校外房源在 Durham 及周边镇区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.unh.edu/registrar",
+          "Office of the Registrar"
+        ],
+        "ins": [
+          "https://www.unh.edu/health/",
+          "Health & Wellness"
+        ],
+        "police": [
+          "https://www.unh.edu/upd",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.unh.edu/housing",
+          "Housing and Residential Life"
+        ],
+        "clinic": [
+          "https://www.unh.edu/health/",
+          "Health & Wellness"
+        ],
+        "transit": [
+          "https://www.unh.edu/",
+          "UNH 校园"
+        ]
+      }
+    },
+    "unhcps": {
+      "short": "新罕布什尔大学专业研究学院在线",
+      "place": "曼彻斯特 · 在线项目（项目总部 Manchester, NH）",
+      "cityKey": "manchesternh",
+      "calShort": "在线学期制；2026 秋、2027 春在线开课、加退课与成绩节点以 Registrar 当期在线校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "在线学生健康与心理咨询对接 UNH 系统健康渠道及学生所在地医疗机构；远程门诊与咨询预约以当期学生服务页说明为准。",
+      "commute": "项目为在线授课形式，项目总部位于 Manchester；学生所在地出入以居住地交通安排为准；最近商业机场 Manchester-Boston Regional（MHT），第二备选 Boston Logan（BOS）。",
+      "scene": "UNH 面向在职与成人学生的在线专业研究学院，商科、健康、信息技术与通识完成学位项目见长；在线项目不设线下校队联盟体系。",
+      "safety": "在线项目不设线下校园警务；人身安全应急对接学生所在地 911 与地方执法；网络安全与身份保护经 UNH IT 渠道对接。",
+      "transit": "无固定线下通勤；面授或集中活动时按 Manchester 城区安排，自驾沿 I-93、I-293 走廊；航空以 MHT 为主，BOS 为备选。",
+      "rentnote": "在线学生一般自行安排居住地；如驻校或参加集中住宿，对接 UNH 住房渠道；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://cps.unh.edu/online",
+          "CPS Online 校历栏目"
+        ],
+        "ins": [
+          "https://cps.unh.edu/online",
+          "学生服务栏目"
+        ],
+        "police": [
+          "https://www.unh.edu/upd",
+          "UNH Police Department 渠道"
+        ],
+        "housing": [
+          "https://cps.unh.edu/online",
+          "住宿与学生服务栏目"
+        ],
+        "clinic": [
+          "https://www.unh.edu/health/",
+          "UNH Health & Wellness"
+        ],
+        "transit": [
+          "https://cps.unh.edu/online",
+          "CPS Online"
+        ]
+      }
+    },
+    "unhlaw": {
+      "short": "新罕布什尔大学富兰克林皮尔斯法学院",
+      "place": "康科德 · 2 Constitution Ave, Concord, NH 03301",
+      "cityKey": "concordnh",
+      "calShort": "法学院学制与学期安排；2026 秋、2027 春开课、期末与毕业节点以 Registrar/法学院当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "法学院学生健康与心理咨询对接 UNH 系统健康渠道与 Concord 地区医疗机构；日常门诊、疫苗与咨询预约以当期学生服务页说明为准。",
+      "commute": "法学院校区位于 Concord 城区 Constitution Avenue 一带；最近商业机场 Manchester-Boston Regional（MHT），第二备选 Boston Logan（BOS）；区内出行以步行、自驾为主。",
+      "scene": "UNH 系统专业法学院，国际法、知识产权、商法、刑事与环境法项目见长；Law 为专业学院，不设主流本科校队联盟体系。",
+      "safety": "校园安全由 Campus Safety 渠道与 Concord 市警务协同；紧急情况拨 911；校园边界外归 Concord Police Department 与 Merrimack County 辖区。",
+      "transit": "Concord 城区步行可达主要教学与餐饮街区；自驾沿 I-93 走廊；航空以 MHT 为主，BOS 为备选，班次以机场当期公布为准。",
+      "rentnote": "法学院住宿对接 UNH 住房渠道与 Concord 城区校外房源；校园身份卡兼作门禁与图书馆凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://law.unh.edu/",
+          "法学院 Registrar 栏目"
+        ],
+        "ins": [
+          "https://law.unh.edu/",
+          "学生健康保险栏目"
+        ],
+        "police": [
+          "https://law.unh.edu/",
+          "Campus Safety 栏目"
+        ],
+        "housing": [
+          "https://law.unh.edu/",
+          "住宿与学生服务栏目"
+        ],
+        "clinic": [
+          "https://law.unh.edu/",
+          "健康服务栏目"
+        ],
+        "transit": [
+          "https://law.unh.edu/",
+          "法学院校区"
+        ]
+      }
+    },
+    "unhmanchester": {
+      "short": "新罕布什尔大学曼彻斯特分校",
+      "place": "曼彻斯特 · 88 Commercial St, Manchester, NH 03101",
+      "cityKey": "manchesternh",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "曼彻斯特校区学生健康与心理咨询对接 UNH 系统 Health & Wellness 与 Manchester 地区医疗机构；门诊、疫苗与咨询预约以当期学生服务页说明为准。",
+      "commute": "都市校区位于 Manchester 城区 Commercial Street 一带；最近商业机场 Manchester-Boston Regional（MHT），第二备选 Boston Logan（BOS）；区内出行以步行、公交与自驾为主。",
+      "scene": "UNH 都市校区，工程、商学、人文、传播与健康相关本科项目见长；校区与 CPS Online 同驻 Manchester，分别为面授与在线两种落点。",
+      "safety": "校区安保由 UNH Campus Safety 渠道与 Manchester 市警务协同；紧急情况拨 911；校园边界外归 Manchester Police Department 与 Hillsborough County 辖区。",
+      "transit": "Manchester 本地公交（MTU）串联城区与校区；自驾沿 I-93、I-293 走廊；航空以 MHT 为主，BOS 为备选，班次以机场当期公布为准。",
+      "rentnote": "曼彻斯特校区住宿对接 UNH 住房渠道与 Manchester 城区校外房源；校园身份卡兼作门禁与图书馆凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://manchester.unh.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://manchester.unh.edu/",
+          "学生健康保险栏目"
+        ],
+        "police": [
+          "https://www.unh.edu/upd",
+          "UNH Police Department 渠道"
+        ],
+        "housing": [
+          "https://manchester.unh.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.unh.edu/health/",
+          "UNH Health & Wellness"
+        ],
+        "transit": [
+          "https://manchester.unh.edu/",
+          "UNH Manchester 校园"
+        ]
+      }
+    },
+    "dickinsonstate": {
+      "short": "迪金森州立大学",
+      "place": "迪金森 · Dickinson, ND 58601",
+      "cityKey": "dickinson",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Counseling and Health Services：Stickney Hall 119/120，701-502-4413 / 701-502-4415；提供基础门诊与心理咨询；专科与急诊转 Dickinson 地区医疗机构。",
+      "commute": "主校区位于 Dickinson 镇区 7th Avenue 一带；最近支线机场 Dickinson Municipal Airport（DIK），商业备选 Minot International（MOT）与 Hector International（FAR）；区内出行以步行、自驾为主。",
+      "scene": "北达科他公立大学，教育、农业、商科、护理、艺术与户外相关项目见长；校队 Blue Hawks，参加 NAIA 前沿联盟（Frontier Conference）赛事。",
+      "safety": "Campus Safety：Student Center 109，值班 701-290-1068，办公室 701-483-2407，邮箱 DSU.PublicSafety@dickinsonstate.edu；紧急 911；校园边界外归 Dickinson Police Department 与 Stark County 辖区。",
+      "transit": "Dickinson 小镇无城市公交干线；区内出行以步行、自驾与校方接驳为主；城际沿 I-94 走廊；航空经 DIK、MOT、FAR 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Dickinson 镇区，房源有限；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://dickinsonstate.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://dickinsonstate.edu/",
+          "学生服务栏目"
+        ],
+        "police": [
+          "https://dickinsonstate.edu/directory/index.html",
+          "Campus Safety"
+        ],
+        "housing": [
+          "https://dickinsonstate.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://dickinsonstate.edu/directory/index.html",
+          "Counseling and Health Services"
+        ],
+        "transit": [
+          "https://dickinsonstate.edu/",
+          "DSU 校园"
+        ]
+      }
+    },
+    "mayvillestate": {
+      "short": "梅维尔州立大学",
+      "place": "梅维尔 · Mayville, ND 58257",
+      "cityKey": "mayvillend",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校园健康与心理咨询按当期学生健康页安排；基础门诊与咨询对接校内合作渠道；重症转 Mayville 及 Fargo/Grand Forks 方向医疗机构。",
+      "commute": "主校区位于 Mayville 镇区 3rd Street 一带；最近商业机场 Grand Forks International（GFK），备选 Hector International（FAR），跨州备选 Minneapolis-St. Paul（MSP）；区内出行以自驾为主。",
+      "scene": "北达科他公立小型大学，教育、商科、计算机、护理与通识项目见长；校队 Comets，参加 NAIA 竞技联盟赛事。",
+      "safety": "Campus Safety 渠道负责校园巡逻、建筑安全与应急对接；紧急情况拨 911；校园边界外归 Mayville Police Department 与 Traill County 辖区。",
+      "transit": "Mayville 小镇无城市公交干线；区内出行以步行、自驾为主；城际沿 ND-200、US-2 走廊；航空经 GFK、FAR 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Mayville 镇区，房源有限；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.mayvillestate.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.mayvillestate.edu/",
+          "学生服务栏目"
+        ],
+        "police": [
+          "https://www.mayvillestate.edu/",
+          "Campus Safety 栏目"
+        ],
+        "housing": [
+          "https://www.mayvillestate.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.mayvillestate.edu/",
+          "健康服务栏目"
+        ],
+        "transit": [
+          "https://www.mayvillestate.edu/",
+          "Mayville State 校园"
+        ]
+      }
+    },
+    "minotstate": {
+      "short": "米诺特州立大学",
+      "place": "米诺特 · 500 University Ave W, Minot, ND 58707",
+      "cityKey": "minot",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center：Lura Manor 底层，701-858-3371；Student Wellness Center 701-858-4084；提供基础门诊、疫苗与心理咨询；专科与急诊转 Minot 地区医疗机构。",
+      "commute": "主校区位于 Minot 城区 University Avenue 一带；最近商业机场 Minot International Airport（MOT），备选 Hector International（FAR）与 Grand Forks International（GFK）；区内出行以步行、自驾为主。",
+      "scene": "北达科他公立综合大学，教育、商科、护理、艺术、健康与运动相关项目见长；校队 Beavers，参加 NCAA Division II 北部太阳竞技联盟（NSIC）赛事。",
+      "safety": "Safety and Security：直拨 701-500-2423，主任 701-858-4016；紧急 911；校园边界外归 Minot Police Department（非紧急 701-852-0111）与 Ward County 辖区。",
+      "transit": "Minot 本地公交覆盖有限，校区周边以步行、自驾与校方接驳为主；城际沿 US-2、ND-83 走廊；航空经 MOT、FAR 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助 Cook、Crane、Dakota 等校内宿舍分配；校外房源在 Minot 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.minotstateu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.minotstateu.edu/",
+          "学生服务栏目"
+        ],
+        "police": [
+          "https://www.minotstateu.edu/safety/emergency-numbers.shtml",
+          "Safety and Security"
+        ],
+        "housing": [
+          "https://www.minotstateu.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.minotstateu.edu/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.minotstateu.edu/",
+          "MSU 校园"
+        ]
+      }
+    },
+    "ndsu": {
+      "short": "北达科他州立大学",
+      "place": "法戈 · Fargo, ND 58102",
+      "cityKey": "fargo",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Service：1707 Centennial Blvd，提供基础门诊、疫苗、药房与心理咨询；专科与急诊转 Fargo 地区医疗机构。",
+      "commute": "主校区位于 Fargo 城区 N. Campus Drive 一带；最近商业机场 Hector International Airport（FAR），第二备选 Grand Forks International（GFK），跨州备选 Minneapolis-St. Paul（MSP）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1890 年创立的北达科他公立赠地大学，工程、农学、计算机、商学、护理与文理项目见长；校队 Bison，参加 NCAA Division I，橄榄球属 Missouri Valley Football Conference（FCS），多数项目属 Summit League。",
+      "safety": "University Police and Safety Office：1523 12th Ave N，非紧急 701-231-8998，紧急 911，邮箱 ndsu.police.safety@ndsu.edu；提供校园护送与 Text-A-Tip；校园边界外归 Fargo Police Department 与 Cass County 辖区。",
+      "transit": "Fargo 本地公交（MATBUS）与校方接驳串联校区；自驾沿 I-29、I-94 走廊；航空以 FAR 为主，GFK、MSP 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍与公寓分配；校外房源在 Fargo 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ndsu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.ndsu.edu/",
+          "学生健康保险栏目"
+        ],
+        "police": [
+          "https://www.ndsu.edu/police_safety",
+          "University Police and Safety Office"
+        ],
+        "housing": [
+          "https://www.ndsu.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.ndsu.edu/",
+          "Student Health Service"
+        ],
+        "transit": [
+          "https://www.ndsu.edu/",
+          "NDSU 校园"
+        ]
+      }
+    },
+    "und": {
+      "short": "北达科他大学",
+      "place": "大福克斯 · Grand Forks, ND 58202",
+      "cityKey": "grandforks",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Services（SHS）：2891 2nd Ave N，McCannel Hall Room 100，701-777-4500；University Counseling Center McCannel Hall Room 200，701-777-2127；专科与急诊转 Altru 等 Grand Forks 地区医疗机构。",
+      "commute": "主校区位于 Grand Forks 城区 Campus Road 一带；最近商业机场 Grand Forks International（GFK），备选 Hector International（FAR），跨州备选 Minneapolis-St. Paul（MSP）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1883 年创立的北达科他公立旗舰大学，医学、法学、航空、工程、商学、文理与艺术项目见长；校队 Fighting Hawks，参加 NCAA Division I，多数项目属 Summit League，橄榄球属 Missouri Valley Football Conference（FCS）。",
+      "safety": "University Police Department：3851 Campus Rd Stop 9035，701-777-3491，紧急 911，邮箱 UND.police@UND.edu；24/7 护送与蓝灯电话；校园边界外归 Grand Forks Police Department 与 Grand Forks County 辖区。",
+      "transit": "Grand Forks 本地公交与校方接驳串联校区；自驾沿 I-29 走廊；航空以 GFK 为主，FAR、MSP 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍与公寓分配；校外房源在 Grand Forks 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://und.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://und.edu/student-life/student-health/index.html",
+          "Student Health Services"
+        ],
+        "police": [
+          "https://campus.und.edu/safety/police/index.html",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://und.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://und.edu/student-life/student-health/index.html",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://und.edu/",
+          "UND 校园"
+        ]
+      }
+    },
+    "vcsu": {
+      "short": "谷城州立大学",
+      "place": "谷城 · Valley City, ND 58072",
+      "cityKey": "valleycity",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校园健康与心理咨询按当期学生健康页安排；基础门诊与咨询对接校内合作渠道；重症转 Valley City 及 Fargo 方向医疗机构。",
+      "commute": "主校区位于 Valley City 镇区 8th Avenue 一带；最近商业机场 Hector International（FAR），备选 Grand Forks International（GFK），跨州备选 Minneapolis-St. Paul（MSP）；区内出行以自驾为主。",
+      "scene": "北达科他公立大学，教育、商科、计算机、音乐与通识项目见长；校队 Vikings，参加 NAIA 北部星竞技联盟（NSAA）赛事。",
+      "safety": "Campus Safety 渠道负责校园巡逻、建筑安全与应急对接；紧急情况拨 911；校园边界外归 Valley City Police Department 与 Barnes County 辖区。",
+      "transit": "Valley City 小镇无城市公交干线；区内出行以步行、自驾为主；城际沿 I-94 走廊；航空经 FAR、GFK 衔接，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Valley City 镇区，房源有限；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.vcsu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.vcsu.edu/",
+          "学生服务栏目"
+        ],
+        "police": [
+          "https://www.vcsu.edu/",
+          "Campus Safety 栏目"
+        ],
+        "housing": [
+          "https://www.vcsu.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.vcsu.edu/",
+          "健康服务栏目"
+        ],
+        "transit": [
+          "https://www.vcsu.edu/",
+          "VCSU 校园"
+        ]
+      }
+    },
+    "arizona": {
+      "short": "亚利桑那大学",
+      "place": "图森 · 1130 E. University Blvd, Tucson, AZ 85721",
+      "cityKey": "tucson",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Campus Health Services：520-621-6490，课后 520-626-2051；Counseling & Psych Services（CAPS）520-621-7057；专科与急诊转 Tucson 地区医疗机构。",
+      "commute": "主校区位于 Tucson 城区 E. University Boulevard 一带；最近商业机场 Tucson International（TUS），跨州备选 Phoenix Sky Harbor（PHX）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1885 年创立的亚利桑那公立旗舰研究型大学，光学、天文、矿业、农学、医学、商学与文理项目见长；校队 Wildcats，参加 NCAA Division I 大十二联盟（Big 12）赛事。",
+      "safety": "University of Arizona Police Department（UAPD）：非紧急 520-621-8273（621-UAPD），紧急 911；SafeCats 应用与步行/驾车护送；校园边界外归 Tucson Police Department（520-791-6813）与 Pima County 辖区。",
+      "transit": "Tucson 本地公交（Sun Tran）与校方接驳串联校区；自驾沿 I-10、I-19 走廊；航空以 TUS 为主，PHX 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍与公寓分配；校外房源在 Tucson 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.arizona.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.arizona.edu/",
+          "学生健康保险栏目"
+        ],
+        "police": [
+          "https://uapd.arizona.edu/",
+          "University of Arizona Police Department"
+        ],
+        "housing": [
+          "https://www.arizona.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.arizona.edu/",
+          "Campus Health Services"
+        ],
+        "transit": [
+          "https://www.arizona.edu/",
+          "UA 校园"
+        ]
+      }
+    },
+    "asu": {
+      "short": "亚利桑那州立大学坦佩校区",
+      "place": "坦佩 · 1151 S. Palm Walk, Tempe, AZ 85281",
+      "cityKey": "tempe",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Health Services Tempe：451 E. University Drive，480-965-3349；提供初级保健、女性健康、疫苗与咨询；专科与急诊转 Tempe/Phoenix 地区医疗机构。",
+      "commute": "主校区位于 Tempe 城区 Palm Walk 一带；最近大型机场 Phoenix Sky Harbor（PHX），备选 Scottsdale Airport（SCF）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "亚利桑那公立旗舰研究型大学，工程、商学、传播、设计、可持续与文理项目见长；校队 Sun Devils，参加 NCAA Division I 大十二联盟（Big 12）赛事。",
+      "safety": "ASU Police Department：非紧急 480-965-3456，紧急 911；SafeRide 夜间护送 480-965-1515；校园边界外归 Tempe Police Department 与 Maricopa County 辖区。",
+      "transit": "Tempe 本地公交（Valley Metro）与校方接驳串联校区；自驾沿 I-10、US-60 走廊；航空以 PHX 为主，SCF 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍与公寓分配；校外房源在 Tempe 与 Phoenix 都会区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.asu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://eoss.asu.edu/health/contact",
+          "Health Services"
+        ],
+        "police": [
+          "https://www.asu.edu/police",
+          "ASU Police Department"
+        ],
+        "housing": [
+          "https://www.asu.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://eoss.asu.edu/health/contact",
+          "Health Services Tempe"
+        ],
+        "transit": [
+          "https://www.asu.edu/",
+          "ASU 校园"
+        ]
+      }
+    },
+    "asudigital": {
+      "short": "亚利桑那州立大学数字沉浸校区",
+      "place": "斯科茨代尔 · Scottsdale, AZ（Digital Immersion 在线/混合项目）",
+      "cityKey": "scottsdale",
+      "calShort": "在线/混合学期制；2026 秋、2027 春在线开课、加退课与成绩节点以 Registrar 当期在线校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "在线/混合学生健康与心理咨询对接 ASU Health Services 渠道及学生所在地医疗机构；远程门诊与咨询预约以当期学生服务页说明为准。",
+      "commute": "项目为 Digital Immersion 在线/混合形式，项目基地在 Scottsdale；学生所在地出入以居住地交通安排为准；最近大型机场 Phoenix Sky Harbor（PHX），备选 Scottsdale Airport（SCF）。",
+      "scene": "ASU 面向在线与混合学习学生的数字沉浸校区，与 Tempe 面授校区同属 ASU 体系、为不同学习落点；在线项目不设独立校队联盟体系。",
+      "safety": "在线/混合项目不设独立线下校园警务；人身安全应急对接学生所在地 911 与地方执法，校园安全渠道经 ASU Police 对接；网络安全与身份保护经 ASU IT 渠道对接。",
+      "transit": "无固定线下通勤；面授或集中活动时按 Scottsdale/Phoenix 都会区安排，自驾沿 Loop 101、US-101 走廊；航空以 PHX 为主，SCF 为备选。",
+      "rentnote": "在线学生一般自行安排居住地；如申请 ASU 校内住宿，对接 Residence Life 渠道；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.asu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://eoss.asu.edu/health/contact",
+          "Health Services"
+        ],
+        "police": [
+          "https://www.asu.edu/police",
+          "ASU Police Department 渠道"
+        ],
+        "housing": [
+          "https://www.asu.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://eoss.asu.edu/health/contact",
+          "Health Services 渠道"
+        ],
+        "transit": [
+          "https://www.asu.edu/",
+          "ASU Digital Immersion"
+        ]
+      }
+    },
+    "nau": {
+      "short": "北亚利桑那大学",
+      "place": "弗拉格斯塔夫 · 1200 S. Beaver St, Flagstaff, AZ 86011",
+      "cityKey": "flagstaff",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Health and Learning Center 一层医疗服务：928-523-2131；提供基础门诊、疫苗与心理咨询；专科与急诊转 Flagstaff 地区医疗机构。",
+      "commute": "主校区位于 Flagstaff 镇区 S. Beaver Street 一带，海拔约 7,000 英尺；最近支线机场 Flagstaff Pulliam Airport（FLG），跨州备选 Phoenix Sky Harbor（PHX），北向备选 Prescott Regional（PRC）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1899 年创立的亚利桑那公立综合大学，林业、教育、酒店管理、工程、健康与文理项目见长；校队 Lumberjacks，参加 NCAA Division I 大天空联盟（Big Sky）赛事。",
+      "safety": "NAU Police Department：Building 98A，525 E. Pine Knoll Drive，非紧急 928-523-3611，紧急 911，24/7 值守；校园边界外归 Flagstaff Police Department（928-774-1414）与 Coconino County 辖区。",
+      "transit": "Flagstaff 本地公交（Mountain Line）与校方接驳串联校区；自驾沿 I-17、US-89 走廊；航空以 FLG 为主，PHX、PRC 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍与公寓分配；校外房源在 Flagstaff 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://nau.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://nau.edu/",
+          "学生健康保险栏目"
+        ],
+        "police": [
+          "https://nau.edu/about/safety/police/",
+          "NAU Police Department"
+        ],
+        "housing": [
+          "https://nau.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://nau.edu/",
+          "Health and Learning Center"
+        ],
+        "transit": [
+          "https://nau.edu/",
+          "NAU 校园"
+        ]
+      }
+    },
+    "boisestate": {
+      "short": "博伊西州立大学",
+      "place": "博伊西 · 1910 University Drive, Boise, ID 83725",
+      "cityKey": "boise",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "University Health Services：Norco Building, 2nd Floor，1529 Belmont Street, Boise, ID 83706，208-426-1459；咨询服务 208-426-1601；专科与急诊转 Boise 地区医疗机构。",
+      "commute": "主校区位于 Boise 城区 University Drive 一带；最近机场 Boise Airport（BOI），北向备选 Spokane International（GEG），南向备选 Salt Lake City International（SLC）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1932 年创立的爱达荷公立综合大学，工程、商学、公共事务、健康教育与文理项目见长；校队 Broncos，参加 NCAA Division I 山地西部联盟（Mountain West）赛事。",
+      "safety": "Department of Public Safety（DPS）：24/7 值守，非紧急 208-426-6911，publicsafety@boisestate.edu，紧急 911；蓝灯应急电话直连 911 与 DPS 通信中心；校园边界外归 Boise Police Department 与 Ada County 辖区。",
+      "transit": "Boise 本地公交（Valley Ride）与校方接驳串联校区；自驾沿 I-84、US-20/26 走廊；航空以 BOI 为主，GEG、SLC 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍与公寓分配；校外房源在 Boise 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.boisestate.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.boisestate.edu/healthservices/",
+          "Health Services"
+        ],
+        "police": [
+          "https://www.boisestate.edu/publicsafety-security/",
+          "Department of Public Safety"
+        ],
+        "housing": [
+          "https://www.boisestate.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.boisestate.edu/healthservices/about-us/",
+          "University Health Services"
+        ],
+        "transit": [
+          "https://www.boisestate.edu/",
+          "BSU 校园"
+        ]
+      }
+    },
+    "isu": {
+      "short": "爱达荷州立大学",
+      "place": "波卡特洛 · 921 S. 8th Ave, Pocatello, ID 83209",
+      "cityKey": "pocatello",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "University Health Center：990 South 8th Ave, Pocatello, ID 83209，208-282-2330，healthcenter@health.isu.edu；Counseling and Mental Health Center Pocatello 208-282-2130；专科与急诊转 Pocatello 地区医疗机构。",
+      "commute": "主校区位于 Pocatello 城区 S. 8th Avenue 一带；最近支线机场 Pocatello Regional Airport（PIH），南向备选 Salt Lake City International（SLC），北向备选 Boise Airport（BOI）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1901 年创立的爱达荷公立综合大学，健康科学、药学、工程、教育、商学与文理项目见长；校队 Bengals，参加 NCAA Division I 大天空联盟（Big Sky）赛事。",
+      "safety": "Public Safety：Bldg #27，625 E Humbolt St, Pocatello, ID 83209，208-282-2515，pubsafe@isu.edu；紧急 911；校园边界外归 Pocatello Police Department 与 Bannock County 辖区。",
+      "transit": "Pocatello 本地公交（Pocatello Regional Transit）与校方接驳串联校区；自驾沿 I-15、US-30 走廊；航空以 PIH 为主，SLC、BOI 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍与公寓分配；校外房源在 Pocatello 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.isu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.isu.edu/healthcenter/",
+          "University Health Center"
+        ],
+        "police": [
+          "https://www.isu.edu/parking/",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://www.isu.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.isu.edu/healthcenter/services-pocatello--idaho-falls-and-meridian/",
+          "University Health Center"
+        ],
+        "transit": [
+          "https://www.isu.edu/",
+          "ISU 校园"
+        ]
+      }
+    },
+    "lcsc": {
+      "short": "刘易斯克拉克州立学院",
+      "place": "刘易斯顿 · 500 8th Avenue, Lewiston, ID 83501",
+      "cityKey": "lewistonid",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "学院不提供校方团体学生健康保单；持 F-1/J-1 等签证的国际学生、护理/放射技术专业学生与校队运动员须持有有效医疗保险并提交凭证；普通学生校方亦强烈建议自行投保。",
+      "ins2": "自行投保的学生须在保险窗口前提交保险证明；保单须覆盖在美停留全期并符合医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险选购与豁免咨询学生服务办公室；门诊对接 Warrior Health（Gritman 合作）；家属投保、牙科与眼科附加渠道以当期保险页说明为准，页面不写承保商名与费率。",
+      "clinic": "Warrior Health（Student Health Services）：Sam Glenn Complex 205，500 8th Avenue, Lewiston, ID 83501，208-792-2251；Student Counseling Center Sam Glenn 212，208-792-2211；专科与急诊转 Lewiston 地区医疗机构。",
+      "commute": "校区位于 Lewiston 城区 8th Avenue 一带（蛇河与清水河汇合处）；最近支线机场 Lewiston-Nez Perce County Airport（LWS），北向备选 Spokane International（GEG），西向备选 Boise Airport（BOI）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1893 年创立的公立文理学院，护理、教育、刑事司法、商业、人文与户外项目见长；校队 Warriors，参加 NAIA 赛事。",
+      "safety": "LC State Public Safety：24/7 值守，208-792-2815，负责停车、建筑安全、巡逻与事件记录；紧急 911；校园边界外归 Lewiston Police Department 与 Nez Perce County 辖区。",
+      "transit": "Lewiston 本地公交与校方接驳串联校区；自驾沿 US-12、US-95 走廊；航空以 LWS 为主，GEG、BOI 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Lewiston 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.lcsc.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.lcsc.edu/student-health/student-health-insurance",
+          "Student Health Insurance"
+        ],
+        "police": [
+          "https://www.lcsc.edu/",
+          "Public Safety 栏目"
+        ],
+        "housing": [
+          "https://www.lcsc.edu/residence-life/",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.lcsc.edu/student-health/clinic-services-information",
+          "Warrior Health"
+        ],
+        "transit": [
+          "https://www.lcsc.edu/",
+          "LC State 校园"
+        ]
+      }
+    },
+    "uidaho": {
+      "short": "爱达荷大学",
+      "place": "莫斯科 · 875 Perimeter Drive MS 3167, Moscow, ID 83844",
+      "cityKey": "moscowid",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Vandal Health Clinic：831 Ash St, Moscow 校区，208-885-6693，vhc@uidaho.edu；提供初级保健、疫苗与心理健康支持；专科与急诊转 Gritman Medical Center（208-882-4511）。",
+      "commute": "主校区位于 Moscow 镇区 Perimeter Drive 一带（爱达荷北部与华盛顿州交界）；最近机场 Pullman-Moscow Regional Airport（PUW），备选 Spokane International（GEG）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1889 年创立的爱达荷公立旗舰大学，农学、林业、工程、法学、药学、教育与文理项目见长；校队 Vandals，参加 NCAA Division I 大天空联盟（Big Sky）赛事。",
+      "safety": "Office of Public Safety and Security：Campus Security 24/7 值守 208-885-7233（SAFE），校警 208-882-5551；Safe Walk 夜间护送经 208-885-SAFE 安排；Moscow Police 非紧急 208-882-2677。",
+      "transit": "Moscow/Pullman 本地公交（STC）与校方接驳串联校区；自驾沿 US-95、ID-8 走廊；航空以 PUW 为主，GEG 为备选，班次以机场当期公布为准。",
+      "rentnote": "Housing and Residence Life 协助校内宿舍与公寓分配；校外房源在 Moscow 与 Pullman 城区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uidaho.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.uidaho.edu/student-resources/health-wellness/health-clinic",
+          "Vandal Health Clinic"
+        ],
+        "police": [
+          "https://www.uidaho.edu/student-resources/health-wellness/public-safety-security",
+          "Public Safety and Security"
+        ],
+        "housing": [
+          "https://www.uidaho.edu/student-life/housing/faq",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://www.uidaho.edu/student-resources/health-wellness/health-clinic",
+          "Vandal Health Clinic"
+        ],
+        "transit": [
+          "https://www.uidaho.edu/",
+          "U of I 校园"
+        ]
+      }
+    },
+    "ramapo": {
+      "short": "拉马波学院",
+      "place": "马瓦 · 1 Ramapo College Rd, Mahwah, NJ 07430",
+      "cityKey": "mahwah",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Health Services：Route 202 与 Hornbeam Road 转角（South Gate 附近），201-684-7536；心理咨询 Building D 二层 216；专科与急诊转 Mahwah 地区医院与急诊中心。",
+      "commute": "主校区位于 Mahwah 镇区 Ramapo College Road 一带（纽约州界附近）；最近枢纽 Newark Liberty（EWR），纽约方向备选 LaGuardia（LGA）与 JFK；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1969 年创立的新泽西公立文理学院，商学、护理、社会科学、人文、视觉与表演艺术项目见长；校队 Roadrunners，参加 NCAA Division III NJAC 赛事。",
+      "safety": "Public Safety Department：Bldg C-102，24/7 值守，201-684-6666（校内分机 6666），TDD 201-684-7011；紧急 911；Mahwah Police 非紧急 201-529-1000。",
+      "transit": "Mahwah 本地公交（NJ Transit / 巴士线）与校方接驳串联校区；自驾沿 I-287、Route 202 走廊；航空以 EWR 为主，LGA、JFK 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Mahwah、Ramsey 与 Suffern（NY）片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ramapo.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.ramapo.edu/health/",
+          "Health Services"
+        ],
+        "police": [
+          "https://www.ramapo.edu/publicsafety/",
+          "Public Safety Department"
+        ],
+        "housing": [
+          "https://www.ramapo.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.ramapo.edu/health/",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.ramapo.edu/",
+          "Ramapo 校园"
+        ]
+      }
+    },
+    "stockton": {
+      "short": "斯托克顿大学",
+      "place": "加洛韦 · 101 Vera King Farris Dr, Galloway, NJ 08205",
+      "cityKey": "galloway",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Services（Wellness Center）：West Quad 108，609-652-4701，wellctr@stockton.edu；免疫与病历 609-626-3416；专科与急诊转 AtlantiCare Regional Medical Center（Mainland 校区 609-652-1000）。",
+      "commute": "主校区位于 Galloway 镇区 Pomona Road 一带（大西洋城内陆）；最近支线机场 Atlantic City International（ACY），北向备选 Philadelphia International（PHL）与 Newark Liberty（EWR）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1969 年创立的新泽西公立大学，海洋科学、环境、商学、护理、传播与文理项目见长；校队 Ospreys，参加 NCAA Division III NJAC 赛事。",
+      "safety": "Stockton Police Department：Bldg 71，非紧急/调度 609-652-4390，紧急 911；校园边界外归 Galloway Township Police Department 与 Atlantic County 辖区。",
+      "transit": "Galloway 本地公交（NJ Transit / Atlantic City 线）与校方接驳串联校区；自驾沿 US-322、Garden State Parkway；航空以 ACY 为主，PHL、EWR 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residential Life 协助校内宿舍与公寓分配；校外房源在 Galloway、Pomona 与 Atlantic City 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.stockton.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.stockton.edu/wellness-center/health-services/",
+          "Student Health Services"
+        ],
+        "police": [
+          "https://www.stockton.edu/",
+          "Campus Police Department"
+        ],
+        "housing": [
+          "https://stockton.edu/residential-life/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.stockton.edu/wellness-center/health-services/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.stockton.edu/",
+          "Stockton 校园"
+        ]
+      }
+    },
+    "tcnj": {
+      "short": "新泽西学院",
+      "place": "尤英 · 2000 Pennington Rd, Ewing, NJ 08628",
+      "cityKey": "ewing",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Services：Eickhoff Hall 107，2000 Pennington Rd, Ewing, NJ 08628，609-771-2889；Counseling & Psychological Services 609-771-2247；专科与急诊转 Capital Health / RWJ / Princeton Medical Center。",
+      "commute": "主校区位于 Ewing 镇区 Pennington Road 一带（Trenton 西郊）；最近机场 Philadelphia International（PHL），北向备选 Newark Liberty（EWR），支线备选 Trenton-Mercer（TTN）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1855 年创立的新泽西公立文理学院，教育、工程、商学、护理、文理与艺术项目见长；校队 Lions，参加 NCAA Division III NJAC 赛事。",
+      "safety": "TCNJ Office of Campus Police Services：24/7 值守，紧急/非紧急 609-771-2345，紧急 911；校园边界外归 Ewing Township Police Department 与 Mercer County 辖区。",
+      "transit": "Ewing/Trenton 本地公交（NJ Transit）与校方接驳串联校区；自驾沿 I-95、US-1 走廊；航空以 PHL 为主，EWR、TTN 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residence Life 协助校内宿舍分配；校外房源在 Ewing、Trenton 与 Lawrence 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.tcnj.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://health.tcnj.edu/",
+          "Student Health Services"
+        ],
+        "police": [
+          "https://campuspolice.tcnj.edu/",
+          "Campus Police Services"
+        ],
+        "housing": [
+          "https://www.tcnj.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://health.tcnj.edu/faqs/faqsgeneral/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.tcnj.edu/",
+          "TCNJ 校园"
+        ]
+      }
+    },
+    "tesu": {
+      "short": "托马斯爱迪生州立大学",
+      "place": "特伦顿 · 111 W. State St, Trenton, NJ 08608",
+      "cityKey": "trentonnj",
+      "calShort": "在线/混合学制；2026 秋、2027 春注册、加退课与成绩节点以 Registrar 当期在线校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "面向成年学生的在线/混合大学，不设传统校内团体学生健康保单；持 F-1/J-1 等签证的国际学生须自行持有符合在美要求的医疗保险并保留凭证，家属保障另行购买。",
+      "ins2": "自行投保的学生须在保险窗口前提交保险证明；保单须覆盖在美停留全期并符合医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供学生服务办公室核验。",
+      "ins3": "保险选购与学籍证明咨询 Enrolled Services / Registrar（609-777-5680）；门诊对接学生所在地医疗机构；家属投保、牙科与眼科附加渠道以当期保险页说明为准，页面不写承保商名与费率。",
+      "clinic": "不设传统校内健康诊所；学生健康与咨询对接学生所在地医疗机构及学校学生服务渠道；注册与学籍咨询 Registrar 609-777-5680，enrolled@tesu.edu。",
+      "commute": "大学位于 Trenton 历史城区西州街一带，邻近州议会建筑群；以在线/混合学习为主，无固定通勤校园；集中活动时就近使用 Trenton 市区设施，航空备选 Trenton-Mercer（TTN）、Philadelphia（PHL）、Newark Liberty（EWR）。",
+      "scene": "1972 年创立、专注成年与在线学位完成的新泽西公立大学，护理与健康职业、商学、人文、STEM 与学分认证项目见长；无传统校队联盟体系。",
+      "safety": "不设独立校园警务；校区楼宇安全经 Facilities and Operations（609-984-1661）对接；人身安全应急拨 Trenton Police 911；网络安全与账号保护经 IT HelpDesk 渠道对接。",
+      "transit": "无固定线下通勤；Trenton 市区可乘 NJ Transit 铁路与巴士衔接 Philadelphia 与 Newark；自驾沿 US-1、I-95；航空以 TTN、PHL、EWR 为备选，班次以机场当期公布为准。",
+      "rentnote": "在线/混合学生一般自行安排居住地；如参加线下集中活动，住宿按当期安排对接；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.tesu.edu/student-resources/register-for-courses/undergraduate-registration.php",
+          "Registration & Registrar"
+        ],
+        "ins": [
+          "https://www.tesu.edu/contact-us.php",
+          "Contact Us"
+        ],
+        "police": [
+          "https://www.tesu.edu/contact-us.php",
+          "Facilities and Operations 渠道"
+        ],
+        "housing": [
+          "https://www.tesu.edu/",
+          "TESU 学生服务"
+        ],
+        "clinic": [
+          "https://www.tesu.edu/contact-us.php",
+          "Student Services 渠道"
+        ],
+        "transit": [
+          "https://www.tesu.edu/about/our-campus/directions.php",
+          "Campus Directions"
+        ]
+      }
+    },
+    "cwu": {
+      "short": "中央华盛顿大学",
+      "place": "埃伦斯堡 · 400 E University Way, Ellensburg, WA 98926",
+      "cityKey": "ellensburg",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Medical Clinic：11th 与 Poplar 转角（Meisner Hall 附近），509-963-1881；Student Counseling Services：Black Hall 225，509-963-1391；专科与急诊转 Kittitas Valley Hospital（603 S Chestnut St, Ellensburg, WA 98926）。",
+      "commute": "主校区位于 Ellensburg 城区 University Way 一带（喀斯喀特山间盆地 Kittitas County）；最近支线机场 Yakima Air Terminal（YKM），大型枢纽备选 Seattle-Tacoma（SEA）与 Spokane International（GEG）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1891 年创立的中华盛顿公立大学，商科、教育、航空科学、护理、计算机与文理项目见长；校队 Wildcats，参加 NCAA Division II GNAC 赛事。",
+      "safety": "University Police and Parking Services：Public Safety Building, 1211 N Wildcat Way；非紧急调度 509-925-8534，办公室 509-963-2959；紧急 911；校园边界外归 Ellensburg Police Department 与 Kittitas County（KITTCOM）辖区。",
+      "transit": "Ellensburg 本地公交与 CWU Transit（509-933-2287）串联校区；自驾沿 I-90 走廊；航空以 YKM 为主，SEA、GEG 为备选，班次以机场当期公布为准。",
+      "rentnote": "University Housing and New Student Programs 协助校内宿舍分配；校外房源在 Ellensburg 城区与山谷片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.cwu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.cwu.edu/medical-counseling/",
+          "Student Health & Counseling"
+        ],
+        "police": [
+          "https://www.cwu.edu/police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.cwu.edu/student-life/housing/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://www.cwu.edu/medical-counseling/",
+          "Medical Clinic"
+        ],
+        "transit": [
+          "https://www.cwu.edu/",
+          "CWU 校园"
+        ]
+      }
+    },
+    "ewu": {
+      "short": "东华盛顿大学",
+      "place": "切尼 · 1400 Independence St, Cheney, WA 99004",
+      "cityKey": "cheney",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Counseling and Wellness Services（CAPS）：509-359-2366，cws@ewu.edu；Health, Wellness & Prevention：509-359-4279；校内日常就医对接学生健康服务渠道，专科与急诊转 Spokane 地区医院。",
+      "commute": "主校区位于 Cheney 镇区 Independence Street 一带（Spokane 西南近郊）；最近大型机场 Spokane International（GEG），支线备选 Pullman-Moscow（PUW），远距备选 Seattle-Tacoma（SEA）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1882 年创立的东华盛顿公立大学，教育、护理、商科、STEM、健康职业与文理项目见长；校队 Eagles，参加 NCAA Division I FCS Big Sky 赛事。",
+      "safety": "EWU Police：101 Red Barn（609 W 7th St, Cheney, WA 99004），非紧急 509-359-7676，办公室 509-359-6498，police@ewu.edu；紧急 911；校园边界外归 Cheney Police Department 与 Spokane County 辖区。",
+      "transit": "Cheney/Spokane 本地公交（Spokane Transit）与校方接驳串联校区；自驾沿 US-195、I-90 走廊；航空以 GEG 为主，PUW、SEA 为备选，班次以机场当期公布为准。",
+      "rentnote": "University Housing 协助校内宿舍分配；校外房源在 Cheney 镇区与 Spokane 近郊片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ewu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://inside.ewu.edu/bewell/",
+          "Student Health & Wellness"
+        ],
+        "police": [
+          "https://inside.ewu.edu/police/",
+          "EWU Police"
+        ],
+        "housing": [
+          "https://inside.ewu.edu/housing/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://inside.ewu.edu/bewell/",
+          "Counseling and Wellness"
+        ],
+        "transit": [
+          "https://www.ewu.edu/",
+          "EWU 校园"
+        ]
+      }
+    },
+    "wsu": {
+      "short": "华盛顿州立大学",
+      "place": "普尔曼 · 335 NE Circle St, Pullman, WA 99164",
+      "cityKey": "pullman",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Cougar Health Services：Washington Building（邮寄 PO Box 642303, Pullman, WA 99164-2303）；Medical Clinic 509-335-3575，cougarhealth@wsu.edu；Counseling and Psychological Services 509-335-4511，课后危机 509-335-2159；急诊转 Pullman Regional Hospital / Gritman Medical Center（Moscow, ID）。",
+      "commute": "主校区位于 Pullman 城区 NE Circle Street 一带（东部高原、近爱达荷州界）；最近支线机场 Pullman-Moscow Regional（PUW），大型枢纽备选 Spokane International（GEG）与 Tri-Cities（PSC）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1890 年创立的华盛顿州土地授予大学，农业、工程、兽医、药学、商科与文理项目见长；校队 Cougars，参加 NCAA Division I Pac-12 赛事。",
+      "safety": "WSU Police：2201 E Grimes Way；非紧急调度 Whitcom 509-332-2521，PD 直拨 509-335-8548，police@wsu.edu；紧急 911；校园边界外归 Pullman Police Department 与 Whitman County 辖区。",
+      "transit": "Pullman 本地公交（Pullman Transit / WSU 接驳）串联校区；自驾沿 US-195、US-12 走廊；航空以 PUW 为主，GEG、PSC 为备选，班次以机场当期公布为准。",
+      "rentnote": "University Housing 协助校内宿舍分配；校外房源在 Pullman 城区与 Moscow（ID）跨河片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://wsu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://cougarhealth.wsu.edu/",
+          "Cougar Health Services"
+        ],
+        "police": [
+          "https://police.wsu.edu/",
+          "WSU Police"
+        ],
+        "housing": [
+          "https://housing.wsu.edu/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://cougarhealth.wsu.edu/",
+          "Cougar Health Services"
+        ],
+        "transit": [
+          "https://wsu.edu/",
+          "WSU 校园"
+        ]
+      }
+    },
+    "wwu": {
+      "short": "西华盛顿大学",
+      "place": "贝灵厄姆 · 516 High St, Bellingham, WA 98225",
+      "cityKey": "bellingham",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center：Campus Services 二层，2001 Bill McDonald Parkway（邮寄 516 High St MS 9132, Bellingham, WA 98225），360-650-3400，student.health@wwu.edu；Counseling & Wellness 360-650-3164；专科与急诊转 Whatcom 地区医院。",
+      "commute": "主校区位于 Bellingham 城区 High Street 一带（普吉特湾 Whatcom County）；最近支线机场 Bellingham International（BLI），大型枢纽 Seattle-Tacoma（SEA），跨境备选 Vancouver International（YVR，加拿大）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1893 年创立的华盛顿州西部公立大学，教育、环境科学、工程、商科、护理与文理项目见长；校队 Vikings，参加 NCAA Division II GNAC 赛事。",
+      "safety": "University Police：紧急 360-650-3911，非紧急 360-650-3555，匿名举报 360-650-7233，University.Police@wwu.edu；紧急 911；校园边界外归 Bellingham Police Department 与 Whatcom County 辖区。",
+      "transit": "Bellingham 本地公交（Whatcom Transportation Authority）与校方接驳串联校区；自驾沿 I-5 走廊；航空以 BLI 为主，SEA、YVR 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residential Life（Edens Hall 113，360-650-2960）协助校内宿舍分配；校外房源在 Bellingham 城区与 Fairhaven 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wwu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://studenthealth.wwu.edu/",
+          "Student Health Center"
+        ],
+        "police": [
+          "https://police.wwu.edu/",
+          "University Police"
+        ],
+        "housing": [
+          "https://housing.wwu.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://studenthealth.wwu.edu/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.wwu.edu/",
+          "WWU 校园"
+        ]
+      }
+    }
+  },
+  "EXTRA": {}
+}

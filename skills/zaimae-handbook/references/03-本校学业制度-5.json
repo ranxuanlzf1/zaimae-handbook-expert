@@ -1,0 +1,1985 @@
+{
+  "SCHOOL": {
+    "bgsu": {
+      "short": "鲍林格林州立大学",
+      "place": "鲍林格林 · 1001 E Wooster St, Bowling Green, OH 43403",
+      "cityKey": "bowlinggreen",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026 十五周常规段 8 月 24 日至 12 月 11 日：8 月 24 日开课当日退课 100% 退费；8 月 30 日为免学院批准加课最后日；8 月 31 日 80% 退费；9 月 6 日为免批准退课或改评分方式最后日；9 月 7 日 60% 退费，当日起退课记 W；9 月 14 日 40% 退费；9 月 21 日 0% 退费；9 月 7 日劳动节休课；10 月 5–6 日秋假；11 月 11 日老兵节休课；11 月 13 日为经学院批准退课最后日；11 月 14 日起退课记 F 或 WF；11 月 25–27 日感恩节假；12 月 4 日常规段最后上课日；12 月 7–11 日期末考试周；12 月 11 日博士帽与研究生院毕业典礼，12 月 12 日本科毕业典礼；12 月 16 日 17:00 成绩提交截止。Spring 2027 十五周段 1 月 11 日至 4 月 30 日：1 月 11 日开课 100% 退费；1 月 17 日免批准加课截止；1 月 18 日马丁·路德·金纪念日休课、80% 退费；1 月 24 日免批准退课截止；1 月 25 日 60% 退费并起记 W；2 月 1 日 40% 退费；2 月 8 日 0% 退费；3 月 1–5 日春假；4 月 2 日经学院批准退课最后日；4 月 3 日起退课记 F 或 WF；4 月 23 日最后上课日，其后不再允许退课；4 月 26–30 日期末考试周；4 月 30 日研究生院毕业典礼，5 月 1 日本科毕业典礼；5 月 5 日 17:00 成绩提交截止。七周、十一周等短班段退费与退课节点见校历对应表。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上注册；减修须经学业顾问与 International Programs and Partnerships 的 DSO 批准，并保持 SEVIS 合规口径。",
+      "drop": "加退课在 MyBGSU 办理；秋季 9 月 6 日、春季 1 月 24 日前可免学院批准退课；其后退费按 80%/60%/40%/0% 阶梯递减并记 W；9 月 21 日、2 月 8 日起不退费；秋季 11 月 13 日、春季 4 月 2 日为经批准退课最后日，其后退课记 F 或 WF；短期班段节点以当期校历各表为准。",
+      "ins1": "BGSU Student Health Insurance Plan，医疗由 UnitedHealthcare Student Resources 承保；国内生在 Bowling Green 主校每学期修读 8 学分及以上自动参保（通信、在线与远程课程不计入主校学分），Bowling Green 与 Firelands 校区的全部国际学生不论学分均须参保，除非符合豁免条件。",
+      "ins2": "电子保险卡经 UnitedHealthcare Student Resources 会员账户领取；国内 18 岁及以上学生在 MyBGSU 搜索 “student insurance requirement” 在线提交豁免并保存确认页，18 岁以下填写 Under 18 豁免表；国际学生不能网页自助豁免，须携带保险卡、BGSU 学生 ID 与保单信息，在周一至周五 8:00–17:00 ET 联系 Student Insurance Office 办理。",
+      "ins3": "替代保单须满足：年免赔额不高于 $500；每次病伤年度给付无上限（含处方药）；覆盖既往症；由美国持牌公司承保，具备美国理赔地址、美国电话并以美元赔付；保障覆盖整个学年；覆盖西北俄亥俄本地医疗与心理健康；遗体送返不低于 $25,000、医疗转运不低于 $50,000。豁免仅限政府或使馆担保、美国雇主投保或获批保单三类；家属（配偶、伴侣、26 岁以下子女）可经 UHCSR 自行投保；OPT 学生可参保。保险办 Falcon Health Center, Suite 202, 838 E. Wooster Street, Bowling Green, OH 43402；419-372-7495 / 419-372-4812；studentins@bgsu.edu；办公时间随预约安排，节假日关闭。",
+      "clinic": "Falcon Health Center，838 E. Wooster Street, Bowling Green, OH 43402；周一至周四 8:00–19:30，周五 9:30–16:30；419-372-2271；提供便利门诊、初级保健、免疫与旅行医学、皮肤筛查、化验与影像、针灸、脊椎按摩、物理治疗及全服务药房，并与 Wood County Hospital 合作转诊。心理咨询 Counseling Center，East Hall 101；419-372-2081；周一至周五 8:00–12:00、13:00–17:00；非危及生命的心理危机可拨 Wood County Crisis Line 419-502-4673，24/7/365。",
+      "commute": "主校位于 Bowling Green 城区东侧，1001 E Wooster St 一带；沿 I-75 北约 30 英里到 Toledo，南向接 Ohio Turnpike 通往 Columbus 与 Cleveland 方向；校园以步行为主，Orange、Brown、Yellow 三条校内班车线串联宿舍、教学楼与停车场。",
+      "scene": "鲍林格林州立大学 1910 年建校，公立综合研究型大学，由州立师范院校发展而来；Bowling Green 与 Firelands 两校区共 1,132 英亩、107 栋建筑；开设 200 多个本科专业；在校生 19,600 余名；全职教师 800 余名；校队为 NCAA Division I，属 MAC 联盟，昵称 Falcons，共 18 支校队；每年举办 440 余场艺术与文化活动；研究方向含大湖与流域研究、光化学科学、婚姻家庭研究与未来法医中心。",
+      "safety": "BGSU Police，办公地点 100 College Park Office Building；依俄亥俄州法典 ORC 3345.04 授权，24 小时、7 天、全年值守；24 名全职州认证警官，另有学生安全服务人员；紧急电话 911 或 419-372-2346；提供校园护送、车辆协助、安全教育与犯罪预防信息。校外辖区归 Bowling Green Police Division，175 West Wooster，419-352-2571；两机构签有互援协议，备勤 Wood County Sheriff's Department、Ohio State Patrol、BCI 与 FBI。",
+      "transit": "校内 Orange、Brown、Yellow 班车线按固定线路运行，Orange 线周日晚间经停 Walmart，周四至周六深夜经停 Main & Court St；International Programs and Partnerships 提供底特律都会机场（DTW）学期班车，上下车点为 Centrex Building shuttle stop（Lot A）；跨城以自驾与预约接驳为主。最近商业机场为 TOL（Toledo Express），北约 20–30 英里；DTW 约 100 英里；CLE 约 110 英里。",
+      "rentnote": "本科学生有两年住校要求；2026-27 cohort 每学期住宿费：Centennial、Falcon Heights、Founders 双/四人间 $4,340、单人间 $4,700、三人间 $3,500；Conklin、Kohl、McDonald、Offenhauer 双人间 $4,040、三人间 $3,100，McDonald 与 Offenhauer 单人间 $4,400；Kreischer 四人间 $3,380、三人间 $2,545；Falcon Landing 单间 $4,900；Village Townhouses 双人间 $4,400、单间 $4,900、三人间 $3,500；Founders Super Single $5,000。新生强制 Custom Plan 餐计划，老生可选 Traditional/AYCE 与 Retail 餐档，餐费另计、以 BGSU Dining 当期表为准；校外就近租 Bowling Green 城区，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.bgsu.edu/registration-records/academic-calendars/fall-academic-calendar.html",
+          "Fall 2026 Academic Calendar（含春季校历入口）"
+        ],
+        "ins": [
+          "https://www.bgsu.edu/student-insurance-program/international-students/",
+          "International Student Health Insurance"
+        ],
+        "police": [
+          "https://www.bgsu.edu/public-safety/bgsu-police",
+          "BGSU Police Department"
+        ],
+        "housing": [
+          "https://www.bgsu.edu/housing/housing-resources/housing-rates",
+          "Housing & Meal Plan Rates（2026-27 cohort）"
+        ],
+        "clinic": [
+          "https://falconhealth.org/",
+          "Falcon Health Center"
+        ],
+        "transit": [
+          "https://www.bgsu.edu/parking-services/shuttle-services/shuttle-routes.html",
+          "Shuttle Routes"
+        ]
+      }
+    },
+    "wrightlake": {
+      "short": "莱特州立大学莱克分校",
+      "place": "塞莱纳 · 7600 Lake Campus Drive, Celina, OH 45822",
+      "cityKey": "celina",
+      "calShort": "两学期制；参照 Wright State 校级校历，2026 秋 8 月 24 日、2027 春 1 月 11 日开课，分校日期以当期公布为准。",
+      "calendar": "参照 Wright State 2026-27 校级校历：Fall 2026 课程 8 月 24 日（周一）开始，100% 退费退课截止 9 月 4 日（周五），无成绩退课截止 9 月 18 日，记 W 截止 10 月 23 日；结课 12 月 5 日（周六），期末考试 12 月 7 日（周一）开始，12 月 11–12 日毕业典礼。Spring 2027 课程 1 月 11 日（周一）开始，100% 退费截止 1 月 22 日，无成绩退课截止 2 月 5 日，春假 3 月 1–7 日，记 W 截止 3 月 19 日；结课 4 月 24 日（周六），期末考试 4 月 26 日开始，4 月 30 日–5 月 1 日毕业典礼。莱克分校具体排课与日期以 Lake Campus 当期通知为准。",
+      "fulltime": "F-1 全日制注册口径以 UCIE 当期要求为准；减修（Reduced Course Load）须事先经 UCIE 审批并留存批准记录。",
+      "drop": "加退课经 Pilot 门户与 Enrollment Services 办理；100% 退费截止秋季 9 月 4 日、春季 1 月 22 日；记 W 截止秋季 10 月 23 日、春季 3 月 19 日；分校特殊安排以 Lake Campus 通知为准。",
+      "ins1": "Wright State Student Health Insurance Plan，Anthem Student Advantage 承保；F1/J1 国际学生自动参保，除非获批 waiver；莱克分校注册学生属同一资格体系，投保范围经保险办公室核验。",
+      "ins2": "保险咨询 Anthem Student Advantage 844-412-0752；Student Health Insurance Office，studenthealthinsurance@wright.edu；保险卡经 Anthem 会员账户领取。",
+      "ins3": "waiver 依据为本国财力担保或美国雇主、父母/配偶名下合格保险；QLE 31 天内联系办理；豁免窗口同校级可选服务截止日：秋季 9 月 4 日、春季 1 月 22 日。",
+      "clinic": "Student Health Services 主诊在 Dayton 校区，725 University Blvd, Fairborn, OH 45324，937-245-7200，预约制；莱克分校无驻校诊所，日常就诊可联系 Dayton SHS 预约；本地急症拨 911 或转 Celina 就近医院急诊。",
+      "commute": "校区位于 Celina 与 St. Marys 之间 Grand Lake St. Marys 湖岸，7600 Lake Campus Drive，103 英亩；近 SR-29 与 SR-703；距 Dayton 约 40 英里量级；县域无固定公交，出行依赖驾车。",
+      "scene": "Wright State University–Lake Campus 为 Wright State 的 103 英亩区域分校，湖畔校园，学生逾 1,000 名；提供可在分校全程完成的本科与研究生项目；校内为 townhouse 式公寓住宿；校际与社团活动见 Lake Campus 页面。",
+      "safety": "莱克分校无独立校警编制，安保对接 Wright State Police 体系；紧急拨 911，Dayton 通信台 937-775-2111；校区办公室 419-586-0300；校外归 Celina Police Department 与 Mercer County Sheriff 辖区。",
+      "transit": "Mercer 县域无固定公交线路，师生出行以驾车为主；校区邻 SR-29、SR-703，可接 US-33 与 I-75 方向；无城际铁路；最近机场 DAY 约 40–50 分钟量级。",
+      "rentnote": "校内住宿为 townhouse-style 公寓：单人卧室配 twin XL 床、书桌、椅与两抽屉衣柜，双人卧室配两套；社区内设洗衣房；2026-27 双人卧室 $2,880/学期，另收 Communications Fee $200；住户无餐计划强制要求，可在校园停车。校外租 Celina 镇区或 St. Marys 方向，无车难以出行；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wright.edu/enrollment-services/academic-calendar/fall-semester-2026",
+          "Wright State 校历（分校同栏目）"
+        ],
+        "ins": [
+          "https://www.wright.edu/student-affairs/advocacy-and-wellness/student-health-insurance/202627-student-health-insurance-plan",
+          "2026-27 学生健康保险计划"
+        ],
+        "police": [
+          "https://www.wright.edu/public-safety/police/dayton-campus-safety",
+          "Wright State 校园安全体系"
+        ],
+        "housing": [
+          "https://lake.wright.edu/campus-life/housing",
+          "Lake Campus 校内住宿"
+        ],
+        "clinic": [
+          "https://www.wright.edu/international-education/international-students/after-your-arrival-resources",
+          "到校资源与 Student Health Services"
+        ],
+        "transit": [
+          "https://lake.wright.edu/",
+          "Lake Campus 官网"
+        ]
+      }
+    },
+    "ucinci": {
+      "short": "辛辛那提大学",
+      "place": "辛辛那提 · 2600 Clifton Ave, Cincinnati, OH 45221",
+      "cityKey": "cincinnati",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026 学期 8 月 24 日–12 月 12 日；课程 8 月 24 日（周一）至 12 月 5 日；期末周 12 月 6–12 日；劳动节 9 月 7 日全校放假。Spring 2027 学期 1 月 11 日–4 月 29 日；课程 1 月 11 日（周一）至 4 月 23 日；马丁·路德·金纪念日 1 月 18 日；春假 3 月 15–21 日；期末安排在 4 月 23 日之后；毕业典礼日期以 Registrar 校历与 Commencement 公告为准。加退课截止、退费档位与 W 记法按当期校历和 Bursar 条款执行。",
+      "fulltime": "F-1 全日制注册口径以 UC International Services 当期要求为准；减修（Reduced Course Load）须事先经 International Services 审批并留存批准记录，未经批准不得低于全日制学分下限。",
+      "drop": "学期内加退课经 Catalyst 学生门户办理；退课逾期费、全额退费截止日与 W/WD 记法以 Registrar 校历和 Bursar 当期条款为准；健康原因减修须向 International Services 提交对应表格。",
+      "ins1": "UC Student Health Insurance Plan，医疗由 UnitedHealthcare Student Resources（uhcsr.com）承保，牙科经 Anthem 纳入计划；注册 Co-op 和/或 6 学分及以上学生符合投保资格并自动计入账单，国际学生须持该计划或同等合格替代保险。",
+      "ins2": "保险 ID 卡登录 uhcsr.com 账户领取；在 University Health Services 基础诊疗不另收就诊费；持其他合格保险者在 Catalyst 门户 To-Do List 提交在线 waiver，获批后当学年有效。",
+      "ins3": "豁免窗口以 Enrollment and Waiver Deadlines 页面公布的截止日为准；替代保单须等于或优于 UC 计划并覆盖在美停留；waiver 核验邮箱 Waiververification@uhcsr.com；保险与就诊咨询 UHS 513-556-2564。",
+      "clinic": "University Health Services，Lindner Athletic Center 3 层 335 室，2751 O'Varsity Way, Cincinnati, OH 45221；周一至周五 8:00–17:00（秋季周二延长至 19:00，药房与 X 光 17:00 关闭）；513-556-2564，传真 513-556-1337；提供基础诊疗、急症、预防保健、心理健康、女性健康、免疫接种、药房与 X 光；心理危机 CAPS 24/7 热线 513-556-0648，另可拨 988；急诊转诊至 University of Cincinnati Medical Center。",
+      "commute": "主校位于 Cincinnati Uptown/Clifton 高地片区，2600 Clifton Ave；自驾经 I-71、I-75 与 US-50 进城后转 Clifton Ave；距 Downtown Cincinnati 约 3–4 英里；校内步行圈密集，Clifton、University Heights 一带可步行，远区靠 Metro 公交或自驾。",
+      "scene": "1819 年建校，Carnegie R1 研究型公立大学；2026 秋约 54,437 名学生；学术覆盖文理、工程与应用科学、商、设计艺术与建筑、医学、护理、教育、艺术与传媒等门类，co-op 合作为办学传统；校队参加 NCAA Division I、Big 12 Conference，昵称 Bearcat，校色红黑。",
+      "safety": "University of Cincinnati Police Department（UCPD），公共安全办公室设于 Edwards Center 3；紧急拨 911，非紧急 513-556-1111，TDD/TTY 513-556-9933；夜间班车 NightRide 513-556-4997；校园设紧急呼叫点与护送服务；校外归 Cincinnati Police Department 辖区。",
+      "transit": "Cincinnati Metro（go-metro.com）固定线路经停 Uptown 与 UC 主校，36 路等连接 Price Hill、Uptown、Norwood；面向 UC 学生与员工有免费乘车项目；校内班车含 Uptown Express、COM Connector、Northwest、Northeast；无城际铁路直达，长途靠自驾或 Metro 转接；最近主要机场为 CVG，其次 DAY。",
+      "rentnote": "校内住宿社区：传统楼 Calhoun、Dabney、Daniels、Siddall；Junior Suite 社区 Marian Spencer、Stratford Heights；套房 CRC、Schneider、Turner；公寓 101 Corry、Bellevue Gardens、Gateway Lofts、Morgens、Scioto、USquare、UPA、The Verge。2026-27（TG2627 cohort）每学期：传统房房+餐多人入住 $7,273、单人 $7,966，纯房间多人 $4,497、单人 $5,190；Junior Suite 房+餐 $8,028/$8,461，纯房间 $5,252/$5,685；套房房+餐 $8,369/$8,706，纯房间 $5,593/$5,930；公寓房+餐 $8,680/$9,036/$9,304（私卫），纯房间 $5,904/$6,260/$6,528。持住宿合同的大一新生必须购买 Residential All-Access 餐计划。校外就近租 Clifton、Norwood、University Heights 一带，无车依赖 Metro；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uc.edu/about/registrar/calendars.html",
+          "校历（Registrar Calendars）"
+        ],
+        "ins": [
+          "https://med.uc.edu/landing-pages/studenthealth/faqs",
+          "学生健康保险 FAQ"
+        ],
+        "police": [
+          "https://ucdirectory.uc.edu/Emergency_Service.asp",
+          "校园应急与服务电话目录"
+        ],
+        "housing": [
+          "https://www.uc.edu/campus-life/housing/apply/rates.html",
+          "住宿与餐计划费率"
+        ],
+        "clinic": [
+          "https://med.uc.edu/landing-pages/university-health",
+          "University Health Services"
+        ],
+        "transit": [
+          "https://www.go-metro.com/mapsandschedules",
+          "Cincinnati Metro 线路图与班次"
+        ]
+      }
+    },
+    "clevstate": {
+      "short": "克利夫兰州立大学",
+      "place": "克利夫兰 · 2121 Euclid Avenue, Cleveland, OH 44115-2214",
+      "cityKey": "cleveland",
+      "calShort": "两学期制；2026 秋 8 月 24 日首个工作日上课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：学期 8 月 22 日开始，首个工作日上课为 8 月 24 日（周一）；8 月 28 日为加入候补名单最后日；8 月 30 日（周日）为 CampusNet 加课最后日；9 月 4 日（周五）为全额退费退课最后日；9 月 5 日起进入退课期并记 W；9 月 7 日劳动节休课兼普查日；10 月 13 日原住民日休课（办公室开放）；10 月 19 日期中评分截止；10 月 30 日为退课最后日；11 月 11 日老兵节休课；11 月 26–27 日感恩节假；12 月 4 日最后上课日；12 月 7–12 日期末考试周；12 月 12 日毕业典礼；12 月 15 日成绩提交截止，12 月 16 日学生可查成绩。Spring 2027：学期 1 月 9 日开始，首个工作日 1 月 11 日（周一）；1 月 15 日候补名单最后日；1 月 17 日加课最后日；1 月 18 日马丁·路德·金纪念日休课；1 月 22 日为全额退费退课最后日；1 月 23 日起退课记 W；2 月 15 日总统日休课；3 月 8 日期中评分截止；3 月 8–14 日春假；3 月 26 日退课最后日；4 月 30 日最后上课日；5 月 1–7 日期末考试周；5 月 8 日毕业典礼；5 月 11 日成绩提交截止，5 月 12 日学生可查成绩。ALT 短班段加退课与退费节点按班段长度调整，以 CampusNet 当期公布为准。",
+      "fulltime": "F-1 全日制按本科 12 学分及以上注册；减修须经学业顾问与 Center for International Services and Programs 的 DSO 批准，并保持 SEVIS 合规口径。",
+      "drop": "加退课在 CampusNet 办理；秋 8 月 30 日、春 1 月 17 日为加课最后日；秋 9 月 4 日、春 1 月 22 日前退课全额退费，其后退课记 W；秋 10 月 30 日、春 3 月 26 日为退课最后日；退费比例与 W 记法以 Registrar 校历和 Bursar 当期条款为准。",
+      "ins1": "CSU Student Health Insurance Plan，由 UnitedHealthcare Insurance Company 承保（Policy #2025-444-2）；全部 F-1、J-1 国际学生注册后账单自动计入保费，必须参保，除非符合豁免条件。",
+      "ins2": "经 CampusNet 的 Personal Data 板块进入 Health Insurance 选择计划；电子保险卡经 UnitedHealthcare Student Resources 门户查看；豁免提交 Waiver Portal 后须留存确认页；提交豁免不代表批准，账单上保费消失方为豁免成功；保险咨询 StudentBelonging@csuohio.edu。",
+      "ins3": "豁免仅限四类：美国政府、本国政府或联合国担保；父母在美工作、配偶在美工作或本人在美工作（雇佣关系须核验）；持 F-2 未成年家属须由其他保单覆盖家属；加拿大公民或居民。F-1 替代保单最低要求：医疗给付覆盖前 $250,000 费用的 80% 以上；遗体送返不低于 $10,000；医疗转运不低于 $15,000；日历年免赔额不高于 $500；共付或共保比例不超过 20%；承保公司具备相应评级并留有美国电话。所有国际学生须做结核筛查（QuantiFERON，回国检查须在六个月内），结果发 StudentBelonging@csuohio.edu 或交 SC 319。",
+      "clinic": "CSU Health Clinic，2112 Euclid Avenue, Room 205（CIMP 楼）；440-592-1900；CSUHealthCenter@metrohealth.org；RN 主导，由 MetroHealth 体系的虚拟护士执业与医生支持；虚拟初级保健周一至周五 7:00–19:00，虚拟急诊每日 7:00–22:00，院内护理支持周一至周五 8:00–17:00；服务含初级保健、当日急诊、健康咨询、免疫、化验与必要检测、行为健康转介。心理咨询 Counseling Center，1836 Euclid Avenue, Union Building Suite；216-687-2277；危机当日咨询周一至周五 13:00–15:00 免预约；危急情况拨 911，心理危机 988 热线 24/7。",
+      "commute": "校园位于克利夫兰市中心 Euclid Ave 走廊，2121 Euclid Avenue；东接 University Circle 美术馆与医院带，西连 Public Square 与湖畔；市内以步行与 RTA 公交为主，西南方向 Cleveland Hopkins 机场约 12 英里。",
+      "scene": "克利夫兰州立大学 1964 年建校，公立研究型大学；在校生 14,000 余名；下设 8 个学院与学校；175 个以上学术项目；每年提供 3,000 余个合作实习与体验学习机会；校队为 NCAA Division I，共 16 项运动，主场馆 Bert L. and Iris S. Wolstein Center，昵称 Vikings，多数项目属 Horizon League；校本部嵌入市中心，毗邻 Playhouse Square 剧院区。",
+      "safety": "CSU Police Department，Campus Safety Building, 1840 Chester Avenue, Cleveland, OH 44114；216-687-2020；police@csuohio.edu；24 小时、365 天值守；26 名宣誓全职警官，依 ORC 3345.04 授权，并与 City of Cleveland 签有互援协议；Community Safety Ambassadors 在校园内提供车辆与楼房间护送；通讯中心接入 LEADS 与 NCIC。校外归 Cleveland Police Department，紧急拨 911。",
+      "transit": "市内公交为 RTA（Greater Cleveland Regional Transit Authority），Euclid Corridor HealthLine 快速公交沿 Euclid Ave 串联校园、Public Square 与 University Circle；最近铁路站为 Cleveland Lakefront Station（Amtrak）；最近商业机场 Cleveland Hopkins International Airport（CLE），西南约 12 英里。",
+      "rentnote": "校内住宿分 Fenn Tower（一年级社区）、Euclid Commons（一、二年级社区）、The Edge on Euclid 与 The Langston（高年级社区）。2026-27 cohort 每学期：Fenn Tower Double $4,179、Quad $4,824（含冬假协议 Double $4,629、Quad $5,274）；Euclid Commons 4BD-2BA 私人 $5,306、3BD-2BA 私人 $5,306、3BD-2BA 共用 $5,046、1BD-1BA 私人 $6,010；The Edge Studio $6,650、1BD-1BA $8,000、2BD-2BA $5,700、4BD-4BA $4,745；The Langston Studio $6,500、1BD-1BA $7,925、2BD-2BA $5,700、3BD-3BA $5,195、4BD-4BA $4,745。餐计划经 Viking Food Co 办理，餐费另计；校外租房沿 Euclid Ave 与周边街区分布，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.csuohio.edu/registrar/academic-calendar",
+          "Academic Calendar（含 Spring 2027 入口）"
+        ],
+        "ins": [
+          "https://www.csuohio.edu/health/insurance-enrollment-and-waiver-for-international-students",
+          "Insurance Enrollment and Waiver for International Students"
+        ],
+        "police": [
+          "https://csuohio.edu/police/about",
+          "CSU Police Department About"
+        ],
+        "housing": [
+          "https://www.csuohio.edu/residence-life/2026-2027-cohort-rates",
+          "2026-2027 Cohort Rates"
+        ],
+        "clinic": [
+          "https://www.csuohio.edu/health",
+          "CSU Health Clinic"
+        ],
+        "transit": [
+          "https://www.riderta.com/",
+          "RTA 大克利夫兰公共交通"
+        ]
+      }
+    },
+    "osu": {
+      "short": "俄亥俄州立大学",
+      "place": "哥伦布 · 281 West Lane Avenue, Columbus, OH 43210",
+      "cityKey": "columbus",
+      "calShort": "两学期制；2026 秋 8 月 25 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Autumn 2026：缴费截止 8 月 18 日（周二）；学期与第一班段开课 8 月 25 日（周二）；9 月 7 日（周一）劳动节休课；第一班段最后上课日 10 月 12 日（周一），第一班段期末 10 月 13 日（周二）；10 月 15 日（周四）Autumn Break 休课（办公室开放）；第二班段开课 10 月 19 日（周一）；学期最后上课日 12 月 9 日（周三）；期末考试 12 月 11 日（周五）、12 月 14 日（周一）、12 月 15 日（周二）；秋季毕业典礼 12 月 20 日（周日）。Spring 2027：开课 1 月 11 日（周一）；普查日 1 月 25 日（周一）；第一班段最后上课日 2 月 26 日（周五），期末 3 月 1 日（周一）、3 月 2 日（周二）；第二班段开课 3 月 3 日（周三）；春假 3 月 15 日（周一）至 3 月 19 日（周五）；期末考试 4 月 28 日（周三）；春季毕业典礼 5 月 9 日（周日）。学期退费按校历四档：第一周五前 100%，第一周六至第二周五 75%，第二周六至第四周五 50%，第四周五之后退课不退费；W 与 F/WF 记法以 Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制：本科 12 学分及以上，研究生/职业项目 8 学分及以上；减修须经学业顾问与 Office of International Affairs 的 DSO 批准，并保持 SEVIS 合规口径。",
+      "drop": "加退课经 My Buckeye Link 办理；网注册时段关闭后加退课联系所在学院办公室；第一周五前退课全额退费，第一周六至第二周五退 75%，第二周六至第四周五退 50%，第四周五之后退课不退费；逾期账单按 Bursar 当期条款计滞纳金；具体 W 截止日以 Registrar 校历为准。",
+      "ins1": "OSU Student Health Benefits Plan（SHBP）；注册学分的国际学生第一学年学期初自动按 Student Only 档计入，保费自动上 Statement of Account，必须参保，除非符合豁免条件；仅在本国或海外修远程课程的国际学生不适用该计划，凭 I-94 申请移除费用。",
+      "ins2": "Enroll / Waive 在 Buckeye Link 内办理；2027 春季新生 Select / Waive 截止 1 月 8 日；电子保险卡经 Member ID 门户查看；符合条件的家属可在 Select / Waive 期加保；发生 Qualifying Event 须 31 天内提交加保表；就诊沟通经 My BuckMD 安全门户；保险咨询 shi_info@osu.edu、614-688-7979。",
+      "ins3": "豁免资格：政府全额担保且所购保单符合最低标准；作为美国雇员或美国雇员家属持美国保单；持永久居留绿卡。最低保单标准：年度给付无上限；年免赔不超过 $500；住院、门诊急诊、常规医疗、精神健康、处方药、免疫与筛查按美国合理常规费用 90% 赔付；不得排除既往症、自杀自伤、妊娠及相关治疗、STD/HIV/免疫缺陷、癌症、酒精或药物相关状况、休闲运动损伤；承保公司须在美国持牌、有美国理赔办公室与美国电话；保单覆盖整个学年或项目全程；在就读地点提供医疗与精神健康服务；不要求离美回国就医；含医疗转运与遗体送返费用。符合条件者在线提交 Petition to Waive，批准或拒绝通知发往 OSU 邮箱；提前抵达可申请最长 4 周 Early Arrival Coverage，按周比例收费，抵校后 3 个工作日内交表并附行程单。",
+      "clinic": "Wilce Student Health Center（Student Life Student Health Services），1875 Millikin Rd, Columbus, OH 43210-2200；614-292-4321；shs@osu.edu；经 My BuckMD 与医护安全通讯；Joint Commission 认证门诊，所有注册学生可用，SHIP 学生多数情况先在 Wilce 就诊；服务含初级保健、免疫、化验、药房、预防医学与健康咨询。心理咨询 Counseling and Consultation Service（CCS）：Younkin Success Center, 1640 Neil Ave 4 楼；Lincoln Tower, 1800 Cannon Dr, Suite 1030；614-292-5766；sl-ccs@osu.edu；工作日 8:00–17:00；心理危机拨 988。",
+      "commute": "主校位于哥伦布市北部 University District，High St、Lane Ave 与 Neil Ave 一带；南北向交通为 High St 与 Olentangy River Rd，东西向为 Lane Ave；东北方向 John Glenn Columbus 机场约 10 英里，驾车或公交接驳可达。",
+      "scene": "俄亥俄州立大学 1870 年立法建立、1873 年开课、1878 年改用现名，为公立赠地研究型大学；Autumn 2025 Columbus 校区总注册 61,326（本科 46,627）；下设 15 个学院，开设 200 个本科专业与 300 个硕士、博士及职业项目；36 支校队参加 NCAA Division I 与 Big Ten 联盟，昵称 Buckeyes；校区内有 Oval 草坪、Mirror Lake 与 Ohio Union 等传统地标。",
+      "safety": "OSU Police Division（OSUPD），Blankenship Hall, 901 Woody Hayes Dr, Columbus, OH 43210；非紧急 614-292-2121；police@osu.edu；CALEA 认证并获 Ohio Collaborative 执法认证；与 Columbus Division of Police 签有互援协议，联合巡逻校外 University District；2022 年 7 月起安排 3 名全职警官编入联合巡逻，2024 年夏扩至 4 名；校外归 Columbus Police Department，紧急拨 911。",
+      "transit": "市内公交为 COTA（Central Ohio Transit Authority）；校内 CABS（Campus Area Bus Service）免费，定期班次无需证件或车票，日间 On-Demand 覆盖 Olentangy River 以西区域；BuckID 可用于 Columbus 区域交通；哥伦布市区无 Amtrak 客运站，最近铁路站为 Cleveland Lakefront Station（Amtrak）；最近商业机场为 John Glenn Columbus International Airport（CMH），校园东北约 10 英里。",
+      "rentnote": "2026-27 cohort 标准住宿费每学期：Rate 1 $5,362.00；Rate 2 $4,467.00；Rate 2A $4,325.00；Rate 3 $4,175.00；Alumnae Scholarship Housing 单人间 $4,059.00、双人间 $3,971.00、双人间带卫浴 $4,059.00、三人间 $3,971.00；German House 单人间无餐 $4,117.00、German plan 双人间无餐 $3,833.00；Stadium Scholarship Program $3,539.00（须订餐计划）。另收 Hall Council Program $20/学期；学年制宿舍（冬假、春假开放）每年另加 $150；部分房间仅限老生；宿舍全家具、Wi-Fi、洗衣、学习休息室与公共厨房。餐计划经 Dining Services 办理，校内 30 余个餐饮点，餐费另计；校外租房集中 University District 周边街区，依赖 COTA/CABS 或驾车，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.osu.edu/academic-calendar/academic-calendar-5-year-view-2023-2028/",
+          "Academic Calendar 5-year view"
+        ],
+        "ins": [
+          "https://shi.osu.edu/",
+          "Student Health Insurance"
+        ],
+        "police": [
+          "https://police.osu.edu/",
+          "University Police"
+        ],
+        "housing": [
+          "https://housing.osu.edu/incoming-students/fees-contracts-policies/standard-housing-rates/",
+          "Standard Housing Rates"
+        ],
+        "clinic": [
+          "https://shs.osu.edu/about-us/",
+          "Student Health Services Contact"
+        ],
+        "transit": [
+          "https://ttm.osu.edu/cabs",
+          "CABS Campus Area Bus Service"
+        ]
+      }
+    },
+    "wright": {
+      "short": "莱特州立大学",
+      "place": "代顿 · 3640 Colonel Glenn Hwy, Dayton, OH 45435",
+      "cityKey": "dayton",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：宿舍 8 月 19–20 日入住，公寓 8 月 22 日入住；课程 8 月 24 日（周一）开始；8 月 28 日（周五）为无导师许可注册截止；9 月 4 日（周五）为 100% 学费退费退课截止，学生健康保险、法律援助、咨询等可选服务同日豁免截止；9 月 7 日劳动节闭校；9 月 18 日（周五）无成绩退课截止；10 月 23 日（周五）记 W 退课截止；11 月 11 日退伍军人节闭校；11 月 25 日无课，11 月 26–29 日感恩节闭校；结课 12 月 5 日（周六）；期末考试 12 月 7 日（周一）开始；宿舍 12 月 11 日关闭；12 月 11 日（周五）19:00 研究生院毕业典礼，12 月 12 日（周六）10:00 本科毕业典礼。Spring 2027：课程 1 月 11 日（周一）开始；1 月 22 日（周五）100% 退费与可选服务豁免截止；2 月 5 日（周五）无成绩退课截止；春假 3 月 1–7 日；3 月 19 日（周五）记 W 截止；结课 4 月 24 日（周六）；期末考试 4 月 26 日（周一）开始；4 月 30 日（周五）研究生院毕业典礼，5 月 1 日（周六）本科毕业典礼。",
+      "fulltime": "F-1 全日制注册口径以 Center for International Education（UCIE）当期要求为准；减修（Reduced Course Load）须事先经 UCIE 审批并留存批准记录。",
+      "drop": "加退课经 Pilot 门户与 Enrollment Services 办理；100% 退费截止秋季 9 月 4 日、春季 1 月 22 日；记 W 截止秋季 10 月 23 日、春季 3 月 19 日；逾期注册费 $100；退费比例与 W 记法按当期校历执行。",
+      "ins1": "Wright State Student Health Insurance Plan，Anthem Student Advantage 承保；F1/J1 国际学生自动参保，除非获批 waiver；其他符合条件学生可在学期第二个周五前自行参保。",
+      "ins2": "校内首诊去 Student Health Services；网络内 provider 经 anthem.com 查询；保险咨询 Anthem Student Advantage 844-412-0752，或 Student Health Insurance Office，studenthealthinsurance@wright.edu。",
+      "ins3": "waiver 依据为本国财力担保，或美国雇主、父母/配偶名下合格保险；失保、婚变等合格生活事件（QLE）须在 31 天内联系办理参保；豁免窗口同可选服务截止日：秋季 9 月 4 日、春季 1 月 22 日。",
+      "clinic": "Student Health Services，Wright State Physicians Health Center, 725 University Blvd, Fairborn, OH 45324；937-245-7200；预约制，预约时注明 Student Health Services；Dayton 校区学生首选首诊；急症拨 911 或就近医院急诊；心理与well-being 资源见 Student Affairs 页面。",
+      "commute": "主校位于 Dayton 东北郊 Colonel Glenn Hwy，3640 Colonel Glenn Hwy；距 Dayton 市中心约 8 英里，近 I-675 与 Wright-Patterson AFB；校园步行圈密集，跨区靠 Dayton RTA 或驾车。",
+      "scene": "1964 年建校，纪念航空先驱莱特兄弟，Carnegie 研究型公立大学；逾 11,000 名学生，提供 340 余个本科、研究生、博士与职业项目，设六大学院与 Boonshoft 医学院；工程与计算机、医学、商、教育、护理、文理见长；校队参加 NCAA Division I、Horizon League，昵称 Raiders。",
+      "safety": "Wright State University Police Department，108 Allyn Hall；紧急拨 911，通信台与非紧急 937-775-2111（校内电话 x2111），行政办公室 937-775-2056；24/7 值守，校园设紧急电话并提供全天候护送；大学 property 内警务为主管辖，校外归 Fairborn 与 Dayton 辖区。",
+      "transit": "Greater Dayton RTA（iriderta.org）Route 1 等线路连接 Wright State 与 Wright Stop Plaza 市中心；RTA Connect On-Demand 4 区覆盖 Wright-Patterson AFB A/B 区、空军博物馆与 Wright State Student Union；常规票价 $2.40；无城际铁路直达；最近主要机场 DAY。",
+      "rentnote": "校内住宿：Hamilton Hall、The Woods（含 Jacob Hall）、Honors Community、Forest Lane Apartments、University Park Apartments、The Village Apartments。2026-27 每学期房费：Hamilton Hall Double $2,878、Double Deluxe $3,129、Super Single $3,377；Honors Double $2,878、Super Single $4,665；The Woods Double $2,878、Single $4,243、Super Single（Jacob Hall）$5,401；Forest Lane Studio $2,991；University Park Quad $2,616、Quad 单人 $2,092；The Village Efficiency $3,212；另收 Communications Fee $200、Activity Fee $60。Woods、Honors、Hamilton Hall 住户每学期必须 residential 餐计划：Platinum $2,350、Gold $2,000（默认）、Silver $1,500、Bronze $990，餐档另加 $203 Hospitality/Residential Services Fee；通勤生可选 Dining Dollars。校外租 Fairborn 或 Dayton 东北郊，无车依赖 RTA；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wright.edu/enrollment-services/academic-calendar/fall-semester-2026",
+          "校历（Fall 2026 与 Spring 2027 同栏目）"
+        ],
+        "ins": [
+          "https://www.wright.edu/student-affairs/advocacy-and-wellness/student-health-insurance/202627-student-health-insurance-plan",
+          "2026-27 学生健康保险计划"
+        ],
+        "police": [
+          "https://www.wright.edu/public-safety/police/dayton-campus-safety",
+          "Dayton 校园安全与校警"
+        ],
+        "housing": [
+          "https://www.wright.edu/enrollment-services/accounts-and-bills/wright-guarantee-2026-27-tuition-housing-and-meal-plans",
+          "2026-27 住宿与餐计划费率"
+        ],
+        "clinic": [
+          "https://www.wright.edu/international-education/international-students/after-your-arrival-resources",
+          "到校资源与 Student Health Services"
+        ],
+        "transit": [
+          "https://www.iriderta.org/",
+          "Dayton RTA 官网"
+        ]
+      }
+    },
+    "miamiham": {
+      "short": "迈阿密大学汉密尔顿分校",
+      "place": "汉密尔顿 · 1601 University Blvd, Hamilton, OH 45011",
+      "cityKey": "hamilton",
+      "calShort": "两学期制；参照 Miami 校级校历，2026 秋 8 月 24 日、2027 春 1 月 25 日开课，区域校区日期以当期公布为准。",
+      "calendar": "参照 Miami University 2026-27 校级校历：Fall 2026 课程 8 月 24 日（周一）开始，全额退费退课截止 8 月 28 日 23:59 ET，秋假 10 月 9–11 日，结课 12 月 4 日（周五），期末周 12 月 7–11 日；Spring 2027 课程 1 月 25 日（周一）开始，全额退费退课截止 1 月 29 日 23:59，春假 3 月 22–28 日，结课 5 月 7 日（周五），期末周 5 月 10–14 日；汉密尔顿校区具体开课、退课截止与毕业典礼安排以 Regionals 当期校历为准。",
+      "fulltime": "F-1 全日制注册口径以 ISSS 当期要求为准；区域校区减修（Reduced Course Load）须事先经 ISSS 审批并留存批准记录。",
+      "drop": "学期内加退课经 Banner Self Service 办理；记 W 截止、退费档位与逾期费按校级校历和 One Stop 当期政策执行；区域校区特殊安排见 Regionals 通知。",
+      "ins1": "学生健康保险计划口径同 Miami University；注册至少 1 门课的区域校区学生可使用 Student Health Services 门诊；保险强制范围与投保资格经 SHS 与 One Stop 核验。",
+      "ins2": "保险 ID 卡经 UHCSR 会员账户领取；持其他合格保险者按校级 waiver 流程在截止日前在线提交证明；保险 advocate 邮箱 MUInsuranceAdvocate@UHCSR.com。",
+      "ins3": "豁免窗口与替代保单条件同校级：保单须等于或优于 MU 计划并覆盖在美停留；区域校区保险细则以 SHS 当期页面为准；就诊咨询 SHS 513-529-3000。",
+      "clinic": "Student Health Services 主诊在 Oxford Health Services Center, 421 South Campus Avenue, Oxford, OH 45056；513-529-3000，传真 513-529-1892，shsMiami@TriHealth.com；汉密尔顿校区学生属 eligible 范围；本地急症拨 911 或转 Hamilton 当地医院急诊。",
+      "commute": "校区位于 Hamilton 市东，1601 University Blvd；近 US-127 与 OH-4，接 I-75；距 Cincinnati 约 25 英里、Dayton 约 35 英里量级；通勤为主，步行圈限于校园与周边少量街区。",
+      "scene": "Miami University Regionals 汉密尔顿通勤校区，紧凑校园；提供学士、副学士学位与多数四年制学位的起始课程；小班教学、校内 childcare、灵活排课；学术归属 College of Liberal Arts and Applied Science；学生组织与健身空间见 Regionals Campus Life。",
+      "safety": "区域校区无驻校警；Campus Security 513-785-3222；紧急拨 911；区域 Dean of Students 513-785-3128、Assistant Dean 513-785-3211；校外归 Hamilton Police Department（513-868-5811）辖区。",
+      "transit": "BCRTA R1 Hamilton/Middletown Shuttle 经 State Route 4 与 Market Street Hub；R3 连接 Chestnut Street Station、Hamilton、Fairfield、Forest Park；公交班次有限，通勤以驾车为主；无城际铁路；最近机场 DAY 与 CVG 约 1 小时量级。",
+      "rentnote": "汉密尔顿为通勤校区，无校内宿舍或学生住房，学生自行安排住房、餐饮与交通；校外租 Hamilton 市区或 Fairfield 方向，无车依赖 BCRTA 或须驾车；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://aims.miamioh.edu/academic-programs/academic-calendar/2026-2027.html",
+          "Miami 2026-2027 校历"
+        ],
+        "ins": [
+          "https://www.miamioh.edu/student-life/student-health-service/student-insurance/appeals/",
+          "学生健康保险与豁免"
+        ],
+        "police": [
+          "https://www.miamioh.edu/life-at-miami/university-safety/annual-report/index.html",
+          "年度安全与消防安全报告（含区域校区）"
+        ],
+        "housing": [
+          "https://www.miamioh.edu/global-initiatives/isss/orientation/regionals-pre-arrival-checklist.html",
+          "区域校区到校与住宿安排清单"
+        ],
+        "clinic": [
+          "https://miamioh.edu/life-at-miami/health-well-being/student-health-services/about/",
+          "Student Health Services 介绍"
+        ],
+        "transit": [
+          "https://www.butlercountyrta.com/park-ride/",
+          "BCRTA 区域线路"
+        ]
+      }
+    },
+    "kent": {
+      "short": "肯特州立大学",
+      "place": "肯特 · 1025 Risman Dr., Kent, OH 44242",
+      "cityKey": "kent",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：国际新生 orientation 8 月 19 日（周三），研究生 orientation 8 月 20 日（周四）；开课 8 月 24 日（周一）；self-add 最后日 8 月 30 日（周日）；9 月 7 日（周一）劳动节休课并为普查日；W 前退课最后日 9 月 6 日（周日）；9 月 7 日至 11 月 1 日退课记 W；$100 迟注册费自 8 月 31 日起计；期中评分 9 月 14 日至 10 月 11 日，期中成绩 FlashFAST 10 月 13 日发布；Fall Break 10 月 8 日（周四）至 10 月 11 日（周日）；老兵节 11 月 11 日（周三）；感恩节假 11 月 25 日（周三）至 11 月 29 日（周日）；结课 12 月 13 日（周日）；期末考试 12 月 14 日（周一）至 12 月 20 日（周日）；秋季典礼 12 月 18 日（周五）至 12 月 19 日（周六）；期末成绩 12 月 21 日 23:59 截止、12 月 22 日处理、12 月 23 日可查；冬假 12 月 24 日至 12 月 31 日。Spring 2027：国际生与研究生 orientation 1 月 14 日（周四）；MLK 纪念日 1 月 18 日（周一）；开课 1 月 19 日（周二）；self-add 最后日 1 月 25 日（周一）；普查日 2 月 2 日；退课记 W 区间 2 月 2 日至 4 月 5 日；退课最后日 4 月 5 日；$100 迟注册费自 1 月 26 日起计；期中评分 2 月 8 日至 3 月 7 日；春假 3 月 15 日（周一）至 3 月 21 日（周日）；Remembrance Day 5 月 4 日（周二）正午至 14:00 不安排考试；结课 5 月 9 日（周日）；期末考试 5 月 10 日（周一）至 5 月 16 日（周日）；春季典礼 5 月 13 日（周四）至 5 月 16 日（周日）；期末成绩 5 月 18 日 23:59 截止、5 月 19 日处理。退费按周递减：开课日前 100%，第 1 周 100%，第 2 周 80%，第 3 周 65%，第 4 周 60%，第 4 周结束后不退费。",
+      "fulltime": "F-1 全日制：本科 12 学分及以上，研究生 8 学分及以上；减修须经学业顾问与 ISSS 的 DSO 批准，并保持 SEVIS 合规口径。",
+      "drop": "加退课经 FlashLine 学生门户办理；逾期注册收 $100 迟注册费；开课日前至第 1 周退课全额退费，第 2 周退 80%，第 3 周退 65%，第 4 周退 60%，第 4 周结束后不退费；Fall 记 W 区间 9 月 7 日至 11 月 1 日，Spring 记 W 区间 2 月 2 日至 4 月 5 日；退课截止日与 W 记法以当期校历为准。",
+      "ins1": "Kent State Student Health Insurance Plan（SHIP），2026-27 承保方为 UnitedHealthcare Student Resources；注册 1 学分及以上、在 KSU 校区就读的国际学生强制参保，保费随账单计入，除非符合豁免条件。",
+      "ins2": "加保与豁免门户为 studentcenter.uhcsr.com/kent；研究生助理经 requestcoverage.uhcsr.com/kent 办理；2026-27 国际生费率：全年 $3,032.00、Fall $1,254.00（2026/8/18–2027/1/17）、Spring/Summer $1,778.00（2027/1/18–2027/8/22）、Summer $803.00（2027/5/17–2027/8/22）；电子保险卡经 UHCSR 学生中心门户查看；保险咨询 Insurance & Billing 330-672-8251、insbilling@kent.edu。",
+      "ins3": "豁免仅两类：政府机构全额担保且保单含健康保险（资金担保须开到学期末）；美国雇主提供的健康保险。Spring/Summer 2027 开放加保与豁免期为 2026/12/14–2027/2/12；替代保单须满足 SHIP 同等保障标准并经核验；承保客服 UHCSR 1-800-767-0700；豁免细则见 Global Education 保险与疫苗页面。",
+      "clinic": "DeWeese Health Center，1500 Eastway Drive, Kent, OH 44242；330-672-2322；工作日 8:00–17:00；AAAHC 认证；服务含初级保健、妇科、性健康、免疫、化验与 X 光、药房、精神科；接受学生 major 保险，自费可付。心理咨询 CAPS（Counseling and Psychological Services），Van Campen Hall；330-672-2487；预约工作日 8:00–17:00；课后拨 330-672-2487 转 option 3 接 AllOne Health Student Assistance；心理危机拨 988；另有受督研究生咨询师的 The Counseling Center 与 Psychological Clinic。",
+      "commute": "主校位于俄亥俄东北部 Kent 市，丘陵湖沼地带；校园紧邻 Kent 市中心，南北向 SR 261（Wilson Ave）与东西向 SR 59（Kent-Ravenna Rd）穿接城区；经 I-76 向西接 Akron、向东接 Youngstown，向北上 SR 8 与 Ohio Turnpike 接 Cleveland；距 Cleveland 约 40 英里、Akron 方向约 15 英里量级，校园到 CAK 机场约 15 英里。",
+      "scene": "肯特州立大学 1910 年建校，以培养教师起家，现为俄亥俄北部领先的公立研究型大学；八校区体系共有 31,500 余名学生，每年毕业 7,000 余人；开设 340 余个本科项目与 210 余个研究生项目；Kent 主校园占地 1,400 余英亩，350 余个学生组织，24 座宿舍、6 个主题社区与 19 个餐饮点；19 支校队参加 NCAA Division I 与 MAC East 联盟，昵称 Golden Flashes（足球属 FBS）。",
+      "safety": "Kent State University Police Services，Stockdale Safety Building, 530 East Summit Street, Kent, OH 44242；非紧急 330-672-3070；通讯中心 330-672-2212；紧急拨 911；24/7 值守；校园内设蓝灯应急电话；校外归 Kent Police Department 与 Portage County 警长办公室管辖。",
+      "transit": "本地公交为 PARTA（Portage Area Regional Transportation Authority），15 条固定线路覆盖 Kent、Akron、Stow、Streetsboro、Ravenna 等 Portage County 区域；工作日 6:00–23:00，周六 8:00–19:30；校区周边站点经 PARTA 线路接驳；城际靠自驾或长途客运，Kent 本地无 Amtrak 客运站；最近商业机场为 Akron-Canton（CAK），其次为 Cleveland Hopkins（CLE）与 Pittsburgh（PIT）。",
+      "rentnote": "2026 cohort 校内住宿费为提案费率，待 Board of Trustees 批准，每学期计：Eastway（Allyn/Clark/Fletcher/Manchester）、Korb、Quad Lake/Olson、Tri-Towers（Wright/Koonce）、New Front Dunbar/Prentice 双人间 $4,335、单人间 $4,895、双人间私浴 $5,085、单人间半浴 $5,035、Transitional $3,105；Quad Stopher/Johnson 双人间私浴 $5,085、三人间私浴 $4,540；Leebrick/Prentice 单人间 $4,895、豪华单人间 $5,280；Twin Towers Beall/McDowell 两居室套间共享浴 $5,665、双人间私浴 $5,085、单人间共享浴 $5,400、单人间私浴 $5,540；Engleman Apartments 单人间 Studio $5,915、单人间公寓 $6,150、双人间豪华公寓 $5,355、四居室公寓 $5,910。餐计划 2026 cohort 每学期：Gold $3,318、Blue $2,845、Summer 30 Block $430；住校资格与房间分配经 Housing 办理。校外租房集中 Kent 城区与 Tallmadge、Stow 方向，依赖 PARTA 或驾车；租金随区位户型浮动，按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.kent.edu/fbe-center/fall-semester-2026-calendar-important-dates",
+          "Fall Semester 2026 Calendar & Important Dates"
+        ],
+        "ins": [
+          "https://www.kent.edu/deweese/ship",
+          "Student Health Insurance Plan"
+        ],
+        "police": [
+          "https://www.kent.edu/internal/reporting-emergency-or-crime",
+          "Reporting an Emergency or Crime"
+        ],
+        "housing": [
+          "https://www.kent.edu/housing/housing-and-meal-plan-rates",
+          "Housing and Meal Plan Rates"
+        ],
+        "clinic": [
+          "https://www.kent.edu/mentalhealth",
+          "Mental Health Services"
+        ],
+        "transit": [
+          "https://www.partaonline.org/ride-parta",
+          "PARTA Fixed Route Service"
+        ]
+      }
+    },
+    "oulancaster": {
+      "short": "俄亥俄大学兰开斯特分校",
+      "place": "兰开斯特 · 1570 Granville Pike, Lancaster, OH 43130",
+      "cityKey": "lancasteroh",
+      "calShort": "两学期制，区域校区同主校历；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "区域校区与 Athens 主校共用 Production Calendar 2026-27。Fall 2026-27：8 月 20 日为修读先修课截止，8 月 23 日为取消注册、移除全部课程与费用最后日，课程 8 月 24 日（周一）开始；8 月 28 日免教师批准加课截止，9 月 4 日经批准加课截止；9 月 5 日起退课记 WP/WF/WN 且不退费；个人课程退课最后日 10 月 30 日；学位授予日 12 月 12 日。Spring 2026-27：1 月 7 日修读先修课截止，1 月 10 日取消注册最后日，课程 1 月 11 日（周一）开始；1 月 15 日免批准加课截止，1 月 22 日经批准加课截止，1 月 23 日起退课记 WP/WF/WN 且不退费；个人课程退课最后日 3 月 26 日；学位授予日 4 月 30 日、5 月 1 日与 5 月 8 日；春假、感恩节假期与毕业典礼具体时刻以 Registrar 公布的当期校历为准。",
+      "fulltime": "本科全日制按 12 学分及以上注册；F-1 学生减修或退至全日制以下须先经 ISSS 顾问批准，并保持 SEVIS 合规口径。",
+      "drop": "加退课在 MyOHIO Student Center 办理；开学第一日至第二周周五之间正式退退可退 80% 学费与费用，第二周周五之后不退费；个人课程退课最后日为秋 10 月 30 日、春 3 月 26 日；WP/WF/WN 记法与退费比例以 Registrar 校历和 Bursar 当期条款为准。",
+      "ins1": "俄亥俄大学区域校区学生不自动纳入校方保险；注册 9 学分及以上方可参加校方学生保险；国际学生在所有校区均须持有 Ohio University 学生意外险与医疗险，除非符合豁免条件。",
+      "ins2": "电子保险卡经 UnitedHealthcare Student Resources 会员账户领取；替代合格保单的豁免申请经 Office of International Student and Scholar Services（ISSS）在截止日前提交；区域校区保险入学信息联系本校 Student Services。",
+      "ins3": "2026/27 豁免截止：秋 2026 年 9 月 11 日、春 2027 年 1 月 29 日、夏 2027 年 5 月 28 日；替代保单须 ACA 合规、免赔额不高于 $500、支付比例不低于 75%、既往症无等待期；国际生另须医疗转运不低于 $50,000、遗体送返不低于 $25,000；Campus Care 保险办公室 740.597.1816，周一至周五 10:00–14:00；豁免核验经 ISSS。",
+      "clinic": "本校区不设主校式 Campus Care 实体门诊；Student Services 提供学业顾问、辅导、无障碍服务、职业支持与心理健康资源；区域校区与 OHIO Online 学生可使用 TimelyCare 24/7 虚拟健康平台；线下诊疗转诊至 Athens Campus Care 或 Lancaster 当地医疗机构。",
+      "commute": "校区在 Fairfield County Lancaster 城北 Route 37 沿线，占地 113 英亩，Brasee Hall 与 Herrold Hall 为主要建筑；另有 Pickerington Center 服务北部 Fairfield County 与 Franklin County；自驾沿 US-33 与 OH-37，Columbus 方向约 30 英里量级；学生以通勤为主。",
+      "scene": "俄亥俄大学兰开斯特分校 1956 年设立，属俄亥俄大学区域校区，每学期约 2,600 名学生，开放式招生；Brasee Hall 与 Herrold Hall 内设教室、实验室、教师办公室、图书馆、画室、画廊、体育馆、剧场、舞蹈室与学生休息室；提供会计技术、社会科学与文科副学士、理学副学士、商业管理、儿童发展、计算机科学、电子媒体、工程技术、人类服务、个体化研究、执法、医疗助理等副学士，以及应用管理、传播研究、刑事司法、早期与中期儿童教育、健康服务管理、历史、人类生物学、社会工作、专项研究、运动与生活方式研究、技术与应用研究等本科专业；区域校区不设 D1 校队，不套用主校 Bobcats 校队口径。",
+      "safety": "区域校区未设独立校警；校园安全事项联系本校 Student Services；校外辖区归 Lancaster Police Department 与 Fairfield County Sheriff's Office；紧急拨 911；夜间在校园与停车场照明区域结伴通行。",
+      "transit": "通勤为主，学生多自驾；本地公交班次有限；城际出行靠驾车或长途接驳；最近商业机场为 John Glenn Columbus International Airport（CMH），Columbus 方向约 30 英里量级。",
+      "rentnote": "区域校区不设校内宿舍，也不设住校餐计划；学生通勤居住在 Lancaster 城区，或自行在 Pickerington、Columbus 东南郊租房，出行依赖驾车；校外租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ohio.edu/registrar/academic-calendar/production-calendars/production-calendar-2026-27",
+          "Production Calendar 2026-27（Athens 与各区域校区）"
+        ],
+        "ins": [
+          "https://www.ohio.edu/student-insurance/waiver",
+          "学生健康保险豁免说明与截止日"
+        ],
+        "police": [
+          "https://www.ohio.edu/lancaster",
+          "OHIO Lancaster 校园与 Student Services 入口"
+        ],
+        "housing": [
+          "https://www.ohio.edu/bursar/ohio-guarantee/2026-2027",
+          "The OHIO Guarantee 2026-27 区域校区学费费率"
+        ],
+        "clinic": [
+          "https://www.catalogs.ohio.edu/content.php?catoid=75&navoid=6365",
+          "Regional Higher Education 区域校区服务目录"
+        ],
+        "transit": [
+          "https://www.ohio.edu/lancaster",
+          "OHIO Lancaster 校区位置与参观信息"
+        ]
+      }
+    },
+    "osulima": {
+      "short": "俄亥俄州立大学利马分校",
+      "place": "利马 · 4240 Campus Drive, Lima, OH 45804-3596",
+      "cityKey": "limaoh",
+      "calShort": "两学期制；按俄亥俄州立大学统一校历，2026 秋 8 月 25 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "利马分校执行俄亥俄州立大学统一校历。Autumn 2026：缴费截止 8 月 18 日（周二）；学期与第一班段开课 8 月 25 日（周二）；9 月 7 日（周一）劳动节休课；第一班段最后上课日 10 月 12 日（周一），第一班段期末 10 月 13 日（周二）；10 月 15 日（周四）Autumn Break 休课（办公室开放）；第二班段开课 10 月 19 日（周一）；学期最后上课日 12 月 9 日（周三）；期末考试 12 月 11 日（周五）、12 月 14 日（周一）、12 月 15 日（周二）；秋季毕业典礼 12 月 20 日（周日）。Spring 2027：开课 1 月 11 日（周一）；普查日 1 月 25 日（周一）；第一班段最后上课日 2 月 26 日（周五），期末 3 月 1 日（周一）、3 月 2 日（周二）；第二班段开课 3 月 3 日（周三）；春假 3 月 15 日（周一）至 3 月 19 日（周五）；期末考试 4 月 28 日（周三）；春季毕业典礼 5 月 9 日（周日）。班段、短课与退费节点以利马校区课表与 Registrar 当期校历为准。",
+      "fulltime": "F-1 全日制：本科 12 学分及以上，研究生/职业项目 8 学分及以上；减修须经学业顾问与 Office of International Affairs 的 DSO 批准，并保持 SEVIS 合规口径。",
+      "drop": "加退课经 My Buckeye Link 办理；注册时段关闭后联系所在学院办公室；学期退费四档：第一周五前 100%，第一周六至第二周五 75%，第二周六至第四周五 50%，第四周五之后退课不退费；W 与 F/WF 记法以 Registrar 校历为准；账单于学期开始前 7 个日历日前到期。",
+      "ins1": "Ohio State Student Health Benefits Plan（SHBP）；保费自动加入学生费用账单，注册学分的国际学生必须参保，除非符合豁免条件；仅在本国或海外修远程课程的国际学生不适用该计划，凭 I-94 申请移除费用。",
+      "ins2": "Select / Waive 在 Buckeye Link 的 Finances 板块下 Student Health Insurance 中办理；电子保险卡经保险门户查看；符合条件家属可在 Select / Waive 期加保；发生 Qualifying Event 须 31 天内交表；保险细则见 shi.osu.edu，咨询 shi_info@osu.edu。",
+      "ins3": "豁免资格：政府全额担保且保单符合最低标准；作为美国雇员或美国雇员家属持美国保单；持永久居留绿卡。最低保单标准：年度给付无上限，年免赔不超过 $500，住院、门诊急诊、常规医疗、精神健康、处方药、免疫与筛查按美国合理常规费用 90% 赔付；不得排除既往症、自杀自伤、妊娠、STD/HIV/免疫缺陷、癌症、酒精或药物相关状况、休闲运动损伤；承保公司在美持牌、有美国理赔办公室与电话；保单覆盖全学年或项目全程；含医疗转运与遗体送返。符合条件者在线提交 Petition to Waive，批准或拒绝通知发往 OSU 邮箱。",
+      "clinic": "校内 Student Wellness Center 位于 Galvin 107A，由学生志愿者提供健康教练与外展活动；Lima Counseling & Consultation Services（LCCS）位于 Galvin 107B/C，提供免费保密的咨询、个体治疗、学习障碍与 ADHD 简要筛查及转介；Samantha Haudenschield, Psy.D.，419-995-8272，haudenschield.11@osu.edu；Gail Nelson, LSW, MSW，419-995-8698，nelson.700@osu.edu；课后危机拨 614-292-5766 转 #2（24 小时）；本地 We Care Crisis Center，799 S. Main St., Lima，1-800-567-HOPE；心理危机 988。躯体疾病、用药与综合检查转介校外医生或 Columbus 校区 Wilce Student Health Services。",
+      "commute": "利马校区位于 Lima 市外、I-75 走廊旁，地址 4240 Campus Drive；向南可达 Dayton、Cincinnati，向北可达 Toledo、Detroit、Fort Wayne，距 Columbus 约 90 分钟车程；校园以步行为主，学生停车免费。",
+      "scene": "俄亥俄州立大学利马分校为 OSU 六所区域校区之一，公立赠地大学体系内的小规模通勤校区；Autumn 2024 注册 723 人（本科 720、研究生 3）；开设 13 个四年制本科专业与 2 个学位完成项目，并可接入俄亥俄州立大学 200 余个专业；平均班额 18 人；校园有 30 余个学生社团及校内与俱乐部体育队伍；学生修满 30 个高中后学分且 Ohio State GPA 达到 2.0 可申请转入 Columbus 校区。",
+      "safety": "校内警务：Ohio State Police（Lima）非紧急 567-242-7400；校园与 Rhodes State College 共用校区，Rhodes State Security 419-995-8499；紧急拨 911（校园电话拨 9-9-1-1）；校园内设六部应急呼叫亭；校外归 Allen County 警长办公室与利马市警局管辖。",
+      "transit": "区域校区以自驾通勤为主，学生凭停车证在学生停车区免费停车，停车证经 Student Services Center 的 Enrollment Services 办理；县域公交班次有限；最近商业机场为 Fort Wayne International Airport（FWA），本地 Allen County Regional Airport（AOH）为通用航空；哥伦布市区无 Amtrak 客运站。",
+      "rentnote": "利马校区不设大学宿舍，学生以通勤或校外租房为主；校园周边提供紧邻或邻近校园的公寓及 dormitory-style 住房，经 Admissions 的 Adjacent Housing Options 信息页查询；学校不查验、不批准、不监管校外房产，也不承担租房财务义务；校外租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.osu.edu/academic-calendar/academic-calendar-5-year-view-2023-2028/",
+          "Academic Calendar 5-year view"
+        ],
+        "ins": [
+          "https://shi.osu.edu/",
+          "Student Health Insurance"
+        ],
+        "police": [
+          "https://lima.osu.edu/safety-and-security/reporting-crime",
+          "Reporting a Crime"
+        ],
+        "housing": [
+          "https://lima.osu.edu/admissions/adjacent-housing",
+          "Adjacent Housing Options"
+        ],
+        "clinic": [
+          "https://lima.osu.edu/lima-counseling-and-consultation-services/services",
+          "Lima Counseling & Consultation Services"
+        ],
+        "transit": [
+          "https://www.fwairport.com/",
+          "Fort Wayne International Airport"
+        ]
+      }
+    },
+    "miamimid": {
+      "short": "迈阿密大学米德尔敦分校",
+      "place": "米德尔敦 · 4200 N. University Blvd, Middletown, OH 45042",
+      "cityKey": "middletownoh",
+      "calShort": "两学期制；参照 Miami 校级校历，2026 秋 8 月 24 日、2027 春 1 月 25 日开课，区域校区日期以当期公布为准。",
+      "calendar": "参照 Miami University 2026-27 校级校历：Fall 2026 课程 8 月 24 日（周一）开始，全额退费退课截止 8 月 28 日 23:59 ET，秋假 10 月 9–11 日，结课 12 月 4 日（周五），期末周 12 月 7–11 日；Spring 2027 课程 1 月 25 日（周一）开始，全额退费退课截止 1 月 29 日 23:59，春假 3 月 22–28 日，结课 5 月 7 日（周五），期末周 5 月 10–14 日；米德尔敦校区具体开课、退课截止与毕业典礼安排以 Regionals 当期校历为准。",
+      "fulltime": "F-1 全日制注册口径以 ISSS 当期要求为准；区域校区减修（Reduced Course Load）须事先经 ISSS 审批并留存批准记录。",
+      "drop": "学期内加退课经 Banner Self Service 办理；记 W 截止、退费档位与逾期费按校级校历和 One Stop 当期政策执行；区域校区特殊安排见 Regionals 通知。",
+      "ins1": "学生健康保险计划口径同 Miami University；注册至少 1 门课的区域校区学生可使用 Student Health Services 门诊；保险强制范围与投保资格经 SHS 与 One Stop 核验。",
+      "ins2": "保险 ID 卡经 UHCSR 会员账户领取；持其他合格保险者按校级 waiver 流程在截止日前在线提交证明；保险 advocate 邮箱 MUInsuranceAdvocate@UHCSR.com。",
+      "ins3": "豁免窗口与替代保单条件同校级：保单须等于或优于 MU 计划并覆盖在美停留；区域校区保险细则以 SHS 当期页面为准；就诊咨询 SHS 513-529-3000。",
+      "clinic": "Student Health Services 主诊在 Oxford Health Services Center, 421 South Campus Avenue, Oxford, OH 45056；513-529-3000，传真 513-529-1892，shsMiami@TriHealth.com；米德尔敦校区学生属 eligible 范围；本地急症拨 911 或转 Middletown 当地医院急诊。",
+      "commute": "校区位于 Middletown 市北，4200 N. University Blvd，近 I-75 与 University/Breiel 大道之间约 141 英亩林地；距 Dayton 约 20 英里、Cincinnati 约 35 英里量级；通勤为主，步行圈限于校园。",
+      "scene": "Miami University Regionals 米德尔敦通勤校区，1966 年开办；提供学士、副学士学位与多数四年制学位起始课程；设有 English Language Center、Schaefer 职业服务套房、Robotics Lab；校际队伍昵称 ThunderHawks；学术归属 College of Liberal Arts and Applied Science。",
+      "safety": "区域校区无驻校警；Campus Security 513-785-3222；紧急拨 911；区域 Dean of Students 513-785-3128、Assistant Dean 513-785-3211；校外归 Middletown Police Department（513-425-7700）辖区。",
+      "transit": "BCRTA R1 Hamilton/Middletown Shuttle 经 SR-4 连接两城；Middletown Transit Station 蓝线服务 Walmart、Lowe's 等片区；公交班次有限，通勤以驾车为主；无城际铁路；最近机场 DAY 约半小时量级，CVG 约 1 小时量级。",
+      "rentnote": "米德尔敦为通勤校区，无校内宿舍或学生住房，学生自行安排住房、餐饮与交通；校外租 Middletown 市区或近校街区，无车依赖 BCRTA 或须驾车；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://aims.miamioh.edu/academic-programs/academic-calendar/2026-2027.html",
+          "Miami 2026-2027 校历"
+        ],
+        "ins": [
+          "https://www.miamioh.edu/student-life/student-health-service/student-insurance/appeals/",
+          "学生健康保险与豁免"
+        ],
+        "police": [
+          "https://www.miamioh.edu/life-at-miami/university-safety/annual-report/index.html",
+          "年度安全与消防安全报告（含区域校区）"
+        ],
+        "housing": [
+          "https://www.miamioh.edu/global-initiatives/isss/orientation/regionals-pre-arrival-checklist.html",
+          "区域校区到校与住宿安排清单"
+        ],
+        "clinic": [
+          "https://miamioh.edu/life-at-miami/health-well-being/student-health-services/about/",
+          "Student Health Services 介绍"
+        ],
+        "transit": [
+          "https://www.butlercountyrta.com/park-ride/",
+          "BCRTA 区域线路"
+        ]
+      }
+    },
+    "miamioh": {
+      "short": "迈阿密大学（牛津）",
+      "place": "牛津 · 501 E. High St, Oxford, OH 45056",
+      "cityKey": "oxford",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 25 日开课。",
+      "calendar": "Fall 2026：课程 8 月 24 日（周一）开始；网上加退课截止 8 月 26 日（周三）23:59 ET；全额退费退课截止 8 月 28 日（周五）23:59；无成绩退课截止 9 月 11 日（周五）；秋假 10 月 9–11 日；记 W 退课截止 10 月 26 日（周一）23:59；11 月 9 日（周一）17:00 为退校最后日；感恩节后 11 月 30 日（周一）复课；结课 12 月 4 日（周五）；期末周 12 月 7–11 日；12 月 11 日（周五）学位授予与毕业典礼。Spring 2027：宿舍 1 月 24 日（周日）9:00 开放；课程 1 月 25 日（周一）开始；网上加退课截止 1 月 27 日；全额退费退课截止 1 月 29 日 23:59；无成绩退课截止 2 月 11 日；春假 3 月 22–28 日，3 月 29 日复课；记 W 截止 4 月 5 日 23:59；4 月 19 日 17:00 退校最后日；结课 5 月 7 日（周五）；期末周 5 月 10–14 日；5 月 15 日（周六）学位授予与校级毕业典礼。",
+      "fulltime": "F-1 全日制注册口径以 ISSS 当期要求为准；减修（Reduced Course Load）须事先经 ISSS 审批并留存批准记录，未经批准不得低于全日制学分下限。",
+      "drop": "学期内加退课经 Banner Self Service 办理；秋季记 W 截止 10 月 26 日、春季 4 月 5 日 23:59 ET；全额退费截止与退费档位按校历和 One Stop 当期政策执行。",
+      "ins1": "Miami University Student Health Insurance，医疗由 UnitedHealthcare Student Resources（UHCSR）承保；全日制 Oxford 学生在秋季账单生成时自动计入保险费，除非年度 waiver 获批；国际学生须持该计划或同等合格替代保险。",
+      "ins2": "保险 ID 卡经 UHCSR 会员账户领取；持其他合格保险者须每年在 waiver 截止日前在线提交证明；保险咨询 MUInsuranceAdvocate@UHCSR.com，1-833-789-3458。",
+      "ins3": "豁免窗口为秋季学期第一个周五前（当期截止日 8 月 1 日，以保险页面公布为准）；替代保单须等于或优于 MU 计划并覆盖在美停留；核验经 UHCSR 与学校保险 advocate；就诊咨询 SHS 513-529-3000。",
+      "clinic": "Student Health Services（与 TriHealth 合作），Health Services Center, 421 South Campus Avenue, Oxford, OH 45056；513-529-3000，传真 513-529-1892，shsMiami@TriHealth.com；面向 Oxford 与区域校区注册至少 1 门课的学生提供门诊诊疗；校内无药房，处方就近转 CVS、Kroger、Walmart 药房；心理与well-being 服务见健康中心页面。",
+      "commute": "校区位于 Oxford 镇中心，501 E. High St；自驾经 US-27、OH-73 接 I-75；距 Cincinnati 约 35–40 英里、Dayton 约 30 英里量级；镇内 High St 一带步行可达，West Campus 与外围靠 BCRTA 接驳。",
+      "scene": "1809 年建校的俄亥俄公立大学；Oxford 校区 2024 秋约 16,816 名本科生与 2,000 余名研究生；学术覆盖商学、文理、工程与计算、教育与健康、创意艺术等门类；另有 Luxembourg 欧洲校区与 Hamilton、Middletown 区域校区；校队参加 NCAA Division I、Mid-American Conference，昵称 RedHawks。",
+      "safety": "Miami University Police（MUPD），Police Services Center, 4945 Oxford-Trenton Road, Oxford, OH 45056；紧急拨 911，调度与非紧急 513-529-2222，24 小时值守，police@MiamiOH.edu；校外归 Oxford Police Department（513-523-4321）与 Butler County Sheriff（513-785-1300）辖区。",
+      "transit": "Butler County Regional Transit Authority（BCRTA）线路覆盖 campus core、Uptown Oxford、West Campus 与 Walmart、Kroger 片区，MU 学生与员工免费乘车；Chestnut Street Station 为多式联运枢纽，GoBus 长途接驳 Cincinnati、Dayton、Toledo 方向；无城际铁路直达；最近机场 CVG 与 DAY 约 1 小时量级。",
+      "rentnote": "校内宿舍：传统楼 Morris、Tappan、Havighurst；标准翻新楼 Etheridge、Bishop、Hahne；Modified 房型 Hillcrest、Stonebridge、Young；公寓为 4 床 2 卫与 Premium 2 床 2 卫。2026-27（Tuition Promise cohort）每人每学期房费：传统双人 $4,061、三/四人 $3,992、单人 $5,055；标准双人 $4,902、三/四人 $4,117、单人 $5,874；Modified 双人 $4,391；公寓 $6,081、Premium 公寓 $6,385；另收每学期 $554 Residential Fee。宿舍住户每学期必须购买 University Meal Plan，公寓住户餐计划可选。校外就近租 Oxford 镇内或 College Corner Pike 沿线，无车依赖 BCRTA；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://aims.miamioh.edu/academic-programs/academic-calendar/2026-2027.html",
+          "2026-2027 校历"
+        ],
+        "ins": [
+          "https://www.miamioh.edu/student-life/student-health-service/student-insurance/appeals/",
+          "学生健康保险与豁免"
+        ],
+        "police": [
+          "https://www.miamioh.edu/police/",
+          "Miami University Police"
+        ],
+        "housing": [
+          "https://miamioh.edu/life-at-miami/living-on-campus/housing/housing-rates/",
+          "住宿费率"
+        ],
+        "clinic": [
+          "https://miamioh.edu/life-at-miami/health-well-being/student-health-services/about/",
+          "Student Health Services 介绍"
+        ],
+        "transit": [
+          "https://www.butlercountyrta.com/park-ride/",
+          "BCRTA 线路与 Chestnut Street Station"
+        ]
+      }
+    },
+    "shawnee": {
+      "short": "肖尼州立大学",
+      "place": "朴茨茅斯 · 940 Second Street, Portsmouth, OH 45662",
+      "cityKey": "portsmouth",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 24 日全日制与第一半学期开课；9 月 7 日劳动节闭校；10 月 1–2 日秋假无课；10 月 16 日第一半学期结课；10 月 19 日第二半学期开课；10 月 20 日正午第一半成绩截止；11 月 11 日退伍军人节闭校；11 月 25 日无课、办公开放；11 月 26–27 日感恩节闭校；12 月 4 日全日制与第二八周结课；12 月 5–11 日期末考试；12 月 11 日学期结束；12 月 15 日正午成绩截止；12 月 24–31 日冬假闭校，2027 年 1 月 1 日新年闭校。Spring 2027：1 月 11 日全日制与第一半学期开课；1 月 18 日马丁·路德·金日闭校；2 月 26 日第一半学期结课；2 月 27 日–3 月 6 日春假；3 月 8 日第二半学期开课；3 月 9 日正午第一半成绩截止；4 月 23 日全日制结课；4 月 24–30 日期末考试；4 月 30 日学期结束；5 月 1 日毕业典礼；5 月 4 日正午成绩截止。",
+      "fulltime": "F-1 全日制注册口径以 CIPA 与 I-20 记载为准；减修（Reduced Course Load）须事先经 Center for International Programs and Study Abroad 审批并留存批准记录。",
+      "drop": "加退课经 Student Business Center 与 Registrar 门户办理；退费档位、无记录退课与记 W 截止日按当期校历执行；申请材料须在拟入学期前至少 2 个月送达 CIPA。",
+      "ins1": "国际学生须接受大学健康保险费用，或提供在美期间合格保险的证明；2026-27 保险计划名称、承保方与强制范围以当期保险通知为准。",
+      "ins2": "就诊携带学生 ID 与保险卡、保单号、生效与到期日；Health Clinic 先到先得；外送实验室检验另收费；保留 waiver 或替代保险批准记录。",
+      "ins3": "以合格替代保险申请豁免的材料经 CIPA 核验；联系 cipa@shawnee.edu；保单条件、生效范围与提交截止日以国际生申请页面当期公布为准。",
+      "clinic": "Health Clinic 在校内，周一至周五 10:00–15:00，先到先得，面向本学期注册至少 1 学分的学生；处理轻伤小病、基础缝合、血压检查、常规体检、用药复核与常规病症；外送检验、疫苗与过敏注射另计费；需要上级诊疗时转诊 King's Daughters Urgent Care Center，2001 Scioto Trail, Portsmouth，24/7 开放。Counseling and Psychological Services 在 University Center 二层，周一至周五 8:00–17:00，晚间可预约，740-351-3608，服务免费保密；急症拨 911。",
+      "commute": "校园在 Portsmouth 城区 940 Second Street，近 US-23、US-52 与 SR-335；俄亥俄河南岸，跨河接肯塔基州方向；经 I-64 接 Huntington, WV；校内提供停车。",
+      "scene": "Shawnee State University 是俄亥俄南部 Scioto County 的区域公立大学，校园位于 Portsmouth 城区；提供本科与研究生项目，健康科学方向突出，含护理（RN-BSN）、牙科卫生、职业治疗、急救医疗技术、医学检验技术、运动研究与运动训练等方向；校队昵称 Bears，2026-27 学年起加入 NCAA Division II 与 Mountain East Conference；橄榄球项目计划 2028 年开赛。",
+      "safety": "SSU Department of Public Safety 驻 Administration Building 023，全天 24 小时值守；紧急电话 740-351-3232，非紧急 740-351-3243，邮箱 campussecurity@shawnee.edu；提供校园安全护送服务；校外归 Portsmouth Police Department，非紧急 740-353-4101，紧急 911。",
+      "transit": "Access Scioto County Public Transit（ASC）周一至周五 6:00–18:00 运行，覆盖 Portsmouth、New Boston、Sciotoville、Wheelersburg、Lucasville，县域其余区域为每周班次；无城际铁路；最近商业机场为东向 I-64 上的 Tri-State Airport（HTS），约 53–60 英里。",
+      "rentnote": "校内住宿含 Campus View & Tanner Place、Cedar House、University Townhouse；2026-27 费率：Campus View/Tanner Place 双人 $4,012/学期、单人 $5,676/学期；Cedar House 与 University Townhouse 双人 $3,312/学期、单人 $5,160/学期；另收 Residential Connectivity Fee $146/学期、Residential Student Programming Fee $17/学期；餐计划：大一住校生配 Unlimited（$2,598/学期），大二可选 15 餐/周（$2,477）或 12 餐/周（$2,231），三、四年级可退出餐计划。校外镇区公寓步行圈有限，无车出行受限；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.shawnee.edu/content.php?catoid=60&navoid=2775",
+          "2026-27 学术校历"
+        ],
+        "ins": [
+          "https://www.shawnee.edu/admissions/international/application.html",
+          "国际生申请与保险要求"
+        ],
+        "police": [
+          "https://www.shawnee.edu/campus-life/safety-campus-police?navigMW=mm",
+          "校园公共安全与警务"
+        ],
+        "housing": [
+          "https://www.shawnee.edu/campus-life/housing-meal-plans/advantage-rates/2026-27-rates.html",
+          "2026-27 住宿与餐计划费率"
+        ],
+        "clinic": [
+          "https://catalog.shawnee.edu/content.php?catoid=48&navoid=1438",
+          "健康诊所与咨询服务"
+        ],
+        "transit": [
+          "https://portsmouthohio.org/",
+          "Portsmouth 城市官网"
+        ]
+      }
+    },
+    "neomed": {
+      "short": "东北俄亥俄医科大学",
+      "place": "鲁茨敦 · 4209 State Route 44, Rootstown, OH 44272",
+      "cityKey": "rootstown",
+      "calShort": "学年按学院口径；2026 秋 8 月 24 日开课，2027 春 1 月 4 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）M1、M2、M3、P1、P2、P3、D1、D2 与 College of Graduate Studies（COGS）开课；8 月 31 日（周一）M4 开课；9 月 1 日（周二）P4 开课；9 月 7 日（周一）劳动节闭校；10 月 17 日（周六）COGS 上半学期课程结束；10 月 19 日（周一）COGS 下半学期开课；11 月 11 日（周三）老兵节闭校；11 月 26 日（周四）至 11 月 27 日（周五）感恩节假；12 月 1 日（周二）P4 课程结束，12 月 2 日（周三）P4 放寒假；12 月 12 日（周六）M1、M2、P1、P2、P3、D1、D2 与 COGS 课程结束；12 月 18 日（周五）M4 课程结束。Spring 2027：1 月 4 日（周一）M1、M2、M4、P1、P2、P3、P4、D1、D2 与 COGS 开课；1 月 18 日（周一）MLK 纪念日闭校；1 月 25 日（周一）M3 开课；2 月 19 日（周五）Anesthesia White Coat Ceremony；2 月 27 日（周六）COGS 上半学期结束；2 月 28 日（周日）至 3 月 7 日（周日）春假；3 月 8 日（周一）恢复上课，COGS 下半学期开课；4 月 16 日（周五）M4 课程结束；4 月 30 日（周五）D1、D2、M1、M2、P1、P2、P3、P4、COGS 与 MMSc-A Y1 临床课程结束；5 月 1 日（周六）毕业典礼；5 月 28 日（周五）M3 课程结束。COGS 全日程课程加退课截止：Fall 9 月 2 日（周三）、Spring 1 月 13 日（周三）；Fall 账单 7 月 31 日、8 月 10 日到期、8 月 20 日计滞纳金；Spring 账单 12 月 11 日、12 月 21 日到期、1 月 4 日计滞纳金。",
+      "fulltime": "NEOMED 为医学、药学、牙科与健康科学研究生及职业项目院校，学生按所在学院注册口径保持全日制注册；减修、休学或退课须经所在学院、Registrar 与 Global Engagement 审批并保持移民合规。",
+      "drop": "加退课经 Registrar 与学生自助门户办理；COGS 全日程课程 Fall 加退课截止 9 月 2 日（周三）、Spring 1 月 13 日（周三）；学年中休学或退课可按 NEOMED 退费政策申请部分学费退费，开学首日之后费用不退；已发放助学金可能按最后到校日退还；会计处 330-325-6367；注册咨询 registrar@neomed.edu、330-325-6175。",
+      "ins1": "所有医学、药学、牙科学生及部分研究生学院学生必须持有医疗保险；大学医疗计划承保方为 Anthem，保险经纪为 Haylor, Freyer & Coon（HF&C）；学生同时自动计入医疗责任（malpractice）、人身与残疾保险；牙科与视力保险为可选加保。",
+      "ins2": "加保与豁免经 HF&C 门户办理，Anthem Student Advantage 站点查看保单与电子 ID 卡；2026-27 Cost of Attendance 医疗保险估算 $3,162/年（Fall $1,581、Spring $1,581）；首年学生覆盖自开课首日起至 6 月 30 日，二至四年级覆盖 7 月 1 日至 6 月 30 日；保单按学期分别计费，账单到期全额支付。",
+      "ins3": "标准注册期内，持有符合条件个人保单的学生可豁免大学计划；保单复印件须提交 HF&C 核验；个人保障因 Qualifying Event 失效后须在 30 天内加入大学计划；开放注册期外加保联系 healthinsurance@neomed.edu 并附承保方或雇主出具的保障失效日期证明；经纪客服 1-866-535-0456、student@haylor.com。",
+      "clinic": "NEOMED Health Care 位于 NEW Center，邻近 Wasson Center；330-325-3202；周一至周四 8:00–17:00、周五 8:00–16:00；由 board-certified 医师、护士执业、注册护士与药师提供非急诊门诊服务，含常规检查、常见病与慢病管理、疫苗、健康筛查、行为健康支持、生活方式咨询与专科转介。学生心理咨询 CSWCS，Wasson Center（NEW Center 二楼）；330-325-6757、counseling@neomed.edu；周一至周四 8:00–17:00、周五 8:00–16:00，可线下或远程；课后拨打 330-325-6757 自动转接 Impact Solutions；心理危机拨 988。",
+      "commute": "校区位于俄亥俄东北部 Portage County 的 Rootstown Township，沿 State Route 44 分布；120 英亩公园式校园；向北接 Ravenna，向西接 Kent，向西南接 Akron，经 SR 44、I-76 走廊驾车连通各城市与临床站点；校园周边为乡村与近郊混合地带，日常出行依赖驾车。",
+      "scene": "东北俄亥俄医科大学 1973 年经州宪章建立，是俄亥俄州公立医学与健康科学大学；下设医学院、药学院、Bitonte 牙科学院与研究生学院 4 个学院，衔接 12 所大学与学院路径合作方、100 余所医院、临床与药学伙伴，2,300 余名临床与大学教师，7 个研究方向；学校不设普通本科项目，招生面向医学、药学、牙科研究生与健康科学学位，BS/MD 及联合培养路径经合作大学衔接；90 余个学生组织、200 余场校园活动；校体育队不属于综合大学 NCAA 体系。",
+      "safety": "NEOMED Police Department（NPD），4209 State Route 44, P.O. Box 95, Rootstown, OH 44272；非紧急 330-325-5911；police@neomed.edu；紧急 911（校园电话拨 9-911）；24/7/365 值守，徒步与驾车巡逻；与安保人员配合，提供锁车与搭电协助、24/7 校园护送、蓝灯应急电话与恐慌报警监测；校外归 Portage County 警长办公室管辖。",
+      "transit": "Rootstown 本地无固定城市公交；PARTA（Portage Area Regional Transportation Authority）提供 Portage County 固定线路与 dial-a-ride 接驳；城际出行依赖自驾或预约接驳，Kent、Ravenna、Stow 方向为主要通勤落脚点；最近商业机场为 CAK，其次 CLE 与 PIT。",
+      "rentnote": "The Village at NEOMED 为紧邻主校园、独立运营的公寓式住宿社区，提供全家具一居室与两居室公寓，含学习空间、独立卫浴与步入式衣柜；社区配休息室、游戏室、户外凉亭、相邻停车、门禁系统与 24/7 安保；租赁联系 330-422-4200、info@thevillageatneomed.com，租金与租期以 Village 当期租赁合同为准。校园餐饮集中在 NEW Center：The Bistro 定制餐位与 Grab & Go，NEW Center Coffee Shop 供应 Starbucks；学校不设强制食堂餐计划。校外租房在 Ravenna、Kent、Stow 方向，租金随区位户型浮动，按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.neomed.edu/registrar/academic-calendar/",
+          "Academic Calendars"
+        ],
+        "ins": [
+          "https://www.neomed.edu/studentservices/health/medical/",
+          "Student Medical & Health Insurance"
+        ],
+        "police": [
+          "https://www.neomed.edu/police",
+          "NEOMED Police"
+        ],
+        "housing": [
+          "https://www.neomed.edu/campus-life/housing-dining/",
+          "Housing & Dining"
+        ],
+        "clinic": [
+          "https://www.neomed.edu/student-health-services/",
+          "Health Services for Students"
+        ],
+        "transit": [
+          "https://www.partaonline.org/dial-a-ride",
+          "PARTA Dial-A-Ride"
+        ]
+      }
+    },
+    "oueastern": {
+      "short": "俄亥俄大学东部分校",
+      "place": "圣克莱尔斯维尔 · 45245 National Road, St. Clairsville, OH 43950",
+      "cityKey": "stclairsville",
+      "calShort": "两学期制，区域校区同主校历；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "区域校区与 Athens 主校共用 Production Calendar 2026-27。Fall 2026-27：8 月 20 日为修读先修课截止，8 月 23 日为取消注册、移除全部课程与费用最后日，课程 8 月 24 日（周一）开始；8 月 28 日免教师批准加课截止，9 月 4 日经批准加课截止；9 月 5 日起退课记 WP/WF/WN 且不退费；个人课程退课最后日 10 月 30 日；学位授予日 12 月 12 日。Spring 2026-27：1 月 7 日修读先修课截止，1 月 10 日取消注册最后日，课程 1 月 11 日（周一）开始；1 月 15 日免批准加课截止，1 月 22 日经批准加课截止，1 月 23 日起退课记 WP/WF/WN 且不退费；个人课程退课最后日 3 月 26 日；学位授予日 4 月 30 日、5 月 1 日与 5 月 8 日；春假、感恩节假期与毕业典礼具体时刻以 Registrar 公布的当期校历为准。",
+      "fulltime": "本科全日制按 12 学分及以上注册；F-1 学生减修或退至全日制以下须先经 ISSS 顾问批准，并保持 SEVIS 合规口径。",
+      "drop": "加退课在 MyOHIO Student Center 办理；开学第一日至第二周周五之间正式退退可退 80% 学费与费用，第二周周五之后不退费；个人课程退课最后日为秋 10 月 30 日、春 3 月 26 日；WP/WF/WN 记法与退费比例以 Registrar 校历和 Bursar 当期条款为准。",
+      "ins1": "俄亥俄大学区域校区学生不自动纳入校方保险；注册 9 学分及以上方可参加校方学生保险；国际学生在所有校区均须持有 Ohio University 学生意外险与医疗险，除非符合豁免条件。",
+      "ins2": "电子保险卡经 UnitedHealthcare Student Resources 会员账户领取；替代合格保单的豁免申请经 Office of International Student and Scholar Services（ISSS）在截止日前提交；区域校区保险入学信息联系本校 Student Services。",
+      "ins3": "2026/27 豁免截止：秋 2026 年 9 月 11 日、春 2027 年 1 月 29 日、夏 2027 年 5 月 28 日；替代保单须 ACA 合规、免赔额不高于 $500、支付比例不低于 75%、既往症无等待期；国际生另须医疗转运不低于 $50,000、遗体送返不低于 $25,000；Campus Care 保险办公室 740.597.1816，周一至周五 10:00–14:00；豁免核验经 ISSS。",
+      "clinic": "本校区不设主校式 Campus Care 实体门诊；Student Services 提供学业顾问、辅导、无障碍服务、职业支持与心理健康资源；区域学生可使用 TimelyCare 24/7 虚拟健康平台；线下诊疗转诊至 Athens Campus Care 或 St. Clairsville、Wheeling 当地医疗机构。",
+      "commute": "校区在 Belmont County 丘陵林地中，紧邻 I-70，沿 National Road（US-40）布置；距 St. Clairsville 约 5 英里，距 Wheeling, WV 约 14 英里，距 Cambridge 约 34 英里；自驾经 I-70 东往西，学生以通勤为主。",
+      "scene": "俄亥俄大学东部分校 1957 年创立于 Martins Ferry，1967 年迁至 St. Clairsville；校园 300 余英亩，含 Wilson Shannon Hall（1967）与 Health and Physical Education Center（1997）；开放式招生，执行区域学费；设化学、物理、植物学、解剖学实验室、计算机机房、校内图书馆、剧场、体育馆与健身中心；提供文学副学士、理学副学士、个体化研究副学士，以及应用管理、传播研究、刑事司法、早期与中期儿童教育、运动生理学、健康服务管理、历史、人类生物学、社会工作、专项研究、运动与生活方式研究、技术与应用研究等本科专业；区域校区不设 D1 校队。",
+      "safety": "区域校区设 Campus Safety & Security 办公室；校园出入与安全事项经本校安全办公室登记；校外辖区归 Belmont County Sheriff's Office 与 St. Clairsville Police Department；紧急拨 911；夜间在建筑与停车场照明区域结伴通行。",
+      "transit": "通勤为主，学生多自驾；本地公交班次有限；城际经 I-70 往东到 Wheeling, WV、往西到 Columbus；最近商业机场为 Pittsburgh International Airport（PIT），约 50 英里量级。",
+      "rentnote": "区域校区不设校内宿舍，也不设住校餐计划；学生通勤居住在 St. Clairsville、Wheeling 或周边村镇，出行依赖驾车；校外租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ohio.edu/registrar/academic-calendar/production-calendars/production-calendar-2026-27",
+          "Production Calendar 2026-27（Athens 与各区域校区）"
+        ],
+        "ins": [
+          "https://www.ohio.edu/student-insurance/waiver",
+          "学生健康保险豁免说明与截止日"
+        ],
+        "police": [
+          "https://www.ohio.edu/eastern",
+          "OHIO Eastern 校园安全与 Student Services 入口"
+        ],
+        "housing": [
+          "https://www.ohio.edu/bursar/ohio-guarantee/2026-2027",
+          "The OHIO Guarantee 2026-27 区域校区学费费率"
+        ],
+        "clinic": [
+          "https://www.catalogs.ohio.edu/content.php?catoid=75&navoid=6365",
+          "Regional Higher Education 区域校区服务目录"
+        ],
+        "transit": [
+          "https://www.ohio.edu/eastern",
+          "OHIO Eastern 校区位置与参观信息"
+        ]
+      }
+    },
+    "toledo": {
+      "short": "托莱多大学",
+      "place": "托莱多 · 2801 W. Bancroft St, Toledo, OH 43606",
+      "cityKey": "toledo",
+      "calShort": "两学期制；2026 秋 8 月 31 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：8 月 31 日（周一）第一日上课；9 月 7 日（周一）劳动节停课闭校；10 月 19 日（周一）至 10 月 20 日（周二）Fall Break 停课；11 月 11 日（周三）老兵节停课闭校；11 月 25 日（周三）停课（医学院 MD 项目照常上课）；11 月 26 日（周四）至 11 月 27 日（周五）感恩节假；12 月 11 日（周五）最后上课日；12 月 14 日（周一）至 12 月 18 日（周五）期末考试周；12 月 19 日（周六）大学毕业典礼；12 月 24 日至 2027 年 1 月 3 日冬假闭校。Spring 2027：1 月 18 日（周一）MLK 纪念日停课闭校；1 月 19 日（周二）第一日上课；3 月 8 日（周一）至 3 月 12 日（周五）春假；4 月 30 日（周五）最后上课日；5 月 3 日（周一）至 5 月 7 日（周五）期末考试周；5 月 8 日（周六）大学毕业典礼。Summer 2027：5 月 17 日（周一）POT 1 与 Summer Session I 开始；5 月 31 日（周一）纪念日；6 月 14 日（周一）Summer Session III 开始；6 月 18 日（周五）Juneteenth；6 月 25 日（周五）Session I 结束；6 月 28 日（周一）Session II 开始；7 月 5 日（周一）独立日 observed；8 月 6 日（周五）POT 1、Session II 与 III 结束。退费比例按当期 Finance Brochure 与 Schedule of Classes 退费表，以退课交易处理日为准。",
+      "fulltime": "F-1 全日制：本科、法律与医学学生每学期 12 学分及以上，其他研究生 9 学分及以上；减修须经学业顾问与 CISP 的 DSO 批准并保持 SEVIS 合规。",
+      "drop": "加退课经 myUT 门户 Student 标签办理；退费比例按当期 Finance Brochure 与 Schedule of Classes，以退课交易处理日为准；完全退学者成绩单记 W、不计学分、不影响 GPA；注册、账单与奖学金咨询 Rocket Solution Central, Rocket Hall Room 1200，419-530-8700、rsc@utoledo.edu。",
+      "ins1": "UToledo Student Health Insurance Plan，2026-27 承保方为 Anthem Student Advantage，含医疗与处方药保障；自动参保并计入账单的对象：注册 6 学分及以上的本州本科与研究生、注册 1 学分及以上的国际学生、以及项目要求持健康保险的临床类学生；未在截止日前豁免者自动加入大学计划。",
+      "ins2": "2026-27 保费（Student 档）：Fall $1,019（2026/8/11–12/31）、Spring/Summer $1,581（2027/1/1–8/10）、Summer Only $619（仅 2027 夏季新生）、Full Year $2,600；家属档另计；电子保险卡经 Anthem 站点查看；加保或豁免在 myUT 门户 My Registration Steps 的 Health Insurance Enroll, Change, or Waive 中按学期办理；可选牙科与视力保障。",
+      "ins3": "豁免资格：持有另一张在美国备案获批、符合 ACA 合规的可比医疗与处方药计划；豁免截止日 Fall 2026 为 9 月 14 日（周一）、Spring/Summer 2027 为 2 月 2 日（周二）、Summer 2027 为 7 月 1 日（仅新生）；豁免批准后保留至本学年，每学年须重新提交；Anthem 客服 844-412-0752；大学保险政策咨询 419-530-4747、studenthealthinsurance@utoledo.edu。",
+      "clinic": "Rocket Health（Student Medical Center），Main Campus 电话 419-530-3451，Health Science Campus 电话 419-383-5000；为注册学生提供初级保健、常见病、慢病管理、免疫、筛查与健康咨询；就诊携带保险卡与 Rocket Card。University Counseling Center，University Health Center（Law Center 与 Rocket Hall 之间），419-530-2426；面向在校生提供个体与团体咨询，可线下或远程，初始服务不另收费；心理危机拨 988。",
+      "commute": "主校园位于托莱多西部，Bancroft St、Secor Rd 与 Dorr St 一带；Health Science Campus 在 3000 Arlington Ave；向北接 Sylvania，向南接 Maumee，经 I-75 与 US-23 连通 Detroit、Columbus 方向；主校园距托莱多市中心约 3 英里，距 Detroit 约 50 英里。",
+      "scene": "托莱多大学 1872 年建校，为公立研究型大学兼学术医疗中心；在校生逾 14,000，开设 270 余个学术项目；下设艺术社科教育、商创、工程、研究生、健康与人文服务、法律、医学与生命科学、自然科学与数学、药学、护理等学院；校队为 Rockets，参加 NCAA Division I（足球 FBS）与 Mid-American Conference（MAC）；主校园邻近 Ottawa River 与 University Parks 绿地。",
+      "safety": "University of Toledo Police Department（UTPD），Public Safety Center, 3333 Dorr St, Mailstop 890, Toledo, OH 43607；紧急 911；非紧急 419-530-2600；行政 419-530-2222；utpolice@utoledo.edu；校园徒步与驾车巡逻，Night Watch 护送服务 419-530-3024；校外归 Toledo Police Department 管辖。",
+      "transit": "本地公交为 TARTA（Toledo Area Regional Transportation Authority），Route 5 经 Dorr St 停靠 UT Transit Hub，连接 Central Ave 沃尔玛与 Flower Hospital 方向；校内有 Rocket Express 穿梭班车；托莱多市中心 Martin Luther King Jr. Plaza 有 Amtrak 长途铁路停靠；最近商业机场为 Toledo Express（TOL），其次 Detroit Metro（DTW）与 Cleveland Hopkins（CLE）。",
+      "rentnote": "2026 cohort 住宿费每学期：Presidents Hall、Ottawa House 双人间 Diamond $8,344、Platinum $7,853、Gold $7,620；Parks Tower 双人间 Gold $7,586；Presidents Hall、Ottawa House 单人间 Diamond $9,196、Platinum $8,705、Gold $8,472。住宿舍学生除 McComas Village 外须订餐计划；2026-27 餐计划每学期：Diamond 185 次餐刷 + $1,200 Dining Dollars + 5 次客人餐 $3,200；Platinum 155 次 + $800 + 5 次 $2,709；Gold 165 次 + $400 + 5 次 $2,476；Silver 75 次 + $900 + 5 次 $1,806；Bronze 75 次 + $150 + 5 次 $923（Silver、Bronze 仅老生与通勤生可选）。校外租房在校园周边 Dorr St、Secor Rd、West Toledo 街区，租金随区位户型浮动，按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.utoledo.edu/offices/provost/calendar/",
+          "Academic Calendar 2026-2027"
+        ],
+        "ins": [
+          "https://www.utoledo.edu/depts/hr/student-health-insurance/",
+          "Student Health Insurance Plan"
+        ],
+        "police": [
+          "https://www.utoledo.edu/depts/police/",
+          "University of Toledo Police"
+        ],
+        "housing": [
+          "https://www.utoledo.edu/offices/treasurer/housingandmealplans/",
+          "2026-2027 Housing and Meal Plans"
+        ],
+        "clinic": [
+          "https://www.utoledo.edu/studentaffairs/counseling/",
+          "University Counseling Center"
+        ],
+        "transit": [
+          "https://tarta.com/ride-tarta/routes-in-service/",
+          "TARTA Route 5 via Dorr St"
+        ]
+      }
+    },
+    "centralstate": {
+      "short": "中央州立大学",
+      "place": "威尔伯福斯 · 1400 Brush Row Road, Wilberforce, OH 45384",
+      "cityKey": "wilberforce",
+      "calShort": "两学期制；2026 秋 8 月 12 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026（8 月 12 日–12 月 9 日）：新生与转学生 8 月 5 日入住；8 月 12 日开课、当日为全额退费最后日；8 月 12–18 日加退课期；90% 退费 8 月 12–21 日，50% 退费 8 月 22 日–9 月 1 日；8 月 25 日为无记录退课最后日；8 月 26 日学籍统计日；25% 退费 9 月 2–18 日，9 月 21 日起 0% 退费；9 月 7 日劳动节闭校；11 月 3 日记 W 最后日；11 月 25–27 日感恩节假期；12 月 3 日全日制课程结课，12 月 4 日、7–9 日期末考试，12 月 14 日正午最终成绩截止。Spring 2027（1 月 11 日–5 月 6 日）：1 月 11 日开课并为全额退费最后日；1 月 11–15 日迎新周；90% 退费 1 月 12–21 日，50% 退费 1 月 21 日–2 月 1 日，25% 退费 2 月 2–18 日，2 月 19 日起 0%；Term A 3 月 5 日结课，Term B 3 月 15 日开始；4 月 9 日记 W 最后日；4 月 30 日全日制结课，5 月 3–6 日期末考试，5 月 8 日毕业典礼。",
+      "fulltime": "F-1 全日制最低注册 12 学分，其中至少 9 学分为面授课程，在线课程最多计 3 学分；减修（Reduced Course Load）须事先经 Center for International Education 审批并留存批准记录。",
+      "drop": "加退课经 Self-Service 门户与注册流程办理；逾期注册收取 $100 逾期费；退费按校历档位执行；无记录退课秋季 8 月 25 日；记 W 截止秋季 11 月 3 日、春季 4 月 9 日；总退课须填 withdrawal form 并按 R2T4 规则结算资助。",
+      "ins1": "学校要求国际学生持有健康保险；2024/25 估算健康保险费用 $1,630；2026-27 保险计划名称、承保方与强制范围以当期保险通知为准，咨询 Center for International Education 937-376-6128。",
+      "ins2": "就诊携带保险卡、保单号与身份证明；接种记录须经 Med+Proctor 上传核验，截止 6 月 15 日，国际学生须做 TB 检测；健康服务联系 studenthealthcenter@centralstate.edu 或 937-376-6134。",
+      "ins3": "替代保单条件与豁免核验部门官网未单列页面；入学前向 admissions@centralstate.edu 与 financialaid@centralstate.edu 核验保险资格、生效范围与凭证要求。",
+      "clinic": "Health and Wellness Center 位于 Stokes Center on Aging 邻近建筑，937-376-6134，studenthealthcenter@centralstate.edu，周一至周五 8:00–17:00，优先预约；中心内设 Counseling Services，面向全体学生免费提供个体、团体、伴侣咨询、学业与生活技能辅导、转介、危机干预与出院随访；急症拨 911。",
+      "commute": "校区在 1400 Brush Row Road, Wilberforce，Xenia 东北 4 英里、Dayton 以东 18 英里；位于 US-42 沿线，Cincinnati 与 Columbus 中间，距两市约 55 英里；经 I-71 与 US-42 方向进出；校内可停车。",
+      "scene": "Central State University 创立于 1887 年，是俄亥俄唯一公立 HBCU，也是 1890 赠地大学；下设商学院、教育学院、工程科学技术与农业学院（CESTA）、人文艺术与社会科学学院（CHAS），提供约 39 个本科项目与研究生项目；学生含传统本科、转学、回读、国际生与 Central State Global 在线学生；校队属 NCAA Division II、SIAC 联盟，昵称 Marauders 与 Lady Marauders；另有 Dayton、Xenia、Trotwood 卫星教学点。",
+      "safety": "Central State University Police Department，校园电话 937-376-5111，紧急拨 911；校外归 Xenia 警方与 Greene County Sheriff 辖区；夜间在校园与村落道路结伴通行，离室锁门，遗失钥匙立即报宿舍前台。",
+      "transit": "Greene CATS 公共交通线路进入校园，5 辆车覆盖 Greene County 并提供有限 Montgomery County 服务；预约前往机场电话 937-708-8322 或 877-227-2287；Greyhound 长途总站在 Trotwood，2075 Shiloh Springs Road, Dayton, OH 45426；最近机场 DAY 约 30–40 分钟量级。",
+      "rentnote": "校内住宿含 Foundation Hall II、Ernie & Della Green Living & Learning Center、Lt. John R. Fox Hall、Harry Johns Hall、Wesley Village Honors Apartments、M.P.C. Apartments、Shorter Road Apartments；房间配 Twin XL 床、衣柜、书桌与椅；住校生强制餐计划，公寓式住宿可选减档餐计划；2026-27 住宿与餐费以学生账户与 housing portal 当期公布为准；校外可选 Wilberforce、Xenia、Fairborn、Yellow Springs、Cedarville 方向，无车出行受限；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.centralstate.edu/sites/default/files/2026-10/2026-2027_academic_course_catalog.pdf",
+          "2026-27 校历（课程目录附件）"
+        ],
+        "ins": [
+          "https://www.centralstate.edu/financial-considerations-international-students",
+          "国际学生费用与保险估算"
+        ],
+        "police": [
+          "https://www.centralstate.edu/sites/default/files/2024-02/International%20Students%20Handbook.pdf",
+          "国际生手册：校园警务与安全"
+        ],
+        "housing": [
+          "https://www.centralstate.edu/sites/default/files/2026-03/new_students_housing_faq_2026-2027.pdf",
+          "2026-27 新生住宿 FAQ"
+        ],
+        "clinic": [
+          "https://www.centralstate.edu/sites/default/files/2024-02/International%20Students%20Handbook.pdf",
+          "健康与咨询中心资源"
+        ],
+        "transit": [
+          "https://www.centralstate.edu/sites/default/files/2024-02/International%20Students%20Handbook.pdf",
+          "Greene CATS 与城际交通"
+        ]
+      }
+    },
+    "afit": {
+      "short": "空军理工学院",
+      "place": "赖特-帕特森空军基地 · 2950 Hobson Way, Building 640, Wright-Patterson AFB, OH 45433",
+      "cityKey": "wrightpatterson",
+      "calShort": "研究生学期制；按季度与学期排课，报到、开课与结课日以录取通知和 AFIT 目录为准。",
+      "calendar": "AFIT 为空军研究生院，研究生项目与职业继续教育分别排课；校内研究生项目按季度与学期开课，注册日、加退课截止、假期、结课与毕业典礼日期以录取通知、AFIT catalog 与项目办公室通知为准；入学前向 AFIT Admissions Office 确认报到日、入学手续与基地门禁办理时间；驻班继续教育课程按班次日历分列 travel day、first day of class 与 graduation 日；具体 2026-27 校历节点以官方当期公布为准。",
+      "fulltime": "全时研究生学习口径由项目与派遣单位确定；普通自费本科、开放硕士入学路径不适用；F-1 类身份在 AFIT 路径受限，身份与资助事项以录取通知和招生办公室答复为准。",
+      "drop": "加退课经项目办公室与注册流程办理；退课、W 记录与退费口径按 AFIT catalog 与项目合同执行；具体截止日以当期项目通知为准；CAC 持有人经 MyVector 办理学术资格与申请事项。",
+      "ins1": "现役军职与政府组织派遣学员由军方医疗体系保障，WPAFB Medical Center 承担基地医疗；AFIT 不面向开放民用本科生发售统一学生健康保险计划。",
+      "ins2": "就诊携带军职身份与医疗编号；文职、盟国军官或其他派遣学员的保险安排由派遣单位落实并留存凭证；保险咨询联系项目办公室与 Admissions Office。",
+      "ins3": "民用大学式 waiver 流程在 AFIT 不适用；保险资格、生效范围与转诊以项目办公室和基地医疗中心答复为准；联系 Admissions Office 937-255-1148 核验。",
+      "clinic": "基地内医疗保障走 WPAFB Medical Center，4881 Sugar Maple Drive, Building 830, WPAFB；AFIT 无面向民用学生的独立校医室；急症拨 911。",
+      "commute": "校区位于 Wright-Patterson AFB 基地内，2950 Hobson Way；基地实行门禁，访客须有批准的 sponsor 并持有效证件；邻近 Fairborn、Huber Heights 与 Dayton 方向，经 I-70、SR-444 进出；基地内不设城市公交。",
+      "scene": "AFIT 是 Department of the Air Force 的研究生院与继续教育机构，隶属 Air University 与 Air Education and Training Command，主校区驻 Wright-Patterson AFB；下设 Graduate School of Engineering & Management、School of Strategic Force Studies、School of Systems & Logistics 与 Civilian Institution Programs；研究生层次覆盖工程、运筹与数据科学、系统与物流、战略力量研究等方向；招生以军职人员与政府组织派遣学员为主，另有盟国军官名额；校内设三个卓越研究中心，研究与基地 acquisition、intelligence 社区衔接。",
+      "safety": "基地治安由空军安全部队与门禁管控；Admissions Office 937-255-1148；紧急拨 911；进出基地经证件查验与安检；基地外归 Fairborn、Huber Heights 与 Greene County 等周边辖区。",
+      "transit": "基地内无城市公交线路，出行依赖驾车；最近机场 DAY（James M. Cox Dayton International）约 20–30 分钟量级；CMH、CVG 为备选机场；访客通行须由 sponsor 提前办理基地通行证。",
+      "rentnote": "AFIT 不设民用本科宿舍；军职学员住宿按基地住房与派遣令安排，短住使用基地招待所，资格与预订经基地 Force Support Squadron；校外租房集中在 Fairborn、Huber Heights、Riverside、Beavercreek 等 Dayton 近郊，进出基地须过门禁，无车难以通勤；租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.afit.edu/EN/",
+          "AFIT Graduate School of Engineering & Management"
+        ],
+        "ins": [
+          "https://www.wpafb.af.mil/Units/hc1/",
+          "Wright-Patterson AFB 基地设施与医疗中心"
+        ],
+        "police": [
+          "https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/3203609/88-abw-pass-registration-office/",
+          "88 ABW Pass & Registration Office"
+        ],
+        "housing": [
+          "https://www.wpafb.af.mil/Newcomers/Pre-Arrival/",
+          "WPAFB 新到人员与住宿对接"
+        ],
+        "clinic": [
+          "https://www.wpafb.af.mil/Units/hc1/",
+          "基地教堂与医疗中心位置"
+        ],
+        "transit": [
+          "https://www.wpafb.af.mil/",
+          "Wright-Patterson AFB 官网"
+        ]
+      }
+    },
+    "ysu": {
+      "short": "扬斯敦州立大学",
+      "place": "扬斯敦 · One University Plaza, Youngstown, OH 44555",
+      "cityKey": "youngstown",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 4 日开课。",
+      "calendar": "Fall 2026：全日程 8 月 24 日（周一）至 12 月 12 日，第一 7 周 8/24–10/11，第二 7 周 10/19–12/6；Waitlist 候补最后日 8 月 21 日；100% 退费退课最后日 9 月 6 日；W 记分手首日 9 月 7 日、末日 10 月 25 日；缴费截止 9 月 1 日；毕业申请最后日 10 月 2 日（逾期至 10 月 28 日受理并收滞纳金）；期末考试 12 月 7 日至 12 月 12 日；毕业典礼 12 月 11 日至 12 月 12 日；9 月 7 日劳动节闭校，11 月 11 日老兵节闭校，11 月 25 日不上课但学校开放，11 月 26 日至 11 月 27 日感恩节闭校。Spring 2027：全日程 1 月 4 日（周一）至 5 月 1 日，第一 7 周 1/4–2/21，第二 7 周 3/8–4/25；Waitlist 候补最后日 12 月 31 日；加课、改评分方式与改学分最后日 1 月 11 日；100% 退费退课最后日 1 月 17 日；W 记分手首日 1 月 18 日、末日 3 月 17 日；成绩提交截止 5 月 3 日（周一）9:00，学生当日下午可在 Penguin Portal 查看；春季期末周与毕业典礼安排见 Spring 校历。",
+      "fulltime": "F-1/J-1 全日制口径：本科每学期 12 学分及以上，研究生 9 学分及以上；减修须经 International Programs Office 的 DSO 批准并在 SEVIS 记录；每年三个学期中须有两个学期保持全日制，通常 Fall、Spring 在校，Summer 为假期学期。",
+      "drop": "加退课经 Penguin Portal 办理；Fall 100% 退费退课最后日 9 月 6 日、Spring 为 1 月 17 日，该日后不再退费；9 月 7 日（Fall）、1 月 18 日（Spring）起退课成绩单记 W；W 末日 Fall 为 10 月 25 日、Spring 为 3 月 17 日；注册、账单与学籍咨询 Penguin Service Center, 330-941-6000。",
+      "ins1": "YSU International Student/Scholar Health Insurance Plan，经 Lewer Agency（LewerMark）承保，使用 Aetna 医疗网络；I-20 或 DS-2019 由 YSU 签发的 F-1/J-1 学生与 J-1 访问学者在校期间强制参加；注册后保费自动计入学生账户，不可自行退出。",
+      "ins2": "计划要点：in-network 常规诊疗按常规合理费用 100% 保障，门诊自付 $20、住院自付 $100；覆盖 Youngstown 地区及全美 Aetna 网络就诊；离开美国期间（不含原籍国）出行亦有保障；参保后会收到打印保险卡与工具、服务和福利信息的使用指引；可上 lewermark.com 查询医生与药房；Lewer Agency 客服电话印在保险卡上。",
+      "ins3": "豁免资格仅限：美国公民或永久居民；H-4 等依附签证持有人且主签证持有人雇主提供综合医疗保险；第三方（本国政府、富布赖特双国委员会等）担保且保单满足保障底线（Youngstown 地区就诊覆盖、100% 合理费用、年限额至少 $150,000、既往症 $1,000、终身 $1,000,000、医疗转运 $50,000、遗体运回 $10,000、门诊自付不高于 $20、住院不高于 $100、年度自付上限不高于 $2,500）；已完成学业并离开美国；OPT 期间持雇主赞助保险；身份变更后不再由 YSU 担保。豁免须于学期开始 10 日内到 International Programs Office（Jones Hall Room 1042）提交材料；IPO 330-941-2336、ipo@ysu.edu，传真 330-941-2338；加拿大省级医保（OHIP 等）不能替代本计划。",
+      "clinic": "Wick Primary Care at YSU，330 Wick Ave（Jones Hall 对面，Wick Ave 与 Lincoln Ave 交口，邻 Chipotle），前台 330-747-4660、临床台 330-747-4662、传真 330-747-4661；周一至周五 8:00–17:00，设 walk-in；T-Spot 采血周一、周二、周四、周五 8:00–16:00；由 Mercy Health 与 YSU 合办，提供初级保健、预防诊疗与远程问诊；按学期收取 Student Health Center Fee $34.00。Student Counseling Services，2110 Kilcawley Center，330-941-3737、studentcounseling@ysu.edu；课后按提示按 1 转接；心理危机拨 988。",
+      "commute": "主校园位于 Youngstown 市中心北侧 Wick Ave、5th Ave、Wood St 一带，与 Downtown Federal Plaza 步行相连；经 I-680 与 US-422 连通 Youngstown-Warren 都会区；向东约 65 英里接 Pittsburgh，向北约 65 英里接 Cleveland；校园步行尺度为主，远郊通勤依赖 WRTA 公交或驾车。",
+      "scene": "扬斯敦州立大学 1908 年建校，为 HLC 认证的综合城市研究型大学；开设 110+ 本科专业，下设 Beeghly 文理社科教育学院（BCLASSE）、Williamson 商学院（WCBA）、STEM 学院、Bitonte 健康与人文服务学院（BCHHS）、Cliffe 创意艺术学院（CCCA）；研究生院提供 30+ 硕士项目、1 个 specialist 项目、Education 与 Materials Science Engineering 博士及物理治疗博士；本科近 10,000 人，国际生 1,350+、来自 60+ 国家；200+ 学生组织；校队为 Penguins（Pete the Penguin），多数项目参加 NCAA Division I Horizon League，橄榄球属 Missouri Valley Football Conference，校色 cardinal 与 white。",
+      "safety": "YSU Police Department，办公于 Clingan-Waddell Hall；邮寄地址 1 Tressel Way, Youngstown, OH 44555，GPS 地址 266 West Wood St, Youngstown, OH 44503；紧急 911（校园电话拨 911）；非紧急 330-941-3527；police@ysu.edu；Campus Student Security 330-941-1515；校园徒步与驾车巡逻；校外归 Youngstown Police Department 管辖。",
+      "transit": "本地公交为 WRTA（Western Reserve Transit Authority），Federal Station 340 Federal Plaza West，客服 330-744-8431；Mahoning County 方向周一至周六服务，Warren 方向周一至周五服务；YSU 与 WRTA 合办校园 Red Loop 与 White Loop 穿梭班车，16 分钟环线，周一至周五运行；最近区域机场为 YNG，主要商业枢纽为 Pittsburgh（PIT）与 Cleveland（CLE）。",
+      "rentnote": "校内五座宿舍为 Cafaro、Lyden、Kilcawley、Wick 与 Weller House，另有五处校园内及市中心私人管理设施，均步行可达校园；Cafaro、Lyden、Kilcawley、Wick 住校生须订餐计划，Weller House 为面向研究生与家庭学生的公寓式住宿，自带卫浴与厨房，不强制餐计划。University Courtyard 公寓 2026-27 月租：1 居 $925、2 居 $795、4 居 $700；校内宿舍按学期费率以 Housing & Residence Life 当期费率表为准。校外租房分布在 Wick Ave、5th Ave、Lincoln Ave 与 Austintown、Boardman 方向，租金随区位户型浮动，按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://ysu.edu/registrars-office/calendars",
+          "YSU Academic Calendars"
+        ],
+        "ins": [
+          "https://ysu.edu/international-programs-office/ysu-current-international-students/health-insurance",
+          "International Student Health Insurance"
+        ],
+        "police": [
+          "https://ysu.edu/ysu-police/contact-us",
+          "YSU Police Contact Us"
+        ],
+        "housing": [
+          "https://ysu.edu/housing-and-residence-life/rates",
+          "Housing Rates"
+        ],
+        "clinic": [
+          "https://ysu.edu/wick-primary-care",
+          "Wick Primary Care at YSU"
+        ],
+        "transit": [
+          "https://www.wrtaonline.com/services/fixed-routes/",
+          "WRTA Fixed Routes / YSU"
+        ]
+      }
+    },
+    "ouzan": {
+      "short": "俄亥俄大学赞斯维尔分校",
+      "place": "赞斯维尔 · Herrold Hall, 1425 Newark Road, Zanesville, OH 43701",
+      "cityKey": "zanesville",
+      "calShort": "两学期制，区域校区同主校历；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "区域校区与 Athens 主校共用 Production Calendar 2026-27。Fall 2026-27：8 月 20 日为修读先修课截止，8 月 23 日为取消注册、移除全部课程与费用最后日，课程 8 月 24 日（周一）开始；8 月 28 日免教师批准加课截止，9 月 4 日经批准加课截止；9 月 5 日起退课记 WP/WF/WN 且不退费；个人课程退课最后日 10 月 30 日；学位授予日 12 月 12 日。Spring 2026-27：1 月 7 日修读先修课截止，1 月 10 日取消注册最后日，课程 1 月 11 日（周一）开始；1 月 15 日免批准加课截止，1 月 22 日经批准加课截止，1 月 23 日起退课记 WP/WF/WN 且不退费；个人课程退课最后日 3 月 26 日；学位授予日 4 月 30 日、5 月 1 日与 5 月 8 日；春假、感恩节假期与毕业典礼具体时刻以 Registrar 公布的当期校历为准。",
+      "fulltime": "本科全日制按 12 学分及以上注册；F-1 学生减修或退至全日制以下须先经 ISSS 顾问批准，并保持 SEVIS 合规口径。",
+      "drop": "加退课在 MyOHIO Student Center 办理；开学第一日至第二周周五之间正式退退可退 80% 学费与费用，第二周周五之后不退费；个人课程退课最后日为秋 10 月 30 日、春 3 月 26 日；本校区课程另计 $8 Zanesville Security Fee；WP/WF/WN 记法与退费比例以 Registrar 校历和 Bursar 当期条款为准。",
+      "ins1": "俄亥俄大学区域校区学生不自动纳入校方保险；注册 9 学分及以上方可参加校方学生保险；国际学生在所有校区均须持有 Ohio University 学生意外险与医疗险，除非符合豁免条件。",
+      "ins2": "电子保险卡经 UnitedHealthcare Student Resources 会员账户领取；替代合格保单的豁免申请经 Office of International Student and Scholar Services（ISSS）在截止日前提交；区域校区保险入学信息联系本校 Student Services。",
+      "ins3": "2026/27 豁免截止：秋 2026 年 9 月 11 日、春 2027 年 1 月 29 日、夏 2027 年 5 月 28 日；替代保单须 ACA 合规、免赔额不高于 $500、支付比例不低于 75%、既往症无等待期；国际生另须医疗转运不低于 $50,000、遗体送返不低于 $25,000；Campus Care 保险办公室 740.597.1816，周一至周五 10:00–14:00；豁免核验经 ISSS。",
+      "clinic": "本校区不设主校式 Campus Care 实体门诊；Student Services 提供学业顾问、辅导、无障碍服务、职业支持与心理健康资源；区域学生可使用 TimelyCare 24/7 虚拟健康平台；线下诊疗转诊至 Athens Campus Care 或 Zanesville 当地医疗机构。",
+      "commute": "校区在 Muskingum County Zanesville 城外 Newark Road 沿线，与 Zane State College 共享 179 英亩校园；自驾沿 US-40 与 I-70 走廊；Columbus 方向约 55 英里量级；学生以通勤为主。",
+      "scene": "俄亥俄大学赞斯维尔分校 1939 年作为成人教育中心创立，1946 年设为区域校区；每学期约 1,900 名学生；与 Zane State College 共享 179 英亩校园，内设计算机机房、会议中心、300 座礼堂、学生成功中心、社区公园、体育馆与健身中心；护理项目经全国认证、办学超过 35 年；可完成 100 多个专业的前两年课程，本科含应用管理、传播研究、刑事司法、早期与中期儿童教育、健康服务管理、历史、人类生物学、护理、社会工作、专项研究、运动与生活方式研究、技术与应用研究，副学士含文学、个体化研究、护理与理学；区域校区不设 D1 校队。",
+      "safety": "区域校区未设独立校警；校园安全事项联系本校 Student Services 与共享校园安保；校外辖区归 Muskingum County Sheriff's Office 与 Zanesville Police Department；紧急拨 911；夜间在建筑与停车场照明区域结伴通行。",
+      "transit": "通勤为主，学生多自驾；本地公交班次有限；城际经 US-40 与 I-70 往西到 Columbus；最近商业机场为 John Glenn Columbus International Airport（CMH），约 55 英里量级。",
+      "rentnote": "区域校区不设校内宿舍，也不设住校餐计划；学生通勤居住在 Zanesville 城区或周边村镇，出行依赖驾车；校外租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ohio.edu/registrar/academic-calendar/production-calendars/production-calendar-2026-27",
+          "Production Calendar 2026-27（Athens 与各区域校区）"
+        ],
+        "ins": [
+          "https://www.ohio.edu/student-insurance/waiver",
+          "学生健康保险豁免说明与截止日"
+        ],
+        "police": [
+          "https://www.ohio.edu/zanesville",
+          "OHIO Zanesville 校园与 Student Services 入口"
+        ],
+        "housing": [
+          "https://www.ohio.edu/bursar/ohio-guarantee/2026-2027",
+          "The OHIO Guarantee 2026-27 区域校区学费费率"
+        ],
+        "clinic": [
+          "https://www.catalogs.ohio.edu/content.php?catoid=75&navoid=6365",
+          "Regional Higher Education 区域校区服务目录"
+        ],
+        "transit": [
+          "https://www.ohio.edu/zanesville",
+          "OHIO Zanesville 校区位置与参观信息"
+        ]
+      }
+    },
+    "albanyga": {
+      "short": "奥尔巴尼州立大学",
+      "place": "奥尔巴尼 · 504 College Drive, Albany, GA 31705",
+      "cityKey": "albanyga",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，Spring 2027 校历见 Registrar。",
+      "calendar": "Fall 2026：新生 8 月 11 日 7:00–18:00 入住，老生按校历入住；注册与缴费截止 8 月 14 日前后，未缴费学生自 8 月 15 日起被退课；课程 8 月 17 日（周一）开始，加退课（Schedule Adjustments）为 8 月 17–20 日；9 月 7 日劳动节放假；10 月中旬安排秋假；11 月 2 日为无学术处罚退课最后日；感恩节 11 月 23–27 日；12 月 4 日为 Spring 2027 毕业申请截止；结课周、期末考试与毕业典礼日期以 Registrar 当期校历为准。Spring 2027：注册截止、开课、加退课、退费档位、退课最后日、春假、结课、期末与毕业典礼见 Spring 2027 Academic Calendar；2027 秋校历发布后可对照。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格与学费档位同样以全日制为基准；减修须经学业顾问批准并在学生门户办理，签证口径以国际学生办公室当期要求为准。",
+      "drop": "学期内加退课按校历日期在学生门户办理；退费比例与 W 记录以 Bursar 与 Registrar 当期条款为准；无学术处罚退课最后日为 Fall 2026 的 11 月 2 日，其后退课记录与退费按当期政策执行。",
+      "ins1": "USG 学生健康保险计划（SHIP）由 UnitedHealthcare StudentResources 承保；全日制及强制类别学生账单自动计入保费，持 F/J 签证的国际学生须投保该计划或提供合格替代保险。",
+      "ins2": "保险卡与保单信息经 UnitedHealthcare 会员账户或移动应用领取；持其他合格保险者须在 waiver 截止日前在线提交证明，保费方可从账单移除；替代保单须满足 USG 最低保障要求，含意外与疾病保障、年度保额上限、免赔额、门诊与精神健康、处方药等。",
+      "ins3": "豁免窗口以学生账户当期公布的 waiver 截止日为准；错过截止日将自动注册 SHIP 并承担保费；保险资格与豁免条件咨询 Student Accounts 或国际学生办公室。",
+      "clinic": "Student Health Services 设两处：East Campus Billy C. Black Building 138，229-500-3544；West Campus Student Center C-100，229-500-3545；周一至周五 8:00–17:00；邮箱 studenthealthservices@asurams.edu；提供常见病诊疗、预防与健康促进，必要时转诊校外医院或专科；心理咨询与无障碍服务由 Counseling and Student Accessibility Services 另行承担。",
+      "commute": "校区在 Albany 城南 504 College Drive；自驾沿 US-19/US-82 与 Slappey Boulevard 衔接，近 Albany 城区；距 Atlanta 约 3 小时量级；校园周边步行范围有限，城内出行可搭 Albany Transit System 校园相关线路，跨区与机场依赖驾车。",
+      "scene": "Albany State University 1903 年由 Joseph Winthrop Holley 创立，是佐治亚规模最大的公立 HBCU，在校生 6,800 余名，开设 35 余个本科专业及 MBA、MEd、刑事司法、公共管理、社会工作、护理等研究生项目；护理、刑事司法、生物、管理、早期儿童教育、心理学与健康与人类表现见长，下设 Darton College of Health Professions 等教学单位；校队称 Golden Rams，参加 NCAA Division II 赛事。",
+      "safety": "Albany State University Police Department；紧急 229-430-4711，非紧急 229-430-0528，匿名线索 229-430-7963；校内可拨 911 接 Albany 911 Center；提供 LiveSafe 应用与校园护送；校外归 Albany Police Department 与 Dougherty County 辖区。",
+      "transit": "Albany Transit System（ATS）为市营固定线路公交，含校园相关线路，六天运营；校园到城区与 ABY 机场方向公交班次有限，城际与远端出行依赖自驾或预约接驳。",
+      "rentnote": "校内多栋宿舍含双人间、套房与 RA 单人间，住校须按学年提交住宿申请并符合资格；2026-27 住宿与餐计划费率以当期费率表为准，餐计划档位随住校要求另计；校外就近租 Albany 城区或 Dawson Road、Slappey Boulevard 沿线，依赖驾车或 ATS 公交，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.asurams.edu/enrollment-management/office_of_the_registrar/academic-calendar/2026_fall_academic_calendar.php",
+          "Fall 2026 校历（Registrar）"
+        ],
+        "ins": [
+          "https://asurams.edu/fiscal-affairs/student-accounts/health-insurance.php",
+          "学生健康保险（SHIP）"
+        ],
+        "police": [
+          "https://www.asurams.edu/presidents-office/police/index.php",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://asurams.edu/student-affairs/campus-housing/index.php",
+          "校园住宿与费率"
+        ],
+        "clinic": [
+          "https://www.asurams.edu/student-affairs/health-services/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.asurams.edu/enrollment-management/ram-central.php",
+          "入学服务中心（校区信息）"
+        ]
+      }
+    },
+    "gsw": {
+      "short": "佐治亚西南州立大学",
+      "place": "阿梅里克斯 · 800 GSW State University Drive, Americus, GA 31709",
+      "cityKey": "americus",
+      "calShort": "两学期制；2026 秋 8 月 12 日开课，Spring 2027 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 12 日开始；加退课截止 8 月 18 日；9 月 7 日劳动节放假；10 月 28 日为无学术处罚退课最后日；感恩节 11 月 23–27 日；12 月 2 日结课；期末考试 12 月 3–8 日；毕业典礼 12 月 10 日。Spring 2027：课程 1 月 11 日开始；加退课截止、春假、退课最后日、结课、期末与毕业典礼日期以 Registrar 当期 Spring 2027 Academic Calendar 为准；入住与迎新按 Residence Life 当期安排办理。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格以全日制本科为基准；减修须经学业顾问批准并按校内在籍口径办理。",
+      "drop": "学期内加退课按校历日期在学生系统办理；退费比例、W 记录与退课截止日以 Registrar 与 Bursar 当期条款为准；逾期退课按当期政策执行。",
+      "ins1": "USG 学生健康保险计划（SHIP）由 UnitedHealthcare StudentResources 承保；持 F/J 签证的国际学生及其他强制类别学生须投保该计划或提供合格替代保险。",
+      "ins2": "保险卡与保单信息经承保方会员账户或移动应用领取；持其他合格保险者须在 waiver 截止日前提交证明；替代保单须满足 USG 最低保障要求。",
+      "ins3": "豁免窗口以学生账户每学期公布的截止日为准；逾期未豁免将自动注册 SHIP 并计收保费；资格与保单达标问题联系 Student Accounts 或国际学生办公室。",
+      "clinic": "Health Center（Health and Counseling Services）电话 229-931-2235，位于 Americus 校区；提供常见病诊疗、预防与健康促进，必要时转诊校外医疗；心理咨询与健康服务同口安排；房间位置、开放时间与邮箱以学校健康服务页当期公布为准，医疗急救拨 911。",
+      "commute": "校区在 Americus 镇区北侧 800 GSW State University Drive；自驾沿 US-280 与 State University Drive 衔接；距 Albany 约 30 英里、Atlanta 约 2.5 小时量级；镇区步行范围有限，跨城出行依赖驾车。",
+      "scene": "Georgia Southwestern State University 1906 年创立时为 Third District Agricultural and Mechanical School，后沿革为师范与州立学院；现有约 4,000 名住校、通勤与在线学生，开设文理、教育、商科与健康服务等学位与项目；校队称 Hurricanes，参加 NCAA Division II Peach Belt Conference 赛事。",
+      "safety": "GSW 校警负责校园巡逻、应急响应与护送；校外归 Americus Police Department 与 Sumter County 辖区；紧急拨 911，校警联系方式以学校公共安全页当期公布为准。",
+      "transit": "Americus 市域固定公交班次有限，校园到镇区步行或驾车为主；城际靠自驾或预约接驳，最近支线机场 ABY 约 30 英里，大型枢纽 ATL 约 2.5 小时。",
+      "rentnote": "Residence Life 管辖校内宿舍；修满 60 学分以下的单身全日制本科生原则上住校，与父母或法定监护人同住 50 英里内、已婚、年满 21 岁或子女同住等情形可申请豁免；2026-27 住宿与餐计划费率以当期费率表为准；校外就近租 Americus 镇区，依赖驾车，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.gsw.edu/about/",
+          "学校概况与校历入口"
+        ],
+        "ins": [
+          "https://www.usg.edu/student-affairs/student-health-insurance-program-ship/eligibility-and-minimum-requirements/",
+          "USG 学生保险资格与最低要求"
+        ],
+        "police": [
+          "https://www.gsw.edu/about/",
+          "校园安全入口"
+        ],
+        "housing": [
+          "https://www.gsw.edu/business-finance/policy-manual",
+          "住宿与住校政策（Policy Manual）"
+        ],
+        "clinic": [
+          "https://www.gsw.edu/about/",
+          "学生健康服务入口"
+        ],
+        "transit": [
+          "https://www.gsw.edu/about/",
+          "校区位置与访问信息"
+        ]
+      }
+    },
+    "uga": {
+      "short": "佐治亚大学",
+      "place": "雅典 · Athens, GA 30602（主校区 Old College 一带）",
+      "cityKey": "athensga",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 17 日（周一）开始，本科与研究生加退课 8 月 17–21 日；劳动节 9 月 7 日停课；期中 10 月 5 日；秋假 10 月 30 日（周五）；退课截止 11 月 11 日（周三）；感恩节前最后上课日 11 月 20 日，感恩节 11 月 23–27 日停课，11 月 30 日复课；12 月 1 日结课，12 月 2 日 Reading Day，期末 12 月 3–9 日；毕业典礼 12 月 11 日；成绩 12 月 14 日中午前提交。Spring 2027：课程 1 月 11 日（周一）开始，加退课 1 月 11–15 日；马丁·路德·金日 1 月 18 日停课；期中 3 月 1 日；春假前最后上课日 3 月 5 日，春假 3 月 8–12 日，3 月 15 日复课；退课截止 4 月 7 日（周三）；4 月 26 日结课，4 月 27 日 Reading Day，期末 4 月 28 日–5 月 4 日；研究生毕业典礼 5 月 6 日，本科生毕业典礼 5 月 7 日；成绩 5 月 10 日中午前提交。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与学校批准后在 Registrar 系统办理；全日制口径以国际学生办公室当期通知为准。",
+      "drop": "学期内加退课按 Registrar 校历日期办理；全学期课程退课最后日为秋季 11 月 11 日、春季 4 月 7 日；退费档位与 W/WD 口径以 Bursar 当期条款和校历为准。",
+      "ins1": "F-1/J-1 国际学生按 USG 规定必须持有符合 ACA 标准的医疗保险；强制性学生账单自动计入学生健康保险计划（SHIP，UnitedHealthcare Student Resources 承保），研究生 TA/RA 等强制群体口径以学校当期通知为准。",
+      "ins2": "持其他合格保险者须在 waiver 开放窗口内通过承保方门户提交证明申请豁免，保费方可从账单移除；电子保险卡、保单号与生效到期日经 UHC 会员账户领取；2025 年 8 月 1 日起 Health Center 转诊要求已从保单中移除。",
+      "ins3": "豁免窗口每学期开学初开放，替代保单须合格并覆盖在美停留全期；未通过核验者不适用豁免；保险事务联系 UGA Human Resources 学生保险办公室或 Health Center。",
+      "clinic": "University Health Center，55 Carlton Street, Athens, GA 30602；电话 706-542-1162；工作日门诊，具体时段以 Health Center 当期公布为准；提供初级保健、妇科、化验、常备药品与社区转诊；CAPS 心理咨询位于 Health Center 二层，706-542-2273，工作日 8:00–17:00，下班后与节假日由值班咨询师接续；Well-being Center 在 301 E. Cloverhurst Ave（Hillside Dining Commons 一层），706-542-4630。",
+      "commute": "主校区位于 Athens-Clarke County 城区与东侧丘陵地带；自驾经 I-85 东北向至雅典出口，接 US 319/Athens 通道到校；距 Atlanta 约 70 英里、1.5 小时量级；校内步行圈成熟，宿舍区到教学区有免费 Campus Transit 线路衔接。",
+      "scene": "佐治亚大学 1785 年 1 月 27 日经州议会特许成立，是美国第一所州立特许大学；在校学生 42,728 人（本科 31,970、研究生 9,049、职业教育学生若干）；下设 Franklin 文理学院、Terry 商学院、Grady 新闻与大众传播学院、工程学院、法学院、药学院、公共卫生学院等十七所学院与研究生院；农业、生态、传媒、商学、公共卫生见长；校队参加 NCAA 东南联盟（SEC），昵称 Bulldogs，吉祥物 Uga 猎犬与 Hairy Dawg。",
+      "safety": "UGA Police Department，总部 286 Oconee Street, Athens, GA 30602（Hodgson Oil Building）；紧急拨 911，非紧急 706-542-2200；警官 24 小时、全年 365 天值守，为佐治亚 POST 认证警官；校园设蓝灯紧急电话并提供护送服务，可经 UGA Safe App 呼叫；校外归 Athens-Clarke County Police Department，非紧急 706-613-3330，3035 Lexington Rd。",
+      "transit": "UGA Campus Transit 免费校内线路连接宿舍区、教学区、停车场与公交换乘点；ACCG Transit 运营市区固定线路；城际无铁路直达，靠自驾或长途接驳；去 Atlanta 走 I-85。",
+      "rentnote": "首年本科生按住校要求安排校内床位，传统宿舍有 Russell、Creswell、Morris、Bolton、Brumby、Towers、Hill、Oglethorpe 等，套房与新宿舍含 Black-Diallo-Miller Hall、Expanded Rooker Hall 等；房型分双人间community bath、带浴双人间、四床两浴套房等；2026-27 每学期官方费率见 Housing 费率表，餐计划口径以 Dining 当期说明为准；校外租房在校园东南侧住宅区与 downtown 周边，依赖校内接驳或县域公交，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://reg.uga.edu/calendars/academic-calendars/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://hr.uga.edu/benefits-wellbeing/health-insurance-retirement-plans/student-health-insurance/mandatory-plan/waiver/",
+          "学生健康保险与豁免"
+        ],
+        "police": [
+          "https://police.uga.edu/",
+          "UGA Police Department"
+        ],
+        "housing": [
+          "https://housing.uga.edu/rates/",
+          "住宿费率与宿舍"
+        ],
+        "clinic": [
+          "https://healthcenter.uga.edu/",
+          "University Health Center"
+        ],
+        "transit": [
+          "https://transit.uga.edu/",
+          "Campus Transit 校内交通"
+        ]
+      }
+    },
+    "gatech": {
+      "short": "佐治亚理工学院",
+      "place": "亚特兰大 · 225 North Avenue NW, Atlanta, GA 30332",
+      "cityKey": "atlanta",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 24 日（周一）开课；8 月 28 日（周五）23:59（美东时间）为注册、调课与无 W 退课截止；9 月 7 日（周一）劳动节停课；秋假 10 月 5 日（周一）至 6 日（周二）；10 月 31 日（周六）23:59 为单门课程或全校带 W 退课截止，获退费须全部退课；11 月 25 日（周三）学生休假，11 月 26–27 日（周四至周五）感恩节假期；12 月 7–8 日（周一至周二）最后授课日，12 月 9 日（周三）Reading Period，期末 12 月 10–17 日；毕业典礼 12 月 17–19 日。Spring 2027：1 月 11 日（周一）开课；1 月 15 日（周五）23:59 为注册、调课与无 W 退课截止；1 月 18 日（周一）马丁·路德·金日停课；春假 3 月 8–12 日（周一至周五）；3 月 23 日（周二）23:59 为单门课程或全校带 W 退课截止；4 月 26–27 日（周一至周二）最后授课日，4 月 28 日（周三）Reading Period，期末 4 月 29 日–5 月 6 日；毕业典礼 5 月 6–8 日。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；Co-op 学制学生按学术学期与工作学期交替安排，在校注册学分口径以 Co-op 项目与 Registrar 当期规定为准；减修须经学业顾问批准。",
+      "drop": "加退课与无 W 退课截止为秋 8 月 28 日、春 1 月 15 日 23:59（美东时间）；单门课程或全校带 W 退课截止为秋 10 月 31 日、春 3 月 23 日 23:59；退费档位与 W 口径以 Bursar 当期条款为准；跨校选课截止见校历 Cross Registration 节点。",
+      "ins1": "F-1/J-1 本科生及 TA、RA、Fellowship、全奖等研究生群体为保险强制对象，BOR 学生健康保险费自动计入学生账单；保险由 UnitedHealthcare Student Resources 承保。",
+      "ins2": "已有合格私保的强制学生可在开放投保/豁免期内申请豁免 BOR 保险；豁免通过后 UHCSR 通知 Bursar 移除账单费用；电子保险卡经承保方会员账户领取。",
+      "ins3": "每学期开学初设 open enrollment/waiver 窗口，可投保自愿计划、豁免强制计划或为配偶子女加保；替代保单须达到或超过 BOR 保险要求；咨询 Stamps Health Services 保险办公室。",
+      "clinic": "Stamps Health Services，Joseph Brown Whitehead Building，740 Ferst Drive（紧邻 Campus Recreation Center）；总机 404-894-1420；标准门诊时间周一、周二、周三、周五 8:00–17:00，周四 9:00–17:00，夏季 8:00–16:30；服务含 Primary Care、Women's Health、Psychiatry、Health Promotion、Nutrition，以及 Pharmacy、Laboratory、Radiology、Immunization 支持；社区转诊按当期安排。",
+      "commute": "校园位于 Atlanta Midtown，225 North Avenue NW；自驾经 I-75/I-85 至 Midtown 出口；MARTA Red/Gold 线 North Avenue 站紧邻校园；校内到 Midtown 商务区、Piedmont Park 步行可达；跨区出行靠 MARTA 与自驾。",
+      "scene": "佐治亚理工 1885 年 10 月 13 日获准成立，初名 Georgia School of Technology，1888 年开课；主校区 Atlanta 与法国 Lorraine、中国深圳校区及线上项目合计近四万名学生；下设 Engineering、Computing、Architecture、Scheller Business、Sciences、Ivan Allen Liberal Arts 等学院；工程、计算、建筑、工业与商学见长；校队为 Georgia Tech Yellow Jackets，参加 NCAA Division I 大西洋沿岸联盟（ACC），吉祥物 Buzz 与 Ramblin' Wreck。",
+      "safety": "Georgia Tech Police Department（GTPD），965 Hemphill Ave. NW, Atlanta, GA 30318；紧急拨 911 或 404-894-2500；24/7 值守，可经 LiveSafe App 呼叫；校园蓝灯电话、护送与犯罪预防项目由 GTPD 管理；校外归 Atlanta Police Department Midtown 辖区。",
+      "transit": "MARTA Red/Gold 线 North Avenue 站接邻校园，公交线覆盖 Midtown 与 Downtown；校内有免费接驳；跨城与机场走 MARTA 或自驾，ATL 经 Red/Gold 线直达。",
+      "rentnote": "校内住房分传统 Quad 宿舍（Field、Glenn、Harrison、Hopkins、Howell、Smith、Towers 等）、套房（Harris、Woodruff North/South）与研究生公寓（Tenth and Home）；2026-27 每学期官方费率见 Housing and Residence Life 费率表，研究生公寓与传统房型分列；BuzzCard 为校园身份、门禁与消费卡；校外租房集中在 Home Park、West Midtown 与 Midtown 周边，步行或 MARTA 可达，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.gatech.edu/current-academic-calendar",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://health.gatech.edu/student-health-insurance/",
+          "学生健康保险与豁免"
+        ],
+        "police": [
+          "https://police.gatech.edu/",
+          "Georgia Tech Police Department"
+        ],
+        "housing": [
+          "https://housing.gatech.edu/applicants/rates",
+          "住宿费率"
+        ],
+        "clinic": [
+          "https://health.gatech.edu/stamps/",
+          "Stamps Health Services"
+        ],
+        "transit": [
+          "https://www.itsmarta.com/",
+          "MARTA 城市公交与轨交"
+        ]
+      }
+    },
+    "gsu": {
+      "short": "佐治亚州立大学",
+      "place": "亚特兰大 · 33 Gilmer Street SE, Atlanta, GA 30303",
+      "cityKey": "atlanta",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 24 日（周一）开始，加退课截止 8 月 28 日；劳动节 9 月 7 日停课；无罚退课截止 10 月 23 日；感恩节 11 月 23–28 日停课；12 月 7 日结课，期末 12 月 8–15 日；毕业典礼 12 月 14–18 日。Spring 2027：课程 1 月 11 日（周一）开始，Late Registration（Add/Drop）1 月 15 日 17:00 截止；马丁·路德·金日 1 月 18 日停课；退课截止 3 月 12 日；春假 3 月 15–21 日；4 月 26 日结课，期末 4 月 27 日–5 月 4 日；毕业典礼 5 月 3–7 日。各分校与 MMII 短学期截止日另见 Registrar 校历。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与学校批准后在 PAWS 办理；全日口径以国际学生办公室当期通知为准。",
+      "drop": "加退课与退课按 PAWS 校历日期办理；无罚退课截止为秋季 10 月 23 日、春季 3 月 12 日；退费档位与 W 口径以 Bursar 当期条款为准。",
+      "ins1": "F-1/J-1 国际学生按 USG 规定必须持有符合 ACA 标准的医疗保险；强制性学生账单自动计入 SHIP（UHC Student Resources 承保），强制群体口径以学校当期通知为准。",
+      "ins2": "持其他合格保险者须在 waiver 开放窗口内通过承保方门户提交证明申请豁免，保费方可从账单移除；电子保险卡与保单号经会员账户领取。",
+      "ins3": "豁免窗口每学期开学初开放，替代保单须合格并覆盖在美停留全期；未通过核验者不适用豁免；咨询 Student Health Clinic 或保险办公室。",
+      "clinic": "Georgia State Student Health Clinic，75 Piedmont Avenue NE, Suite 200, Atlanta, GA 30303；电话 404-413-1930；周一至周五 8:30–17:15；停车在 J Deck 上层；提供初级保健、评估、转诊与健康咨询，专科与社区转诊按当期安排。",
+      "commute": "主校区在 Downtown Atlanta，33 Gilmer Street SE 一带，步行校园；MARTA Five Points 站与 Georgia State 站接邻；自驾经 I-75/I-85 与 I-20 到 Downtown；跨区出行靠 MARTA 与公交。",
+      "scene": "佐治亚州立大学 1913 年创立，是 Downtown Atlanta 的公立研究型大学；Atlanta 校区学生 32,000 余人，另有五个郊区分校学生 21,000 余人；下设 12 所学院、学校与研究所，含 Andrew Young 政策研究学院、J. Mack Robinson 商学院、Law 学院、教育学院、护理与健康学院、Arts & Sciences 等；商学、法律、公共政策、护理与计算机见长；校队昵称 Panthers，吉祥物 Pounce，参加 NCAA Division I 太阳带联盟（Sun Belt Conference）。",
+      "safety": "Georgia State University Police Department（GSUPD），15 Edgewood Avenue NE；紧急 911，Campus Police 404-413-3333；非紧急与安全护送 404-413-2100；信息台 404-413-3234；24/7 值守，宣誓警官与安保人员编制；校外归 Atlanta Police Department 与 MARTA Police。",
+      "transit": "MARTA 轨交 Georgia State 站、Five Points 站接邻 Downtown 校园；公交线覆盖 Downtown 与郊区分校；校内有步行通道与接驳；机场乘 Red/Gold 线直达 ATL。",
+      "rentnote": "校内住房以套房社区与合作公寓为主、无传统长宿舍式房型，含 Patton Hall（套房式一年级社区）、Piedmont North、Piedmont Central、University Lofts、University Commons、Greek Town Houses 等住宿社区；2026-27 官方费率见 Housing 费率页，住宿须先有秋季/春季分配；多数学生通勤自郊区或租住 Downtown、Midtown 周边公寓，依赖 MARTA 与自驾；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.gsu.edu/",
+          "Registrar 校历与日期"
+        ],
+        "ins": [
+          "https://www.usg.edu/international-education/international-students/international-students-insurance/",
+          "USG 国际学生保险说明"
+        ],
+        "police": [
+          "https://safety.gsu.edu/police/contact-us/",
+          "GSUPD 联系方式"
+        ],
+        "housing": [
+          "https://myhousing.gsu.edu/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://health.gsu.edu/about/",
+          "Student Health Clinic"
+        ],
+        "transit": [
+          "https://www.itsmarta.com/",
+          "MARTA 城市公交与轨交"
+        ]
+      }
+    },
+    "augusta": {
+      "short": "奥古斯塔大学",
+      "place": "奥古斯塔 · 1120 15th Street, Augusta, GA 30912",
+      "cityKey": "augusta",
+      "calShort": "两学期制；2026 秋 8 月 18 日开课，Spring 2027 1 月 13 日开课。",
+      "calendar": "Fall 2026：课程 8 月 18 日（周二）开始；加退课 8 月 18 日 8:00 起至 8 月 24 日 17:00，逾期按晚注册处理；9 月 7 日劳动节无课、行政办公关闭；10 月 21 日为无学术处罚退课最后日；11 月 24 日结课；感恩节 11 月 26–27 日放假（11 月 25 日无课、办公开放）；期末考试 11 月 30 日–12 月 4 日；12 月 25–31 日冬季假期。Spring 2027：1 月 1 日新年假；课程 1 月 13 日（周三）开始；加退课 1 月 13 日 8:00 起至 1 月 20 日 17:00；1 月 18 日马丁·路德·金日放假；3 月 11–12 日 Spring Pause；3 月 24 日为无处罚退课最后日；4 月 5–9 日春假；4 月 30 日结课；期末考试 5 月 3–7 日；成绩 5 月 10 日截止。医学、牙科与护理专业项目另有临床轮转日程，以各学院当期安排为准。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格与学费档位以全日制为基准；研究生与专业项目学分口径以所属学院规定为准；减修须经学业顾问批准。",
+      "drop": "学期内加退课按校历日期在学生系统办理；退费比例、W 记录与退课截止日以 Registrar 与 Bursar 当期条款为准；临床类项目退课另受学院规则约束。",
+      "ins1": "USG 学生健康保险计划（SHIP）由 UnitedHealthcare StudentResources 承保；持 F/J 签证的国际学生及其他强制类别学生须投保该计划或提供合格替代保险。",
+      "ins2": "保险卡与保单信息经承保方会员账户或移动应用领取；持其他合格保险者须在 waiver 截止日前提交证明；替代保单须满足 USG 最低保障要求。",
+      "ins3": "豁免窗口以学生账户每学期公布的截止日为准；逾期未豁免将自动注册 SHIP 并计收保费；资格与保单达标问题联系 Student Accounts 或国际学生办公室。",
+      "clinic": "Student Health Medical Clinic 主点设在 Summerville 校区，Health Sciences 校区设分点；电话 706-721-3448，下班后预约 706-737-1471；办公时间 8:00–17:00；提供常见病诊疗、预防、免疫与转诊；心理咨询归 Student Counseling & Psychological Services 另行安排，医疗急救拨 911。",
+      "commute": "Health Sciences 校区 1120 15th Street, Augusta, GA 30912；Summerville 校区 2500 Walton Way, Augusta, GA 30904；两校区相距约数英里，沿 Walton Way / 15th Street 衔接；自驾经 I-20 与 I-520（Bobby Jones Expressway）出入；距 Atlanta 约 2.5 小时量级；城内可搭 Augusta Transit，校区间与进城依赖驾车或公交衔接。",
+      "scene": "Augusta University 溯源 1828 年设立的 Medical College of Georgia，是佐治亚公立研究型大学与医学中心；在校生约 12,788 名，下设 10 个学院与单位，含州旗舰公立医学院 MCG、唯一公立牙科 College of Dental Medicine、Hull College of Business、Pamplin College of Arts, Humanities and Social Sciences 及护理等单位；商科、护理、健康科学与医学见长；校队称 Jaguars，参加 NCAA Division II Peach Belt Conference，高尔夫项目为 Division I 联盟附属。",
+      "safety": "Augusta University Police 负责两校区巡逻、应急响应、门禁与护送；紧急拨 911，校警调度与非紧急电话以公共安全页当期公布为准；校外归 Augusta Police Department 与 Richmond County 辖区。",
+      "transit": "Augusta Transit 提供城区固定线路；两校区与 downtown 之间公交班次有限，校区间、去 AGS 机场方向依赖驾车；城际经 I-20 衔接 Atlanta 与南卡方向。",
+      "rentnote": "校内宿舍以 Summerville 校区 Oak Hall 等公寓式住房为主；2026-27 住宿与餐计划费率以当期费率表为准；校外沿 Walton Way、Washington Road 与城区走廊租房，依赖驾车或公交，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.augusta.edu/registrar/academiccalendar/",
+          "Academic Calendar（Registrar）"
+        ],
+        "ins": [
+          "https://www.usg.edu/student-affairs/student-health-insurance-program-ship/eligibility-and-minimum-requirements/",
+          "USG 学生保险资格与最低要求"
+        ],
+        "police": [
+          "https://www.augusta.edu/police/cleryandcrime/",
+          "Public Safety / Police"
+        ],
+        "housing": [
+          "https://www.augusta.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://catalog.augusta.edu/content.php?catoid=28&navoid=3398",
+          "Student Health Medical Clinic（Catalog）"
+        ],
+        "transit": [
+          "https://www.augusta.edu/admissions/visit.php",
+          "校区访问与路线"
+        ]
+      }
+    },
+    "ccga": {
+      "short": "佐治亚海岸学院",
+      "place": "布伦瑞克 · One College Drive, Brunswick, GA 31520",
+      "cityKey": "brunswick",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，Spring 2027 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 17 日开始；加退课截止 8 月 21 日；9 月 7 日劳动节放假；10 月 26 日为无学术处罚退课最后日；11 月 25 日无课；感恩节 11 月 26–27 日；12 月 4 日结课；期末考试 12 月 7–10 日；毕业典礼 12 月 11 日。Spring 2027：课程 1 月 11 日开始；加退课截止 1 月 15 日；1 月 18 日马丁·路德·金日放假；3 月 8–12 日春假；3 月 29 日为无处罚退课最后日；4 月 30 日结课；期末考试 5 月 3–6 日；毕业典礼 5 月 7 日。Brunswick 主校与 Camden Center 教学安排一致；入住、迎新与缴费截止日期按 Residence Life 与 Student Accounts 当期公布办理。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格以全日制为基准；减修须经学业顾问批准并按在校口径办理。",
+      "drop": "学期内加退课按校历日期在学生系统办理；退费比例、W 记录与退课截止日以 Registrar 与 Bursar 当期条款为准。",
+      "ins1": "USG 学生健康保险计划（SHIP）由 UnitedHealthcare 承保；持 F-1 签证的国际学生账单自动计入保费，须投保或在符合条件时完成豁免。",
+      "ins2": "保险卡与保单信息经承保方会员账户领取；持父母、雇主或个人合格保单者可在 waiver 窗口提交证明申请豁免；替代保单须满足 USG 最低保障要求。",
+      "ins3": "豁免申请截止日每春秋两学期公布，逾期严格受理；夏季保障并入春季保障期；资格与保单达标问题联系学生健康中心或 Student Accounts。",
+      "clinic": "Student Health Center 位于 Campus Center 二层，电话 912-279-4537；预约制、有余号可走诊；提供常见病诊疗、预防、免疫与健康促进，必要时转诊校外医疗；心理咨询与无障碍服务归 Student Well-Being and Support 办公室另行安排，医疗急救拨 911。",
+      "commute": "Brunswick 主校 One College Drive， Brunswick, Glynn County，约 193 英亩；Camden Center 位于 Kingsland, Camden County，约 75 英亩；自驾沿 US-17 / Golden Isles Parkway 衔接；距 Savannah 约 1 小时、Jacksonville 约 1.5 小时量级；校园周边步行范围有限，出行依赖驾车。",
+      "scene": "College of Coastal Georgia 是 USG 体系内的州立学院，主校在 Brunswick 滨海一带，另设 Kingsland 的 Camden Center 教学点；开设文理、商科、教育、护理与专业技术等两年制与四年制项目；校园靠 Atlantic Intracoastal Waterway 与海岛旅游带；校队称 Mariners，参加 NAIA Sun Conference 赛事。",
+      "safety": "Campus Police 负责主校与 Camden Center 巡逻、应急响应与护送；电话 912-258-3133；校外归 Brunswick Police Department 与 Glynn County 辖区；紧急拨 911。",
+      "transit": "Brunswick 与 Glynn County 固定公交班次有限，校园到城区、海岛方向以驾车为主；城际经 US-17 / I-95 衔接 Savannah 与 Jacksonville，最近支线机场 BQK。",
+      "rentnote": "校内 Lakeside Village、Mariner Village 提供套房与公寓式床位；Coastal Place Apartments 为校外公寓，距主校约 10 分钟车程；2026-27 住宿与餐计划费率以当期费率表为准；校外沿 Brunswick 城区与海岛方向租房，依赖驾车，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ccga.edu/",
+          "学校官网（校历入口）"
+        ],
+        "ins": [
+          "https://www.ccga.edu/student-success-resources/office-of-student-well-being-and-support/studenthealthcenter/",
+          "Student Health Center 与保险说明"
+        ],
+        "police": [
+          "https://www.ccga.edu/about/offices/publicsafety/",
+          "Campus Police / Public Safety"
+        ],
+        "housing": [
+          "https://www.ccga.edu/campuslife/reslife/",
+          "Residence Life & Housing"
+        ],
+        "clinic": [
+          "https://www.ccga.edu/student-success-resources/office-of-student-well-being-and-support/studenthealthcenter/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.ccga.edu/admissions/international-students-checklist/",
+          "访问与入学信息"
+        ]
+      }
+    },
+    "uwg": {
+      "short": "西佐治亚大学",
+      "place": "卡罗尔顿 · 1601 Maple Street, Carrollton, GA 30118",
+      "cityKey": "carrollton",
+      "calShort": "两学期制；2026 秋 8 月 12 日开课，2027 春 1 月 9 日开课。",
+      "calendar": "Fall 2026：课程 8 月 12 日开始；9 月 5 日无周六课；劳动节 9 月 7 日停课；秋假 10 月 8–9 日停课；10 月 10 日无周六课；感恩节 11 月 23–27 日停课（28–29 日办公室关闭）；11 月 28 日无周六课；12 月 4 日结课，期末 12 月 5–11 日；秋季毕业典礼 12 月 11 日（周五）与 12 月 12 日（周六）；成绩 12 月 14 日中午前提交。Spring 2027：课程 1 月 9 日开始；1 月 16 日无周六课；马丁·路德·金日 1 月 18 日停课；3 月 13 日无周六课；春假 3 月 15–19 日停课；3 月 20 日无周六课；5 月 3 日结课，期末 5 月 5–11 日；春季毕业典礼 5 月 14 日（周五）与 5 月 15 日（周六）；成绩 5 月 17 日中午前提交。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与学校批准；全日口径以国际学生办公室当期通知为准。",
+      "drop": "加退课与退课按 Registrar 校历日期办理；退费档位与 W 口径以 Bursar 当期条款为准；短学期截止日另见校历。",
+      "ins1": "F-1/J-1 国际学生按 USG 规定必须持有符合 ACA 标准的医疗保险；强制性学生账单自动计入 SHIP（UHC Student Resources 承保）。",
+      "ins2": "持其他合格保险者须在 waiver 窗口内通过承保方门户提交证明申请豁免；电子保险卡与保单号经会员账户领取。",
+      "ins3": "豁免窗口每学期开学初开放，替代保单须合格并覆盖在美停留全期；未通过核验者不适用豁免；咨询 Health Services。",
+      "clinic": "Student Health Center，位于 Honors House 后侧、College of Education 对面；电话 678-839-6452；周一至周五 8:00–17:00；可预约线下或远程医疗（telemedicine）；提供初级保健、评估、转诊与健康咨询，下班后护理经 After Hour Care 渠道接续。",
+      "commute": "主校区在 Carrollton 城区北侧，1601 Maple Street；自驾经 I-20 西向至 Carrollton 出口接 US 27/GA 16 到校；距 Atlanta 约 50 英里、1 小时量级；校内步行圈成熟，宿舍区到教学区有校车衔接。",
+      "scene": "西佐治亚大学源于 1906 年创立的第四区农业与机械学校，现为 USG 综合性大学；2025 秋在校学生 16,072 人（本科 10,075、研究生 5,997）；下设 Arts & Humanities、Business、Education、Math & Science、Social Sciences、Nursing 等学院；教育、护理、商学、社会科学与计算机见长；校队昵称 Wolves。",
+      "safety": "UWG Police Department，Row Hall；紧急拨 911 或 678-839-6000（TTY/TDD 同号）；州认证警察部门，24/7/365 值守；失物招领与记录申请 678-839-4969；校外归 Carrollton 市警局与卡罗尔县警长办公室。",
+      "transit": "校内校车连接宿舍、教学区与停车场；Carrollton 城区固定公交班次有限；城际靠自驾，I-20 东向约 1 小时到 Atlanta；最近主要机场 ATL。",
+      "rentnote": "校内住房含 Center Pointe Suites（一年级为主，套房式单/双人间）、The Village（单卧室公寓）等；2026-27 费率见 Residence Halls 页面，房型分套房双人间、单卧室公寓等；餐计划档位以 Housing/Dining 当期说明为准；校外租房在 Carrollton 周边住宅区，依赖自驾或校车；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.westga.edu/content.php?navoid=1683",
+          "Academic Calendar 2026-2027"
+        ],
+        "ins": [
+          "https://www.usg.edu/international-education/international-students/international-students-insurance/",
+          "USG 国际学生保险说明"
+        ],
+        "police": [
+          "https://www.westga.edu/police/index.php",
+          "UWG Police & Campus Safety"
+        ],
+        "housing": [
+          "https://www2.westga.edu/campus-life/housing/residence-halls/",
+          "Residence Halls 与费率"
+        ],
+        "clinic": [
+          "https://www2.westga.edu/health/",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www2.westga.edu/campus-life/parking-transportation/",
+          "停车与交通"
+        ]
+      }
+    },
+    "columbusstate": {
+      "short": "哥伦布州立大学",
+      "place": "哥伦布 · 4225 University Avenue, Columbus, GA 31907",
+      "cityKey": "columbusga",
+      "calShort": "两学期制；2026 秋 8 月 10 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 10 日开始，加退课截止 8 月 14 日；劳动节 9 月 7 日停课；感恩节 11 月 21–27 日停课；12 月 1 日结课，期末 12 月 2–7 日；毕业典礼 12 月 10–12 日。Spring 2027：课程 1 月 11 日开始，加退课截止 1 月 15 日；马丁·路德·金日 1 月 18 日停课；春假 3 月 6–12 日；5 月 4 日结课，期末 5 月 5–10 日；毕业典礼 5 月 13–15 日。短学期与研究生项目截止日另见 2026–2027 Academic Calendar。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与学校批准；全日口径以国际学生办公室当期通知为准。",
+      "drop": "加退课与退课按校历日期办理；退费档位与 W 口径以 Bursar 当期条款为准；短学期截止日另见校历。",
+      "ins1": "F-1/J-1 国际学生按 USG 规定必须持有符合 ACA 标准的医疗保险；强制性学生账单自动计入 SHIP（UHC Student Resources 承保）。",
+      "ins2": "持其他合格保险者须在 waiver 窗口内通过承保方门户提交证明申请豁免；电子保险卡与保单号经会员账户领取。",
+      "ins3": "豁免窗口每学期开学初开放，替代保单须合格并覆盖在美停留全期；未通过核验者不适用豁免；咨询 Student Health Center。",
+      "clinic": "Student Health Center（SHC），Tucker Hall，主校区西侧校园地图 Building #60，停车在 Lots 3、5、7，邮寄地址 4225 University Avenue, Columbus, GA 31907-5645；电话 706-507-8620，邮箱 student_health_services@columbusstate.edu，预约经电话分诊护士或邮件办理；凭每学期健康费使用；提供初级保健、化验转诊与健康咨询，医疗记录保密；诊所不提供过敏注射，需转诊网络内过敏专科。",
+      "commute": "主校区在 Columbus 东部 University Avenue；RiverPark 校区在 downtown Columbus；自驾经 US 280、US 27 与 I-185；距 Atlanta 约 90 英里、1.5–2 小时量级；两校区间有校车接驳。",
+      "scene": "哥伦布州立大学 1958 年 9 月 22 日以 Columbus College 之名在临时校舍开课，初招近 300 名学生；设 Arts & Letters、Business、Education、Health Sciences、Science、Mathematics & Computer Science 等学院；音乐、艺术、护理、教育、商学与计算机见长；主校区与 downtown RiverPark 校区两处布局；校队昵称 Cougars，参加 NCAA Division II 桃子带联盟（Peach Belt Conference）。",
+      "safety": "CSU University Police，主校区 Shannon Hall 底层，总部位于 Elizabeth Bradley Turner Center 旁 College Drive 与 East Lindsey Drive 交口；紧急 706-507-8911，非紧急 706-568-2022，邮箱 police@columbusstate.edu，传真 706-565-4079；RiverPark 校区另设警务站；公寓区夜间有 RA 配合巡逻；校外归哥伦布市警局。",
+      "transit": "Columbus METRA 公交覆盖主校区、RiverPark 校区与城区；两校区校车接驳；城际靠自驾，I-185 北向接 I-85；本地 CSG 机场以支线为主。",
+      "rentnote": "校内住房为公寓式宿舍，分布在主校区周边；2026-27 官方费率见 Housing 页面；餐计划档位以 Housing/Dining 当期说明为准；校外租房在主校区周边与 downtown，步行圈有限，多数日常出行驾车；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.columbusstate.edu/academics/calendars/2026-2027.php",
+          "2026–2027 Academic Calendar"
+        ],
+        "ins": [
+          "https://www.usg.edu/international-education/international-students/international-students-insurance/",
+          "USG 国际学生保险说明"
+        ],
+        "police": [
+          "https://www.columbusstate.edu/police/contact.php",
+          "University Police 联系方式"
+        ],
+        "housing": [
+          "https://www.columbusstate.edu/residence-life/",
+          "Campus Housing"
+        ],
+        "clinic": [
+          "https://www.columbusstate.edu/health-services/faq.php",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.columbusga.gov/metra",
+          "Columbus METRA 公交"
+        ]
+      }
+    },
+    "ung": {
+      "short": "北佐治亚大学",
+      "place": "达洛尼加 · 82 College Circle, Dahlonega, GA 30597",
+      "cityKey": "dahlonega",
+      "calShort": "两学期制；2026 秋 8 月 10 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 10 日开始，加退课截止 8 月 14 日；劳动节 9 月 7 日停课；无罚退课截止 10 月 16 日；感恩节 11 月 23–27 日停课；11 月 20 日结课，期末 12 月 1–4 日。Spring 2027：课程 1 月 11 日开始，加退课截止 1 月 15 日；马丁·路德·金日 1 月 18 日停课；退课截止 3 月 19 日；春假 3 月 8–12 日；4 月 30 日结课，期末 5 月 4–7 日。各校区短学期与研究生项目截止日另见 Registrar 校历。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；Dahlonega 校区住宿资格与全日制学分要求挂钩；减修须经学业顾问批准。",
+      "drop": "加退课与退课按校历日期办理；无罚退课截止为秋季 10 月 16 日、春季 3 月 19 日；退费档位与 W 口径以 Bursar 当期条款为准。",
+      "ins1": "F-1/J-1 国际学生按 USG 规定必须持有符合 ACA 标准的医疗保险；强制性学生账单自动计入 SHIP（UHC Student Resources 承保）。",
+      "ins2": "持其他合格保险者须在 waiver 窗口内通过承保方门户提交证明申请豁免；电子保险卡与保单号经会员账户领取。",
+      "ins3": "豁免窗口每学期开学初开放，替代保单须合格并覆盖在美停留全期；未通过核验者不适用豁免；咨询校区 Health Center。",
+      "clinic": "Dahlonega 校区 Health Center 提供初级保健、评估与转诊；心理咨询 Dahlonega 校区 706-864-1819，Gainesville 校区 678-717-3660，Cumming 校区 470-239-3134；各校区服务时间以当期公布为准，专科与社区转诊按当期安排。",
+      "commute": "Dahlonega 校区在阿巴拉契亚山麓，82 College Circle；自驾经 US 19/US 129 南北向贯通；距 Atlanta 不足一小时车程量级；校区步行圈成熟，宿舍到教学区有校内接驳；Gainesville、Cumming（Oconee）、Blue Ridge 为其他分校区。",
+      "scene": "北佐治亚大学 2013 年 1 月 8 日由原 Gainesville State、North Georgia 等院校合并成立，2015 年增开 Blue Ridge 校区；全校近 16,000 名学生，Dahlonega 校区 7,300 余人；提供 60 余个本研项目、120 余个学生组织；为佐治亚军事学院（Military College of Georgia），陆军后备军官训练团 Boar's Head Brigade 常驻 Dahlonega；护理、教育、商业、刑事司法、工程技术与军事科学见长；校队昵称 Nighthawks。",
+      "safety": "UNG Campus Police（Public Safety）覆盖全部校区，电话 706-864-1500，邮箱 publicsafety@ung.edu；Dahlonega 校区 Public Safety Office；可经 LiveSafe App 呼叫；宿舍楼按 Nighthawks Card 24 小时门禁；校外归兰普金县警长办公室及各所在县警务部门。",
+      "transit": "校内接驳连接宿舍、教学区与停车场；山城无固定城市公交；出行以自驾为主，US 19/129 贯通；去 Atlanta 约一小时量级；最近主要机场 ATL。",
+      "rentnote": "仅 Dahlonega 校区提供校内住宿：传统宿舍 Lewis Hall、Lewis Annex、Donovan Hall（仅双人间），套房 North Georgia Suites、The Commons，公寓 Owen Hall（全部单人间，不强制餐计划）；未满足最低学分要求的全日制学生按住校政策安排；2026-27 官方费率见 Residence Life 页面；校外租房在 Dahlonega 小镇山麓住宅区，无车出行受限；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://ung.edu/calendars/",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.usg.edu/international-education/international-students/international-students-insurance/",
+          "USG 国际学生保险说明"
+        ],
+        "police": [
+          "https://ung.edu/public-safety/index.php",
+          "Emergency Information 与 Campus Police"
+        ],
+        "housing": [
+          "https://ung.edu/residence-life/",
+          "Residence Life 宿舍"
+        ],
+        "clinic": [
+          "https://ung.edu/student-health-services/index.php",
+          "Health Center"
+        ],
+        "transit": [
+          "https://ung.edu/campuses/index.php",
+          "各校区分布与交通"
+        ]
+      }
+    },
+    "dalton": {
+      "short": "道尔顿州立学院",
+      "place": "道尔顿 · 650 College Drive, Dalton, GA 30720",
+      "cityKey": "dalton",
+      "calShort": "两学期制；2026 秋 8 月 10 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 10 日开始，加退课截止 8 月 14 日；秋假 10 月 5–6 日；11 月 30 日结课，期末 12 月 2–8 日；毕业典礼 12 月 16 日。Spring 2027：课程 1 月 11 日开始，加退课截止 1 月 15 日；马丁·路德·金日 1 月 18 日停课；5 月 3 日结课，期末 5 月 5–11 日；毕业典礼 5 月 18 日。A/B/C 半学期截止日另见校历与注册通知。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与批准；全日口径以国际学生招生单元当期通知为准。",
+      "drop": "加退课与退课按校历日期在注册系统办理；退费档位与 W 口径以 Bursar 当期条款为准；半学期课程截止日另见目录。",
+      "ins1": "F-1/J-1 国际学生按 USG 规定必须持有符合 ACA 标准的医疗保险；强制性学生账单自动计入 SHIP（UHC Student Resources 承保）。",
+      "ins2": "持其他合格保险者须在 waiver 窗口内通过承保方门户提交证明申请豁免；电子保险卡与保单号经会员账户领取。",
+      "ins3": "豁免窗口每学期开学初开放，替代保单须合格并覆盖在美停留全期；未通过核验者不适用豁免；咨询 Student Health Services。",
+      "clinic": "Ken White Student Health Center（KWSHC），Health Professions Building Suite 266，预约电话 706-272-2532，邮箱 Healthwellness@daltonstate.edu；心理健康服务同址同号；提供初级保健、评估、健康咨询与转诊；时段以当期公布为准。",
+      "commute": "主校区 650 College Drive, Dalton, GA 30720；另有 Mountain Campus，103 Dalton Street, Ellijay, Georgia；自驾经 I-75 至 Dalton 出口接 US 76；距 Chattanooga 约 30 英里、30–40 分钟量级，距 Atlanta 约 1.5–2 小时；通勤型校园，步行圈限于校内。",
+      "scene": "道尔顿州立学院 1963 年 7 月 20 日由佐治亚大学特许设立，1967 年首次开课，1969 年获认证；为 USG 四年制学院；护理、健康 professions、商业、教育、早期儿童教育与基础科学见长；校队昵称 Roadrunners；主校区在道尔顿，Ellijay 设山地校区。",
+      "safety": "Public Safety & Campus Police，Health Professions Building Room 300；电话 706-272-4461；紧急拨 911；负责校园安全、事故记录与门禁配合；校外归道尔顿市警局与惠特菲尔德县警长办公室。",
+      "transit": "通勤型校园，无校内固定公交；出行以自驾为主，I-75 与 US 76 贯通；北向接 Chattanooga 公交圈，南向去 Atlanta；最近支线机场 CHA。",
+      "rentnote": "学院不设校内宿舍，学生全部通勤或租住道尔顿城区住宅与公寓；周边租房依赖自驾，县域公交覆盖有限；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.daltonstate.edu/academics/academic-calendar/",
+          "Academic Calendar & Deadlines"
+        ],
+        "ins": [
+          "https://www.usg.edu/international-education/international-students/international-students-insurance/",
+          "USG 国际学生保险说明"
+        ],
+        "police": [
+          "https://www.daltonstate.edu/campus_life/public-safety/",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://www.daltonstate.edu/campus_life/student-life/",
+          "校外租房信息"
+        ],
+        "clinic": [
+          "https://www.daltonstate.edu/campus_life/health-and-wellness/student-health-services/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.daltonstate.edu/admissions/orientation/directions-to-campus/",
+          "Directions To Campus"
+        ]
+      }
+    },
+    "fvsu": {
+      "short": "福特瓦利州立大学",
+      "place": "福特瓦利 · 1005 State University Drive, Fort Valley, GA 31030",
+      "cityKey": "fortvalley",
+      "calShort": "两学期制；2026 秋 8 月 10 日开课，Spring 2027 1 月 11 日开课。",
+      "calendar": "Fall 2026：7 月 31 日缴费截止；8 月 4–5 日新生注册与入住 8:00–12:00；8 月 5–7 日 Welcome to the Valley Week（新生）；8 月 6–7 日老生报到并按预约时间入住；8 月 7 日为免滞纳金缴费最后日；8 月 10 日 A/B 学期开课；8 月 12 日晚注册截止；8 月 14 日加退课截止；9 月 7 日劳动节放假；10 月 1 日 A 学期无处罚退课最后日，10 月 5 日 C 学期开课；11 月 23–25 日秋假，11 月 26–27 日感恩节放假，11 月 29 日宿舍 8:00 重开；11 月 30 日 A/C 学期结课；12 月 1 日阅读日；期末考试 12 月 2–4 日；12 月 5 日 9:30 秋季毕业典礼（HPE Complex）。Spring 2027：1 月 4 日缴费截止；1 月 6 日新生入住；1 月 7–8 日老生入住；1 月 11 日 A/B 学期开课；1 月 15 日加退课截止；1 月 18 日马丁·路德·金日放假；3 月 4 日 A 学期无处罚退课最后日，3 月 5 日 C 学期开课；3 月 8–12 日春假，3 月 14 日宿舍 8:00 重开；5 月 3 日 A/C 学期结课；5 月 4 日阅读日；期末考试 5 月 5–7 日；5 月 8 日 9:30 春季毕业典礼（Wildcat Stadium / HPE Complex）。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格以全日制为基准；减修须经学业顾问批准并在 MyFVSU 办理。",
+      "drop": "学期内加退课按校历日期在 MyFVSU 办理；退费比例、W 记录与退课截止日以 Registrar 与 Bursar 当期条款为准；无处罚退课最后日按 A/B/C 各学期校历执行。",
+      "ins1": "USG 学生健康保险计划（SHIP）由 UnitedHealthcare StudentResources 承保；持 F/J 签证的国际学生及其他强制类别学生须投保该计划或提供合格替代保险。",
+      "ins2": "保险卡与保单信息经承保方会员账户或移动应用领取；持其他合格保险者须在 waiver 截止日前提交证明；替代保单须满足 USG 最低保障要求。",
+      "ins3": "豁免窗口以学生账户每学期公布的截止日为准；逾期未豁免将自动注册 SHIP 并计收保费；资格与保单达标问题联系 Student Accounts 或国际学生办公室。",
+      "clinic": "Florence J. Wellness Center（1005 State University Drive）电话 478-825-6278；周一至周四 9:00–17:30（13:00–14:00 闭餐）、周五 9:00–12:00；内设 Atrium Health Navicent Campus Health Clinic，提供常见病诊疗、预防、健康促进与转诊；心理咨询由 Student Counseling 与 Uwill 另行承担，医疗急救拨 911。",
+      "commute": "校区在 Fort Valley 镇北 1005 State University Drive，校园约 1,365 英亩；自驾沿 US-341 与 State University Drive 衔接；距 Macon 约 30 英里、Atlanta 约 1.5 小时量级；镇区步行范围有限，跨城出行依赖驾车。",
+      "scene": "Fort Valley State University 1895 年创立，是 HBCU 与 1890 赠地机构；在校生约 2,905 名，校园 1,365 英亩；开设 29 个本科专业与 8 个研究生项目，生物、刑事司法、心理学、管理、护理与兽医技术见长，设有全州唯一认证的兽医技术项目；教学单位含 College of Agriculture, Family Sciences and Technology 与 College of Arts and Sciences 等；校队称 Wildcats，颜色蓝与金，参加 NCAA Division II 赛事。",
+      "safety": "FVSU 校警与校园安全部门负责巡逻、应急响应、护送与应急管理；校外归 Fort Valley Police Department 与 Peach County 辖区；紧急拨 911，校警调度电话与邮箱以校园安全页当期公布为准。",
+      "transit": "Fort Valley 市域固定公交班次有限，校园到镇区步行或驾车为主；城际靠自驾，最近大型机场 ATL 约 1.5 小时，Macon 方向支线机场 MCN 约 30 英里量级。",
+      "rentnote": "校内宿舍按学年分配，住校须符合资格并在 Housing 页面办理续约或新申请；2026-27 住宿与餐计划费率以当期费率表为准；校外就近租 Fort Valley 镇区，公寓选择有限且依赖驾车，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.fvsu.edu/about-fvsu/academic-calendar",
+          "Academic Calendars（Registrar）"
+        ],
+        "ins": [
+          "https://www.usg.edu/student-affairs/student-health-insurance-program-ship/eligibility-and-minimum-requirements/",
+          "USG 学生保险资格与最低要求"
+        ],
+        "police": [
+          "https://www.fvsu.edu/students/campus-police-safety",
+          "Campus Police & Safety"
+        ],
+        "housing": [
+          "https://fvsu.edu/students/housing/alpha/j",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://www.fvsu.edu/students/wellness-center",
+          "Wellness Center"
+        ],
+        "transit": [
+          "https://www.fvsu.edu/admissions/visit-fvsu",
+          "校区访问与路线"
+        ]
+      }
+    },
+    "ksu": {
+      "short": "肯尼索州立大学",
+      "place": "肯尼索 · 440 Bartow Avenue, Kennesaw, GA 30144",
+      "cityKey": "kennesaw",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 24 日开始，加退课截止 8 月 28 日；劳动节 9 月 7 日停课；无罚退课截止 11 月 6 日；秋假 11 月 23–29 日；12 月 7 日结课，期末 12 月 8–14 日；毕业典礼 12 月 15–19 日。Spring 2027：课程 1 月 11 日开始，加退课截止 1 月 15 日；马丁·路德·金日 1 月 18 日停课；退课截止 4 月 2 日；春假 3 月 1–7 日；4 月 26 日结课，期末 4 月 27 日–5 月 3 日；毕业典礼 5 月 4–8 日。eCore/eMajor 短学期日期另见专项校历。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与批准；全日口径以国际学生办公室当期通知为准。",
+      "drop": "加退课与退课按 Registrar 校历日期办理；部分退费须符合退课截止与学分要求；退费档位与 W 口径以 Bursar 当期条款为准。",
+      "ins1": "F-1/J-1 国际学生按 USG 规定必须持有符合 ACA 标准的医疗保险；强制性学生账单自动计入 SHIP（UHC Student Resources 承保）。",
+      "ins2": "持其他合格保险者须在 waiver 窗口内通过承保方门户提交证明申请豁免；电子保险卡与保单号经会员账户领取。",
+      "ins3": "豁免窗口每学期开学初开放，替代保单须合格并覆盖在美停留全期；未通过核验者不适用豁免；咨询 Student Health Services。",
+      "clinic": "Student Health Services 由 Wellstar Medical Group 运营，设三处校内诊所：Kennesaw 校区 Campus Loop Road Clinic（House 3215，3215 Campus Loop Road, Kennesaw, GA 30144）、University Village Clinic（1074 Canton Place NW, Kennesaw, GA 30144），Marietta 校区 University Courtyard Clinic（1000 Technology Way SE, Suite 1107, Marietta, GA 30060）；电话 470-578-6644；线下门诊周一至周五 8:30–17:00，远程门诊周一、周三延至 18:30；提供初级保健、预防保健、免疫接种、男女健康与健康咨询，下班后与周末由值班医生接续；心理咨询与精神健康服务经 Counseling 部门衔接。",
+      "commute": "Kennesaw 主校区 440 Bartow Avenue；Marietta 校区（原 Southern Polytechnic 校园）在 920 Hornet Loop Road 一带，两校区相距约十英里；自驾经 I-75 至 Exit 271/273；距 Atlanta 市区约 25 英里、40 分钟量级；两校区间有 Owl Shuttle 接驳。",
+      "scene": "肯尼索州立大学为佐治亚第三大规模公立大学，在校学生 51,000 余人，提供 190 余个本硕博学位与证书项目；Kennesaw 与 Marietta 两 suburban 校区布局；商学、工程技术、计算机、护理、教育、艺术与人文见长；校队昵称 Owls，参加 NCAA Division I 赛事。",
+      "safety": "KSU Department of Public Safety & University Police；Kennesaw 校区 351 Paulding Ave, Kennesaw, GA 30144（Building 351），Marietta 校区 920 Hornet Loop Road, Marietta, GA 30060；紧急 470-578-6666，非紧急 470-578-6206，邮箱 police@kennesaw.edu；LifeSafe App 可呼叫；校外归科布县警局。",
+      "transit": "KSU Owl Shuttle 连接两校区与停车区；科布县公交覆盖近郊；轨道交通不直达肯尼索；自驾 I-75 南向进 Atlanta；最近主要机场 ATL，约 40 分钟量级。",
+      "rentnote": "校内住房分两校区：Kennesaw 校区有 The Summit I/II 等住宅社区，Marietta 校区有 Hornet Village；2026-27 Marietta 校区 Hornet Village 单卧室 $4,525/学期、双卧室 $4,162/学期（每人）；餐计划档位以 Housing/Dining 当期说明为准；校外租房在两校区周边近郊社区，跨校区出行靠校车或自驾；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://campus.kennesaw.edu/current-students/registrar/academic-calendars.php",
+          "Academic Calendars"
+        ],
+        "ins": [
+          "https://www.usg.edu/international-education/international-students/international-students-insurance/",
+          "USG 国际学生保险说明"
+        ],
+        "police": [
+          "https://police.kennesaw.edu/",
+          "Public Safety & University Police"
+        ],
+        "housing": [
+          "https://campus.kennesaw.edu/offices-services/housing/living-options/index.php",
+          "Living Options 与费率"
+        ],
+        "clinic": [
+          "https://campus.kennesaw.edu/offices-services/student-health/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://campus.kennesaw.edu/offices-services/parking/",
+          "Parking & Transportation"
+        ]
+      }
+    },
+    "ggc": {
+      "short": "佐治亚格威内特学院",
+      "place": "劳伦斯维尔 · 1000 University Center Lane, Lawrenceville, GA 30043",
+      "cityKey": "lawrenceville",
+      "calShort": "两学期制；2026 秋 8 月 10 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 10 日开始，加退课截止 8 月 16 日；劳动节 9 月 7 日停课；无罚退课截止 10 月 13 日；感恩节 11 月 22–29 日停课；11 月 30 日结课，期末 12 月 2–8 日；毕业典礼 12 月 11 日。Spring 2027：课程 1 月 11 日开始，加退课截止 1 月 17 日；马丁·路德·金日 1 月 18 日停课；退课截止 3 月 23 日；春假 3 月 7–14 日；5 月 3 日结课，期末 5 月 5–11 日；毕业典礼 5 月 14 日。A/B 半学期截止日另见校历。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与批准；全日口径以国际学生办公室当期通知为准。",
+      "drop": "加退课与退课按校历日期在学生系统办理；无罚退课截止为秋季 10 月 13 日、春季 3 月 23 日；退费档位与 W 口径以 Bursar 当期条款为准。",
+      "ins1": "F-1/J-1 国际学生按 USG 规定必须持有符合 ACA 标准的医疗保险；强制性学生账单自动计入 SHIP（UHC Student Resources 承保）。",
+      "ins2": "持其他合格保险者须在 waiver 窗口内通过承保方门户提交证明申请豁免；电子保险卡与保单号经会员账户领取。",
+      "ins3": "豁免窗口每学期开学初开放，替代保单须合格并覆盖在美停留全期；未通过核验者不适用豁免；咨询 Health and Wellness 部门。",
+      "clinic": "Health Services，Donald K. Balfour II Health & Sciences Building（Building H）Suite 1102，1000 University Center Lane, Lawrenceville, GA 30043；电话 678-407-5675；周一至周四 9:00–17:00（每日 12:00–13:00 休息），周五时段须电话确认；诊所由执业护士与医疗助理值守，处理轻伤小病与诊断检测，提供常备非处方药、计生用品与健康教育；心理咨询与残疾服务经 Counseling and Psychological Services 与 Disability Services 部门衔接；社区转诊按当期安排。",
+      "commute": "校园在 Lawrenceville，1000 University Center Lane；自驾经 I-85 至 Exit 104/105 接 GA 318/University Center Lane；距 Atlanta 市区约 30 英里、45 分钟量级；通勤型校园，校内步行圈成熟，停车区到教学楼有校内接驳。",
+      "scene": "佐治亚格威内特学院 2006 年 8 月 18 日开课，首批 118 名学生，是美国 21 世纪第一所新建的四年制公立学院，也是佐治亚百余年来首所新建四年制公立院校；设 Business、Education、Health Sciences、Science & Technology、Social Sciences & Humanities 等学院；护理、教育、商学、信息科技与健康科学见长；校队昵称 Grizzlies。",
+      "safety": "GGC Public Safety，Building D；电话 678-407-5333，听力障碍 TTY 678-433-6611；负责校园巡逻、应急管理与安全服务；校外归格威内特县警局 770-513-5100。",
+      "transit": "Ride Gwinnett（格威内特县公交）运营城区与衔接 Atlanta 线路；校内接驳连接教学区与停车区；自驾 I-85 南向进 Atlanta；最近主要机场 ATL，约 45 分钟量级。",
+      "rentnote": "学院不设校内宿舍，学生全部通勤或租住 Lawrenceville 与格威内特县东北各社区公寓；无车出行依赖县域公交与自驾；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ggc.edu/academics/academic-calendars",
+          "Academic Calendars"
+        ],
+        "ins": [
+          "https://www.usg.edu/international-education/international-students/international-students-insurance/",
+          "USG 国际学生保险说明"
+        ],
+        "police": [
+          "https://www.ggc.edu/about/departments/public-safety",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://www.ggc.edu/about-ggc/departments/student-housing",
+          "住宿与周边租房指引"
+        ],
+        "clinic": [
+          "https://www.ggc.edu/student-life/student-services/health-services",
+          "Health and Wellness"
+        ],
+        "transit": [
+          "https://www.ggc.edu/about/departments/public-safety/parking-and-campus-regulations",
+          "Getting to GGC"
+        ]
+      }
+    },
+    "mga": {
+      "short": "中佐治亚州立大学",
+      "place": "梅肯 · 100 University Parkway, Macon, GA 31206",
+      "cityKey": "macon",
+      "calShort": "两学期制；2026 秋 8 月 12 日开课，Spring 2027 1 月 13 日开课。",
+      "calendar": "Fall 2026：8 月 8 日新生入住、8 月 9 日新生与老生入住（Macon、Cochran、Eastman 校区）；课程 8 月 12 日开始；加退课 8 月 12–13 日；晚注册缴费截止 8 月 18 日；9 月 7 日劳动节放假；11 月 11 日为持 W 退课最后日；感恩节 11 月 23–27 日；12 月 2 日结课；期末考试 12 月 3–8 日；学位授予 12 月 8 日，毕业典礼 12 月 9–10 日。Spring 2027：课程 1 月 13 日开始；加退课截止 1 月 20 日；1 月 18 日马丁·路德·金日放假；3 月 8–12 日春假；4 月 21 日为无处罚退课最后日；5 月 5 日结课；期末考试 5 月 6–11 日；毕业典礼 5 月 12–13 日。Macon、Cochran、Dublin、Eastman、Warner Robins 五校区校历一致。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格以全日制为基准；航空等专业项目另有训练学时要求；减修须经学业顾问批准。",
+      "drop": "学期内加退课按校历日期在学生系统办理；退费比例、W 记录与退课截止日以 Registrar 与 Bursar 当期条款为准；各校区退课口径一致。",
+      "ins1": "USG 学生健康保险计划（SHIP）由 UnitedHealthcare StudentResources 承保；持 F/J 签证的国际学生及其他强制类别学生须投保该计划或提供合格替代保险。",
+      "ins2": "保险卡与保单信息经承保方会员账户或移动应用领取；持其他合格保险者须在 waiver 截止日前提交证明；替代保单须满足 USG 最低保障要求，保单状态变更自下一学期起适用。",
+      "ins3": "豁免窗口以学生账户每学期公布的截止日为准；逾期未豁免将自动注册 SHIP 并计收保费；资格与保单达标问题联系 Student Accounts 或国际学生办公室。",
+      "clinic": "MGA Health Clinic 分布于校区：Music Building 与 Georgia Hall Lower Level；邮箱 healthclinic@mga.edu，电话 478-934-3080（分机 1 / 2）；提供常见病诊疗与健康资源，BeWell@MGA 含 24/7 保密支持热线与在线心理评估；诊所不具备急救处置能力，医疗急救拨 911 或就近医院/急诊。",
+      "commute": "Macon 主校 100 University Parkway, Macon, GA 31206；另有 Cochran、Dublin、Eastman、Warner Robins 四校区；Macon 校区近 I-75 / I-16 交汇，距 Atlanta 约 1.5 小时量级；城内可搭 Macon-Bibb County Transit Authority，跨校区与去机场依赖驾车。",
+      "scene": "Middle Georgia State University 沿革逾 142 年，2026 秋在校生 10,070 名，为 USG 体系内规模增长较快的综合大学；开设博士、硕士、本科、专科与证书项目，航空、护理、商科、信息技术、STEM 与人文教育见长；教学与训练分布 Macon、Cochran、Dublin、Eastman、Warner Robins 五校区；校队称 Knights，2025 秋起为 NCAA Division II 准会员并加入 Peach Belt Conference。",
+      "safety": "MGA Police 设全校区 24 小时调度中心，电话 478-934-3002；办公点含 Alderman Hall 与 Academic Services Building；负责巡逻、应急响应与护送；校外归各校区所在市警与县警长辖区，紧急拨 911。",
+      "transit": "Macon 城区由 Macon-Bibb County Transit Authority（MTA）固定线路覆盖，Terminal Station 为枢纽；Macon 主校到城区可搭公交，跨校区、去机场方向依赖驾车；支线机场 MCN，大型枢纽 ATL 约 1.5 小时。",
+      "rentnote": "住宿分布 Macon、Cochran、Eastman 校区：Macon 校区 University Pointe、Lakeview Pointe 公寓式住房，Cochran 校区多栋传统宿舍，Eastman 校区 Aviation Hall；2026-27 住宿与餐计划费率以当期费率表为准；校外沿 Macon 城北与城郊租房，依赖驾车或 MTA，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.mga.edu/academics/calendars/index.php",
+          "Academic Calendars"
+        ],
+        "ins": [
+          "https://www.mga.edu/student-affairs/student-conduct-care/student-insurance.php",
+          "Student Health Insurance"
+        ],
+        "police": [
+          "https://www.mga.edu/police/index.php",
+          "MGA Police"
+        ],
+        "housing": [
+          "https://www.mga.edu/residence-life/housing/index.php",
+          "Residence Halls & Housing"
+        ],
+        "clinic": [
+          "https://www.mga.edu/health-clinic/index.php",
+          "Health Clinic"
+        ],
+        "transit": [
+          "https://www.mga.edu/about/#main",
+          "学校概况与校区分布"
+        ]
+      }
+    },
+    "gcsu": {
+      "short": "佐治亚学院暨州立大学",
+      "place": "米利奇维尔 · 231 West Hancock Street, Milledgeville, GA 31061",
+      "cityKey": "milledgeville",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春校历见 Registrar 日历页。",
+      "calendar": "Fall 2026：8 月 17 日开课；9 月 7 日劳动节放假；10 月 12–13 日秋假；11 月 25–27 日感恩节假期；12 月 7 日最后上课日，12 月 8–11 日期末考试，12 月 11 日 18:00 宿舍关闭；新生入住、迎新、加退课截止、退费档位与无处罚退课最后日以 Fall 2026 Academic Calendar PDF 为准。Spring 2027：入住、开课、加退课、春假、退课最后日、结课、期末与毕业典礼见 Spring 2027 Academic Calendar；2027 夏校历随后续公布。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格以全日制为基准；减修须经学业顾问批准并在 PAWS 办理。",
+      "drop": "学期内加退课按校历日期在 PAWS 办理；退费比例、W 记录与退课截止日以 Registrar 与 Bursar 当期条款为准。",
+      "ins1": "USG 学生健康保险计划（SHIP）由 UnitedHealthcare StudentResources 承保；持 F/J 签证的国际学生及其他强制类别学生须投保该计划或提供合格替代保险。",
+      "ins2": "保险卡与保单信息经承保方会员账户或移动应用领取；持其他合格保险者须在 waiver 截止日前提交证明；替代保单须满足 USG 最低保障要求。",
+      "ins3": "豁免窗口以学生账户每学期公布的截止日为准；逾期未豁免将自动注册 SHIP 并计收保费；资格与保单达标问题联系 Student Accounts 或国际学生办公室。",
+      "clinic": "Student Health Services 位于 Milledgeville 校区，电话 478-445-5288；提供常见病诊疗、预防、免疫与转诊；Counseling Services 与 Wellness Recreation（478-445-7777）分别承担心理咨询与健身活动；具体房间、开放时间与邮箱以学生服务页当期公布为准。",
+      "commute": "校区在 Milledgeville 历史城区 231 West Hancock Street；自驾沿 US-441 / Hancock Street 衔接；距 Atlanta 约 1.5 小时量级，Augusta、Macon 方向约 1 小时量级；城区步行圈紧凑，跨城出行依赖驾车。",
+      "scene": "Georgia College & State University 1889 年创立时为 Georgia Normal & Industrial College，是佐治亚指定的公立文理大学；在校生 7,300 余名，师生比 17:1，75% 班级不足 30 人，150 余个学生组织；商科、教育、人文与健康类专业见长；校队称 Bobcats，参加 NCAA Division II Peach Belt Conference 赛事。",
+      "safety": "Public Safety 负责校区巡逻、应急响应与护送；电话 478-445-4400，邮箱 publicsafety@gcsu.edu；校外归 Milledgeville Police Department 与 Baldwin County 辖区；紧急拨 911。",
+      "transit": "Milledgeville 市域固定公交班次有限，Central Campus 与 West Campus 之间有宿舍接驳班车；跨城与去机场依赖驾车；最近大型机场 ATL 约 1.5 小时，Augusta 方向 AGS 约 1 小时量级。",
+      "rentnote": "Central Campus 设七栋传统宿舍，West Campus 设 The Village Apartments，距 Central Campus 约 2 英里并通接驳班车；住宿办公室电话 478-445-5160，传真 478-445-1935；2026-27 住宿与餐计划费率以当期费率表为准，餐计划经 Sodexo 办理；校外沿镇区与 Lake Sinclair 片区租房，依赖驾车，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.gcsu.edu/registrar/academic-calendars",
+          "Academic Calendars（Registrar）"
+        ],
+        "ins": [
+          "https://www.usg.edu/student-affairs/student-health-insurance-program-ship/eligibility-and-minimum-requirements/",
+          "USG 学生保险资格与最低要求"
+        ],
+        "police": [
+          "https://mobile.gcsu.edu/studentservices",
+          "Public Safety（学生服务汇总）"
+        ],
+        "housing": [
+          "https://www.gcsu.edu/housing",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://mobile.gcsu.edu/studentservices",
+          "Student Health Services（学生服务汇总）"
+        ],
+        "transit": [
+          "https://www.gcsu.edu/visit",
+          "校区访问与路线"
+        ]
+      }
+    },
+    "clayton": {
+      "short": "克莱顿州立大学",
+      "place": "莫罗 · 2000 Clayton State Boulevard, Morrow, GA 30260",
+      "cityKey": "morrow",
+      "calShort": "两学期制；2026 秋 8 月 12 日开课，2027 春 1 月 9 日开课。",
+      "calendar": "Fall 2026：课程 8 月 12 日开始；劳动节 9 月 5–7 日停课；无罚退课截止 10 月 26 日；感恩节 11 月 23–29 日停课；12 月 1 日结课，期末 12 月 3–9 日；毕业典礼 12 月 5 日。Spring 2027：课程 1 月 9 日开始，加退课 1 月 11–14 日；马丁·路德·金日 1 月 16 日停课；退课截止 4 月 5 日；春假 3 月 7–13 日；5 月 3 日结课，期末 5 月 4–11 日；毕业典礼 5 月 8 日。Late Registration 费用与短学期截止日另见 Registrar 与 Bursar 日历。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与批准；全日口径以国际学生办公室当期通知为准。",
+      "drop": "加退课与退课按 Registrar 校历日期办理；无罚退课截止为秋季 10 月 26 日、春季 4 月 5 日；退费档位与 W 口径以 Bursar 当期条款为准。",
+      "ins1": "F-1/J-1 国际学生按 USG 规定必须持有符合 ACA 标准的医疗保险；强制性学生账单自动计入 SHIP（UHC Student Resources 承保）。",
+      "ins2": "持其他合格保险者须在 waiver 窗口内通过承保方门户提交证明申请豁免；电子保险卡与保单号经会员账户领取。",
+      "ins3": "豁免窗口每学期开学初开放，替代保单须合格并覆盖在美停留全期；未通过核验者不适用豁免；咨询 University Health Services。",
+      "clinic": "University Health Services，Laker Village, 5809 N. Lake Drive, Building 1000, Morrow, GA 30260；电话 678-466-4940（健康服务）/678-466-4944；提供免疫接种记录核验、初级保健衔接、评估与转诊；心理咨询与残疾资源经对应部门衔接，时段以当期公布为准。",
+      "commute": "校园在 Morrow，2000 Clayton State Boulevard，临湖布局；自驾经 I-75 至 Exit 233 接 GA 54/Clayton State Boulevard；距 Atlanta 市区约 15 英里、20–30 分钟量级；MARTA 公交衔接克莱顿县与市区，校内有接驳连接宿舍与教学区。",
+      "scene": "克莱顿州立大学 1965 年州董事会授权设立，1968 年 2 月定名 Clayton Junior College，1969 年 9 月开学，首届 942 名学生；后升格为四年制大学并更名；设 Arts & Sciences、Business、Health、Information Technology、University College 等学院；护理、健康科学、商学、信息技术与司法刑事见长；校队昵称 Lakers，参加 NCAA Division II 桃子带联盟（Peach Belt Conference）。",
+      "safety": "Clayton State Public Safety，校园内；电话 678-466-4050；负责校园巡逻、门禁配合与应急响应；校外归克莱顿县警局；紧急拨 911。",
+      "transit": "MARTA 公交衔接克莱顿县与 Atlanta 市区；校内接驳连接 Laker Hall、Laker Village 与教学区；自驾 I-75 北向进 Atlanta；最近主要机场 ATL，向南约 20–25 分钟量级。",
+      "rentnote": "校内住房含 Laker Hall（Regular Suite 四床两浴套房）与 Laker Village 公寓；2026-27 Laker Hall Regular Suite $3,906/学期（Fall 2026 与 Spring 2027 分列）；Laker Hall 住校生必须购买学期餐计划，未选档时自动分配最低档 Blue Plan；多数学生为通勤，校外租房在 Morrow 与克莱顿县周边社区；租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.clayton.edu/registrar/",
+          "Registrar 重要日期"
+        ],
+        "ins": [
+          "https://www.usg.edu/international-education/international-students/international-students-insurance/",
+          "USG 国际学生保险说明"
+        ],
+        "police": [
+          "https://www.clayton.edu/public-safety/index.php",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://clayton.edu/housing/laker-hall/",
+          "Laker Hall 住宿与费率"
+        ],
+        "clinic": [
+          "https://www.clayton.edu/student-life/health-and-wellness-center/index.php",
+          "Health & Wellness Center"
+        ],
+        "transit": [
+          "https://www.clayton.edu/transportation/index.php",
+          "Campus Transportation"
+        ]
+      }
+    },
+    "savannahstate": {
+      "short": "萨凡纳州立大学",
+      "place": "萨凡纳 · 3219 College Street, Savannah, GA 31404",
+      "cityKey": "savannah",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，Spring 2027 1 月 11 日开课。",
+      "calendar": "Fall 2026：课程 8 月 17 日开始；加退课截止 8 月 21 日；9 月 7 日劳动节放假；10 月 23 日为无学术处罚退课最后日；感恩节 11 月 23–28 日；12 月 4 日结课；期末考试 12 月 5–10 日；毕业典礼 12 月 11 日。Spring 2027：课程 1 月 11 日开始；加退课截止 1 月 15 日；1 月 18 日马丁·路德·金日放假；3 月 15–20 日春假；3 月 22 日为无处罚退课最后日；4 月 30 日结课；期末考试 5 月 1–6 日；毕业典礼 5 月 7 日。入住与迎新按 University Housing 当期安排办理。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格以全日制为基准；减修须经学业顾问批准并在学生系统办理。",
+      "drop": "学期内加退课按校历日期在学生系统办理；退费比例、W 记录与退课截止日以 Registrar 与 Bursar 当期条款为准。",
+      "ins1": "USG 学生健康保险计划（SHIP）体系下，持 F/J 签证的国际学生须持有符合 USG 最低标准的健康保险；学校健康中心维护当期学生保险计划信息，强制与自愿投保类别以学生账户当期公示为准。",
+      "ins2": "保险卡与保单信息经承保方会员账户领取；持其他合格保险者按学校要求在窗口提交证明；替代保单须满足 USG 最低保障要求，含意外与疾病、年度保额、门诊与精神健康、处方药等。",
+      "ins3": "保险咨询与凭证核验经 Harris-McDew Health Center 与 Student Accounts 办理；保障缺口或保单达标问题在到校前联系国际学生办公室确认。",
+      "clinic": "Harris-McDew Student Health Center 位于校园 Jasmine Street，Payne Hall 后方；电话 912-358-4122；全日制本科与研究生学生缴健康费后可使用中心服务，提供医护检查与处置、有限药房、信息咨询与转诊、健康促进项目；心理咨询与支持另行安排。",
+      "commute": "校区在 Savannah 南侧 3219 College Street，校园约 201 英亩，距 Atlantic Ocean 不远；自驾沿 Victory Drive / College Street 衔接；距 downtown Savannah 约 15–20 分钟车程；城内可搭 CAT 公交，去 SAV 机场方向有公交线路衔接。",
+      "scene": "Savannah State University 1890 年因 Second Morrill Act 设立，1891 年迁至 Savannah，是佐治亚最古老的公立 HBCU；校园约 201 英亩；开设海洋科学、工程技术、商科、刑事司法、人文与社会科学等本科与研究生项目，含海军后备军官训练团项目；校队称 Tigers。",
+      "safety": "Savannah State 校警负责校园巡逻、应急响应与护送；校外归 Savannah Police Department 与 Chatham County 辖区；紧急拨 911，校警调度电话与邮箱以学校公共安全页当期公布为准。",
+      "transit": "Chatham Area Transit（CAT）固定线路连通校园、downtown、海滩与 Savannah/Hilton Head 机场；校园到城区可搭公交，跨区与远端出行依赖驾车。",
+      "rentnote": "校内 University Village 含 10 栋公寓式建筑，约 660 名学生入住，配一、二、四卧室公寓，设洗衣中心与计算机房；另有传统宿舍；2026-27 住宿与餐计划费率以当期费率表为准；校外沿 Savannah 南区与海滩方向租房，依赖驾车或 CAT，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.usg.edu/institutions/savannah-state-university/",
+          "USG 学校概况（校历入口见学校官网）"
+        ],
+        "ins": [
+          "https://www.usg.edu/student-affairs/student-health-insurance-program-ship/eligibility-and-minimum-requirements/",
+          "USG 学生保险资格与最低要求"
+        ],
+        "police": [
+          "https://www.usg.edu/institutions/savannah-state-university/",
+          "USG 学校概况"
+        ],
+        "housing": [
+          "https://catalog.savannahstate.edu/content.php?catoid=12&navoid=493",
+          "Housing and Residence Life（Catalog）"
+        ],
+        "clinic": [
+          "https://catalog.savannahstate.edu/content.php?catoid=16&navoid=916&print",
+          "Harris-McDew Health Center（Catalog）"
+        ],
+        "transit": [
+          "https://www.usg.edu/institutions/savannah-state-university/",
+          "校区访问与交通信息"
+        ]
+      }
+    },
+    "gsouthern": {
+      "short": "佐治亚南方大学",
+      "place": "斯泰茨伯勒 · 1332 Southern Drive, Statesboro, GA 30458",
+      "cityKey": "statesboro",
+      "calShort": "两学期制；2026 秋 8 月 19 日开课，Spring 2027 1 月 13 日开课。",
+      "calendar": "Fall 2026：课程 8 月 19 日开始；加退课截止 8 月 25 日；9 月 7 日劳动节放假；11 月 3 日为无学术处罚退课最后日；11 月 20 日结课；感恩节 11 月 23–28 日；期末考试 11 月 30 日–12 月 5 日。Spring 2027：课程 1 月 13 日开始；加退课截止 1 月 19 日；1 月 18 日马丁·路德·金日放假；3 月 15–20 日春假；4 月 6 日为无处罚退课最后日；4 月 23 日结课；期末考试 4 月 26 日–5 月 1 日。入住、迎新与缴费截止按 Housing 与 Registrar 当期公布办理；Statesboro 主校校历与 Armstrong（Savannah）、Liberty（Hinesville）校区一致。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格以全日制与学分门槛为基准；减修须经学业顾问批准并在 My.GeorgiaSouthern 办理。",
+      "drop": "学期内加退课按校历日期在学生系统办理；退费比例、W 记录与退课截止日以 Registrar 与 Bursar 当期条款为准。",
+      "ins1": "USG 学生健康保险计划（SHIP）由 UnitedHealthcare StudentResources 承保；持 F/J 签证的国际学生及其他强制类别学生须投保该计划或提供合格替代保险。",
+      "ins2": "保险卡与保单信息经承保方会员账户或移动应用领取；持其他合格保险者须在 waiver 截止日前提交证明；替代保单须满足 USG 最低保障要求。",
+      "ins3": "豁免窗口以学生账户每学期公布的截止日为准；逾期未豁免将自动注册 SHIP 并计收保费；资格与保单达标问题联系 Student Accounts 或国际学生办公室。",
+      "clinic": "Health Services Statesboro 校区，电话 912-478-5841；提供初级保健、女性健康、免疫、化验与旅行医学，Statesboro 另设过敏注射、物理治疗、放射检查、零售药房与视力服务；学生可在 Statesboro 与 Armstrong 两校区使用；预约与转诊按健康服务页面办理，急诊拨 911。",
+      "commute": "Statesboro 主校 1332 Southern Drive，校园 900 余英亩，位于 Main Street 学院镇；自驾沿 US-301 / Fair Road 衔接，距 Savannah 约 1 小时、Atlanta 约 3 小时量级；城内步行范围以校园与 downtown 为主，跨城出行依赖驾车。",
+      "scene": "Georgia Southern University 溯源 1906 年中标设立的 First District Agricultural & Mechanical School，1908 年开学；Statesboro 主校 900 余英亩，在校生 20,000 余名，师生比 25:1；商学、工程与信息技术、护理、教育、科学与人文等项目齐全；校队称 Eagles，参加 NCAA Division I FBS Sun Belt Conference。本校页面只写 Statesboro 主校；Armstrong 校区在 Savannah、Liberty 校区在 Hinesville，另属校区口径。",
+      "safety": "Division of Public Safety – Statesboro Campus，PO Box 8072，1220 Forest Drive, Statesboro, GA 30460；紧急 912-478-5234，校外紧急拨 911；学生 Service Officers 周日至周五 18:00–次日 2:00 提供校园步行护送，其余时段由巡逻警员处置；校外归 Statesboro Police Department 与 Bulloch County 辖区。",
+      "transit": "Statesboro 市域固定公交班次有限，校园与 downtown 之间步行或短途驾车；城际经 US-301 / I-16 衔接 Savannah 与 Atlanta；最近干线机场 SAV 约 1 小时，ATL 约 3 小时量级。",
+      "rentnote": "Statesboro 主校多栋宿舍；入学新生修满不足 30 学分须住校一整个学年，特殊情形可申请豁免；住宿申请经 My.GeorgiaSouthern 提交，含 150 美元不可退还申请费；2026-27 住宿与餐计划费率以当期费率表为准；校外沿校园周边公寓区租房，开学前房源最紧，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.georgiasouthern.edu/em/registrar/resources/calendars/",
+          "Academic Calendars（Registrar）"
+        ],
+        "ins": [
+          "https://www.usg.edu/student-affairs/student-health-insurance-program-ship/eligibility-and-minimum-requirements/",
+          "USG 学生保险资格与最低要求"
+        ],
+        "police": [
+          "https://www.georgiasouthern.edu/offices/public-safety/locations",
+          "Public Safety – Statesboro"
+        ],
+        "housing": [
+          "https://www.georgiasouthern.edu/student-life/housing",
+          "On-Campus Housing"
+        ],
+        "clinic": [
+          "https://www.georgiasouthern.edu/student-life/health-services",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.georgiasouthern.edu/admissions-aid/visit",
+          "Visit & Directions"
+        ]
+      }
+    },
+    "abac": {
+      "short": "亚伯拉罕·鲍德温农业学院",
+      "place": "蒂夫顿 · 2802 Moore Highway, Tifton, GA 31793",
+      "cityKey": "tifton",
+      "calShort": "两学期制；2026 秋 8 月 18 日开课，Spring 2027 1 月 12 日开课。",
+      "calendar": "Fall 2026：课程 8 月 18 日开课；加退课（Drop/Add）截止 8 月 25 日 17:00；9 月 7 日劳动节放假；11 月 6 日 17:00 为无学术处罚退课最后日；感恩节 11 月 25–27 日；12 月 8 日结课；期末考试 12 月 10、11、14、15 日；毕业典礼 12 月 17 日。Spring 2027：课程 1 月 12 日开课；1 月 18 日马丁·路德·金日放假；加退课截止 1 月 19 日 17:00；4 月 2 日 17:00 为无处罚退课最后日；5 月 4 日结课；期末考试 5 月 7、10、11、12 日；毕业典礼 5 月 13 日。入住与迎新日期按 Residence Life 当期安排办理；Summer 2027 各短学期见夏季校历。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；两年制与证书项目学分口径以项目规定为准；住校资格以全日制为基准；减修须经学业顾问批准。",
+      "drop": "学期内加退课按校历日期在学生系统办理；退费比例、W 记录与退课截止日以 Registrar 与 Bursar 当期条款为准。",
+      "ins1": "USG 学生健康保险计划（SHIP）由 UnitedHealthcare StudentResources 承保；持 F/J 签证的国际学生及其他强制类别学生须投保该计划或提供合格替代保险。",
+      "ins2": "保险卡与保单信息经承保方会员账户或移动应用领取；持其他合格保险者须在 waiver 截止日前提交证明；替代保单须满足 USG 最低保障要求。",
+      "ins3": "豁免窗口以学生账户每学期公布的截止日为准；逾期未豁免将自动注册 SHIP 并计收保费；资格与保单达标问题联系 Student Accounts 或国际学生办公室。",
+      "clinic": "Health Center 位于 Health Sciences Building 一层后侧，电话 229-391-5030，邮箱 healthcenter@abac.edu；周一至周四 7:30–16:00、周五 7:30–11:00（周一至周四 12:00–13:00 为午餐时段）；预约制、有余号可走诊；提供常见病诊疗、预防与健康促进，必要时转诊校外医疗；心理咨询由 Counseling Center 另行承担，医疗急救拨 911。",
+      "commute": "校区在 Tifton 城郊 2802 Moore Highway；自驾沿 US-41 / 20th Street 衔接；距 Valdosta 约 1 小时、Albany 约 1 小时、Atlanta 约 3 小时量级；镇区步行范围有限，出行依赖驾车。",
+      "scene": "Abraham Baldwin Agricultural College 1908 年创立时为 Second District Agricultural and Mechanical School，是 USG 体系内的州立农业学院；开设 26 个学术项目，含两年制专科、四年制本科与证书项目，农业、农业经济、林业资源、环境园艺、护理、刑事司法与写作传播见长；校园配 J.G. Woodroof Farm、Forest Lakes 高尔夫球场与 Georgia Museum of Agriculture；校队称 Stallions。",
+      "safety": "ABAC Police Department 负责校园巡逻、应急响应与护送；校外归 Tifton Police Department 与 Tift County 辖区；紧急拨 911，校警调度电话与邮箱以 Police Department 页面当期公布为准。",
+      "transit": "Tifton 市域固定公交班次有限，校园到镇区步行或驾车为主；城际靠自驾，最近支线机场 VLD 与 ABY 各约 1 小时，大型枢纽 ATL 约 3 小时量级。",
+      "rentnote": "校园公寓式住房可供约 1,400 名学生入住，含 ABAC Lakeside 与 ABAC Place 等楼栋，配多卧室套间；2026-27 住宿与餐计划费率以当期费率表为准；校外沿 Tifton 城区租房，依赖驾车，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://catalog.abac.edu/acad/academic-calendar",
+          "Academic Calendar（Catalog）"
+        ],
+        "ins": [
+          "https://www.usg.edu/student-affairs/student-health-insurance-program-ship/eligibility-and-minimum-requirements/",
+          "USG 学生保险资格与最低要求"
+        ],
+        "police": [
+          "https://www.abac.edu/campus_life/wellness-safety/police-department.html",
+          "Police Department"
+        ],
+        "housing": [
+          "https://www.abac.edu/campus_life/residence-life/index.html",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.abac.edu/campus_life/wellness-safety/health-center.html",
+          "Health Center"
+        ],
+        "transit": [
+          "https://www.abac.edu/admissions/visit-campus.html",
+          "Visit Campus"
+        ]
+      }
+    },
+    "vsu": {
+      "short": "瓦尔多斯塔州立大学",
+      "place": "瓦尔多斯塔 · 1500 North Patterson Street, Valdosta, GA 31698",
+      "cityKey": "valdosta",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，Spring 2027 1 月 11 日开课。",
+      "calendar": "Fall 2026：SPARK 迎新 8 月 11–16 日；课程 8 月 17 日（周一）首日上课；加课期 8 月 17–19 日，退课期 8 月 17–21 日，注册 8 月 20 日 23:59 截止；9 月 7 日劳动节放假；10 月 8 日期中；10 月 12–13 日秋假；10 月 30 日为无处罚退课最后日（16 周学期）；11 月 25 日无课；感恩节 11 月 26–27 日；12 月 7 日结课；期末考试 12 月 8–11 日；12 月 11 日研究生院毕业典礼，12 月 12 日本科生毕业典礼；12 月 14 日 17:00 后成绩公布。Spring 2027：课程 1 月 11 日开始；注册 1 月 14 日 23:59 截止；1 月 18 日马丁·路德·金日放假；3 月 15–19 日春假；3 月 25 日为全学期退课最后日；5 月 3 日结课；期末考试 5 月 4–7 日；5 月 7 日研究生院毕业典礼，5 月 8 日本科生毕业典礼；5 月 10 日 17:00 后可查成绩。",
+      "fulltime": "F-1 全日制按每学期 12 学分及以上注册；住校资格以全日制为基准；减修须经学业顾问批准并在学生系统办理。",
+      "drop": "学期内加退课按校历日期在学生系统办理；退费比例、W 记录与退课截止日以 Registrar 与 Bursar 当期条款为准。",
+      "ins1": "USG 学生健康保险计划（SHIP）由 UnitedHealthcare StudentResources 承保；持 F/J 签证的国际学生及其他强制类别学生须投保该计划或提供合格替代保险。",
+      "ins2": "保险卡与保单信息经承保方会员账户或移动应用领取；持其他合格保险者须在 waiver 截止日前提交证明；替代保单须满足 USG 最低保障要求。",
+      "ins3": "豁免窗口以学生账户每学期公布的截止日为准；逾期未豁免将自动注册 SHIP 并计收保费；资格与保单达标问题联系 Student Accounts 或国际学生办公室。",
+      "clinic": "Student Health 位于 Main Campus，为学生提供常见病诊疗、预防、免疫与转诊；心理咨询归 Counseling Center（229-333-5940，24/7 心理支持 833-910-3365）；健康中心具体房间、开放时间、电话与邮箱以 Student Health 页面当期公布为准，急诊拨 911 或校警紧急线。",
+      "commute": "校区在 Valdosta 城区北 1500 North Patterson Street；自驾沿 Patterson Street / I-75 衔接；距 Jacksonville 约 1.5 小时、Atlanta 约 3 小时量级；城内可搭 City of Valdosta 预约制微公交，跨区与去机场依赖驾车。",
+      "scene": "Valdosta State University 1906 年创立时为 South Georgia State Normal College；Fall 2026 在校生 10,998 名（本科 7,567 名）；下设 Arts, Humanities and Social Sciences、Business、Education、Nursing and Health Sciences、Science and Mathematics 等学院及研究生院；校队称 Blazers，参加 NCAA Division II Gulf South Conference 赛事。",
+      "safety": "Valdosta State University Police Department；紧急 229-259-5555，非紧急 229-333-7816，匿名线索 229-219-3171，邮箱 vsupdadmin@valdosta.edu；步行护送与 Blazer Safe Ride 229-253-4000，ReGroup App 上报；校外归 Valdosta Police Department 与 Lowndes County 辖区。",
+      "transit": "City of Valdosta 以 Via 预约制微公交（on-demand）接驳校园与城区；固定线路有限，跨区与机场方向依赖驾车；最近支线机场 VLD，JAX 约 1.5 小时，ATL 约 3 小时量级。",
+      "rentnote": "Main Campus 七栋传统与套房式宿舍：Lowndes、Patterson、Brown、Reade、Centennial、Hopper、Georgia Hall，另设两栋公寓式住房；Hopper 紧邻学生邮局、Blazer 餐厅、Housing 办公室与 Student Union；2026-27 住宿与餐计划费率以当期费率表为准；校外沿 North Patterson 与城郊片区租房，依赖驾车或微公交，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.valdosta.edu/academics/registrar/academic-calendar.php",
+          "Academic Calendar（Registrar）"
+        ],
+        "ins": [
+          "https://www.usg.edu/student-affairs/student-health-insurance-program-ship/eligibility-and-minimum-requirements/",
+          "USG 学生保险资格与最低要求"
+        ],
+        "police": [
+          "https://www.valdosta.edu/administration/finance-admin/police/",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://www.valdosta.edu/housing/",
+          "Housing & Residence Life"
+        ],
+        "clinic": [
+          "https://www.valdosta.edu/administration/student-affairs/student-health/",
+          "Student Health"
+        ],
+        "transit": [
+          "https://www.valdosta.edu/admissions/undergraduate/visit-vsu/",
+          "Visit VSU"
+        ]
+      }
+    },
+    "lsuam": {
+      "short": "路易斯安那州立大学（LSU 主校）",
+      "place": "巴吞鲁日 · Baton Rouge, LA 70803（主校区 Highland Road 与 S. Stadium Road 一带）",
+      "cityKey": "batonrouge",
+      "calShort": "两学期制 + 冬季小学期；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 14 日国际新生迎新；8 月 24 日（周一）开课；9 月 2 日为无 W 退课与加课截止；9 月 7 日劳动节停课；10 月 8–9 日秋季假；10 月 20 日 9:00 期中成绩截止；10 月 26 日起春季选课；11 月 6 日为退课、退学与三考同日改期申请的最后日；11 月 25 日 12:30 起感恩节假至 27 日；11 月 30 日复课；12 月 2 日进入集中复习期（期间不得安排考试与课外活动）；12 月 5 日结课；12 月 7–12 日期末考试；12 月 15 日 9:00 成绩截止；12 月 17 日毕业典礼。Wintersession 2026：12 月 14 日开课，12 月 15 日无 W 退课截止，12 月 22 日退课与退学截止，12 月 24 日至 1 月 4 日寒假，1 月 5 日结课，1 月 6 日期末，1 月 8 日 9:00 成绩截止。Spring 2027：1 月 8 日国际新生迎新；1 月 11 日（周一）开课；1 月 18 日马丁·路德·金日停课；1 月 21 日无 W 退课与加课截止；2 月 8–10 日狂欢节假（2 月 10 日 12:30 复课）；3 月 5 日 9:00 期中成绩截止；3 月 8–12 日春假；3 月 26 日耶稣受难日停课；3 月 29 日退课、退学与三考同日改期申请最后日；4 月 28 日进入集中复习期；5 月 1 日结课；5 月 3–8 日期末考试；5 月 11 日 9:00 成绩截止；5 月 14–15 日毕业典礼（分两日举行）。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修（reduced course load）须经学业顾问与国际项目办公室事前批准，并在 SEVIS 内备案；全日制口径与在线课上限以 LSU International Programs 当期通知为准。",
+      "drop": "加退课按 Registrar 校历日期在 MyLSU 系统办理；无 W 退课截止为秋季 9 月 2 日、春季 1 月 21 日，带 W 退课与退学截止为秋季 11 月 6 日、春季 3 月 29 日；冬季小学期为 12 月 15 日与 12 月 22 日；退费档位以 Bursar 当期条款为准。",
+      "ins1": "LSU 通过 Gallagher Student Health 承办学生健康保险计划（SHIP），理赔由 UnitedHealthcare Student Resources 受理；国际学生与部分研究生群体按学校规定必须持有符合 ACA 标准的保险，保费随学费账单计收。",
+      "ins2": "持其他合格保险者须在 waiver 开放窗口内经 gallagherstudent.com/lsu-batonrouge 提交证明申请豁免，通过后保费方可从账单移除；电子保险卡、保单号与生效到期日经承保方账户领取，到校后供 Student Health Center 核验。",
+      "ins3": "豁免窗口按学期开放，替代保单须覆盖在美停留全期并满足学校最低标准；未在窗口内提交或未通过核验者不适用豁免；牙科与视力为另行选购的独立计划，须自行向承保方办理。",
+      "clinic": "LSU Student Health Center 位于 Infirmary Lane 与 West Chimes Street 交口（School of Music 对面，校园北侧）；初诊预约 225-578-6716，复诊经 MyChart 门户；心理健康服务在中心二层，预约 225-578-8774，提供 walk-in 与紧急照护；24 小时危机热线 The PHONE 225-924-5781；校外加护最近的 24 小时急诊为 Our Lady of the Lake Regional Medical Center，5000 Hennessy Blvd。",
+      "commute": "主校区在巴吞鲁日市区南侧、密西西比河左岸台地上，主入口沿 Highland Road 与 S. Stadium Road；自驾经 I-10 转 Dalrymple Drive 或 Acadian Thruway 入校，校内停车按许可证分区管理；距新奥尔良约 80 英里、1 小时 15 分量级；校区平坦，步行与自行车可覆盖宿舍区到教学区，跨区靠 CATS 公交或自驾。",
+      "scene": "路易斯安那州立大学 1860 年以 Louisiana State Seminary of Learning & Military Academy 之名在 Pineville 创办，1869 年迁至巴吞鲁日现址，1870 年代成为联邦赠地学院，是州内旗舰研究型大学；学院含 College of Agriculture、College of Engineering、E. J. Ourso College of Business、Paul M. Hebert Law Center、College of Art & Design、College of Music & Dramatic Arts、College of Human Sciences & Education、College of the Coast & Environment 等；海岸科学、石化与能源工程、农业、商科与法学见长；校队参加 NCAA 东南联盟（SEC），昵称 Tigers，橄榄球主场 Tiger Stadium 可容十万人量级，吉祥物为 Mike the Tiger。",
+      "safety": "LSU Police Department 驻 Public Safety Building，204 South Stadium Road；校内电话拨 911 直通校警，校外拨 225-578-3231；全年 24 小时值守，为州认证执法机构，校园设蓝灯紧急电话与夜间步行护送，紧急通知经 LSU Alert 短信与邮件推送；校外治安归巴吞鲁日市警察局与东巴吞鲁日堂区警长办公室，遇紧急情况拨 911。",
+      "transit": "校内停车由 Parking & Transportation 按许可证分区管理，新生住校生一般不配通勤车位；市区公交由 CATS 运营，线路覆盖校园周边、市中心与主要商业带；城际 Amtrak City of New Orleans 线在巴吞鲁日设站；去新奥尔良与机场以自驾或长途接驳为主。",
+      "rentnote": "全日制本科新生按 First-year Housing Expectation 必须住校内两个学期（秋季入学须住满秋春两学期，春季入学住春季一学期）， exemption 须经住宿门户申请获批，未遵守按最低双人间费率计罚；校内传统楼有 Herget、Miller、North、Highland、Azalea、East/West Laville 等，2026-27 每学期费率 3,805–5,745 美元区间；住校一、二年级须持 Resident Meal Plan，系统默认分配 Tiger 12；校外租房集中在 University Lakes、Spanish Town、Garden District 与 Perkins Road 一带，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.lsu.edu/registrar/academics/academic-calendars/2026-2027/2026-2027-academic-calendar.php",
+          "Registrar 2026-27 校历"
+        ],
+        "ins": [
+          "https://www.lsu.edu/shc/billing-insurance.php",
+          "Student Health Center 账单与保险"
+        ],
+        "police": [
+          "https://www.lsu.edu/police/",
+          "LSU Police Department"
+        ],
+        "housing": [
+          "https://www.lsu.edu/housing/agreements.php",
+          "住宿合约与新生住校要求"
+        ],
+        "clinic": [
+          "https://www.lsu.edu/shc/contact/",
+          "Student Health Center 位置与时间"
+        ],
+        "transit": [
+          "https://www.brcats.com/",
+          "CATS 巴吞鲁日公交"
+        ]
+      }
+    },
+    "lsua": {
+      "short": "路易斯安那州立大学亚历山德里亚分校",
+      "place": "亚历山德里亚（Alexandria，拉皮兹堂区），8100 Highway 71 South, Alexandria, LA 71302",
+      "cityKey": "alexandriala",
+      "calShort": "学期制（15 周全学期 + 两个 7 周短学期，另设暑期短学期）",
+      "calendar": "2026 秋学期（Full Session 2026 年 8 月 24 日至 12 月 4 日）：8 月 24 日全学期与第一短学期同时开课；第一短学期 8 月 24 日至 10 月 11 日；第二短学期 10 月 19 日至 12 月 6 日；12 月 4 日为全学期最后上课日，第二短学期 12 月 6 日结束。10 月 21 日（周三）为秋季毕业申请截止日；12 月 17 日（周四）上午 9:00 在 Laborde Earles Coliseum（5600 Coliseum Blvd, Alexandria, LA 71303）举行秋季毕业典礼。退课分界按课程长度：15 周课程开课后 5 天内、7 周课程 3 天内、4 周课程首日可在 Self-Service 自助退课；此后带 W 退课截止日、期中教学节点与期末考周安排，以 Registrar 当期发布的校历页面为准。2027 春学期（Full Session 2027 年 1 月 11 日至 4 月 30 日）：1 月 11 日全学期与第一短学期开课；第一短学期 1 月 11 日至 2 月 28 日；第二短学期 3 月 8 日至 4 月 25 日；4 月 30 日全学期结束，第二短学期 4 月 25 日结束。3 月 10 日（周三）为春季毕业申请截止日；春季毕业典礼日期、节假日、期中与期末安排以校历页面当期版本为准；暑期另有 5 月、6 月两个短学期，起止日期见 Bursar 缴费表。秋春两季的注册、加退课、缴费截止与成绩提交节点，以 Registrar 当期发布的校历页面为准；ELearn 线上班与两个 7 周短学期的起止、退课窗口可能与全学期不同，选课前先核对对应 session 日历。节假日停课安排以学校官方公布为准；暑期 5 月、6 月短学期独立排期，缴费截止与课程日期见 Bursar 缴费表。遇恶劣天气或应急事件，课表、考试与毕业典礼安排按学校通知调整；毕业申请、礼服领取与学位授予流程以 Registrar 毕业事项页面当期说明为准。",
+      "fulltime": "秋春全日制口径以学校 Catalog 当期规章为准：全日制一般按一学期注册 12 学分及以上认定，半时与四分之一时门槛见 Registrar 说明；F-1 学生低于全日制前必须取得国际学生办公室与 DSO 的 Reduced Course Load 书面批准（学业困难、医疗、最后学期等法定情形），在线课程计入全日制负荷的上限以学校规章为准。",
+      "drop": "课程长度不同退课窗口不同：15 周课程开课后 5 天内、7 周课程 3 天内、4 周课程首日可在 Self-Service 自助退课；窗口之后至带 W 退课截止日退课记 W，逾期按校规计。退课、退学与身份维持先联系 Advising 与国际学生办公室指导，再走 Registrar 流程；学费退款以 Bursar 当期口径为准。",
+      "ins1": "计划与强制范围：LSUA 对国际学生自动加入学校学生健康保险计划（LSUA Insurance Plan），保费按当期学期计收，随学费账单缴付；另一次性收取国际学生身份合规费（不可退）。学生健康服务费按学期另计，与保险费分开列账，二者为不同收费项目。",
+      "ins2": "凭证与替代保险：在校期间须持有覆盖在美停留全期的合格健康保险；若以其他合格保单申请豁免，须在当期窗口经学校指定渠道提交保险卡、保单号、生效与到期日及保障明细，获批后保费才从账单移除；未在窗口提交或未通过核验者不适用豁免，电子保险卡保留备查。",
+      "ins3": "豁免条件与边界：替代保单须满足学校最低保障标准，牙科、视力以及医疗转运与遗体遣返是否覆盖，按保单条款逐项核对；具体承保方、保费档位、豁免窗口与所需材料，以 Bursar 与 Registrar 当期公布为准。",
+      "clinic": "LSUA Health Center 位于 Coughlin Hall 一楼（毗邻人力资源管理办公室），面向所有注册在校学生开放，处理咽痛、鼻窦与耳部感染、流感样症状、恶心呕吐、轻微外伤、尿路感染与咳嗽感冒等非急症；不强制要求保险、无需预约，非急症咨询电话 318-427-0110。急症与夜间伤病转当地急诊与急救渠道，校内协调经 University Police 与学生事务办公室办理。",
+      "commute": "校园位于 Highway 71 South 南侧、亚历山德里亚城南，属通勤型本科院校；校内公交班次有限，日常通勤以自驾、拼车与网约车为主；校区步行圈覆盖教学楼、图书馆、The Oaks 公寓与健身中心，跨片区出行以车辆为主。",
+      "scene": "LSUA 为 LSU 系统成员校，1959 年建校时为两年制通勤学院，现开设商务、刑事司法、医疗护理、人文科学与理学、心理学、计算机科学、专业航空与数字叙事等本科项目；校队为 Generals，参加 NAIA Red River Athletic Conference（RRAC），篮球、棒球、垒球、足球与网球等项目在校体育中心与校队场地开展；学生组织、迎新活动与学术社团名录以 Student Life 当期发布为准。",
+      "safety": "校园由 LSUA University Police Department 巡逻，办公室在 8210 Tom Bowman Drive；值班电话 318-473-6427，紧急情况拨 911；警员为路易斯安那 POST 认证，提供校园巡逻、安全护送与事件报告渠道。校外治安归亚历山德里亚市警察局与拉皮兹堂区警长办公室；校园警报经学校邮件与紧急通知系统推送。",
+      "transit": "主用机场为 Alexandria International Airport（AEX），位于市区西侧，支线航班经达拉斯、休斯敦等枢纽转机；无轨道交通连接校区，机场到校园靠租车、网约车或提前联系的接机安排。航班时刻表与执飞机队以机场当期公布为准。",
+      "rentnote": "校内住宿为 The Oaks 公寓式宿舍，2007 年投入使用，提供一居室、两居室与四居室户型，配社区中心、计算机室、活动区与洗衣设施；住校学生的餐计划与住宿资格以 Residence Life 当期章程为准。校外房源集中在 Hwy 71 South、MacArthur Drive 与城东、城西居住带，多按学期或学年签约；租金、押金随区位与户型浮动，本页不列固定数字，以公寓挂牌当期报价查询为准。",
+      "link": {
+        "cal": [
+          "https://www.lsua.edu/academics/registrar/",
+          "Registrar 与校历页面"
+        ],
+        "ins": [
+          "https://catalog.lsua.edu/content.php?catoid=12&navoid=1230",
+          "Catalog 费用与国际学生保险条款"
+        ],
+        "police": [
+          "https://catalog.lsua.edu/content.php?catoid=11&navoid=1162",
+          "Catalog 校园警务与安全说明"
+        ],
+        "housing": [
+          "https://catalog.lsua.edu/content.php?catoid=11&navoid=1162",
+          "Catalog 住宿与学生生活说明"
+        ],
+        "clinic": [
+          "https://catalog.lsua.edu/content.php?catoid=11&navoid=1162",
+          "Catalog Health Center 说明"
+        ],
+        "transit": [
+          "https://flyaex.org/",
+          "Alexandria International Airport（AEX）"
+        ]
+      }
+    },
+    "sulc": {
+      "short": "南方法学院",
+      "place": "巴吞鲁日 · 2 Roosevelt Steptoe Drive, Baton Rouge, LA 70813（邮址 PO Box 9294）",
+      "cityKey": "batonrouge",
+      "calShort": "JD 三学年两学期制；秋季与春季开课、期末统考日期以 Law Center 校历页为准。",
+      "calendar": "Law Center 实行 JD 三学年、秋季与春季两学期结构，另设夏季小学期；课程按 1L、2L、3L 进阶安排，注册、加退课、期末统考与毕业审核由 Records & Registration 按 Law Center Academic Calendar 办理。2026 秋季入学节点：8 月 12 日至 15 日为新生 Orientation；院长学生交流（Open Conversation with Chancellor Washington）于 8 月 19 日、9 月 16 日、10 月 21 日、11 月 18 日 12–1 时在 Room 130 举行；10 月 12 日为 Civil Rights, Human Rights, and Social Justice 证书项目第三批申请开放日；12 月 18 日为期末阶段校园活动节点，具体安排以官网公告为准。每学期内依次为注册与缴费窗口、开课、加课/无 W 退课期、退学（带 W）期、期中考察、期末统考周与成绩提交阶段；秋季通常衔接劳动节、感恩节与冬季假，春季衔接马丁·路德·金日、狂欢节假与春假，诊所实习与 Moot Court 竞赛安排穿插在学期中。开课日、无 W 退课截止、带 W 退课截止、期中、期末与毕业日期，以及 2027 春季对应节点，以 Law Center Academic Calendar 与 Records & Registration 当期书面口径为准；学期中所有选课、退课与考试冲突安排以注册办公室当期通知为准。课程结构上 1L 以必修基础课为主，2L、3L 选修方向、诊所实习与模拟法庭比重递增，写作要求、Upper-level 选修与毕业学分审核由注册办公室对照 JD 培养方案逐项核对；考试冲突须在规定窗口提交 Conflict Form，期末成绩与毕业资格在学期结束后按注册办公室流程公布，三年级下学期起同步衔接律师资格考试准备安排。",
+      "fulltime": "JD 项目按法学院全日制口径注册；持 F-1 的法律学位学生学分负担与减修安排须经 Records & Registration 与国际学生事务口径确认，并在 SEVIS 备案。",
+      "drop": "加退课与退学按 Law Center Academic Calendar 日期在注册系统办理；无 W 与带 W 退课截止日以校历与 Records & Registration 当期通知为准；退费档位以 Bursar 当期条款为准。",
+      "ins1": "JD 学生健康保险安排以学校国际学生事务与 Bursar 当期口径为准；法律学位学生应自行安排符合签证要求的健康保险，并留存保险卡、保单号与生效到期日。",
+      "ins2": "是否可参加 Southern University System 团体学生保险计划、豁免条件与承保方，以学校国际学生事务与 Bursar 当期口径为准。",
+      "ins3": "牙科、视力通常为独立选购计划，须自行向承保方办理；就诊时携带保险卡，门诊与转诊网络以承保方当期说明为准；未列入学校计划的保障项目不要默认包含在学生保费内。",
+      "clinic": "法学院学生可使用 Southern University 学生健康中心与心理咨询中心：Student Health Center 电话 225-771-4770，Counseling Center 电话 225-771-2480；基础医疗对接巴吞鲁日本地诊所与医院，心理危机与 24 小时渠道以健康中心当期公布为准。",
+      "commute": "法学院位于巴吞鲁日南侧 Roosevelt Steptoe Drive 一带，近密西西比河左岸；自驾经 I-110 或 Plank Road 出入，停车按法学院安排；距 BTR 机场约 20 分钟车程；校内以步行为主。",
+      "scene": "SULC 于 1947 年以 Southern University School of Law 开办，后改制为 Southern University Law Center；获 ABA 法律教育认证与 SACSCOC 学术资质，并为 AALS 成员；作为 HBCU 公立法学院，课程兼顾普通法与大陆法传统，Clinical Education 项目通过 supervised clinic 让学生在真实案件中代表委托人，Moot Court Board 组织模拟法庭竞赛；学院只授 JD 学位。",
+      "safety": "Law Center 为独立授 JD 的法学位单位；校园安保联络、护送与紧急通知渠道以 SULC 官网公告为准，紧急情况拨 911；校外治安归巴吞鲁日市警察局与东巴吞鲁日堂区警长办公室。",
+      "transit": "停车按法学院安排；市区公交由 CATS 运营；城际铁路 Amtrak City of New Orleans 线在巴吞鲁日设站；去新奥尔良与机场以自驾或长途接驳为主。",
+      "rentnote": "法学院不自行运营本科式宿舍；法律学生如有校内住宿意向，可向 Southern University Residential Life & Housing Department（225-771-3590）提交意向；其余学生在校外租房，房源集中在法学院周边、Scenic Highway、Florida Boulevard 与市中心（Downtown）邻里，合租与公寓多按学年或 12 个月签约，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.sulc.edu/page/academic-calendar",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.sulc.edu/page/records-registration-overview",
+          "Records & Registration"
+        ],
+        "police": [
+          "https://www.sulc.edu/",
+          "法学院官网"
+        ],
+        "housing": [
+          "https://www.sulc.edu/page/records-registration-overview",
+          "注册与学生事务入口"
+        ],
+        "clinic": [
+          "https://www.sulc.edu/",
+          "法学院官网"
+        ],
+        "transit": [
+          "https://www.brcats.com/",
+          "CATS 巴吞鲁日公交"
+        ]
+      }
+    },
+    "subr": {
+      "short": "南方大学巴吞鲁日主校",
+      "place": "巴吞鲁日 · 801 Harding Boulevard, Baton Rouge, LA 70813（密西西比河左岸主校区）",
+      "cityKey": "batonrouge",
+      "calShort": "两学期制 + 夏学期；2026 秋 8 月 17 日开课；2027 春日期以 Registrar 新历为准。",
+      "calendar": "Fall 2026：8 月 17 日秋季开课；9 月 3 日为无 W 加退课截止；9 月 4 日退学（withdrawal）期开始；9 月 7 日劳动节停课；9 月 25 日人口普查日；10 月 5–9 日期中考试周；10 月 14 日期中成绩截止；10 月 15–16 日秋季假；11 月 16 日为带 W 退课与退学最后日；11 月 26–27 日感恩节假；12 月 4 日结课；12 月 7–11 日期末考试；12 月 14 日秋季成绩截止；12 月 17 日研究生毕业典礼；12 月 18 日本科毕业典礼，秋季学期正式结束；12 月 21 日春季先修课清理与系统处理。Spring 参照 2026 春季归档校历：1 月 20 日春季复课；1 月 21 日为与 BRCC、LSU、SELU、SUNO 跨校选课加退课截止；1 月 23 日为无 W 加退课截止；1 月 26 日退学（withdrawal）期开始；其后依次为期中考察、狂欢节假、春假、期末统考、成绩提交与春季毕业。Spring 2027 开课、无 W 退课、带 W 退课、期中、期末与毕业节点以 Registrar 发布的春季校历为准；跨校选课、退费档位与毕业审核时间以 Banner 系统当期通知为准。各学院学业顾问在选课周内指导学分规划与毕业进度，荣誉项目、研究生项目与跨校选课有单独的审核节点；成绩在期末统考结束后按注册办公室截止时间录入，毕业典礼分研究生与本科两场举行，未按期完成学分或审核材料者顺延至下一学位授予期。",
+      "fulltime": "F-1 全日制按 12 学分及以上注册；减修须经学业顾问与国际项目办公室事前批准并在 SEVIS 备案；全日制口径以 SUBR catalog 当期说明为准。",
+      "drop": "加退课经 Banner 系统按校历办理；无 W 退课截止为秋季 9 月 3 日，退学期自 9 月 4 日开始；带 W 退课与退学截止为秋季 11 月 16 日；春季对应日期以 Registrar 春季校历为准，退费档位按 Bursar 当期条款执行。",
+      "ins1": "Student Health Center 不使用学生个人健康计划结算诊所内或转诊服务；强制学生保险计划范围以学校国际学生事务与 Bursar 当期口径为准，国际学生与家属应自行确认符合签证要求的健康保险。",
+      "ins2": "无私人保险且希望取得保障的学生，可经健康中心页面提供的外部保险资源链接了解市场选项，并自行联系主要承保方比较计划；保险卡、保单号与生效到期日须随身留存。",
+      "ins3": "保险豁免、强制投保范围与牙科视力安排以学校国际学生事务与 Bursar 当期口径为准；豁免通过后留存批准记录与替代保单明细，到校后按学校流程备查，牙科与视力保障须自行向承保方办理。",
+      "clinic": "Southern University Student Health Center（SUSHC）为门诊式健康设施，提供常规、急性与慢性病基础诊疗；心理、学习障碍与心理健康问题经 University Counseling Center 协同处理；课后与周末急症联系校警或本地急诊医院，联系方式以健康中心当期公布为准。",
+      "commute": "主校区在巴吞鲁日南侧、密西西比河左岸，Harding Boulevard 与 Scenic Highway 一带；自驾经 I-110 或 Plank Road 入校，校内停车按许可证分区；距 BTR 机场约 20 分钟车程，距 MSY 约 80 英里；校区平坦，步行与自行车覆盖宿舍到教学区。",
+      "scene": "SUBR 为美国历史较长的公立 HBCU 之一，也是 Southern University System 的旗舰校与系统总部，校园位于密西西比河左岸、占地数百英亩，含农业试验站与校区湖区；设人文与社会科学、商科、教育、工程、护理、理科、农业与家庭消费科学等学院及荣誉学院，覆盖本科、硕士与博士项目；校队昵称 Jaguars，参加 NCAA 西南竞技联盟（SWAC）， marching band 与田径、棒球、篮球等项目在联盟内有传统声誉；校区与 Law Center、系统总部办公区相邻，但学籍、警务与住宿各按单位独立管理。",
+      "safety": "Southern University Police Department（SUPD），邮政信箱 PO Box 9460, 3126 UNAP, Baton Rouge, LA 70813-9460；主电话 225-771-3590，传真 225-771-4625；校警全年值守，校园设紧急呼叫与护送安排；校外归巴吞鲁日市警察局与东巴吞鲁日堂区警长办公室，紧急拨 911。",
+      "transit": "校内停车由 SUPD 与 Parking 部门管理；市区公交由 CATS 运营，线路连接校园、市中心与主要商业带；城际铁路 Amtrak City of New Orleans 线在巴吞鲁日设站；去新奥尔良与机场以自驾或长途接驳为主。",
+      "rentnote": "校内提供传统宿舍与公寓单元，住宿申请经 Residence Life 办理，住校生按学校规定持有餐计划；一年级住校要求与豁免条件以住宿门户当期文本为准；校外租房集中在校园北侧与东侧邻里、Scenic Highway 与 Florida Boulevard 沿线，租金按挂牌价查当期，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.lib.subr.edu/assets/subr/AcademicAffairs/AcademicCalendars/FINAL-Fall-2026-Academic-Calendar-04012026.pdf",
+          "Registrar 秋季校历 PDF"
+        ],
+        "ins": [
+          "https://www.subr.edu/page/14",
+          "Student Health Center 保险说明"
+        ],
+        "police": [
+          "https://www.lib.subr.edu/assets/subr/SUPD/SUBR-2025-Annual-Security-Fire-Safety-Rerport-Final9302025-2.pdf",
+          "SUPD 年度安全报告"
+        ],
+        "housing": [
+          "https://www.subr.edu/",
+          "SUBR 官网住宿入口"
+        ],
+        "clinic": [
+          "https://www.subr.edu/page/14",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.brcats.com/",
+          "CATS 巴吞鲁日公交"
+        ]
+      }
+    }
+  },
+  "EXTRA": {}
+}

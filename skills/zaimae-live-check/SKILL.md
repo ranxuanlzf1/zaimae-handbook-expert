@@ -1,13 +1,13 @@
 ---
 name: zaimae-live-check
-description: "Controlled live verification layer for the ZaiMei v2/v3 handbook. Load when the school is not in the handbook's 178-school tables, when a city is outside the 135-city index, when handbook data must be checked against the current academic year, or when the user asks for an official page / current policy. Governs WebSearch and WebFetch use, official-domain whitelists, source labelling and conflict handling. Never writes results back into handbook references."
+description: "Controlled live verification layer for the ZaiMei v2/v3 handbook. Load when the school is not in the handbook's 607-school tables, when a city is outside the 532-city index, when handbook data must be checked against the current academic year, or when the user asks for an official page / current policy. Governs WebSearch and WebFetch use, official-domain whitelists, source labelling and conflict handling. Never writes results back into handbook references."
 ---
 
 # 在美 · 实时核对层（Live Check）
 
 ## 这一层是什么，不是什么
 
-手册 `references/` 是**版本三 · 2026-11-22 的静态快照**。本 Skill 是它之外的第五层：当快照答不了或可能过期时，用宿主自带的 `WebSearch` / `WebFetch` 去**官方页面**核对当期口径。
+手册 `references/` 是**版本三 · 2026-11-28 的静态快照**。本 Skill 是它之外的第五层：当快照答不了或可能过期时，用宿主自带的 `WebSearch` / `WebFetch` 去**官方页面**核对当期口径。
 
 - 工具由系统统一分配，专家包不声明也不需要声明 `tools`；专家模式原生提供 `WebSearch`、`WebFetch`。
 - **实时层不是手册内容**：不署名「在美手册」，不写进 `references/`，不覆盖快照数值，不冒充手册已收录。
@@ -18,7 +18,7 @@ description: "Controlled live verification layer for the ZaiMei v2/v3 handbook. 
 | 触发 | 做法 |
 |---|---|
 | 学校不在 `03` 分表 / `01` 的 `SCHOOLS` 里 | 四层降级后，联网补本校层 |
-| 城市在 `04.CITY`（135 城）与 `01.PLACES`（15 城补充）里都没有 | 联网补城市层（气候、交通、安全、税） |
+| 城市在 `04.CITY`（532 城）与 `01.PLACES`（15 城补充）里都没有 | 联网补城市层（气候、交通、安全、税） |
 | 涉及签约、付款、申报、豁免、理赔、申诉 | 即使手册有数据，也联网核当期截止/金额 |
 | 用户问「现在还是这样吗」「今年截止是哪天」「给我官方链接」 | 联网核并给原页 URL |
 | 手册数据带「新闻源 / 线索 / 非资助规定页」标记 | 只给线索，联网找官方规定页；找不到就明说 |
@@ -31,8 +31,8 @@ description: "Controlled live verification layer for the ZaiMei v2/v3 handbook. 
 > 这是**为未收录学校设计的作答顺序**，不是手册的数据层。手册本体只有通用 → 城市 → 学校三层；「州」只是城市层里的州级字段（`04.STATE` 便于检索）。
 
 1. **通用层**：`00-手册正文.md` + `02-通用规则.json`，不依赖学校，永远可答。手册 `data` 层缺键会保留默认文案、不空白，别把「没写」当成「不适用」。
-2. **州级字段**：从用户给的州名/缩写直接查 `04-城市与州.json` 的 `STATE[abbr]`（16 州，含州税 / DMV / 领区）。**不需要 schoolId**，标注时写「城市层·州级字段｜手册 04 · TX」，不要写「手册州层」。
-3. **城市层**：用 `01.CITY_EN[英文城市名小写]` 换出 `cityKey`，**先查 `04.CITY[cityKey]`（135 城，含税/DMV/领区），再查 `01.PLACES[cityKey]`（15 城补充：香槟-厄巴纳、安娜堡、亚特兰大、西拉法叶、哥伦布、麦迪逊等）**；中文名按两处 `name` 字段精确或包含匹配，禁止对整份 JSON 全文搜索（说明文字里的地名会串到别的城市）。两处都没有才算城市层缺。
+2. **州级字段**：从用户给的州名/缩写直接查 `04-城市与州.json` 的 `STATE[abbr]`（51 州与特区，含州税 / DMV / 领区）。**不需要 schoolId**，标注时写「城市层·州级字段｜手册 04 · TX」，不要写「手册州层」。
+3. **城市层**：用 `01.CITY_EN[英文城市名小写]` 换出 `cityKey`，**先查 `04.CITY[cityKey]`（532 城，含税/DMV/领区），再查 `01.PLACES[cityKey]`（15 城补充：香槟-厄巴纳、安娜堡、亚特兰大、西拉法叶、哥伦布、麦迪逊等）**；中文名按两处 `name` 字段精确或包含匹配，禁止对整份 JSON 全文搜索（说明文字里的地名会串到别的城市）。两处都没有才算城市层缺。
    - 有 `schoolId` 时也可走 `SCHOOL[schoolId].cityKey` 换算，**但 schoolId 不是入口前提**。
 4. **本校层**：`03`–`11` 按 ID 检索。缺了就留白，**用联网核对补**，不要拿别校数据套。
    - 手册「覆盖范围」页自带「搜不到自己的学校？补录一所」入口：可提示用户自行回手册补录，**专家不代提交、不把联网结果写成手册数据**。
@@ -95,7 +95,7 @@ description: "Controlled live verification layer for the ZaiMei v2/v3 handbook. 
 
 手册来源与联网来源在「参考索引」里用行首前缀分开写、不混排——这一条不因为换了位置而放松。
 
-- **冲突处理**：官方当期页与手册快照不一致时，在参考索引里两条并列，明确「以官方当期页为准」，并说明手册是 2026-11 采集的历史快照。不改口说「手册写错了」也不硬替手册辩护。
+- **冲突处理**：官方当期页与手册快照不一致时，在参考索引里两条并列，明确「以官方当期页为准」，并说明手册是 2026-11-28 采集的历史快照。不改口说「手册写错了」也不硬替手册辩护。
 - **查不到就明说**：在参考索引里写「本次未能实时核到」或标「未核」；正文照样给能答的答案，别让对话卡住。**不推测、不编造、不套用邻校数值。**
 - **不得写回**：禁止用 Write/Edit 修改 `references/` 下任何文件来「顺便补上」新学校。要把新校固化进手册，走正规流程：更新飞书手册 → 重新导出生成 references → 重新打包专家包。
 
@@ -105,5 +105,5 @@ description: "Controlled live verification layer for the ZaiMei v2/v3 handbook. 
 - **沿用手册内容口径四条**：只写官网原文、核不到标「未核」；每条带复核日期与抓取时间；费率标学年、拟定与正式分开；第三方口径单独标注、不与官网原文混排。
 - 不构成法律、税务、签证、医疗或心理意见；身份、报税、理赔、申诉指向国际办、注册办、承保方与领馆。
 - 生命危险先打 **911**，优先于一切检索。
-- 不把外部来源内容混入手册引用；「手册 v3 · 版本三 · 2026-11 采集」与联网来源、抓取时间都写在末尾「参考索引」，两类来源分行标明、不混排。
+- 不把外部来源内容混入手册引用；「手册 v3 · 版本三 · 2026-11-28 采集」与联网来源、抓取时间都写在末尾「参考索引」，两类来源分行标明、不混排。
 - 用户提供的个人信息只用于当次核对，不写入任何文件。

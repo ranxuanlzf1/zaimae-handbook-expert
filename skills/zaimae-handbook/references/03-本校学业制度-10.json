@@ -1,0 +1,1985 @@
+{
+  "SCHOOL": {
+    "ilstu": {
+      "short": "伊利诺伊州立大学",
+      "place": "诺默尔 · 100 North University Street, Normal, IL 61761",
+      "cityKey": "normal",
+      "calShort": "两学期制；2026 秋 8 月 17 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026：8 月 17 日（周一）第一天上课；9 月 7 日（周一）劳动节停课；10 月 10 日（周六）上半学期结束；10 月 12 日（周一）下半学期开课；11 月 6 日（周五）全学期退课截止；11 月 21 日（周六）中午起感恩节假；11 月 26–27 日校关闭；11 月 30 日（周一）复课；12 月 1 日（周二）下半学期退课截止；12 月 5 日（周六）常规课结束、进入考核期；12 月 11 日（周五）秋季学期结束；12 月 12 日（周六）毕业典礼；12 月 17 日（周四）14:00 成绩上网。Spring 2027：1 月 4–8 日国际学生迎新；1 月 11 日至 5 月 7 日学期；3 月 6–14 日春假；春季注册 1 月 25 日 22:00 关闭，后续注册经 Late Registration 流程。",
+      "fulltime": "F-1 全日制本科按每学期 12 学分及以上注册；研究生全日制口径以所属学院规定为准；减修、停课须经 ISSS 与学业顾问批准。",
+      "drop": "退课、WX 记档与退学截止按 Registrar 当期校历节点执行；退费档位以 Student Accounts 当期条款为准。",
+      "ins1": "符合资格学生（秋、春 9 学分及以上，夏季 6 学分及以上）的学生健康保险费自动计入学费账单；计划为 Aetna 承保的 Platinum 级 Open Choice PPO，覆盖全国与国际就医。",
+      "ins2": "持可比保单者可在当期截止前申请豁免；保险办公室 Student Services Building Room 303，309-438-2515，student_insurance_contact@IllinoisState.edu；电子保险卡经 Aetna Student Health 会员账户领取。",
+      "ins3": "保险凭证与在校身份事项咨询经 International Student and Scholar Services（ISSS）；家属加保、夏季与毕业后延期覆盖按保险页当期说明办理。",
+      "clinic": "Student Health Services，Medical Clinic 位于 Student Services Building 2 层；向缴纳学生健康服务费的在籍学生开放，不强制在校保险；校内药房提供常用处方药；心理健康与咨询口径以中心当期安排为准。",
+      "commute": "Normal 与 Bloomington 双城（Bloomington-Normal），校园约 850 英亩；Connect Transit 固定线路含 Redbird Express 衔接校园与双城；自驾到芝加哥约 2 小时量级；近 BMI Central Illinois Regional Airport。",
+      "scene": "1857 年创立、伊利诺伊州最古老的公立大学，前身为师范学校（normal school），师范传统深厚；下设应用科学与技术、文理、商学、教育、工程、Wonsook Kim 艺术学院、Mennonite 护理学院等；校队 Redbirds，NCAA Division I，密苏里谷联盟（MVC）。",
+      "safety": "Illinois State University Police，Nelson Smith Building Room 105，718 West College Avenue, Normal, IL 61790-9240；紧急 911，309-438-8631，ISUPolice@IllinoisState.edu；Normal Police 309-454-9535、Bloomington Police 309-820-8888；校外归双城警局辖区。",
+      "transit": "Connect Transit 含 Redbird Express 连接校园、Uptown Normal 与 Bloomington；远途出行经 BMI 机场，ORD 奥黑尔为备选枢纽。",
+      "rentnote": "本科住宿分五个邻里片区；高中毕业前两年住校政策适用学生须先签宿舍合同与首期付款；校外租房在 Normal、Bloomington 双城，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.illinoisstate.edu/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://healthservices.illinoisstate.edu/student-health-insurance/",
+          "Student Health Insurance"
+        ],
+        "police": [
+          "https://police.illinoisstate.edu/",
+          "University Police"
+        ],
+        "housing": [
+          "https://housing.illinoisstate.edu/",
+          "University Housing Services"
+        ],
+        "clinic": [
+          "https://healthservices.illinoisstate.edu/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.rideconnecttransit.com",
+          "Connect Transit"
+        ]
+      }
+    },
+    "uis": {
+      "short": "伊利诺伊大学斯普林菲尔德分校",
+      "place": "斯普林菲尔德 · One University Plaza, Springfield, IL 62703",
+      "cityKey": "springfield",
+      "calShort": "两学期制；2026 秋 8 月 24 日开课，2027 春 1 月 11 日开课。",
+      "calendar": "Fall 2026（Census 9 月 4 日周五）：8 月 24 日（周一）全学期与前半段课程开始；9 月 7 日（周一）劳动节停课；10 月 17 日（周六）前半段结束；10 月 19 日（周一）后半段开始；11 月 26–27 日感恩节假；12 月 5 日（周六）期末考试前最后上课日；12 月 7–12 日期末考试周；12 月 12 日（周六）学期结束；12 月 16 日中午期末成绩提交截止。Spring 2027（Census 1 月 25 日周一）：12 月 14 日短学期开始；1 月 11 日（周一）全学期与前半段课程开始；1 月 16 日短学期结束；1 月 18 日（周一）马丁·路德·金日停课；3 月 6 日前半段结束；3 月 8–12 日春假；3 月 15 日后半段开始；5 月 1 日（周六）期末考试前最后上课日；5 月 3–8 日期末考试周；5 月 8 日（周六）学期结束暨毕业典礼；5 月 12 日中午期末成绩提交截止。各时段节点以 Records & Registration 当期校历为准。",
+      "fulltime": "F-1 本科生按每学期全日制学分口径注册，研究生全日制口径以所属学院与 Records & Registration 当期规定为准；减修、停课须经 Office of International Student Services 与学业顾问批准并保持 SEVIS 身份有效。",
+      "drop": "加课、退课、无 W/W 退课与退费档位按校历前半段、后半段与全学期节点执行；在线、off-campus 等课程类型是否符合身份要求须先咨询 ISS；账户退费口径以 Student Accounts 当期条款为准。",
+      "ins1": "修校内课程的学生都须持有符合 ACA 要求的健康保险；未在当期豁免截止前完成获批豁免者，将被注册 UIS 学生保险计划，保险费计入学生账户。",
+      "ins2": "持可比保单者（美国本地计划、提供美国联系电话、校园 150 英里范围内有急诊与初级保健网络、ACA 合规且含心理健康保障）在截止前经 United Healthcare Student Resources（UHCSR）提交豁免；获批豁免仅覆盖所在学年，秋季获批可延续至次年夏季，每个学年秋季须重新提交。",
+      "ins3": "保险与凭证咨询经 studentinsurance@uis.edu；纯在线学生不具备学生保险计划资格；到校后保险信息供 Health Services 与 ISS 核验。",
+      "clinic": "UIS Health Services，办公室位于 HRB 64；预约电话 217-206-6676，邮箱 uishealthservice@uis.edu；已缴健康费的学生无论是否持有学生保险均可就诊，门诊预约不另收费，化验与药品可能产生费用；专科与急诊按当期安排转诊。",
+      "commute": "主校区位于斯普林菲尔德东南侧、Lake Springfield 附近，距州府春田城区约 6 英里；SMTD 固定线路公交衔接校区与城区；自驾经 I-55、I-72、IL-97 衔接周边；SPI 首都机场在城区西北方向，Amtrak 经春田车站停靠。",
+      "scene": "1969 年经州议会立法设立为 Sangamon State University，1970 年开学，最初为高年级与研究生层级院校；1995 年 7 月 1 日加入 University of Illinois 系统，定名 University of Illinois Springfield；以公共事务、政策、公共管理与文理研究生项目见长，转学生与在线/混合课程占比较高；校队 Prairie Stars，参加 NCAA Division II。",
+      "safety": "University of Illinois Springfield Police Department，One University Plaza, MS PDB1, Springfield, IL 62703-5407；紧急电话 217-206-7777，非紧急 217-206-6690，TTY 217-206-7510，邮箱 uispolice@uis.edu；设 UIS-Alert 通报系统；校外归 Springfield Police Department 与 Sangamon County 辖区。",
+      "transit": "Sangamon Mass Transit District（SMTD）固定线路公交覆盖春田城区并衔接校区，另有夜间线路；校园内以步行与校方接驳为主；远途出行经 SPI 机场、Amtrak 或自驾衔接 I-55 南北通道。",
+      "rentnote": "校内有套房式宿舍、公寓、联排与少量家庭住房，按 Residence Life 政策与申请分配，房型与当期费率见 Housing 官网；校外租房分布春田城区与校区周边邻里，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uis.edu/sites/default/files/inline-images/academic-year-calendar-ay-2026-2027.pdf",
+          "UIS Approved Academic Calendar 2026–2027"
+        ],
+        "ins": [
+          "https://www.uis.edu/health-wellness/health-services/student-insurance",
+          "Student Insurance"
+        ],
+        "police": [
+          "https://www.uis.edu/police/contact-us",
+          "UIS Police Department 联系页"
+        ],
+        "housing": [
+          "https://www.uis.edu/residencelife/",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.uis.edu/health-services",
+          "Health Services"
+        ],
+        "transit": [
+          "https://www.smtd.org/",
+          "SMTD 城市公交"
+        ]
+      }
+    },
+    "govst": {
+      "short": "州长州立大学",
+      "place": "大学公园 · 1 University Parkway, University Park, IL 60484",
+      "cityKey": "universityparkil",
+      "calShort": "两学期制；2026 秋 8 月 31 日开课，2027 春 1 月 19 日开课。",
+      "calendar": "Fall 2026：8 月 31 日（周一）学期开始；9 月 7 日（周一）劳动节停课；9 月 18 日（周五）毕业申请截止；11 月 3 日（周二）大选日停课；11 月 26–29 日感恩节假；12 月 13 日（周日）学期结束；12 月 20 日（周日）最终成绩截止；12 月 24 日至 1 月 1 日寒假。Spring 2027：1 月 18 日（周一）马丁·路德·金日；1 月 19 日（周二）学期开始；2 月 5 日（周五）毕业申请截止；2 月 15 日（周一）总统日；3 月 15–21 日春假；5 月 10 日（周一）学期结束；5 月 15 日（周六）毕业典礼；5 月 17 日（周日）最终成绩截止。",
+      "fulltime": "全日制本科按每学期 12 学分及以上注册，研究生 9 学分、博士 6 学分及以上；F-1/J-1 减修、停课须经 Office of International Students 与学业顾问批准。",
+      "drop": "退课与记 W 截止按 Registrar 校历节点执行；退费档位与退学退课口径以 Bursar 当期条款为准。",
+      "ins1": "F-1/J-1 国际学生自动纳入 Gallagher Student Health & Special Risk 学生健康计划，每 Fall、Spring 学期随账单收取；配偶与子女按家属口径另行加保。",
+      "ins2": "持可比替代保单者按当期豁免流程办理；未完成豁免者按计划收费；保险凭证每学期供 OIS 与健康中心核验，电子保单卡经承保方账户领取。",
+      "ins3": "保险与身份咨询经 Office of International Students，1 University Pkwy, GMT 168, University Park, IL 60484，708-235-7611，ois@govst.edu。",
+      "clinic": "Health and Student Counseling Center，A-1120；健康中心 708-235-2114（周一至周四 9:00–16:00、周五 9:00–13:00）；Counseling and Wellness Center 咨询 708-235-7334；提供初级保健、疫苗、心理支持与转诊。",
+      "commute": "校区位于芝加哥南郊 University Park 镇，1 University Parkway；以通勤学生为主，近 I-57 走廊；Metra Electric Line 终点 University Park 站衔接芝加哥市中心 Millennium Station；自驾到芝加哥城南约 40 分钟量级。",
+      "scene": "1969 年设立的南郊公立大学，四年制与研究生教育并重，以成人、转学与在职学生为主体；下设文理、商学、教育、健康与人类服务等学院；校队 Jaguars，NAIA，芝加哥内陆大学联盟（CCAC）。",
+      "safety": "Department of Public Safety（GovState Police），708-534-4900；校园状况热线 708-534-4909；州认证警员 24 小时巡逻，与 University Park Fire Department 协作；校外归 University Park Police 辖区。",
+      "transit": "Metra Electric Line University Park 站往返 Millennium Station；校园内步行与校方接驳；远途出行经 ORD 奥黑尔与 MDW 中途两大机场。",
+      "rentnote": "校内 Prairie Place 套房与公寓（1 Prairie Place），住宿资格为每学期修满 6 学分（暑期 3 学分）；校外租房在 University Park、Olympia Fields、Park Forest 等南郊片区，租金随区位户型浮动，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.govst.edu/academic-calendar?catoid=4",
+          "Academic Calendar"
+        ],
+        "ins": [
+          "https://www.govst.edu/international-students-guide",
+          "International Students Guide 保险"
+        ],
+        "police": [
+          "https://www.govst.edu/campus-safety?catoid=14",
+          "Campus Safety DPS"
+        ],
+        "housing": [
+          "https://www.govst.edu/housing/",
+          "Housing Prairie Place"
+        ],
+        "clinic": [
+          "https://www.govst.edu/cwc-health-center/",
+          "CWC Health Center"
+        ],
+        "transit": [
+          "https://www.metra.com",
+          "Metra Electric Line"
+        ]
+      }
+    },
+    "bsu": {
+      "short": "鲍尔州立大学",
+      "place": "曼西 · 2000 West University Avenue, Muncie, IN 47306",
+      "cityKey": "muncie",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 Ball State 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Rinker Center for Global Affairs 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖 Health Center 门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 Rinker Center 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 Rinker Center；门诊与疫苗对接 Health Center；牙科与眼科按保险商当期条款另购。",
+      "clinic": "Ball State Health Center 提供门诊、疫苗、TB 筛查、心理咨询与检验；校内能力之外转诊 IU Health Ball Memorial Hospital。",
+      "commute": "主校区 2000 West University Avenue, Muncie, IN 47306，位于印第安纳中东部；最近机场为 Indianapolis（IND，约 1 小时车程）；区内以自驾与 MITS 公交为主。",
+      "scene": "1918 年创校的公立大学，以师范教育起家；学科覆盖建筑与规划、传播、商科、教育、护理；校队 Cardinals，参加 NCAA Division I（Mid-American Conference）。",
+      "safety": "Ball State University Police Department 负责校园治安，24 小时值守，紧急拨 911、非紧急线 765-285-1111；设步行与驾车巡逻、紧急电话与校园警报；校外归 Muncie Police Department 与 Delaware County Sheriff 调度。",
+      "transit": "Muncie Indiana Transit System（MITS）公交覆盖校园与市区；对外走廊为 I-69 与 SR-332，铁路需前往 Indianapolis 接驳；远途航班经 IND。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边街区与市区，签约前核对学年合约、押金与停车；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.bsu.edu/registrar/",
+          "Ball State Registrar"
+        ],
+        "ins": [
+          "https://www.bsu.edu/",
+          "Rinker Center for Global Affairs"
+        ],
+        "police": [
+          "https://www.bsu.edu/police/",
+          "Ball State University Police"
+        ],
+        "housing": [
+          "https://www.bsu.edu/housing/",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://www.bsu.edu/healthcenter/",
+          "Health Center"
+        ],
+        "transit": [
+          "https://www.bsu.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "indiana": {
+      "short": "印第安纳大学布卢明顿分校",
+      "place": "布卢明顿 · 107 South Indiana Avenue, Bloomington, IN 47405",
+      "cityKey": "bloomington",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 IU Registrar 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布，暑期分段另行排期。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Office of International Services 与学术顾问批准，学分负荷变动须报备以维护 SEVIS。",
+      "drop": "退课在 Student Portal 办理，带 W 截止日与退费比例按 Registrar 校历与 Student Accounts 条款；退课后学分不足全日制线须先同 OIS 确认。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖 IU Health Center 门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前通过 OIS 门户提交保险卡与英文保障摘要；逾期未提交自动参保计费，学期中不受理追溯豁免。",
+      "ins3": "保险与豁免咨询 OIS；门诊、疫苗与心理咨询对接 IU Health Center；牙科、眼科与家属保障按保险商当期条款另购。",
+      "clinic": "IU Health Center 位于 600 North Eagleson Avenue，提供全科门诊、疫苗与旅行医学、TB 筛查、心理咨询与检验；校外专科与急诊转诊 IU Health Bloomington Hospital。",
+      "commute": "主校区 107 South Indiana Avenue, Bloomington, IN 47405，位于印第安纳中南部丘陵地带；最近有定期航班的机场为 Indianapolis（IND，约 1 小时车程），Bloomington 本地机场（BMG）以通用航空为主；区内以校园步行、公交与自驾为主。",
+      "scene": "1820 年创校的公立旗舰大学，印第安纳大学系统主校区；学科覆盖商科（Kelley）、音乐（Jacobs）、信息学、生物与公共事务；校队 Hoosiers，参加 NCAA Division I（Big Ten Conference）。",
+      "safety": "Indiana University Police Department 负责校园治安，24 小时值守，紧急拨 911、非紧急线 812-855-4111；设步行与驾车巡逻、蓝灯紧急电话与 IU Notify 警报；校外归 Bloomington Police Department 与 Monroe County Sheriff 调度。",
+      "transit": "校园与布卢明顿市中心步行相连，Bloomington Transit 覆盖市区与宿舍区；对外走廊为 I-69 与 SR-37，远途航班经 IND；校内有夜间护送与巴士服务。",
+      "rentnote": "Residential Programs and Services 按申请与首年住校要求分配宿舍；校外房源在市区与校园周边街区，签约前核对学年合约、押金、停车与夏季转租；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://registrar.indiana.edu/",
+          "IU Registrar 校历"
+        ],
+        "ins": [
+          "https://ois.iu.edu/",
+          "Office of International Services"
+        ],
+        "police": [
+          "https://police.iu.edu/",
+          "IU Police Department"
+        ],
+        "housing": [
+          "https://housing.iu.edu/",
+          "Residential Programs"
+        ],
+        "clinic": [
+          "https://healthcenter.indiana.edu/",
+          "IU Health Center"
+        ],
+        "transit": [
+          "https://parking.indiana.edu/",
+          "校园交通"
+        ]
+      }
+    },
+    "indianapolis": {
+      "short": "印第安纳大学印第安纳波利斯分校",
+      "place": "印第安纳波利斯 · 420 University Boulevard, Indianapolis, IN 46202",
+      "cityKey": "indianapolisin",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 IU Indianapolis 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Office of International Affairs 与学术顾问批准。",
+      "drop": "退课在 IU 自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校园健康服务门诊与 IU Health 网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际事务办公室提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际事务办公室；门诊对接校园健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "IU Indianapolis 校园健康服务提供门诊、疫苗、TB 筛查与心理咨询；专科与急诊对接 IU Health 系统（Methodist、University Hospital）。",
+      "commute": "主校区 420 University Boulevard, Indianapolis, IN 46202，位于市中心西侧；最近机场为 Indianapolis International（IND，约 15 分钟车程）；城区有 IndyGo 公交与红蓝线快速公交。",
+      "scene": "1969 年由 IU 与 Purdue 校区合并设立的 IUPUI，2024 年起由 IU 独立运营为 IU Indianapolis；学科覆盖医学、法学、工程、商科与公共事务；校队 Jaguars，参加 NCAA Division I（Horizon League）。",
+      "safety": "IU Indianapolis Police Department 负责校园治安，24 小时值守，紧急拨 911；设步行与驾车巡逻、蓝灯紧急电话与校园警报；校外归 Indianapolis Metropolitan Police Department 调度。",
+      "transit": "IndyGo 公交与 Red Line 快速公交覆盖城区；对外走廊为 I-65 / I-70，Amtrak 在 Indianapolis 站停靠；机场经 I-70 接驳。",
+      "rentnote": "校内宿舍与公寓按申请分配；校外房源在市中心、Broad Ripple 与 Fountain Square 方向，签约前核对停车、押金与治安街区差异；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://registrar.iu.edu/",
+          "IU Registrar 校历"
+        ],
+        "ins": [
+          "https://ois.iu.edu/",
+          "Office of International Affairs"
+        ],
+        "police": [
+          "https://police.iu.edu/",
+          "IU Indianapolis Police"
+        ],
+        "housing": [
+          "https://housing.iu.edu/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://healthcenter.indiana.edu/",
+          "校园健康服务"
+        ],
+        "transit": [
+          "https://www.indygo.net/",
+          "IndyGo"
+        ]
+      }
+    },
+    "indstate": {
+      "short": "印第安纳州立大学",
+      "place": "特雷霍特 · 210 North 7th Street, Terre Haute, IN 47809",
+      "cityKey": "terrehaute",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 Indiana State 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Student Services 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Student Services 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Student Services；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "Indiana State 校内健康服务提供门诊、疫苗、TB 筛查与心理咨询；校内能力之外转诊 Union Hospital 与 Terre Haute Regional Hospital。",
+      "commute": "主校区 210 North 7th Street, Terre Haute, IN 47809，位于印第安纳中西部 Wabash 河畔；最近机场为 Indianapolis（IND，约 1 小时 15 分车程），本地 Terre Haute Regional 无定期干线航班；区内以自驾为主。",
+      "scene": "1865 年创校的公立大学，前身为州立师范学校；学科覆盖教育、商科、护理、航空、体育管理与工程技术；校队 Sycamores，参加 NCAA Division I（Missouri Valley Conference）。",
+      "safety": "Indiana State University Public Safety 负责校园治安，24 小时值守，紧急拨 911、非紧急线 812-237-5555；设巡逻、紧急电话与校园警报；校外归 Terre Haute Police Department 与 Vigo County Sheriff 调度。",
+      "transit": "城区以自驾与 Ethos 公交为主；对外走廊为 I-70 与 US-41，Amtrak 在 Terre Haute 无停靠，需前往 Effingham 或 Indianapolis；远途航班经 IND。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边与市区，签约前核对冬季取暖费、押金与停车；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.indstate.edu/registrar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.indstate.edu/international/",
+          "International Student Services"
+        ],
+        "police": [
+          "https://www.indstate.edu/",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://www.indstate.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.indstate.edu/health/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.indstate.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "iue": {
+      "short": "印第安纳大学东部分校",
+      "place": "里奇蒙 · 2325 Chester Boulevard, Richmond, IN 47374",
+      "cityKey": "richmondin",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 IU East 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在 IU 自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "IU East 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Reid Health（Richmond）。",
+      "commute": "主校区 2325 Chester Boulevard, Richmond, IN 47374，位于印第安纳东部、俄亥俄州界附近；最近机场为 Dayton International（DAY，约 45 分钟车程）与 Indianapolis（IND，约 1 小时 30 分）；区内以自驾为主。",
+      "scene": "1971 年创校的公立大学，为印第安纳大学系统区域校区；学科覆盖商科、护理、教育、计算机与刑事司法；校队 Red Wolves，参加 NAIA 赛事。",
+      "safety": "IU East Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻与校园警报；校外归 Richmond Police Department 与 Wayne County Sheriff 调度。",
+      "transit": "城区以自驾为主，CityBus 提供有限线路；对外走廊为 I-70 与 US-40，铁路 Amtrak 在 Richmond 设站（Cardinal 线）。",
+      "rentnote": "校内住宿有限，多数学生通勤；校外房源在 Richmond 市区与校园周边，签约前核对押金与冬季取暖费；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.iue.edu/registrar/",
+          "IU East Registrar"
+        ],
+        "ins": [
+          "https://www.iue.edu/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.iue.edu/",
+          "IU East Police"
+        ],
+        "housing": [
+          "https://www.iue.edu/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.iue.edu/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.iue.edu/",
+          "校园交通"
+        ]
+      }
+    },
+    "iuk": {
+      "short": "印第安纳大学科科莫分校",
+      "place": "科科莫 · 2300 South Washington Street, Kokomo, IN 46904",
+      "cityKey": "kokomo",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 IU Kokomo 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在 IU 自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "IU Kokomo 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Community Howard Regional Health 与 Ascension St. Vincent Kokomo。",
+      "commute": "主校区 2300 South Washington Street, Kokomo, IN 46904，位于印第安纳中北部；最近机场为 Indianapolis（IND，约 1 小时 15 分车程）；区内以自驾为主。",
+      "scene": "1945 年创校的公立大学，为印第安纳大学系统区域校区；学科覆盖护理、商科、教育、计算机与刑事司法；校队 Cougars，参加 NAIA 赛事。",
+      "safety": "IU Kokomo Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻与校园警报；校外归 Kokomo Police Department 与 Howard County Sheriff 调度。",
+      "transit": "城区以自驾为主，CityLine 公交提供有限线路；对外走廊为 US-31 与 SR-22，铁路需前往 Indianapolis 或 Logansport 接驳。",
+      "rentnote": "校内住宿有限，多数学生通勤；校外房源在 Kokomo 市区与校园周边，签约前核对冬季取暖费与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.iuk.edu/registrar/",
+          "IU Kokomo Registrar"
+        ],
+        "ins": [
+          "https://www.iuk.edu/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.iuk.edu/",
+          "IU Kokomo Police"
+        ],
+        "housing": [
+          "https://www.iuk.edu/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.iuk.edu/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.iuk.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "iun": {
+      "short": "印第安纳大学西北分校",
+      "place": "加里 · 3400 Broadway, Gary, IN 46408",
+      "cityKey": "gary",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 IU Northwest 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在 IU 自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "IU Northwest 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Methodist Hospitals Northlake 与芝加哥南部医疗机构。",
+      "commute": "主校区 3400 Broadway, Gary, IN 46408，位于密歇根湖南岸 Gary 市区；最近机场为 Chicago Midway（MDW，约 35 英里）与 O’Hare（ORD，约 50 英里）；区内以自驾与公交为主。",
+      "scene": "1959 年创校、1963 年迁入现址的公立大学，为印第安纳大学系统区域校区；学科覆盖护理、商科、教育、计算机与公共健康；校队 RedHawks，参加 NAIA 赛事。",
+      "safety": "IU Northwest Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Gary Police Department 与 Lake County Sheriff 调度。",
+      "transit": "Gary 有 South Shore Line 通勤铁路连接芝加哥与南本德，校园以自驾与公交为主；对外走廊为 I-90 / I-65，进入芝加哥环区约 45 分钟车程。",
+      "rentnote": "校内住宿有限，多数学生通勤；校外房源在 Gary、Merrillville 与 Schererville 方向，签约前实地看房并核对治安街区差异；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.iun.edu/registrar/",
+          "IU Northwest Registrar"
+        ],
+        "ins": [
+          "https://www.iun.edu/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.iun.edu/",
+          "IU Northwest Police"
+        ],
+        "housing": [
+          "https://www.iun.edu/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.iun.edu/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.iun.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "ius": {
+      "short": "印第安纳大学东南分校",
+      "place": "新奥尔巴尼 · 4201 Grant Line Road, New Albany, IN 47150",
+      "cityKey": "newalbany",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 IU Southeast 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在 IU 自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "IU Southeast 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Baptist Health Floyd 与 Louisville 的上级医院。",
+      "commute": "主校区 4201 Grant Line Road, New Albany, IN 47150，位于俄亥俄河北岸、路易斯维尔对岸；最近机场为 Louisville Muhammad Ali International（SDF，约 20 分钟车程）；区内以自驾为主。",
+      "scene": "1941 年创校的公立大学，为印第安纳大学系统区域校区，服务路易斯维尔都会区印第安纳侧；学科覆盖商科、护理、教育、计算机与刑事司法；校队 Grenadiers，参加 NAIA 赛事。",
+      "safety": "IU Southeast Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻与校园警报；校外归 New Albany Police Department 与 Floyd County Sheriff 调度。",
+      "transit": "River Ridge 与 New Albany 一带以自驾为主，TARC 公交跨河连接路易斯维尔；对外走廊为 I-64 / I-65 / I-265，跨河桥高峰拥堵明显。",
+      "rentnote": "校内宿舍按申请分配；校外房源在 New Albany、Jeffersonville 与 Clarksville 方向，签约前核对跨河通勤时间与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.ius.edu/registrar/",
+          "IU Southeast Registrar"
+        ],
+        "ins": [
+          "https://www.ius.edu/international/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.ius.edu/police/",
+          "IU Southeast Police"
+        ],
+        "housing": [
+          "https://www.ius.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.ius.edu/health/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.ius.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "iusb": {
+      "short": "印第安纳大学南本德分校",
+      "place": "南本德 · 1700 Mishawaka Avenue, South Bend, IN 46634",
+      "cityKey": "southbend",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 IU South Bend 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在 IU 自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "IU South Bend 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Memorial Hospital South Bend 与 Beacon Health System。",
+      "commute": "主校区 1700 Mishawaka Avenue, South Bend, IN 46634，位于印第安纳北部的南本德市区；最近机场为 South Bend International（SBN，约 10 分钟车程）；区内有 Transpo 公交与自驾。",
+      "scene": "1922 年创校的公立大学，为印第安纳大学系统区域校区；学科覆盖商科、护理、教育、音乐与计算机；校队 Titans，参加 NAIA 赛事。",
+      "safety": "IU South Bend Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻与校园警报；校外归 South Bend Police Department 与 St. Joseph County Sheriff 调度。",
+      "transit": "Transpo 公交覆盖市区与校园；对外走廊为 I-80/90 印第安纳收费公路与 I-90，South Shore Line 连接芝加哥；远途航班经 SBN 转芝加哥或达拉斯。",
+      "rentnote": "校内住宿有限，多数学生通勤；校外房源在 South Bend、Mishawaka 与 Granger 方向，签约前核对冬季取暖费与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.iusb.edu/",
+          "IU South Bend Registrar"
+        ],
+        "ins": [
+          "https://www.iusb.edu/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.iusb.edu/",
+          "IU South Bend Police"
+        ],
+        "housing": [
+          "https://www.iusb.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.iusb.edu/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.iusb.edu/",
+          "校园交通"
+        ]
+      }
+    },
+    "pfw": {
+      "short": "普渡大学韦恩堡分校",
+      "place": "韦恩堡 · 2101 East Colfax Avenue, Fort Wayne, IN 46805",
+      "cityKey": "fortwayne",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 PFW 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "PFW 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Parkview 与 Lutheran Health Network。",
+      "commute": "主校区 2101 East Colfax Avenue, Fort Wayne, IN 46805，位于印第安纳东北部；最近机场为 Fort Wayne International（FWA，约 15 分钟车程）；区内以自驾与公交为主。",
+      "scene": "1964 年创校、2018 年独立建制的公立大学，前身为 IPFW；学科覆盖工程、商科、护理、教育与视觉艺术；校队 Mastodons，参加 NCAA Division I（Horizon League）。",
+      "safety": "PFW Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Fort Wayne Police Department 与 Allen County Sheriff 调度。",
+      "transit": "Citilink 公交覆盖校园与市区；对外走廊为 I-69 与 I-469，铁路 Amtrak 在 Fort Wayne 设站；远途航班经 FWA 转芝加哥或达拉斯。",
+      "rentnote": "校内宿舍按申请分配；校外房源在校园周边与市区，签约前核对冬季取暖费、押金与停车；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.pfw.edu/registrar/",
+          "PFW Registrar"
+        ],
+        "ins": [
+          "https://www.pfw.edu/international/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.pfw.edu/police/",
+          "PFW Police"
+        ],
+        "housing": [
+          "https://www.pfw.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.pfw.edu/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.pfw.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "pnw": {
+      "short": "普渡大学西北分校",
+      "place": "哈蒙德 · 2200 169th Street, Hammond, IN 46323",
+      "cityKey": "hammondin",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 PNW 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "PNW 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Franciscan Health Hammond 与芝加哥南部医疗机构。",
+      "commute": "主校区 2200 169th Street, Hammond, IN 46323，位于芝加哥都会区南缘；最近机场为 Chicago Midway（MDW，约 30 英里）与 O’Hare（ORD，约 45 英里）；South Shore Line 通勤铁路连接芝加哥。",
+      "scene": "1869 年创校的公立大学，2016 年由 Purdue Calumet 与 Purdue North Central 合并为 PNW；学科覆盖工程、商科、护理、计算机与教育；校队 Pride，参加 NCAA Division II。",
+      "safety": "PNW Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Hammond Police Department 与 Lake County Sheriff 调度。",
+      "transit": "South Shore Line 在 Hammond 设站连接芝加哥 Millennium Station；对外走廊为 I-90 / I-94 与 I-65，进入芝加哥环区约 30 分钟车程。",
+      "rentnote": "校内宿舍与公寓按申请分配；校外房源在 Hammond、Munster 与 Highland 方向，签约前核对通勤到 South Shore 站的时间与治安街区差异；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.pnw.edu/registrar/",
+          "PNW Registrar"
+        ],
+        "ins": [
+          "https://www.pnw.edu/international/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.pnw.edu/police/",
+          "PNW Police"
+        ],
+        "housing": [
+          "https://www.pnw.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.pnw.edu/health/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.pnw.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "usi": {
+      "short": "南印第安纳大学",
+      "place": "埃文斯维尔 · 8600 University Boulevard, Evansville, IN 47712",
+      "cityKey": "evansville",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 USI Registrar 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Programs 与学术顾问批准，学分负荷变动须报备。",
+      "drop": "退课在 myUSI 门户办理，带 W 截止日与退费档位按 Registrar 校历与 Bursar 条款；退课对助学金的影响按 Financial Aid 政策处理。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖 USI Health Center 门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Programs 提交保险卡与英文保障摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Programs；门诊与疫苗对接 USI Health Center；牙科与眼科按保险商当期条款另购。",
+      "clinic": "USI Health Center 提供门诊、疫苗、TB 筛查与心理咨询；校内能力之外转诊 Deaconess 与 Ascension St. Vincent Evansville。",
+      "commute": "主校区 8600 University Boulevard, Evansville, IN 47712，位于俄亥俄河南岸；最近机场为 Evansville Regional（EVV，约 15 分钟车程）；区内以校车与自驾为主。",
+      "scene": "1965 年创校的公立大学，印第安纳西南部主要的四年制公立校；学科覆盖护理与健康、商科、工程、教育；校队 Screaming Eagles，参加 NCAA Division I（Ohio Valley Conference）。",
+      "safety": "USI Public Safety 负责校园治安，24 小时值守，紧急拨 911，非紧急号码见公共安全官网；设巡逻、紧急电话与校园警报；校外归 Vanderburgh County Sheriff 与 Evansville Police 调度。",
+      "transit": "校园位于城西，Metropolitan Evansville Transit System（METS）提供市区公交接驳；对外走廊为 I-64 与 I-69，跨河进入肯塔基；远途航班经 EVV 转达拉斯或芝加哥。",
+      "rentnote": "校内宿舍与公寓按申请分配；校外房源在城西与校园周边，签约前核对通勤到 I-64 的时间、押金与夏季空调电费；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.usi.edu/registrar/",
+          "USI Registrar 校历"
+        ],
+        "ins": [
+          "https://www.usi.edu/international/",
+          "International Programs"
+        ],
+        "police": [
+          "https://www.usi.edu/",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://www.usi.edu/housing/",
+          "校园住宿"
+        ],
+        "clinic": [
+          "https://www.usi.edu/health-center/",
+          "USI Health Center"
+        ],
+        "transit": [
+          "https://www.usi.edu/",
+          "校园交通"
+        ]
+      }
+    },
+    "bemidjistate": {
+      "short": "伯米吉州立大学",
+      "place": "伯米吉 · 1500 Birchmont Drive NE, Bemidji, MN 56601",
+      "cityKey": "bemidji",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 BSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按 Registrar 校历与 Business Office 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "BSU 校内健康服务提供门诊、疫苗、TB 筛查与心理咨询；校内能力之外转诊 Sanford Bemidji Medical Center。",
+      "commute": "主校区 1500 Birchmont Drive NE, Bemidji, MN 56601，位于明尼苏达北部湖区；最近机场为 Bemidji Regional（BJI，约 10 分钟车程）；区内以自驾为主。",
+      "scene": "1919 年创校的公立大学，明尼苏达州立系统成员；学科覆盖教育、商科、护理、环境科学与原住民研究；校队 Beavers，参加 NCAA Division II（Northern Sun）。",
+      "safety": "BSU Department of Public Safety 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Bemidji Police Department 与 Beltrami County Sheriff 调度。",
+      "transit": "城区以自驾为主，Paul Bunyan Transit 提供有限线路；对外走廊为 US-2 与 US-71，远途航班经 BJI 转 Minneapolis（MSP）或 Fargo（FAR）。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源在市区与湖区，签约前核对冬季取暖费、押金与通勤距离；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.bemidjistate.edu/",
+          "BSU Registrar"
+        ],
+        "ins": [
+          "https://www.bemidjistate.edu/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.bemidjistate.edu/",
+          "Department of Public Safety"
+        ],
+        "housing": [
+          "https://www.bemidjistate.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.bemidjistate.edu/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.bemidjistate.edu/",
+          "校园交通"
+        ]
+      }
+    },
+    "metrostate": {
+      "short": "都会州立大学",
+      "place": "圣保罗 · 700 East Seventh Street, Saint Paul, MN 55106",
+      "cityKey": "saintpaul",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 Metro State 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按校历与 Student Accounts 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "Metro State 学生健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Regions Hospital 与 HealthPartners 网络。",
+      "commute": "主校区 700 East Seventh Street, Saint Paul, MN 55106，位于圣保罗东侧；最近机场为 Minneapolis-Saint Paul（MSP，约 20 分钟车程）；城区有 Metro Transit 公交与轻轨。",
+      "scene": "1971 年创校的公立大学，明尼苏达州立系统成员，以成人学习、在线课程与城市校区分布见长；学科覆盖商科、公共管理、护理、计算机与刑事司法；校队以 club 与校内赛事为主。",
+      "safety": "Metro State 校园安保与 Saint Paul Police 协同，紧急拨 911；设巡逻与校园通报；校外归 Saint Paul Police Department 与 Ramsey County Sheriff 调度。",
+      "transit": "Metro Transit 的 Green Line 轻轨与多条公交连接校园与两城；对外走廊为 I-94 与 I-35E，机场经轻轨蓝线接驳。",
+      "rentnote": "校内住宿有限，多数学生通勤；校外房源在圣保罗东侧与市中心，签约前核对公交通勤时间、押金与停车；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.metrostate.edu/academics/calendar",
+          "Metro State 校历"
+        ],
+        "ins": [
+          "https://www.metrostate.edu/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.metrostate.edu/",
+          "校园安全"
+        ],
+        "housing": [
+          "https://www.metrostate.edu/",
+          "学生住宿"
+        ],
+        "clinic": [
+          "https://www.metrostate.edu/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.metrotransit.org/",
+          "Metro Transit"
+        ]
+      }
+    },
+    "mnstate": {
+      "short": "明尼苏达州立大学穆尔黑德分校",
+      "place": "穆尔黑德 · 1104 7th Avenue South, Moorhead, MN 56563",
+      "cityKey": "moorhead",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 MSUM 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按校历与 Business Office 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "MSUM 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Sanford Moorhead 与 Fargo 的上级医院。",
+      "commute": "主校区 1104 7th Avenue South, Moorhead, MN 56563，位于红河畔、法戈对岸；最近机场为 Fargo Hector International（FAR，约 10 分钟车程）；区内以自驾与公交为主。",
+      "scene": "1885 年创校的公立大学，明尼苏达州立系统成员；学科覆盖教育、商科、艺术、护理与刑事司法；校队 Dragons，参加 NCAA Division II（Northern Sun）。",
+      "safety": "MSUM 校园安保与 Moorhead Police 协同，校园 24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Moorhead Police 与 Clay County Sheriff 调度。",
+      "transit": "MATBUS 公交跨红河连接 Moorhead 与 Fargo；对外走廊为 I-94 与 US-75，远途航班经 FAR。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在 Moorhead 与 Fargo 方向，签约前核对跨河通勤与取暖费；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.mnstate.edu/registrar/",
+          "MSUM Registrar"
+        ],
+        "ins": [
+          "https://www.mnstate.edu/international/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.mnstate.edu/security/",
+          "校园安全"
+        ],
+        "housing": [
+          "https://www.mnstate.edu/housing/",
+          "Housing and Residential Life"
+        ],
+        "clinic": [
+          "https://www.mnstate.edu/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.mnstate.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "mnsu": {
+      "short": "明尼苏达州立大学曼卡托分校",
+      "place": "曼卡托 · 主校区 South Road 一带, Mankato, MN 56001",
+      "cityKey": "mankato",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 Minnesota State Mankato 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Kearney International Center 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按校历与 Campus Hub 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 Kearney International Center 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 Kearney International Center；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "Minnesota State Mankato 学生健康服务提供门诊、疫苗、TB 筛查与心理咨询；校内能力之外转诊 Mayo Clinic Health System Mankato 与 River’s Edge Hospital。",
+      "commute": "主校区位于 Mankato 的 South Road 与 Ellis Avenue 一带，MN 56001；最近机场为 Minneapolis-Saint Paul（MSP，约 1 小时 15 分车程），本地 Mankato Regional（MKT）无定期干线；区内以自驾与公交为主。",
+      "scene": "1868 年创校的公立大学，明尼苏达州立系统规模最大的成员；学科覆盖工程、商科、护理、航空与教育；校队 Mavericks，参加 NCAA Division II（Northern Sun）。",
+      "safety": "University Security 与 Mankato Department of Public Safety 协同，校园 24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Mankato DPS 与 Blue Earth County Sheriff 调度。",
+      "transit": "Mankato 的 City Bus 覆盖校园与市区；对外走廊为 US-14 与 US-169，远途航班经 MSP；校内有夜间护送。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边与市区，签约前核对学年合约、押金与冬季取暖；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.mnsu.edu/registrar",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.mnsu.edu/international/",
+          "Kearney International Center"
+        ],
+        "police": [
+          "https://www.mnsu.edu/security/",
+          "University Security"
+        ],
+        "housing": [
+          "https://www.mnsu.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.mnsu.edu/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.mnsu.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "smsu": {
+      "short": "西南明尼苏达州立大学",
+      "place": "马歇尔 · 1501 State Street, Marshall, MN 56258",
+      "cityKey": "marshallmn",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 SMSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按校历与 Business Services 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "SMSU 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Avera Marshall Regional Medical Center。",
+      "commute": "主校区 1501 State Street, Marshall, MN 56258，位于明尼苏达西南部草原带；最近机场为 Minneapolis-Saint Paul（MSP，约 2 小时 15 分车程）与 Sioux Falls（FSD，约 1 小时 30 分）；区内以自驾为主。",
+      "scene": "1963 年创校的公立大学，明尼苏达州立系统成员；学科覆盖商科、教育、农业、体育管理与护理；校队 Mustangs，参加 NCAA Division II（Northern Sun）。",
+      "safety": "SMSU 校园安保与 Marshall Police 协同，紧急拨 911；设巡逻与校园警报；校外归 Marshall Police Department 与 Lyon County Sheriff 调度。",
+      "transit": "城区尺度小，校园与市中心步行可达；对外走廊为 US-59 与 MN-23，远途航班经 MSP 或 FSD。",
+      "rentnote": "校内宿舍按申请分配；校外房源在 Marshall 市区，签约前核对冬季取暖费与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.smsu.edu/registrar/",
+          "SMSU Registrar"
+        ],
+        "ins": [
+          "https://www.smsu.edu/international/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.smsu.edu/security/",
+          "校园安全"
+        ],
+        "housing": [
+          "https://www.smsu.edu/housing/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.smsu.edu/health/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.smsu.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "stcloudstate": {
+      "short": "圣克劳德州立大学",
+      "place": "圣克劳德 · 720 4th Avenue South, St. Cloud, MN 56301",
+      "cityKey": "stcloud",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 SCSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Center for International Studies 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按校历与 Business Services 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 Center for International Studies 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 Center for International Studies；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "SCSU 学生健康服务提供门诊、疫苗、TB 筛查与心理咨询；校内能力之外转诊 St. Cloud Hospital（CentraCare）。",
+      "commute": "主校区 720 4th Avenue South, St. Cloud, MN 56301，位于明尼苏达中部、密西西比河上游；最近机场为 St. Cloud Regional（STC，约 10 分钟车程）与 Minneapolis-Saint Paul（MSP，约 1 小时 30 分）；区内有 Metro Bus 公交。",
+      "scene": "1869 年创校的公立大学，明尼苏达州立系统成员；学科覆盖商科、教育、工程、护理与公共事务；校队 Huskies，参加 NCAA Division II（Northern Sun）。",
+      "safety": "SCSU Public Safety 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 St. Cloud Police Department 与 Stearns County Sheriff 调度。",
+      "transit": "Metro Bus 覆盖校园与三城（St. Cloud、Sartell、Sauk Rapids）；对外走廊为 I-94 与 US-10，Amtrak 在 St. Cloud 停靠；远途航班经 MSP。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边与市区，签约前核对取暖费、押金与停车；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.stcloudstate.edu/registrar/",
+          "SCSU Registrar"
+        ],
+        "ins": [
+          "https://www.stcloudstate.edu/",
+          "Center for International Studies"
+        ],
+        "police": [
+          "https://www.stcloudstate.edu/publicsafety/",
+          "Public Safety"
+        ],
+        "housing": [
+          "https://www.stcloudstate.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.stcloudstate.edu/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.stcloudstate.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "umcrookston": {
+      "short": "明尼苏达大学克罗克斯顿分校",
+      "place": "克罗克斯顿 · 2900 University Avenue, Crookston, MN 56716",
+      "cityKey": "crookston",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UMN Crookston 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按校历与 One Stop 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "UMC 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 RiverView Health（Crookston）。",
+      "commute": "主校区 2900 University Avenue, Crookston, MN 56716，位于明尼苏达西北部红河谷；最近机场为 Grand Forks（GFK，约 50 英里）与 Fargo（FAR，约 90 英里）；区内以自驾为主。",
+      "scene": "1966 年创校的公立大学，明尼苏达大学系统成员，以农业、马业与自然资源项目见长；学科覆盖农业商务、马科学、自然资源与商科；校队 Golden Eagles，参加 NCAA Division II。",
+      "safety": "UMC 校园安保与 Crookston Police 协同，紧急拨 911；设巡逻与校园警报；校外归 Crookston Police Department 与 Polk County Sheriff 调度。",
+      "transit": "城区尺度小，校园与市中心步行可达；对外走廊为 US-2 与 US-75，远途航班经 GFK 或 FAR。",
+      "rentnote": "校内宿舍按申请分配；校外房源在 Crookston 市区，签约前核对冬季取暖费与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://crk.umn.edu/academics/calendar",
+          "UMC 校历"
+        ],
+        "ins": [
+          "https://crk.umn.edu/admissions/international",
+          "国际学生"
+        ],
+        "police": [
+          "https://crk.umn.edu/campus-life/safety",
+          "校园安全"
+        ],
+        "housing": [
+          "https://crk.umn.edu/campus-life/housing",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://crk.umn.edu/campus-life/health",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://crk.umn.edu/campus-life/parking",
+          "校园交通"
+        ]
+      }
+    },
+    "umduluth": {
+      "short": "明尼苏达大学德卢斯分校",
+      "place": "德卢斯 · 1049 University Drive, Duluth, MN 55812",
+      "cityKey": "duluth",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UMD 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Student Services 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按校历与 One Stop 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖 UMD Health Services 门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Student Services 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Student Services；门诊与疫苗对接 UMD Health Services；牙科与眼科按保险商当期条款另购。",
+      "clinic": "UMD Health Services 提供门诊、疫苗、TB 筛查与心理咨询；校内能力之外转诊 Essentia Health 与 St. Luke’s（Duluth）。",
+      "commute": "主校区 1049 University Drive, Duluth, MN 55812，位于苏必利尔湖岸；最近机场为 Duluth International（DLH，约 15 分钟车程）；区内有 DTA 公交与自驾。",
+      "scene": "1947 年创校的公立大学，明尼苏达大学系统成员；学科覆盖工程、商科、教育、医学（Regional Medical School）与美术；校队 Bulldogs，参加 NCAA Division I（NCHC 冰球等口径）。",
+      "safety": "UMD Police Department 负责校园治安，24 小时值守，紧急拨 911、非紧急线 218-726-7000；设巡逻、紧急电话与校园警报；校外归 Duluth Police Department 与 St. Louis County Sheriff 调度。",
+      "transit": "Duluth Transit Authority（DTA）公交覆盖校园与市区；对外走廊为 I-35 与 US-53，远途航班经 DLH 转 MSP 或芝加哥。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边、Downtown 与 Lakeside 方向，签约前核对冬季取暖费与坡地通勤；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.d.umn.edu/registrar/",
+          "UMD Registrar"
+        ],
+        "ins": [
+          "https://www.d.umn.edu/international/",
+          "International Student Services"
+        ],
+        "police": [
+          "https://www.d.umn.edu/police/",
+          "UMD Police"
+        ],
+        "housing": [
+          "https://www.d.umn.edu/housing/",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://www.d.umn.edu/health/",
+          "UMD Health Services"
+        ],
+        "transit": [
+          "https://www.d.umn.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "ummorris": {
+      "short": "明尼苏达大学莫里斯分校",
+      "place": "莫里斯 · 600 East 4th Street, Morris, MN 56267",
+      "cityKey": "morrismn",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UMN Morris 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按校历与 One Stop 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "UMN Morris 校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Stevens Community Medical Center。",
+      "commute": "主校区 600 East 4th Street, Morris, MN 56267，位于明尼苏达西部草原带；最近机场为 Minneapolis-Saint Paul（MSP，约 2 小时 15 分车程）；区内以自驾为主。",
+      "scene": "1910 年创校的公立文理学院，明尼苏达大学系统成员，以本科文理教育与原住民研究见长；学科覆盖自然科学、人文、社会科学与教育；校队 Cougars，参加 NCAA Division III。",
+      "safety": "UMN Morris 校园安保与 Morris Police 协同，紧急拨 911；设巡逻与校园警报；校外归 Morris Police Department 与 Stevens County Sheriff 调度。",
+      "transit": "城区尺度小，校园与市中心步行可达；对外走廊为 US-59 与 MN-9，远途航班经 MSP。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源在 Morris 市区，签约前核对取暖费与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://morris.umn.edu/academics/calendar",
+          "UMN Morris 校历"
+        ],
+        "ins": [
+          "https://morris.umn.edu/admissions/international",
+          "国际学生"
+        ],
+        "police": [
+          "https://morris.umn.edu/campus-life/safety",
+          "校园安全"
+        ],
+        "housing": [
+          "https://morris.umn.edu/campus-life/housing",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://morris.umn.edu/campus-life/health",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://morris.umn.edu/campus-life/parking",
+          "校园交通"
+        ]
+      }
+    },
+    "umn": {
+      "short": "明尼苏达大学双城分校",
+      "place": "明尼阿波利斯 · 100 Church Street SE, Minneapolis, MN 55455",
+      "cityKey": "minneapolis",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UMN Twin Cities 校历为准。",
+      "calendar": "Fall 2026 于九月上旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中下旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按校历分 fall / spring / summer 公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Student and Scholar Services（ISSS）与学术顾问批准。",
+      "drop": "退课在 MyU 门户办理，带 W 截止日与退费比例按校历与 One Stop 条款；退课后学分不足须先同 ISSS 确认。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖 Boynton Health 门诊与 M Health Fairview 网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前通过 ISSS 门户提交保险卡与英文保障摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 ISSS；门诊、疫苗与心理咨询对接 Boynton Health；牙科、眼科与家属保障按保险商当期条款另购。",
+      "clinic": "Boynton Health 提供全科门诊、疫苗与旅行医学、TB 筛查、心理咨询与检验；专科与急诊对接 M Health Fairview University of Minnesota Medical Center。",
+      "commute": "主校区 100 Church Street SE, Minneapolis, MN 55455，跨明尼阿波利斯与圣保罗两城；最近机场为 Minneapolis-Saint Paul（MSP，约 20 分钟车程）；区内有 Metro Transit 轻轨与公交。",
+      "scene": "1851 年创校的 land-grant 旗舰公立大学，明尼苏达大学系统主校区；学科覆盖工程、医学、法学、商科、农业与公共事务；校队 Golden Gophers，参加 NCAA Division I（Big Ten Conference）。",
+      "safety": "University of Minnesota Police Department 负责校园治安，24 小时值守，紧急拨 911，非紧急号码见校警官网；设步行与驾车巡逻、蓝灯紧急电话与 SAFE-U 警报；校外归 Minneapolis Police 与 Saint Paul Police 按市界调度。",
+      "transit": "Metro Transit 的 Green Line 轻轨连接两城校区，公交网络密集；对外走廊为 I-94 / I-35W，Amtrak 在 Saint Paul 站停靠；机场经轻轨蓝线接驳。",
+      "rentnote": "Housing and Residential Life 按申请与首年住校要求分配；校外房源在 Dinkytown、Stadium Village、Como 与 Saint Paul 校区周边，签约前核对学年合约、押金与停车；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://onestop.umn.edu/calendar",
+          "One Stop 校历"
+        ],
+        "ins": [
+          "https://isss.umn.edu/",
+          "International Student and Scholar Services"
+        ],
+        "police": [
+          "https://www.umn.edu/police/",
+          "University Police Department"
+        ],
+        "housing": [
+          "https://housing.umn.edu/",
+          "Housing and Residential Life"
+        ],
+        "clinic": [
+          "https://boynton.umn.edu/",
+          "Boynton Health"
+        ],
+        "transit": [
+          "https://www.metrotransit.org/",
+          "Metro Transit"
+        ]
+      }
+    },
+    "umrochester": {
+      "short": "明尼苏达大学罗切斯特分校",
+      "place": "罗切斯特 · Downtown Rochester（Broadway 与 Center Street 一带）, Rochester, MN 55904",
+      "cityKey": "rochestermn",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UMN Rochester 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、毕业典礼在五月；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分；减修须经学生事务与学术顾问批准，学分负荷变动须报备以维护 SEVIS。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按校历与 One Stop 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与 Mayo 网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向学生事务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询学生事务；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "UMR 学生健康服务提供基础门诊、疫苗与心理咨询；专科与急诊依托 Mayo Clinic 罗切斯特院区。",
+      "commute": "校区位于罗切斯特市中心 Broadway 与 Center Street 一带，MN 55904；最近机场为 Rochester International（RST，约 15 分钟车程）；市内以步行、公交与自驾为主。",
+      "scene": "2006 年创校的公立健康科学本科校，明尼苏达大学系统成员，与 Mayo Clinic 深度合作；学科聚焦健康科学、医疗创新与生物医学；校队以 club 与校内赛事为主。",
+      "safety": "UMR 校园安保与 Rochester Police 协同，紧急拨 911；设巡逻与校园通报；校外归 Rochester Police Department 与 Olmsted County Sheriff 调度。",
+      "transit": "Rochester Public Transit 公交覆盖市区与校区；对外走廊为 US-14 与 US-52，远途航班经 RST 转 MSP 或芝加哥。",
+      "rentnote": "校内住宿有限，多数学生租房；校外房源在市中心与 Mayo 园区周边，签约前核对停车、押金与轮班通勤；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://r.umn.edu/academics/calendar",
+          "UMR 校历"
+        ],
+        "ins": [
+          "https://r.umn.edu/admissions/international",
+          "国际学生"
+        ],
+        "police": [
+          "https://r.umn.edu/campus-life/safety",
+          "校园安全"
+        ],
+        "housing": [
+          "https://r.umn.edu/campus-life/housing",
+          "学生住宿"
+        ],
+        "clinic": [
+          "https://r.umn.edu/campus-life/health",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://r.umn.edu/campus-life/parking",
+          "校园交通"
+        ]
+      }
+    },
+    "winona": {
+      "short": "威诺纳州立大学",
+      "place": "威诺纳 · 175 West Mark Street, Winona, MN 55987",
+      "cityKey": "winona",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 WSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费档位按校历与 Business Office 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "WSU 学生健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Winona Health 与 Gundersen 系统。",
+      "commute": "主校区 175 West Mark Street, Winona, MN 55987，位于密西西比河峡谷；最近机场为 Rochester（RST，约 45 分钟车程）与 Minneapolis-Saint Paul（MSP，约 2 小时）；区内以自驾为主。",
+      "scene": "1858 年创校的公立大学，明尼苏达州立系统成员，前身为州立师范学校；学科覆盖教育、商科、护理、工程与艺术；校队 Warriors，参加 NCAA Division II（Northern Sun）。",
+      "safety": "WSU 校园安保与 Winona Police 协同，校园 24 小时值守，紧急拨 911；设巡逻与校园警报；校外归 Winona Police Department 与 Winona County Sheriff 调度。",
+      "transit": "城区尺度小，校园与市中心步行可达；对外走廊为 I-90 与 US-61，Amtrak 在 Winona 停靠；远途航班经 RST 或 MSP。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边与市区，签约前核对坡地通勤、取暖费与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.winona.edu/",
+          "WSU Registrar"
+        ],
+        "ins": [
+          "https://www.winona.edu/international/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.winona.edu/security/",
+          "校园安全"
+        ],
+        "housing": [
+          "https://www.winona.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.winona.edu/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.winona.edu/",
+          "校园交通"
+        ]
+      }
+    },
+    "ccsu": {
+      "short": "中康涅狄格州立大学",
+      "place": "新不列颠 · 1615 Stanley Street, New Britain, CT 06050",
+      "cityKey": "newbritain",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 CCSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "CCSU 校内健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Hospital of Central Connecticut（New Britain）。",
+      "commute": "主校区 1615 Stanley Street, New Britain, CT 06050，位于康州中部；最近机场为 Bradley International（BDL，约 30 分钟车程）；城区有 CTfastrak 快速公交连接哈特福德与新不列颠。",
+      "scene": "1849 年创校的公立大学，CSCU 成员，前身为州立师范学校；学科覆盖教育、商科、工程、护理与刑事司法；校队 Blue Devils，参加 NCAA Division I（NEC 等口径以当期公布为准）。",
+      "safety": "CCSU Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 New Britain Police 与州警调度。",
+      "transit": "CTfastrak 快速公交连接 New Britain、Hartford 与 Bristol；对外走廊 I-84 与 CT-9，远途航班经 BDL。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源在新不列颠与周边城镇，签约前核对快速公交站点距离与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.ccsu.edu/registrar/",
+          "CCSU Registrar"
+        ],
+        "ins": [
+          "https://www.ccsu.edu/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.ccsu.edu/police/",
+          "CCSU Police"
+        ],
+        "housing": [
+          "https://www.ccsu.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.ccsu.edu/health/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.ctfastrak.com/",
+          "CTfastrak"
+        ]
+      }
+    },
+    "charteroak": {
+      "short": "查特奥克州立学院",
+      "place": "新不列颠 · 55 Paul Manafort Drive, New Britain, CT 06053",
+      "cityKey": "newbritain",
+      "calShort": "学期制（Fall / Spring / Summer），以在线与弹性学制为主；开课与期末以 Charter Oak 校历为准。",
+      "calendar": "Fall 2026 于九月上旬开课，学期按 8 周与 15 周两种节奏并行；Spring 2027 于一月中旬开课；加退课与带 W 退课截止日按学院学术日历公布，在线课程按模块起止。",
+      "fulltime": "F-1 学生须满足全日制注册口径（本科 12 学分）并保持 SEVIS 状态；在线课程比例受联邦与学院规定约束，须提前与国际学生事务确认。",
+      "drop": "退课在自助门户办理，带 W 截止日与退费比例按学术日历与 Bursar 条款；模块课程按开课日计算。",
+      "ins1": "学生须持有覆盖在美停留全期的健康保险；学院不设统一校医院，保障以网络内社区医疗为主，保单须含急诊与住院。",
+      "ins2": "国际学生须在注册前提交保险卡与英文保障摘要，作为 SEVIS 材料的一部分；材料不齐影响注册。",
+      "ins3": "保险与注册口径咨询国际学生事务；门诊使用保险网络内诊所；牙科与眼科按保险商当期条款另购。",
+      "clinic": "学院不设独立校医院，学生按保险网络使用社区医疗；新不列颠与哈特福德一带的医院与诊所为主要转诊点。",
+      "commute": "学院办公与教学点 55 Paul Manafort Drive, New Britain, CT 06053，课程以在线为主；最近机场为 Bradley International（BDL，约 30 分钟车程）；线下集中活动多在哈特福德一带。",
+      "scene": "1973 年创校的公立在线学院，CSCU 成员，以成人学习者、学分评估与先前学习认定（portfolio）见长；学科覆盖商科、健康管理、心理学与信息技术；无校队建制。",
+      "safety": "学院依托新不列颠校区安保与本地警力，紧急拨 911；在线学习期间按所在城市警力与校园通报获取安全信息。",
+      "transit": "以在线学习为主，通勤需求集中在考试、辅导与集中活动；CTfastrak 与 CTtransit 覆盖新不列颠与哈特福德。",
+      "rentnote": "学院不提供常规宿舍，学生自行租房；房源多在新不列颠、哈特福德与周边城镇，签约前核对通勤与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.charteroak.edu/",
+          "学术日历"
+        ],
+        "ins": [
+          "https://www.charteroak.edu/",
+          "国际学生"
+        ],
+        "police": [
+          "https://www.charteroak.edu/",
+          "校园安全"
+        ],
+        "housing": [
+          "https://www.charteroak.edu/",
+          "学生服务"
+        ],
+        "clinic": [
+          "https://portal.ct.gov/dph",
+          "康州公共卫生部门"
+        ],
+        "transit": [
+          "https://www.ctfastrak.com/",
+          "CTfastrak"
+        ]
+      }
+    },
+    "easternct": {
+      "short": "东康涅狄格州立大学",
+      "place": "威利曼蒂克 · 83 Windham Street, Willimantic, CT 06226",
+      "cityKey": "willimantic",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 Eastern 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "Eastern 校内健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Windham Hospital（Hartford HealthCare）。",
+      "commute": "主校区 83 Windham Street, Willimantic, CT 06226，位于康州东部；最近机场为 Bradley International（BDL，约 1 小时车程）；城区有 CTtransit 公交与自驾。",
+      "scene": "1889 年创校的公立大学，CSCU 成员，前身为州立师范学校；学科覆盖教育、商科、心理学、传播与体育；校队 Warriors，参加 NCAA Division III。",
+      "safety": "Eastern 校园警察负责治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Willimantic Police 与州警调度。",
+      "transit": "CTtransit 公交连接威利曼蒂克与哈特福德方向；对外走廊 CT-32 与 I-84，远途航班经 BDL。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源在威利曼蒂克与周边城镇，签约前核对通勤与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.easternct.edu/registrar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.easternct.edu/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.easternct.edu/police/",
+          "校园警察"
+        ],
+        "housing": [
+          "https://www.easternct.edu/housing/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.easternct.edu/health/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.cttransit.com/",
+          "CTtransit"
+        ]
+      }
+    },
+    "southernct": {
+      "short": "南康涅狄格州立大学",
+      "place": "纽黑文 · 501 Crescent Street, New Haven, CT 06515",
+      "cityKey": "newhaven",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 SCSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "SCSU 校内健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Yale New Haven Hospital 与 Saint Raphael 院区。",
+      "commute": "主校区 501 Crescent Street, New Haven, CT 06515，位于纽黑文西侧；最近机场为 Tweed New Haven（HVN，约 15 分钟）与 Bradley International（BDL，约 1 小时）；城区有 CTtransit 公交与 Metro-North 通勤铁路。",
+      "scene": "1893 年创校的公立大学，CSCU 成员，前身为州立师范学校；学科覆盖教育、商科、护理、社工与体育；校队 Owls，参加 NCAA Division II（NE10）。",
+      "safety": "SCSU Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 New Haven Police 与州警调度。",
+      "transit": "CTtransit 公交与 Metro-North New Haven 线连接纽黑文与纽约；对外走廊 I-95 与 I-91，Amtrak 在 New Haven Union Station 停靠。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源在校园周边与 Westville、Downtown 方向，签约前核对通勤与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.southernct.edu/",
+          "SCSU Registrar"
+        ],
+        "ins": [
+          "https://www.southernct.edu/international/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.southernct.edu/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.southernct.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.southernct.edu/health/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.cttransit.com/",
+          "CTtransit"
+        ]
+      }
+    },
+    "uconn": {
+      "short": "康涅狄格大学",
+      "place": "斯托斯 · 2131 Hillside Road, Storrs, CT 06269",
+      "cityKey": "storrs",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UConn 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按校历分学期公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 ISSS 与学术顾问批准。",
+      "drop": "退课在 Student Administration 系统办理，带 W 截止日与退费比例按校历与 One Stop 条款；退课后学分不足须先同 ISSS 确认。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖 Student Health 门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前通过 ISSS 门户提交保险卡与英文保障摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 ISSS；门诊、疫苗与旅行医学对接 Student Health and Wellness；牙科、眼科与家属保障按保险商当期条款另购。",
+      "clinic": "UConn Student Health and Wellness（Hilda May Williams 楼）提供全科门诊、疫苗与旅行医学、TB 筛查与心理咨询；专科与急诊转诊 UConn John Dempsey Hospital（Farmington）。",
+      "commute": "主校区 2131 Hillside Road, Storrs, CT 06269，位于康州东部丘陵；最近机场为 Bradley International（BDL，约 35 分钟车程）；校内有 UConn Bus 与接驳，城区以自驾为主。",
+      "scene": "1881 年创校的 land-grant 旗舰公立大学，康州唯一 land-grant 院校；学科覆盖工程、商科、农业、护理、药学与法学；校队 Huskies，参加 NCAA Division I（Big East 等口径以当期公布为准）。",
+      "safety": "UConn Police Department 负责校园治安，24 小时值守，紧急拨 911，非紧急号码见校警官网；设巡逻、紧急电话、蓝灯与 UConn Alert 警报；校外归州警（Troop C）与 Mansfield 一带警力调度。",
+      "transit": "UConn Bus 与 CTtransit 接驳覆盖校园与 Storrs 中心；对外走廊 CT-195 与 I-84，远途航班经 BDL；往哈特福德约 30 分钟。",
+      "rentnote": "Residential Life 按申请与首年住校要求分配；校外房源在 Storrs、Mansfield 与 Willimantic 一带，签约前核对学年合约、停车与取暖；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://registrar.uconn.edu/",
+          "UConn Registrar"
+        ],
+        "ins": [
+          "https://isss.uconn.edu/",
+          "International Student and Scholar Services"
+        ],
+        "police": [
+          "https://police.uconn.edu/",
+          "UConn Police"
+        ],
+        "housing": [
+          "https://reslife.uconn.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://health.uconn.edu/",
+          "Student Health and Wellness"
+        ],
+        "transit": [
+          "https://uconnbus.uconn.edu/",
+          "UConn Bus"
+        ]
+      }
+    },
+    "uconnavery": {
+      "short": "康涅狄格大学艾弗里波因特分校",
+      "place": "格罗顿 · 1084 Shennecossett Road, Groton, CT 06340",
+      "cityKey": "groton",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UConn 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按 UConn 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分；减修须经 International Student and Scholar Services（ISSS）与校区学术顾问批准。",
+      "drop": "退课在 Student Administration 系统办理，带 W 截止日与退费比例按校历与 One Stop 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前通过 ISSS 门户提交保险卡与英文保障摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 ISSS；门诊对接 UConn Student Health 与校区驻点时段；牙科与眼科按保险商当期条款另购。",
+      "clinic": "Avery Point 校区提供健康服务与心理咨询的驻点时段；专科与急诊转诊 UConn Health（Farmington）与 Lawrence + Memorial Hospital（New London）。",
+      "commute": "校区 1084 Shennecossett Road, Groton, CT 06340，位于泰晤士河口；最近机场为 Groton-New London（GON，约 15 分钟）与 Bradley International（BDL，约 1 小时 30 分）；区内有 SEAT 公交与自驾。",
+      "scene": "UConn 的海洋科学特色校区，前身为 1946 年创办的康涅狄格大学海洋学院；学科聚焦海洋科学、海洋事务与海事研究；学生规模小，以本科与研究生项目为主。",
+      "safety": "UConn Police 负责校警职能，Avery Point 校区设驻点巡逻并与 Groton Town Police 协同，紧急拨 911；设校园警报与紧急电话。",
+      "transit": "SEAT 公交连接格罗顿与新伦敦；对外走廊 I-95 与 US-1，远途航班经 BDL；校区临水，风暴潮与冬季海雾影响出行。",
+      "rentnote": "校内住宿有限，多数学生租住格罗顿与新伦敦一带；签约前核对通勤与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://registrar.uconn.edu/",
+          "UConn Registrar"
+        ],
+        "ins": [
+          "https://isss.uconn.edu/",
+          "ISSS"
+        ],
+        "police": [
+          "https://police.uconn.edu/",
+          "UConn Police"
+        ],
+        "housing": [
+          "https://reslife.uconn.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://health.uconn.edu/",
+          "UConn Student Health"
+        ],
+        "transit": [
+          "https://averypoint.uconn.edu/",
+          "校区交通"
+        ]
+      }
+    },
+    "uconnhartford": {
+      "short": "康涅狄格大学哈特福德校区",
+      "place": "哈特福德 · 10 Prospect Street, Hartford, CT 06103",
+      "cityKey": "hartford",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UConn 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按 UConn 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分；减修须经 ISSS 与校区学术顾问批准。",
+      "drop": "退课在 Student Administration 系统办理，带 W 截止日与退费比例按校历与 One Stop 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前通过 ISSS 门户提交保险卡与英文保障摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 ISSS；门诊对接 UConn Student Health 与校区驻点时段；牙科与眼科按保险商当期条款另购。",
+      "clinic": "校区提供健康服务与心理咨询的驻点时段；专科与急诊转诊 Hartford Hospital 与 UConn Health（Farmington）。",
+      "commute": "校区 10 Prospect Street, Hartford, CT 06103，位于市中心；最近机场为 Bradley International（BDL，约 20 分钟车程）；城区有 CTfastrak 与 CTtransit 公交。",
+      "scene": "UConn 的城市校区，2017 年迁入哈特福德市中心；学科聚焦商科、社会工作、教育与城市政策，与州政府及企业实习网络结合紧密。",
+      "safety": "UConn Police 负责校警职能并与 Hartford Police 协同，紧急拨 911；市中心校区设门禁与驻点巡逻。",
+      "transit": "CTfastrak 快速公交与 CTtransit 覆盖市中心；对外走廊 I-84 / I-91，机场经 BDL；Amtrak 与 Hartford Line 在 Hartford Union Station 停靠。",
+      "rentnote": "校内住宿有限，多数学生租住市中心与周边街区；签约前核对停车与夜间步行路线；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://registrar.uconn.edu/",
+          "UConn Registrar"
+        ],
+        "ins": [
+          "https://isss.uconn.edu/",
+          "ISSS"
+        ],
+        "police": [
+          "https://police.uconn.edu/",
+          "UConn Police"
+        ],
+        "housing": [
+          "https://reslife.uconn.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://health.uconn.edu/",
+          "UConn Student Health"
+        ],
+        "transit": [
+          "https://www.cttransit.com/",
+          "CTtransit"
+        ]
+      }
+    },
+    "uconnstamford": {
+      "short": "康涅狄格大学斯坦福校区",
+      "place": "斯坦福 · 1 University Place, Stamford, CT 06901",
+      "cityKey": "stamford",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UConn 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按 UConn 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分；减修须经 ISSS 与校区学术顾问批准；部分研究生项目按周末与晚间排课。",
+      "drop": "退课在 Student Administration 系统办理，带 W 截止日与退费比例按校历与 One Stop 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前通过 ISSS 门户提交保险卡与英文保障摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 ISSS；门诊对接 UConn Student Health 与校区驻点时段；牙科与眼科按保险商当期条款另购。",
+      "clinic": "校区提供健康服务与心理咨询的驻点时段；专科与急诊转诊 Stamford Hospital（Hartford HealthCare）与 UConn Health。",
+      "commute": "校区 1 University Place, Stamford, CT 06901，位于市中心、Metro-North 车站步行可达；最近机场为 Westchester County（HPN，约 30 分钟）与 Bradley International（BDL，约 1 小时 45 分）。",
+      "scene": "UConn 的都会校区，位于斯坦福市中心，以商科、金融、数据分析与继续教育见长；与纽约都会区的金融机构实习网络结合紧密，走读与晚间课程比例高。",
+      "safety": "UConn Police 负责校警职能并与 Stamford Police 协同，紧急拨 911；市中心校区设门禁与驻点巡逻。",
+      "transit": "Metro-North New Haven 线在 Stamford 站停靠，往纽约约 1 小时；城区有 CTtransit 与 HART 接驳；对外走廊 I-95 与 Merritt Parkway。",
+      "rentnote": "校内住宿有限，多数学生租住斯坦福市区与周边城镇；签约前核对通勤月票、停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://registrar.uconn.edu/",
+          "UConn Registrar"
+        ],
+        "ins": [
+          "https://isss.uconn.edu/",
+          "ISSS"
+        ],
+        "police": [
+          "https://police.uconn.edu/",
+          "UConn Police"
+        ],
+        "housing": [
+          "https://reslife.uconn.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://health.uconn.edu/",
+          "UConn Student Health"
+        ],
+        "transit": [
+          "https://www.mta.info/mnr",
+          "Metro-North"
+        ]
+      }
+    },
+    "uconnwaterbury": {
+      "short": "康涅狄格大学沃特伯里校区",
+      "place": "沃特伯里 · 99 East Main Street, Waterbury, CT 06702",
+      "cityKey": "waterbury",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UConn 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按 UConn 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分；减修须经 ISSS 与校区学术顾问批准；部分项目按晚间与周末排课。",
+      "drop": "退课在 Student Administration 系统办理，带 W 截止日与退费比例按校历与 One Stop 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前通过 ISSS 门户提交保险卡与英文保障摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 ISSS；门诊对接 UConn Student Health 与校区驻点时段；牙科与眼科按保险商当期条款另购。",
+      "clinic": "校区提供健康服务与心理咨询的驻点时段；专科与急诊转诊 Waterbury Hospital 与 Saint Mary’s Hospital。",
+      "commute": "校区 99 East Main Street, Waterbury, CT 06702，位于市中心；最近机场为 Bradley International（BDL，约 45 分钟车程）；城区有 CTtransit 公交与 Waterbury 支线铁路接驳。",
+      "scene": "UConn 的区域校区，位于沃特伯里市中心，以通识课程、商科与护理预科见长；学生以本地走读为主，可经 UConn 系统转往 Storrs 主校区完成高年级课程。",
+      "safety": "UConn Police 负责校警职能并与 Waterbury Police 协同，紧急拨 911；市中心校区设门禁与驻点巡逻。",
+      "transit": "CTtransit 公交覆盖市区；Waterbury 支线铁路（Metro-North）连接 Bridgeport 与纽约方向；对外走廊 I-84 与 CT-8。",
+      "rentnote": "校内住宿有限，多数学生通勤或租住市区；签约前核对公交与停车；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://registrar.uconn.edu/",
+          "UConn Registrar"
+        ],
+        "ins": [
+          "https://isss.uconn.edu/",
+          "ISSS"
+        ],
+        "police": [
+          "https://police.uconn.edu/",
+          "UConn Police"
+        ],
+        "housing": [
+          "https://reslife.uconn.edu/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://health.uconn.edu/",
+          "UConn Student Health"
+        ],
+        "transit": [
+          "https://www.cttransit.com/",
+          "CTtransit"
+        ]
+      }
+    },
+    "uscga": {
+      "short": "美国海岸警卫队学院",
+      "place": "新伦敦 · 31 Mohegan Avenue, New London, CT 06320",
+      "cityKey": "newlondon",
+      "calShort": "学制特殊：四年制军官培养，学年分两学期并含夏季实践期；以学院官方日程为准。",
+      "calendar": "学年于八月下旬的 swab summer 训练开始，秋季学期至十二月，春季学期至五月毕业与 commissioning；夏季安排海上实践与训练，具体日期以学院官方日历公布。",
+      "fulltime": "学院为全日制军官培养项目，全体 cadet 统一注册与住校；国际交换与访学项目按学院与国务院口径单独办理。",
+      "drop": "学院不适用常规退课机制；课程调整按学术委员会与 command 结构办理，退学涉及军官培养合约。",
+      "ins1": "cadet 的医疗由学院医务室与军医系统统一覆盖，不适用民用学生保险计划；家属与访学人员须自备保险。",
+      "ins2": "国际访学与交流人员须按国务院与学院口径提交保险与体检材料，入境与门禁另行审批。",
+      "ins3": "家属医疗依托 TRICARE 或自购保险；门诊转诊 Lawrence + Memorial Hospital 与军医系统。",
+      "clinic": "学院医务室提供门诊、疫苗与运动医学；专科与急诊对接 Lawrence + Memorial Hospital（New London）与军医系统。",
+      "commute": "校园 31 Mohegan Avenue, New London, CT 06320，位于泰晤士河口西岸；最近机场为 Groton-New London（GON，约 15 分钟）与 Bradley International（BDL，约 1 小时 30 分）；到访需提前办理门禁。",
+      "scene": "1876 年创校的联邦军校，美国海岸警卫队唯一直属本科院校；学科聚焦海洋工程、海洋科学、政府管理与航海；全体 cadet 为海岸警卫队学员，毕业授予理学学士与 ensign 委任。",
+      "safety": "学院由 Coast Guard 军事警力与安保部门负责，校园为受限军事设施，紧急拨 911；访客须持证件并经登记，校外归 New London Police 与州警调度。",
+      "transit": "SEAT 公交与自驾为主要对外方式；Amtrak 在 New London 停靠；校园临水，通行受军事设施门禁与训练日程约束。",
+      "rentnote": "全体 cadet 住校并纳入军事培养体系，不适用校外租房；家属与访学人员租住新伦敦与格罗顿一带，租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.uscga.edu/academics/",
+          "学术与日历"
+        ],
+        "ins": [
+          "https://www.uscga.edu/",
+          "学院官网"
+        ],
+        "police": [
+          "https://www.uscga.edu/",
+          "安保与访客"
+        ],
+        "housing": [
+          "https://www.uscga.edu/",
+          "cadet 生活"
+        ],
+        "clinic": [
+          "https://www.uscga.edu/",
+          "医务室"
+        ],
+        "transit": [
+          "https://www.uscga.edu/visit/",
+          "到访与交通"
+        ]
+      }
+    },
+    "wcsu": {
+      "short": "西康涅狄格州立大学",
+      "place": "丹伯里 · 181 White Street, Danbury, CT 06810",
+      "cityKey": "danbury",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 WCSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Student Services 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按 Registrar 校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "WCSU 校内健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Danbury Hospital（Nuvance Health）。",
+      "commute": "主校区 181 White Street, Danbury, CT 06810，位于康州西部、纽约州界以东；最近机场为 Westchester County（HPN，约 45 分钟）与 Bradley International（BDL，约 1 小时 30 分）；区内有 HART 公交与 Metro-North 通勤铁路。",
+      "scene": "1903 年创校的公立大学，康涅狄格州立学院与大学系统（CSCU）成员；学科覆盖教育、商科、护理、音乐与计算机；校队 Colonials，参加 NCAA Division III。",
+      "safety": "WCSU Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Danbury Police Department 与州警调度。",
+      "transit": "HART 公交覆盖丹伯里城区；Metro-North New Haven 线在 Danbury 站停靠，往纽约约 1 小时 40 分；对外走廊 I-84，远途航班经 BDL 或 HPN。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源在丹伯里市区与 I-84 走廊，签约前核对通勤月票与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.wcsu.edu/registrar/",
+          "WCSU Registrar"
+        ],
+        "ins": [
+          "https://www.wcsu.edu/international/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.wcsu.edu/police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.wcsu.edu/housing/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.wcsu.edu/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.wcsu.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "apsu": {
+      "short": "奥斯汀皮伊州立大学",
+      "place": "克拉克斯维尔 · 601 College Street, Clarksville, TN 37044",
+      "cityKey": "clarksville",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 APSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Education 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Business Office 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Education 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Education；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "APSU 学生健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Tennova Healthcare Clarksville 与 Blanchfield Army Community Hospital。",
+      "commute": "主校区 601 College Street, Clarksville, TN 37044，位于坎伯兰河畔、Fort Campbell 西北；最近机场为 Nashville International（BNA，约 50 分钟车程）；城区以自驾为主。",
+      "scene": "1927 年创校的公立大学，田纳西州立系统（TBR）成员；学科覆盖商科、教育、护理、军事科学与计算机；校队 Governors，参加 NCAA Division I（ASUN 等口径以当期公布为准）。",
+      "safety": "APSU Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Clarksville Police Department 与 Montgomery County Sheriff 调度。",
+      "transit": "城区以自驾为主，Clarksville Transit 提供有限线路；对外走廊 I-24 与 US-41，远途航班经 BNA。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边与河滨一带，签约前核对停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.apsu.edu/registrar/",
+          "APSU Registrar"
+        ],
+        "ins": [
+          "https://www.apsu.edu/international/",
+          "International Education"
+        ],
+        "police": [
+          "https://www.apsu.edu/police/",
+          "APSU Police"
+        ],
+        "housing": [
+          "https://www.apsu.edu/housing/",
+          "Housing"
+        ],
+        "clinic": [
+          "https://www.apsu.edu/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.apsu.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "etsu": {
+      "short": "东田纳西州立大学",
+      "place": "约翰逊城 · 1276 Gilbreath Drive, Johnson City, TN 37614",
+      "cityKey": "johnsoncity",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 ETSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Programs 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Programs 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Programs；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "ETSU Health 与校内学生健康服务提供门诊、疫苗、TB 筛查与心理咨询；专科与急诊对接 Johnson City Medical Center（Ballad Health）。",
+      "commute": "主校区 1276 Gilbreath Drive, Johnson City, TN 37614，位于阿巴拉契亚山谷；最近机场为 Tri-Cities（TRI，约 20 分钟车程）；城区有 Johnson City Transit 公交。",
+      "scene": "1911 年创校的公立大学，田纳西州立系统成员，设有 Quillen 医学院与药学院；学科覆盖医学、护理、药学、教育与应用科学；校队 Buccaneers，参加 NCAA Division I（Southern Conference）。",
+      "safety": "ETSU Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Johnson City Police Department 与 Washington County Sheriff 调度。",
+      "transit": "Johnson City Transit 覆盖校园与市区；对外走廊 I-26 与 I-81，远途航班经 TRI 转夏洛特或亚特兰大。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边与市区，签约前核对坡地通勤与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.etsu.edu/reg/",
+          "ETSU Registrar"
+        ],
+        "ins": [
+          "https://www.etsu.edu/international/",
+          "International Programs"
+        ],
+        "police": [
+          "https://www.etsu.edu/police/",
+          "ETSU Police"
+        ],
+        "housing": [
+          "https://www.etsu.edu/housing/",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://www.etsu.edu/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.etsu.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "memphis": {
+      "short": "孟菲斯大学",
+      "place": "孟菲斯 · 3720 Alumni Avenue, Memphis, TN 38152",
+      "cityKey": "memphis",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 University of Memphis 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Center for International Education Services 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 Center for International Education Services 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 CIES；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "校内健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Methodist University Hospital 与 Regional One Health。",
+      "commute": "主校区 3720 Alumni Avenue, Memphis, TN 38152，位于城市东侧；最近机场为 Memphis International（MEM，约 20 分钟车程）；城区有 MATA 公交。",
+      "scene": "1912 年创校的公立大学，田纳西州立系统（TBR）成员，研究型定位；学科覆盖商科、工程、教育、音乐与法律；校队 Tigers，参加 NCAA Division I（American Athletic Conference）。",
+      "safety": "University of Memphis Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Memphis Police Department 与 Shelby County Sheriff 调度。",
+      "transit": "MATA 公交覆盖校园与市区；对外走廊 I-40 与 I-240，远途航班经 MEM；校园夜间设护送服务。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边、Midtown 与东孟菲斯，签约前核对停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.memphis.edu/registrar/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.memphis.edu/cies/",
+          "Center for International Education Services"
+        ],
+        "police": [
+          "https://www.memphis.edu/police/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.memphis.edu/",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://www.memphis.edu/health/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.matatransit.com/",
+          "MATA"
+        ]
+      }
+    },
+    "mtsu": {
+      "short": "中田纳西州立大学",
+      "place": "默弗里斯伯勒 · 1301 East Main Street, Murfreesboro, TN 37132",
+      "cityKey": "murfreesboro",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 MTSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Affairs 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Business Office 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Affairs 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Affairs；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "MTSU 学生健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Ascension Saint Thomas Rutherford 与 Vanderbilt 网络。",
+      "commute": "主校区 1301 East Main Street, Murfreesboro, TN 37132，位于纳什维尔东南约 35 英里；最近机场为 Nashville International（BNA，约 35 分钟车程）；城区有 Rover 公交与通勤铁路（Music City Star 在附近站点）。",
+      "scene": "1911 年创校的公立大学，田纳西州立系统成员，州内本科规模最大之一；学科覆盖商科、教育、航空、音乐与计算机；校队 Blue Raiders，参加 NCAA Division I（Conference USA）。",
+      "safety": "MTSU Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Murfreesboro Police Department 与 Rutherford County Sheriff 调度。",
+      "transit": "Rover 公交覆盖校园与市区；对外走廊 I-24 与 US-41，Music City Star 通勤铁路连接纳什维尔方向，远途航班经 BNA。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边与市区公寓群，签约前核对学年合约、停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.mtsu.edu/registrar/",
+          "MTSU Registrar"
+        ],
+        "ins": [
+          "https://www.mtsu.edu/international/",
+          "International Affairs"
+        ],
+        "police": [
+          "https://www.mtsu.edu/police/",
+          "MTSU Police"
+        ],
+        "housing": [
+          "https://www.mtsu.edu/housing/",
+          "Housing"
+        ],
+        "clinic": [
+          "https://www.mtsu.edu/health/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.mtsu.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "tnstate": {
+      "short": "田纳西州立大学",
+      "place": "纳什维尔 · 3500 John A. Merritt Boulevard, Nashville, TN 37209",
+      "cityKey": "nashville",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 TSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Office of International Affairs 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Business Office 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 Office of International Affairs 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 Office of International Affairs；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "TSU 学生健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Nashville General Hospital 与 Vanderbilt University Medical Center。",
+      "commute": "主校区 3500 John A. Merritt Boulevard, Nashville, TN 37209，位于坎伯兰河畔、市中心西侧；最近机场为 Nashville International（BNA，约 20 分钟车程）；城区有 WeGo 公交。",
+      "scene": "1912 年创校的公立大学，田纳西州立系统成员，历史上为州内非裔高等教育重镇；学科覆盖商科、工程、教育、护理与农业；校队 Tigers，参加 NCAA Division I（OVC 等口径以当期公布为准）。",
+      "safety": "TSU Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Metro Nashville Police Department 与 Davidson County Sheriff 调度。",
+      "transit": "WeGo 公交覆盖校园与市中心；对外走廊 I-40 与 I-65，远途航班经 BNA；校园夜间设护送服务。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边与 West Nashville 方向，签约前核对公交通勤与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.tnstate.edu/registrar/",
+          "TSU Registrar"
+        ],
+        "ins": [
+          "https://www.tnstate.edu/international/",
+          "Office of International Affairs"
+        ],
+        "police": [
+          "https://www.tnstate.edu/police/",
+          "TSU Police"
+        ],
+        "housing": [
+          "https://www.tnstate.edu/housing/",
+          "Housing"
+        ],
+        "clinic": [
+          "https://www.tnstate.edu/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.wegotransit.com/",
+          "WeGo"
+        ]
+      }
+    },
+    "tntech": {
+      "short": "田纳西理工大学",
+      "place": "库克维尔 · 1 William L Jones Drive, Cookeville, TN 38505",
+      "cityKey": "cookeville",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 Tennessee Tech 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Student Affairs 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Business Office 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Student Affairs 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Student Affairs；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "校内健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Cookeville Regional Medical Center。",
+      "commute": "主校区 1 William L Jones Drive, Cookeville, TN 38505，位于坎伯兰高原 I-40 走廊；最近机场为 Nashville（BNA，约 1 小时 30 分车程）与 Knoxville（TYS，约 1 小时 45 分）；城区以自驾为主。",
+      "scene": "1915 年创校的公立大学，田纳西州立系统成员，以工程与技术项目见长；学科覆盖工程、商科、农业、教育与环境；校队 Golden Eagles，参加 NCAA Division I（OVC 等口径以当期公布为准）。",
+      "safety": "Tennessee Tech Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Cookeville Police Department 与 Putnam County Sheriff 调度。",
+      "transit": "城区以自驾为主，Cookeville 的公交覆盖有限；对外走廊 I-40，Amtrak 不在库克维尔停靠，远途铁路经纳什维尔或查塔努加。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边与市区，签约前核对停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.tntech.edu/",
+          "Registrar 校历"
+        ],
+        "ins": [
+          "https://www.tntech.edu/international/",
+          "International Student Affairs"
+        ],
+        "police": [
+          "https://www.tntech.edu/police/",
+          "Campus Police"
+        ],
+        "housing": [
+          "https://www.tntech.edu/",
+          "Housing"
+        ],
+        "clinic": [
+          "https://www.tntech.edu/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.tntech.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "utc": {
+      "short": "田纳西大学查塔努加分校",
+      "place": "查塔努加 · 615 McCallie Avenue, Chattanooga, TN 37403",
+      "cityKey": "chattanooga",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UTC 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Center for Global Education 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 Center for Global Education 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 Center for Global Education；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "UTC 学生健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Erlanger Health 与 CHI Memorial Hospital。",
+      "commute": "主校区 615 McCallie Avenue, Chattanooga, TN 37403，位于田纳西河畔市中心北侧；最近机场为 Chattanooga Metropolitan（CHA，约 15 分钟车程）；城区有 CARTA 公交与免费电动摆渡。",
+      "scene": "1886 年创校的公立大学，田纳西大学系统成员；学科覆盖工程、商科、教育、护理与计算机；校队 Mocs，参加 NCAA Division I（Southern Conference）。",
+      "safety": "UTC Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Chattanooga Police Department 与 Hamilton County Sheriff 调度。",
+      "transit": "CARTA 公交与免费电动摆渡连接校园与市中心；对外走廊 I-24 与 I-75，Amtrak 不在查塔努加停靠，远途铁路经亚特兰大或纳什维尔。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在校园周边、市中心与 Southside 方向，签约前核对停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.utc.edu/registrar/",
+          "UTC Registrar"
+        ],
+        "ins": [
+          "https://www.utc.edu/center-global-education",
+          "Center for Global Education"
+        ],
+        "police": [
+          "https://www.utc.edu/police",
+          "UTC Police"
+        ],
+        "housing": [
+          "https://www.utc.edu/housing/",
+          "Housing and Residence Life"
+        ],
+        "clinic": [
+          "https://www.utc.edu/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.carta.org/",
+          "CARTA"
+        ]
+      }
+    }
+  },
+  "EXTRA": {}
+}

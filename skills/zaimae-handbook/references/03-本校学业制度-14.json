@@ -1,0 +1,1184 @@
+{
+  "SCHOOL": {
+    "uhhilo": {
+      "short": "夏威夷大学希洛分校",
+      "place": "希洛 · 200 W. Kawili St, Hilo, HI 96720",
+      "cityKey": "hilo",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Medical Services：CC 212，808-932-7369（药房 808-932-7807），hiratah@hawaii.edu；Counseling Services：SSC E-203，808-932-7465，uhhcouns@hawaii.edu；急诊转 Hilo Medical Center（808-932-3000）。",
+      "commute": "主校区位于 Hilo 城区 Kawili Street 一带（夏威夷岛东海岸）；最近机场 Hilo International（ITO），跨岛枢纽备选 Honolulu（HNL）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1947 年创立的夏威夷大学夏威夷岛分校，海洋科学、热带农业、火山地质、护理、教育与文理项目见长；校队 Vulcans，参加 NCAA Division II Pacific West Conference 赛事。",
+      "safety": "Campus Security：UCB 151，200 W. Kawili St；紧急 808-974-7911，非紧急 808-932-7013，uhhsafe@hawaii.edu，24/7 值守；紧急 911；校园边界外归 Hawaii County Police Department，Hilo PD 非紧急 808-935-3311。",
+      "transit": "Hilo 本地公交（Hele-On Bus）与校方接驳串联校区；自驾沿 Hawaii Belt 公路；航空以 ITO 为主，HNL 为跨岛备选，班次以机场当期公布为准。",
+      "rentnote": "Student Housing 协助校内宿舍分配；校外房源在 Hilo 城区与海滨片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://hilo.hawaii.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://hilo.hawaii.edu/studentaffairs/health/",
+          "Student Medical Services"
+        ],
+        "police": [
+          "https://hilo.hawaii.edu/auxsvc/security/",
+          "Campus Security"
+        ],
+        "housing": [
+          "https://hilo.hawaii.edu/",
+          "Student Housing 栏目"
+        ],
+        "clinic": [
+          "https://hilo.hawaii.edu/studentaffairs/health/",
+          "Student Medical Services"
+        ],
+        "transit": [
+          "https://hilo.hawaii.edu/",
+          "UH Hilo 校园"
+        ]
+      }
+    },
+    "uhmanoa": {
+      "short": "夏威夷大学马诺阿分校",
+      "place": "檀香山 · 2600 Campus Road, Honolulu, HI 96822",
+      "cityKey": "honolulu",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "University Health Services Manoa：1710 East-West Road，808-956-8965，uhsm@hawaii.edu；Counseling and Student Development Center：2600 Campus Road，808-956-7927；专科与急诊转 Honolulu 地区医院。",
+      "commute": "主校区位于 Honolulu 市中心东缘 Manoa 山谷（City and County of Honolulu）；最近机场 Honolulu Daniel K. Inouye International（HNL）；区内出行以步行、公交与校方接驳为主。",
+      "scene": "1907 年创立的夏威夷大学旗舰校区，热带海洋、天文、太平洋研究、工程、商学、护理与文理项目见长；校队 Rainbow Warriors / Rainbow Wahine，参加 NCAA Division I Big West 赛事（橄榄球属 Mountain West）。",
+      "safety": "Department of Public Safety：1951 East-West Road，24/7，808-956-6911；夜间护送 808-956-7233；紧急状态线 808-956-0001；紧急 911；校园边界外归 Honolulu Police Department。",
+      "transit": "Honolulu 本地公交（TheBus）与校方接驳串联校区；自驾沿 H-1、Manoa 山谷道路；航空以 HNL 为主，跨岛支线以 ITO、OGG 为备选，班次以机场当期公布为准。",
+      "rentnote": "Office of Student Housing 协助校内宿舍分配；校外房源在 Manoa、Māakiki 与 Honolulu 城区片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://manoa.hawaii.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.hawaii.edu/shs/",
+          "University Health Services Manoa"
+        ],
+        "police": [
+          "https://manoa.hawaii.edu/dps/",
+          "Department of Public Safety"
+        ],
+        "housing": [
+          "https://manoa.hawaii.edu/",
+          "Student Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.hawaii.edu/shs/",
+          "University Health Services Manoa"
+        ],
+        "transit": [
+          "https://manoa.hawaii.edu/",
+          "UH Manoa 校园"
+        ]
+      }
+    },
+    "uhwo": {
+      "short": "夏威夷大学西瓦胡分校",
+      "place": "卡波莱 · 91-1001 Farrington Hwy, Kapolei, HI 96707",
+      "cityKey": "kapolei",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Health and Wellness：驻校护士 808-689-2679，skelly3@hawaii.edu；Counseling Services：Campus Center C236 / Library B216，808-689-2678（心理师 808-689-2975），taketas@hawaii.edu；专科就医转 Oahu 西部社区医疗与 Honolulu 急诊机构。",
+      "commute": "校区位于 Oahu 西部 Kapolei 城区 Farrington Highway 一带；最近机场 Honolulu（HNL），距西 Oahu 约半小时车程；区内出行以步行、自驾与 TheBus 接驳为主。",
+      "scene": "1976 年创立、2007 年迁至 Kapolei 的夏威夷大学西 Oahu 分校，商科、公共管理、传播学、计算机与文理项目见长；以校内休闲社团与 intramural 为主，无传统 NCAA 校队联盟。",
+      "safety": "UH West Oahu Campus Security：91-1001 Farrington Hwy，24/7 808-689-2911，uhwocsd@hawaii.edu；总机 808-689-2800；紧急 911；校园边界外归 Honolulu Police Department（Kapolei 辖区）。",
+      "transit": "Kapolei 本地公交（TheBus）与校区接驳串联；自驾沿 Farrington Highway、H-1 走廊；航空以 HNL 为主，跨岛支线备选 ITO、OGG，班次以机场当期公布为准。",
+      "rentnote": "校区住宿名额有限，Student Housing 协助申请；校外房源在 Kapolei、Ewa Beach 与 Waipahu 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://westoahu.hawaii.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://westoahu.hawaii.edu/mentalhealth/",
+          "Health & Wellness"
+        ],
+        "police": [
+          "https://westoahu.hawaii.edu/",
+          "Campus Security 栏目"
+        ],
+        "housing": [
+          "https://westoahu.hawaii.edu/",
+          "Student Housing 栏目"
+        ],
+        "clinic": [
+          "https://westoahu.hawaii.edu/mentalhealth/",
+          "Health & Wellness"
+        ],
+        "transit": [
+          "https://westoahu.hawaii.edu/",
+          "UH West Oahu 校园"
+        ]
+      }
+    },
+    "iastate": {
+      "short": "艾奥瓦州立大学",
+      "place": "埃姆斯 · 100 Alumni Hall, Ames, IA 50011",
+      "cityKey": "ames",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Thielen Student Health Center：2647 Union Drive, Ames, IA 50011，515-294-5801，studenthealth@iastate.edu；Counseling Services：Student Services Building 三层，2505 Union Dr，515-294-5056；专科与急诊转 McFarland Clinic 与 Ames 地区医院。",
+      "commute": "主校区位于 Ames 城区 Union Drive 一带（Story County，Des Moines 北郊）；最近机场 Des Moines International（DSM），备选 Omaha Eppley（OMA）与 Minneapolis-St. Paul（MSP）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1858 年创立的艾奥瓦州土地授予大学，农业、工程、兽医、商科、计算机与文理项目见长；校队 Cyclones，参加 NCAA Division I Big 12 赛事。",
+      "safety": "ISU Police Department：Armory Building Room 55；非紧急 515-294-4428，校园应急帮车 515-294-4444，紧急 911；校园边界外归 Ames Police Department 与 Story County 辖区。",
+      "transit": "Ames 本地公交（CyRide）与校方接驳串联校区；自驾沿 I-35、US-30；航空以 DSM 为主，OMA、MSP 为备选，班次以机场当期公布为准。",
+      "rentnote": "Department of Residence 协助校内宿舍分配；校外房源在 Ames 城区与近郊片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.iastate.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://health.iastate.edu/",
+          "Student Health and Wellness"
+        ],
+        "police": [
+          "https://www.police.iastate.edu/",
+          "ISU Police"
+        ],
+        "housing": [
+          "https://www.iastate.edu/",
+          "Residence 栏目"
+        ],
+        "clinic": [
+          "https://health.iastate.edu/",
+          "Thielen Student Health Center"
+        ],
+        "transit": [
+          "https://www.iastate.edu/",
+          "Iowa State 校园"
+        ]
+      }
+    },
+    "uiowa": {
+      "short": "艾奥瓦大学",
+      "place": "艾奥瓦城 · Jessup Hall, Iowa City, IA 52242",
+      "cityKey": "iowacity",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health：319-335-8394，student-health@uiowa.edu，studenthealth.uiowa.edu；University Counseling Service 经 Student Health 渠道预约；专科与急诊经 UI Health Care 体系对接。",
+      "commute": "主校区位于 Iowa City 城区 Iowa River 两岸（Johnson County）；最近机场 Eastern Iowa Airport（CID，Cedar Rapids），备选 Des Moines（DSM）与 Omaha Eppley（OMA）；区内出行以步行、公交与校方接驳为主。",
+      "scene": "1847 年创立的艾奥瓦旗舰公立大学，医学、法律、工程、商学、文理与艺术项目见长；校队 Hawkeyes，参加 NCAA Division I Big Ten 赛事。",
+      "safety": "University of Iowa Police Department：非紧急 319-335-5022，police@uiowa.edu，24/7 调度；紧急 911；校园边界外归 Iowa City Police Department（非紧急 319-356-5275）与 Johnson County 辖区。",
+      "transit": "Iowa City 本地公交（Cambus）与校方接驳串联校区；自驾沿 I-80、US-218；航空以 CID 为主，DSM、OMA 为备选，班次以机场当期公布为准。",
+      "rentnote": "University Housing & Dining（319-335-3000）协助校内宿舍分配；校外房源在 Iowa City 城区与 North Liberty 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://uiowa.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://studenthealth.uiowa.edu/",
+          "Student Health"
+        ],
+        "police": [
+          "https://safety.uiowa.edu/",
+          "Campus Safety / UIPD"
+        ],
+        "housing": [
+          "https://uiowa.edu/",
+          "University Housing 栏目"
+        ],
+        "clinic": [
+          "https://studenthealth.uiowa.edu/",
+          "Student Health"
+        ],
+        "transit": [
+          "https://uiowa.edu/",
+          "UIowa 校园"
+        ]
+      }
+    },
+    "uni": {
+      "short": "北艾奥瓦大学",
+      "place": "锡达福尔斯 · 1227 W 27th St, Cedar Falls, IA 50613",
+      "cityKey": "cedarfalls",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Clinic：1600 W 23rd St（Student Health Center），319-273-2009，healthcenter@uni.edu；Counseling Center：103 Student Health Center，319-273-2676；课后护士专线 319-272-2600；急诊转 MercyOne Cedar Falls（515 College St）。",
+      "commute": "主校区位于 Cedar Falls 城区 W 23rd Street 一带（Black Hawk County，Waterloo 邻城）；最近支线机场 Waterloo Regional（ALO），大型枢纽备选 Eastern Iowa（CID）与 Des Moines（DSM）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1876 年创立的北艾奥瓦公立大学，教育、商科、护理、运动科学、人文与艺术项目见长；校队 Panthers，参加 NCAA Division I 赛事（橄榄球 Missouri Valley Football Conference）。",
+      "safety": "UNI Police / Department of Public Safety：30 Gilchrist Hall，Cedar Falls, IA 50613；校园应急 319-273-4000，办公室 319-273-2712，紧急 911；校园边界外归 Cedar Falls Police Department 与 Black Hawk County 辖区。",
+      "transit": "Cedar Falls/Waterloo 本地公交（MET Transit）与校方接驳串联校区；自驾沿 US-20、I-380；航空以 ALO 为主，CID、DSM 为备选，班次以机场当期公布为准。",
+      "rentnote": "Residential Services 协助校内宿舍分配；校外房源在 Cedar Falls 与 Waterloo 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uni.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://wellbeing.uni.edu/student-health/health-services",
+          "Student Health Clinic"
+        ],
+        "police": [
+          "https://publicsafety.uni.edu/",
+          "UNI Public Safety"
+        ],
+        "housing": [
+          "https://www.uni.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://wellbeing.uni.edu/student-health/health-services",
+          "Student Health Clinic"
+        ],
+        "transit": [
+          "https://www.uni.edu/",
+          "UNI 校园"
+        ]
+      }
+    },
+    "nevadastate": {
+      "short": "内华达州立大学",
+      "place": "亨德森 · 1300 E. St. Louis Ave, Henderson, NV 89002",
+      "cityKey": "henderson",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "校内不设综合医疗诊所；Counseling and Psychological Services（Student Counseling Center）702-754-0807；日常就医对接 Henderson 社区诊所与医院，急诊转 Sunrise 地区医疗中心。",
+      "commute": "主校区位于 Henderson 城区 St. Louis Avenue 一带（Clark County，Las Vegas 东南近郊）；最近机场 Harry Reid International（LAS），支线备选 North Las Vegas（VGT）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "2002 年创立的南内华达公立大学（原 Nevada State College），护理、教育、商科、STEM 与文理项目见长；校队 Scorpions，2026 起加入 NAIA 与 Great Southwest Athletic Conference（GSAC） provisional 会员。",
+      "safety": "University Police Services（UNLV Police 派驻 NS）：紧急 702-895-3669，非紧急 702-895-3668；紧急 911；校园边界外归 Henderson Police Department（非紧急 702-267-4913）与 Clark County 辖区。",
+      "transit": "Henderson/Las Vegas 本地公交（RTC Transit）与校方接驳串联校区；自驾沿 I-11、US-93；航空以 LAS 为主，VGT 为支线备选，班次以机场当期公布为准。",
+      "rentnote": "校区住宿名额有限，Student Life / Housing 协助申请；校外房源在 Henderson 与 Green Valley 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://nevadastate.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://nevadastate.edu/",
+          "Student Counseling 栏目"
+        ],
+        "police": [
+          "https://www.unlv.edu/police/nsc",
+          "University Police Services"
+        ],
+        "housing": [
+          "https://nevadastate.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://nevadastate.edu/",
+          "Student Counseling 栏目"
+        ],
+        "transit": [
+          "https://nevadastate.edu/",
+          "Nevada State 校园"
+        ]
+      }
+    },
+    "unlv": {
+      "short": "内华达大学拉斯维加斯分校",
+      "place": "拉斯维加斯 · 4505 S. Maryland Pkwy, Las Vegas, NV 89154",
+      "cityKey": "lasvegasnv",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center：SRWC Room 1500，4505 S. Maryland Pkwy, Box 453020，702-895-3370，shc@unlv.edu；CAPS 702-895-3627；专科与急诊转 University Medical Center 与 Las Vegas 地区医院。",
+      "commute": "主校区位于 Las Vegas 城区 Maryland Parkway 一带（Clark County）；最近机场 Harry Reid International（LAS）；区内出行以步行、公交与校方接驳为主。",
+      "scene": "1957 年创立的内华达大学拉斯维加斯分校，酒店管理、工程、商学、法学、护理与文理项目见长；校队 Rebels，参加 NCAA Division I Mountain West 赛事。",
+      "safety": "UNLV Department of Public Safety：Police HQ，University Gateway Parking Garage（PKG-3）一层；紧急 702-895-3669，非紧急 702-895-3668，夜间护送 702-895-3668；紧急 911；校园边界外归 Las Vegas Metropolitan Police Department。",
+      "transit": "Las Vegas 本地公交（RTC Transit）与校方接驳串联校区；自驾沿 I-15、Maryland Parkway；航空以 LAS 为主，支线备选 VGT，班次以机场当期公布为准。",
+      "rentnote": "University Housing 协助校内宿舍分配；校外房源在 UNLV 周边、Paradise 与 Summerlin 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.unlv.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.unlv.edu/studentwellness/health-center",
+          "Student Health Center"
+        ],
+        "police": [
+          "https://www.unlv.edu/police",
+          "Department of Public Safety"
+        ],
+        "housing": [
+          "https://www.unlv.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.unlv.edu/studentwellness/health-center",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.unlv.edu/",
+          "UNLV 校园"
+        ]
+      }
+    },
+    "unr": {
+      "short": "内华达大学里诺分校",
+      "place": "里诺 · 1664 N Virginia St, Reno, NV 89557",
+      "cityKey": "renonv",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center：775-784-6598；Counseling Services 775-784-4648，课后危机 775-297-8315；专科与急诊转 Renown Regional Medical Center。",
+      "commute": "主校区位于 Reno 城区 N Virginia Street 一带（Washoe County，特拉基河谷）；最近机场 Reno-Tahoe International（RNO），备选 Sacramento International（SMF）与 Truckee-Tahoe（TRK）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1874 年创立的内华达大学里诺分校，矿业、工程、计算机、商科、教育与文理项目见长；校队 Wolf Pack，参加 NCAA Division I Mountain West 赛事。",
+      "safety": "University Police Department（Northern Command Dispatch / COPS）：非紧急 775-334-2677；紧急 911（校园分机 9-911）；校园边界外归 Reno Police Department 与 Washoe County 辖区。",
+      "transit": "Reno 本地公交（RTC Washoe）与校方接驳串联校区；自驾沿 I-580、US-395；航空以 RNO 为主，SMF、TRK 为备选，班次以机场当期公布为准。",
+      "rentnote": "University Housing 协助校内宿舍分配；校外房源在 Reno 城区、Midtown 与 Sparks 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.unr.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.unr.edu/counseling/crisis-services",
+          "Student Health / Counseling"
+        ],
+        "police": [
+          "https://www.unr.edu/",
+          "University Police 栏目"
+        ],
+        "housing": [
+          "https://www.unr.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.unr.edu/counseling/crisis-services",
+          "Counseling Services"
+        ],
+        "transit": [
+          "https://www.unr.edu/",
+          "UNR 校园"
+        ]
+      }
+    },
+    "usu": {
+      "short": "犹他州立大学",
+      "place": "洛根 · 0115 Old Main Hill, Logan, UT 84322",
+      "cityKey": "loganut",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health & Wellness Center 435-797-1660；CAPS Counseling and Prevention Services 435-797-1012（Taggart Student Center Room 306，课后危机按提示转分机 0）；SAAVI 435-797-7273；专科与急诊转 Logan Regional Hospital 435-716-1000。",
+      "commute": "主校区位于 Logan 老主山（Old Main Hill，Cache County，熊河河谷）；最近主要机场 Salt Lake City International（SLC），支线备选 Logan-Cache（LGU）与 Ogden-Hinckley（OGD）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1888 年创立的犹他州立大学，农业、工程、兽医、商学、教育与文理项目见长；校队 Aggies，参加 NCAA Division I Mountain West 赛事。",
+      "safety": "USU Police（Logan）：紧急/主号 435-797-1939，Public Safety Building，880 East 1250 North；紧急 911；校园边界外归 Logan City Police（非紧急 435-753-7555）。",
+      "transit": "Logan 本地公交（Cache Valley Transit District）与校方接驳串联校区；自驾沿 US-89、I-15 南向盐湖城；航空以 SLC 为主，LGU、OGD 为备选，班次以机场当期公布为准。",
+      "rentnote": "University Housing 协助校内宿舍分配；校外房源在 Logan 城区与 Cache Valley 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.usu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.usu.edu/aggiewellness/caps",
+          "CAPS / Health 栏目"
+        ],
+        "police": [
+          "https://www.usu.edu/",
+          "USU Police 栏目"
+        ],
+        "housing": [
+          "https://www.usu.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.usu.edu/aggiewellness/caps",
+          "Health & Wellness Center"
+        ],
+        "transit": [
+          "https://www.usu.edu/",
+          "USU 校园"
+        ]
+      }
+    },
+    "utah": {
+      "short": "犹他大学",
+      "place": "盐湖城 · 1735 East South Campus Dr, Salt Lake City, UT 84112",
+      "cityKey": "saltlakecity",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Center：555 Foothill Drive，801-581-6431；University Counseling Center：Student Services Building Room 426，801-581-6826，24/7 危机线 801-587-3000；急诊转 University of Utah Hospital，50 North Medical Drive。",
+      "commute": "主校区位于 Salt Lake City 东侧 Foothill 山麓（Wasatch Range 西麓）；最近机场 Salt Lake City International（SLC）；支线备选 Ogden-Hinckley（OGD）与 Provo Municipal（PVU）；区内出行以步行、UTA 公交与校方接驳为主。",
+      "scene": "1850 年创立的犹他大学，医学、药学、工程、计算机、商科、法学与文理项目见长；校队 Utes，参加 NCAA Division I Big 12 Conference 赛事。",
+      "safety": "University Police / Department of Public Safety：非紧急 801-585-2677（COPS），Main Campus 护送 SafeRide 801-585-2677；紧急 911；校园边界外归 Salt Lake City Police Department。",
+      "transit": "Salt Lake 本地公交与 TRAX 轻轨（UTA）及校方接驳串联校区；自驾沿 I-80、Foothill Drive；航空以 SLC 为主，OGD、PVU 为备选，班次以机场当期公布为准。",
+      "rentnote": "University Housing 协助校内宿舍分配；校外房源在 SLC 城区、Downtown 与 Sugar House 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.utah.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://studenthealth.utah.edu/",
+          "Student Health Center"
+        ],
+        "police": [
+          "https://publicsafety.utah.edu/",
+          "Department of Public Safety"
+        ],
+        "housing": [
+          "https://www.utah.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://counselingcenter.utah.edu/",
+          "Counseling Center"
+        ],
+        "transit": [
+          "https://www.utah.edu/",
+          "U of U 校园"
+        ]
+      }
+    },
+    "uvu": {
+      "short": "犹他谷大学",
+      "place": "奥勒姆 · 800 West University Parkway, Orem, UT 84058",
+      "cityKey": "orem",
+      "calShort": "两学期制（另设暑期学期）；2026 秋、2027 春开课日期与节点以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、期末与毕业典礼节点，以 Registrar 当期校历为准；学年另设夏季学期。",
+      "fulltime": "F-1 本科按每学期 12 学分及以上注册，研究生全日制学分口径以所属学院与 Registrar 当期规定为准；减修、停课或延期毕业须先经学业顾问与国际学生办公室批准，再由 Registrar 办理。",
+      "drop": "加退课、无 W 与带 W 退课截止按 Registrar 校历各节点执行；普查日后退课记 W；退费档位与退课口径以学生账户当期条款为准。",
+      "ins1": "持 F-1/J-1 等签证的国际学生按校方要求加入学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须另行购买。",
+      "ins2": "持有合格替代保单者可在豁免窗口内提交 waiver 申请并附保险卡凭证；替代保单须符合校方合规与医疗撤离/遣返要求；电子保险卡经承保方门户领取，学期初供健康服务与国际学生办公室核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询学生服务办公室；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Student Health Services：Sorensen Center SC 221，801-863-8876（基础医疗与心理咨询预约）；课后危机走 988 与 SafeUT；专科与急诊转 Provo/Salt Lake 地区医院。",
+      "commute": "主校区位于 Orem 城区 University Parkway 一带（Utah County，Wasatch Front 中段）；最近主要机场 Salt Lake City International（SLC），支线备选 Provo Municipal（PVU）与 Ogden-Hinckley（OGD）；区内出行以步行、自驾与校方接驳为主。",
+      "scene": "1941 年创立的犹他谷大学，商科、护理、工程、信息技术与应用科学项目见长；校队 Wolverines，参加 NCAA Division I Western Athletic Conference 赛事。",
+      "safety": "UVU Police Department：Dispatch 801-863-5555，提供 Safe Walk 护送；紧急 911；校园边界外归 Orem Police Department 与 Utah County 辖区。",
+      "transit": "Utah Valley 本地公交（UTA）与校方接驳串联校区；自驾沿 I-15、University Parkway；航空以 SLC 为主，PVU、OGD 为备选，班次以机场当期公布为准。",
+      "rentnote": "Student Housing 协助校内宿舍分配；校外房源在 Orem、Provo 与 Utah Valley 片区；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uvu.edu/",
+          "Registrar 栏目"
+        ],
+        "ins": [
+          "https://www.uvu.edu/studenthealth/",
+          "Student Health Services"
+        ],
+        "police": [
+          "https://www.uvu.edu/police/",
+          "UVU Police Department"
+        ],
+        "housing": [
+          "https://www.uvu.edu/",
+          "Housing 栏目"
+        ],
+        "clinic": [
+          "https://www.uvu.edu/studenthealth/medical/",
+          "Student Health Services"
+        ],
+        "transit": [
+          "https://www.uvu.edu/",
+          "UVU 校园"
+        ]
+      }
+    },
+    "uaa": {
+      "short": "阿拉斯加大学安克雷奇分校",
+      "place": "安克雷奇 · 3211 Providence Drive, Anchorage, AK 99508",
+      "cityKey": "anchorage",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UAA 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Student Services 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Student Accounts 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Student Services 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Student Services；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "UAA 学生健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Alaska Regional Hospital 与 Providence Alaska Medical Center。",
+      "commute": "主校区 3211 Providence Drive, Anchorage, AK 99508，位于市区东侧；最近机场为 Ted Stevens Anchorage International（ANC，约 15 分钟车程）；市内有 People Mover 公交。",
+      "scene": "1954 年创校的公立大学，阿拉斯加大学系统规模最大的成员；学科覆盖工程、商科、护理、教育、航空与司法；校队 Seawolves，参加 NCAA Division II（GNAC）。",
+      "safety": "UAA University Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Anchorage Police Department 与州警调度。",
+      "transit": "People Mover 公交覆盖市区与校园；对外走廊 Glenn Highway 与 Seward Highway，ANC 为州内国际干线枢纽，远途经西雅图或洛杉矶转机。",
+      "rentnote": "校内由 University Housing 分配宿舍；校外房源在市区与校园周边，签约前核对取暖费、停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.uaa.alaska.edu/",
+          "UAA Registrar"
+        ],
+        "ins": [
+          "https://www.uaa.alaska.edu/",
+          "International Student Services"
+        ],
+        "police": [
+          "https://www.uaa.alaska.edu/",
+          "University Police"
+        ],
+        "housing": [
+          "https://www.uaa.alaska.edu/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://www.uaa.alaska.edu/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.uaa.alaska.edu/",
+          "校园交通"
+        ]
+      }
+    },
+    "uaf": {
+      "short": "阿拉斯加大学费尔班克斯分校",
+      "place": "费尔班克斯 · 1731 South Chandalar Drive, Fairbanks, AK 99775",
+      "cityKey": "fairbanks",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UAF 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；极寒期停课按校方通报执行，加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Programs 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Office of the Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康中心门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Programs 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Programs；门诊对接学生健康中心；牙科与眼科按保险商当期条款另购。",
+      "clinic": "UAF 学生健康中心提供门诊、疫苗与心理咨询；校内能力之外转诊 Fairbanks Memorial Hospital。",
+      "commute": "主校区 1731 South Chandalar Drive, Fairbanks, AK 99775，位于市区西北；最近机场为 Fairbanks International（FAI，约 10 分钟车程）；城区以自驾为主。",
+      "scene": "1917 年创校的 land-grant 公立大学，阿拉斯加大学系统旗舰与研究主力；学科覆盖极地科学、工程、渔业、地质与土著研究；校队 Nanooks，参加 NCAA Division I（冰球等口径以当期公布为准）。",
+      "safety": "UAF Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Fairbanks Police 与州警调度。",
+      "transit": "城区公交覆盖有限，校园与市区以自驾与班车为主；对外走廊 Richardson Highway 与 Parks Highway，FAI 有州内与季节国际航线。",
+      "rentnote": "校内由 UAF Housing 分配宿舍；校外房源在市区与校园周边，签约前核对取暖费与冬季装备成本；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.uaf.edu/registrar/",
+          "UAF Registrar"
+        ],
+        "ins": [
+          "https://www.uaf.edu/",
+          "International Programs"
+        ],
+        "police": [
+          "https://www.uaf.edu/police/",
+          "UAF Police"
+        ],
+        "housing": [
+          "https://www.uaf.edu/reslife/",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.uaf.edu/",
+          "学生健康中心"
+        ],
+        "transit": [
+          "https://www.uaf.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "desu": {
+      "short": "特拉华州立大学",
+      "place": "多佛 · 1200 North DuPont Highway, Dover, DE 19901",
+      "cityKey": "doverde",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 DSU 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Affairs 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Affairs 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Affairs；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "DSU 学生健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Bayhealth Kent General Hospital。",
+      "commute": "主校区 1200 North DuPont Highway, Dover, DE 19901，位于 US-13 走廊；最近机场为 Philadelphia（PHL，约 1 小时车程）与 Baltimore（BWI，约 1 小时 20 分）；城区以自驾为主。",
+      "scene": "1891 年创校的 land-grant 公立大学，州内唯一 land-grant 院校；学科覆盖农业、商科、护理、教育与航空；校队 Hornets，参加 NCAA Division I（MEAC 等口径以当期公布为准）。",
+      "safety": "DSU 校园警察负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Dover Police Department 与州警调度。",
+      "transit": "城区以自驾为主，DART First State 公交覆盖有限；对外走廊 US-13 与 DE-1，远途航班经 PHL 或 BWI。",
+      "rentnote": "校内由 Housing 分配宿舍；校外房源在市区与校园周边，签约前核对停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.desu.edu/registrar/",
+          "DSU Registrar"
+        ],
+        "ins": [
+          "https://www.desu.edu/international-affairs/",
+          "International Affairs"
+        ],
+        "police": [
+          "https://www.desu.edu/campus-police/",
+          "校园警察"
+        ],
+        "housing": [
+          "https://www.desu.edu/housing/",
+          "Housing"
+        ],
+        "clinic": [
+          "https://www.desu.edu/health-services/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.desu.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "udel": {
+      "short": "特拉华大学",
+      "place": "纽瓦克 · 210 South College Avenue, Newark, DE 19716",
+      "cityKey": "newarkde",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UD 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Center for Global Programs and Services 与学术顾问批准。",
+      "drop": "退课在 UDSIS 系统办理，带 W 截止日与退费比例按校历与 Student Financial Services 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前通过 CGPS 门户提交保险卡与英文保障摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 CGPS；门诊、疫苗与 TB 筛查对接学生健康服务；牙科、眼科与家属保障按保险商当期条款另购。",
+      "clinic": "UD 学生健康服务（Laurel Hall）提供门诊、疫苗、TB 筛查与心理咨询；专科与急诊转诊 ChristianaCare 与 Nemours。",
+      "commute": "主校区 210 South College Avenue, Newark, DE 19716，位于主街西侧；最近机场为 Philadelphia（PHL，约 45 分钟车程）；城区步行与自行车友好，SEPTA 与 Amtrak 在 Newark 停靠。",
+      "scene": "1743 年创校的私立研究型大学（州内 land-grant 职能承担者）；学科覆盖化学工程、海洋科学、商科、教育与农业；校队 Blue Hens，参加 NCAA Division I（CAA 等口径以当期公布为准）。",
+      "safety": "University of Delaware Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Newark Police Department 与县警调度。",
+      "transit": "校园与主街步行可达，SEPTA Wilmington/Newark 线与 Amtrak 在 Newark 站停靠，往费城约 1 小时；对外走廊 I-95 与 DE-896。",
+      "rentnote": "Residence Life 按申请与首年住校要求分配；校外房源在主街周边与公寓群，签约前核对学年合约、停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.udel.edu/registrar/",
+          "UD Registrar"
+        ],
+        "ins": [
+          "https://www.udel.edu/global/",
+          "Center for Global Programs and Services"
+        ],
+        "police": [
+          "https://www.udel.edu/police/",
+          "UD Police"
+        ],
+        "housing": [
+          "https://www.udel.edu/reslife/",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.udel.edu/studenthealth/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.udel.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "ric": {
+      "short": "罗得岛学院",
+      "place": "普罗维登斯 · 600 Mount Pleasant Avenue, Providence, RI 02908",
+      "cityKey": "providenceri",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 RIC 校历为准。",
+      "calendar": "Fall 2026 于九月上旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月下旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Center for Global Education 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 Center for Global Education 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 Center for Global Education；门诊对接健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "RIC 健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Rhode Island Hospital 与 Miriam Hospital。",
+      "commute": "主校区 600 Mount Pleasant Avenue, Providence, RI 02908，位于市区北侧；最近机场为 T. F. Green（PVD，约 20 分钟车程）；市区有 RIPTA 公交。",
+      "scene": "1854 年创校的公立学院，州内师范教育传统深厚；学科覆盖教育、护理、商科、社会工作与艺术；校队 Anchormen，参加 NCAA Division III。",
+      "safety": "RIC Campus Police 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Providence Police Department 与州警调度。",
+      "transit": "RIPTA 公交覆盖校园与市中心；对外走廊 I-95 与 US-1，Amtrak 在 Providence 站停靠，机场经公交或自驾 20 分钟。",
+      "rentnote": "校内由 Residential Life 分配宿舍；校外房源在校园周边与 North End、Smith Hill 方向，签约前核对公交与停车；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.ric.edu/registrar/",
+          "RIC Registrar"
+        ],
+        "ins": [
+          "https://www.ric.edu/global-education/",
+          "Center for Global Education"
+        ],
+        "police": [
+          "https://www.ric.edu/",
+          "Campus Police"
+        ],
+        "housing": [
+          "https://www.ric.edu/residential-life/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.ric.edu/",
+          "健康服务"
+        ],
+        "transit": [
+          "https://www.ric.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "uri": {
+      "short": "罗得岛大学",
+      "place": "金斯顿 · 45 Upper College Road, Kingston, RI 02881",
+      "cityKey": "kingstonri",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 URI 校历为准。",
+      "calendar": "Fall 2026 于九月上旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月下旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Students and Scholars 与学术顾问批准。",
+      "drop": "退课在 eCampus 系统办理，带 W 截止日与退费比例按校历与 Enrollment Services 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖 Health Services 门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Students and Scholars 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 ISSS；门诊、疫苗与 TB 筛查对接 Health Services；牙科与眼科按保险商当期条款另购。",
+      "clinic": "URI 健康服务提供门诊、疫苗、TB 筛查与心理咨询；校内能力之外转诊 South County Hospital 与 Rhode Island Hospital。",
+      "commute": "主校区 45 Upper College Road, Kingston, RI 02881，位于南郡；最近机场为 Rhode Island T. F. Green（PVD，约 35 分钟车程）；Amtrak 在 Kingston 站停靠，校内有班车。",
+      "scene": "1892 年创校的 land-grant 公立大学，州内旗舰；学科覆盖海洋科学、药学、护理、工程与商科；校队 Rams，参加 NCAA Division I（Atlantic 10 等口径以当期公布为准）。",
+      "safety": "URI Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 South Kingstown Police 与州警调度。",
+      "transit": "校内有 RIPTA 接驳与班车，Amtrak Kingston 站连接普罗维登斯与纽黑文方向；对外走廊 US-1 与 RI-138，远途航班经 PVD。",
+      "rentnote": "Housing 按申请与首年住校要求分配；校外房源在镇中心与 Narragansett 方向，签约前核对学年合约、停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://web.uri.edu/enrollment/calendar/",
+          "URI 学术日历"
+        ],
+        "ins": [
+          "https://web.uri.edu/",
+          "International Students and Scholars"
+        ],
+        "police": [
+          "https://web.uri.edu/police/",
+          "URI Police"
+        ],
+        "housing": [
+          "https://web.uri.edu/housing/",
+          "Housing and Residential Life"
+        ],
+        "clinic": [
+          "https://web.uri.edu/",
+          "Health Services"
+        ],
+        "transit": [
+          "https://web.uri.edu/",
+          "校园交通"
+        ]
+      }
+    },
+    "uvm": {
+      "short": "佛蒙特大学",
+      "place": "伯灵顿 · 85 South Prospect Street, Burlington, VT 05405",
+      "cityKey": "burlingtonvt",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UVM 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Student Services 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Student Financial Services 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Student Services 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 ISSS；门诊、疫苗与 TB 筛查对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "UVM 学生健康服务提供门诊、疫苗、TB 筛查与心理咨询；专科与急诊转诊 UVM Medical Center。",
+      "commute": "主校区 85 South Prospect Street, Burlington, VT 05405，位于市区南侧山坡；最近机场为 Burlington International（BTV，约 10 分钟车程）；市区有 GMT 公交与步行网络。",
+      "scene": "1791 年创校的公立研究型大学（州内 land-grant 职能承担者）；学科覆盖医学、环境科学、商科、教育与工程；校队 Catamounts，参加 NCAA Division I（America East 等口径以当期公布为准）。",
+      "safety": "UVM Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Burlington Police Department 与州警调度。",
+      "transit": "GMT 公交覆盖校园与市中心，Church Street 与湖滨步行可达；对外走廊 I-89 与 US-2，Amtrak 在 Burlington 站停靠，远途航班经 BTV 转纽约或芝加哥。",
+      "rentnote": "Residential Life 按申请与首年住校要求分配；校外房源在校园周边与 Winooski 方向，签约前核对学年合约、取暖与停车；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.uvm.edu/registrar/",
+          "UVM Registrar"
+        ],
+        "ins": [
+          "https://www.uvm.edu/iss",
+          "International Student Services"
+        ],
+        "police": [
+          "https://www.uvm.edu/police/",
+          "UVM Police"
+        ],
+        "housing": [
+          "https://www.uvm.edu/reslife/",
+          "Residential Life"
+        ],
+        "clinic": [
+          "https://www.uvm.edu/health/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.uvm.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "vermontstate": {
+      "short": "佛蒙特州立大学",
+      "place": "兰道夫 · Randolph Center 一带, Randolph, VT 05061",
+      "cityKey": "randolphvt",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 Vermont State University 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；各校区加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分；减修须经 International Student Services 与校区学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Student Accounts 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校区健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Student Services 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Student Services；门诊对接校区健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "校区健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Gifford Medical Center（Randolph）。",
+      "commute": "校区位于 Randolph Center 一带，VT 05061，紧邻 I-89；最近机场为 Burlington（BTV，约 1 小时车程）；Amtrak 在 Randolph 站停靠。",
+      "scene": "2023 年由 Castleton、Johnson、Lyndon 与 Randolph 等州立院校合并而成的公立大学，保留多校区办学；学科覆盖护理、教育、商科、农业与航空；校队以各校区口径参加 NCAA Division III。",
+      "safety": "校区安保与 Randolph Police 协同，紧急拨 911；设巡逻与校园通报；校外归 Randolph Police 与 Orange County Sheriff 调度。",
+      "transit": "校区临 I-89，通勤以自驾为主；Amtrak 在 Randolph 站停靠，往伯灵顿约 1 小时车程，往波士顿约 3.5 小时。",
+      "rentnote": "校内由 VTSU Housing 分配宿舍；校外房源在镇中心与山谷一带，签约前核对取暖费与通勤；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://vermontstate.edu/registrar/",
+          "VTSU Registrar"
+        ],
+        "ins": [
+          "https://vermontstate.edu/international/",
+          "International Student Services"
+        ],
+        "police": [
+          "https://vermontstate.edu/campus-safety/",
+          "校园安全"
+        ],
+        "housing": [
+          "https://vermontstate.edu/housing/",
+          "Housing"
+        ],
+        "clinic": [
+          "https://vermontstate.edu/health/",
+          "校区健康服务"
+        ],
+        "transit": [
+          "https://vermontstate.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "udc": {
+      "short": "哥伦比亚特区大学",
+      "place": "华盛顿 · 4200 Connecticut Avenue NW, Washington, DC 20008",
+      "cityKey": "washingtondc",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UDC 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按 Registrar 校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Student Services 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Student Services 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Student Services；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "UDC 学生健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Sibley Memorial Hospital 与 MedStar Georgetown University Hospital。",
+      "commute": "主校区 4200 Connecticut Avenue NW, Washington, DC 20008，位于 Van Ness 一带；最近机场为 Reagan National（DCA，约 20 分钟车程）与 Dulles（IAD，约 40 分钟）；Metrorail Red Line 在 Van Ness-UDC 站停靠。",
+      "scene": "1851 年起源、1976 年正式建制的公立大学，特区唯一 public 高等教育机构；学科覆盖商科、工程、护理、法学与教育；校队 Firebirds，参加 NCAA Division II（ECC 等口径以当期公布为准）。",
+      "safety": "UDC Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Metropolitan Police Department 与联邦公园警察按辖区调度。",
+      "transit": "Metrorail Red Line 的 Van Ness-UDC 站直达校园，Metrobus 覆盖全城；对外走廊 Connecticut Avenue 与 I-395，机场经地铁或自驾 20–40 分钟。",
+      "rentnote": "校内由 Student Housing 分配宿舍；校外房源在校园周边与 Cleveland Park 方向，签约前核对停车许可与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.udc.edu/registrar/",
+          "UDC Registrar"
+        ],
+        "ins": [
+          "https://www.udc.edu/",
+          "International Student Services"
+        ],
+        "police": [
+          "https://www.udc.edu/",
+          "UDC Police"
+        ],
+        "housing": [
+          "https://www.udc.edu/housing/",
+          "Student Housing"
+        ],
+        "clinic": [
+          "https://www.udc.edu/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.wmata.com/",
+          "WMATA"
+        ]
+      }
+    },
+    "uwyo": {
+      "short": "怀俄明大学",
+      "place": "拉勒米 · 1000 East University Avenue, Laramie, WY 82071",
+      "cityKey": "laramiewy",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UW 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Students and Scholars 与学术顾问批准。",
+      "drop": "退课在 WyoWeb 门户办理，带 W 截止日与退费比例按校历与 Bursar 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖学生健康服务门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Students and Scholars 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 ISSS；门诊对接学生健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "UW 学生健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 Ivinson Memorial Hospital。",
+      "commute": "主校区 1000 East University Avenue, Laramie, WY 82071，位于市区东侧；最近机场为 Laramie Regional（LAR，支线）与 Denver International（DEN，约 2 小时 15 分车程）；城区步行与自驾为主。",
+      "scene": "1886 年创校的 land-grant 公立大学，州内唯一四年制公立大学；学科覆盖能源工程、农业、商科、法学与环境；校队 Cowboys/Cowgirls，参加 NCAA Division I（Mountain West）。",
+      "safety": "UW Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Laramie Police Department 与 Albany County Sheriff 调度。",
+      "transit": "城区尺度小，校园与市中心步行可达，公交覆盖有限；对外走廊 I-80 与 US-287，远途航班经 DEN 或 LAR 支线。",
+      "rentnote": "Residence Life 按申请与首年住校要求分配；校外房源在校园周边与市区，签约前核对取暖费与冬季通勤；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.uwyo.edu/registrar/",
+          "UW Registrar"
+        ],
+        "ins": [
+          "https://www.uwyo.edu/iss/",
+          "International Students and Scholars"
+        ],
+        "police": [
+          "https://www.uwyo.edu/police/",
+          "UW Police"
+        ],
+        "housing": [
+          "https://www.uwyo.edu/reslife/",
+          "Residence Life"
+        ],
+        "clinic": [
+          "https://www.uwyo.edu/health/",
+          "学生健康服务"
+        ],
+        "transit": [
+          "https://www.uwyo.edu/",
+          "校园交通"
+        ]
+      }
+    }
+  },
+  "EXTRA": {
+    "ucsb": {
+      "replace": {
+        "转学分": {
+          "v": "其他院校（含社区大学、外州、国内）最多转入 105 quarter units（约 70 semester units），AP 等考试学分也计在内；超出的部分不增加毕业进度。未认证的学分只算选修，不进专业要求。",
+          "l": "https://www.duels.ucsb.edu/degree-planning/degree-requirements"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学院与专业",
+            "v": "本科分三个学院：文理学院（L&S）承担多数专业与辅修；工程学院设计算机科学、计算机工程、电子、机械、化工等 BS；创意研究学院（CCS）小班，需单独提交申请。转专业与换学院的条件写在各自学院页面上，按你的专业查。",
+            "l": "https://catalog.ucsb.edu/"
+          },
+          {
+            "k": "学位学分",
+            "v": "文理学院毕业需 180 units；若外语要求是用外校三级课满足，则为 184 units。其中 60 units 必须是高年级课（100–199 编号）。",
+            "l": "https://www.duels.ucsb.edu/degree-planning/degree-requirements"
+          }
+        ],
+        "双专业与辅修": [
+          {
+            "k": "2026–27 校历",
+            "v": "秋：9/20 季起，9/24 开始上课，12/4 结课，12/5–11 期末。冬：1/4 季起并当日上课，3/12 结课，3/13–19 期末。春：3/29 季起，6/4 结课，6/5–11 期末。暑期另计。",
+            "l": "https://catalog.ucsb.edu/academicsandpolicies/introcampus/calendar"
+          }
+        ]
+      },
+      "note": "本校条目取自 UCSB 注册办公室 2026–27 校历页与文理学院本科教育处学位要求页，2026-11-19 打开原文核对。专业课程主线（CS、物理、海洋科学等）按专业不同，未逐条核。"
+    },
+    "su": {
+      "replace": {
+        "转学分": {
+          "v": "本科转入上限 135 quarter credits：低年级 90 + 高年级 45，含 AP/IB/CLEP 与军队学分。semester 学分按 ×1.5 折成 quarter。",
+          "l": "https://www.seattleu.edu/registrar/transfer-tools/general-transfer-information/"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "本科需 180 quarter credits，部分专业更高；最后 45 credits 须在西雅图大学完成。",
+            "l": "https://catalog.seattleu.edu/content.php?catoid=51&navoid=4729&print"
+          }
+        ]
+      },
+      "note": "本校条目取自西雅图大学 2026–27 校历版《Academic Regulations》与注册办公室转学分页，2026-11-19 打开原文核对。学期与开学日期见上方学期制度行，不在此重复。"
+    },
+    "usc": {
+      "replace": {
+        "转学分": {
+          "v": "其他院校最多转入 64 units；BArch 与工程 3-2 项目可到 80 units，其中社区大学不超过 70。至少在 USC 完成 64 units。",
+          "l": "https://catalogue.usc.edu/content.php?catoid=22&navoid=9114"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "毕业需 128 units，其中至少 32 units 为高年级课；体育课最多计 4 units。",
+            "l": "https://catalogue.usc.edu/content.php?catoid=11&navoid=3418&print"
+          }
+        ]
+      },
+      "note": "本校条目取自 USC 2026–27 版 Catalogue 的 Requirements for Graduation 与 Course Work Taken Elsewhere 两页，2026-11-19 打开原文核对。学期与开学日期见上方学期制度行，不在此重复。"
+    },
+    "ucla": {
+      "replace": {
+        "转学分": {
+          "v": "非 UC 机构最多转入 105 个低年级 quarter units；UC 内部转学按原校学分全计。超出部分只给选课资格，不加毕业进度。",
+          "l": "https://caac.ucla.edu/wp-content/uploads/2025/11/Structure-of-Degree-Transfers-rev.-2025-11-21-protected.pdf"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "文理学院 180 units 起、216 units 为上限，其中至少 60 units 是高年级课（100–199 编号）；AP/IB 学分不计入上限。",
+            "l": "https://catalog.registrar.ucla.edu/browse/College%20and%20Schools/CollegeofLettersandScience/College-Requirements"
+          }
+        ]
+      },
+      "note": "本校条目取自 UCLA General Catalog 的 College Requirements 与文理学院学术咨询中心《Structure of the Degree》PDF，2026-11-19 打开原文核对。各学院的高年级 units 下限不同（戏剧影视 64、护理 83），按学院查。学期与开学日期见上方学期制度行。"
+    },
+    "uw": {
+      "replace": {
+        "转学分": {
+          "v": "低年级转学分最多 90 credits 计入毕业总量；超出部分可满足专业与通识，但不加学分。",
+          "l": "https://admit.washington.edu/apply/transfer/policies/"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "毕业需 180 quarter credits；文理学院要求其中至少 90 credits 在本专业之外完成；最后 60 credits 里 45 须在校完成。",
+            "l": "https://policy.uw.edu/directory/sgp/sgp-114-degrees-graduation-and-commencement/"
+          }
+        ]
+      },
+      "note": "本校条目取自 UW Policy Directory SGP 114 与招生办转学分政策页，2026-11-19 打开原文核对。学期与开学日期见上方学期制度行，不在此重复。"
+    },
+    "nyu": {
+      "replace": {
+        "转学分": {
+          "v": "转入最多 64 credits；转学生须在 CAS（-UA 课程）完成 64 credits 住校要求，其他 NYU 学院与门户校区的课不计入这 64。",
+          "l": "https://bulletins.nyu.edu/undergraduate/arts-science/admissions/"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "CAS 毕业需 128 credits。",
+            "l": "https://bulletins.nyu.edu/undergraduate/arts-science/admissions/"
+          }
+        ]
+      },
+      "note": "本校条目取自 NYU Bulletins 文理学院 Admissions 与 Academic Policies 两页，2026-11-19 打开原文核对；其余学院（Tandon、Steinhardt 等）学分要求不同，按学院查。学期与开学日期见上方学期制度行。"
+    },
+    "columbia": {
+      "replace": {
+        "转学分": {
+          "v": "Columbia College 最多转入 64 points、SEAS 68 points（含 AP/IB 上限 16 points）；至少 60 points 须在本校完成。",
+          "l": "https://www.cc-seas.columbia.edu/csa/transfercredit"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "Columbia College 需 124 points，SEAS 需 128 points；转学生须完整修 Core Curriculum（Frontiers of Science 可豁免，但需补三门科学课）。",
+            "l": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/"
+          }
+        ]
+      },
+      "note": "本校条目取自 Columbia College Bulletin 的 Academic Regulations 与 Columbia College/Engineering 学分转换页，2026-11-19 打开原文核对。学期与开学日期见上方学期制度行，不在此重复。"
+    },
+    "neu": {
+      "replace": {
+        "转学分": {
+          "v": "四年制院校最多转 80 credits、两年制最多 60 credits（合计上限 80）。须在校完成至少 64 semester hours。",
+          "l": "https://cssh.northeastern.edu/transfer-credit-guidelines/"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "全校最低 128 semester hours、GPA 2.000，并须完成体验式学习（co-op 或项目）要求；单个专业要求可能更高。",
+            "l": "https://catalog.northeastern.edu/undergraduate/university-academics/university-wide-requirements/"
+          }
+        ]
+      },
+      "note": "本校条目取自 Northeastern 2026–27 Catalog 的 Universitywide Requirements 与 CSSH 转学分指南，2026-11-19 打开原文核对。co-op 会拉长毕业时间，排课时要留出。学期与开学日期见上方学期制度行。"
+    },
+    "bu": {
+      "replace": {
+        "转学分": {
+          "v": "一年级入学最多转 60 credits；转学生最多 68 credits；Metropolitan College 学生最多 80。BU Hub 通识须以 BU 课程完成，外部学分不抵 Hub。",
+          "l": "https://bu.edu/academics/policies/advanced-placement-credit"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "本科需 128 academic units，各学院可更高；CAS 另要求语言能力。",
+            "l": "https://sites.bu.edu/casreg/cas-transfer-student-registration-checklist/"
+          }
+        ]
+      },
+      "note": "本校条目取自 BU 官方《Residency Requirement and Transfer of Undergraduate Credits》政策页与 CAS 转学生注册清单，2026-11-19 打开原文核对。第三方网站常见的「64/80」与官方口径不一致，以官方 60/68/80 为准。学期与开学日期见上方学期制度行。"
+    },
+    "ucb": {
+      "replace": {
+        "转学分": {
+          "v": "非 UC 低年级转学分最多 70 units 计入 120 总量；超出部分仍可满足专业与通识要求。高年级转学分无上限。",
+          "l": "https://lsadvising.berkeley.edu/transfercredit"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "全校最低 120 semester units；文理学院其中至少 36 units 为高年级课（100–199），并有 6 units 须在本专业之外。",
+            "l": "https://lsadvising.berkeley.edu/degree-requirements"
+          }
+        ]
+      },
+      "note": "本校条目取自 UC Berkeley 文理学院学位要求页与转学分页、Catalog 的 Units and GPA 页，2026-11-19 打开原文核对。工学院另有转学学分累计上限（80 semester / 120 quarter），申请前先查。学期与开学日期见上方学期制度行。"
+    },
+    "ucsd": {
+      "replace": {
+        "转学分": {
+          "v": "其他院校低年级转学分最多 105 units 计入 180 总量；AP/IB 与 A-level 学分一并计入。",
+          "l": "https://advising.ucsd.edu/students/academic-planning/build-your-plan.html"
+        }
+      },
+      "after": {
+        "申报与先修顺序": [
+          {
+            "k": "学位学分",
+            "v": "毕业需 180 units，其中至少 60 units 为高年级课（100–199）；最后 45 units 中 35 须在 UC 完成（高年级住校要求）。",
+            "l": "https://advising.ucsd.edu/students/degree-requirements/required-courses.html"
+          }
+        ]
+      },
+      "note": "本校条目取自 UCSD 本科辅导处 Create Your Plan 与 Required Courses 两页、Catalog 毕业要求页，2026-11-19 打开原文核对。学院制（七所学院各有一套通识）会改变实际排课，按所在学院查。学期与开学日期见上方学期制度行。"
+    }
+  }
+}

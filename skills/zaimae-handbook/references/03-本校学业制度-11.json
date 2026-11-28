@@ -1,0 +1,1985 @@
+{
+  "SCHOOL": {
+    "uthsc": {
+      "short": "田纳西大学健康科学中心",
+      "place": "孟菲斯 · 920 Madison Avenue, Memphis, TN 38163",
+      "cityKey": "memphis",
+      "calShort": "学年按健康科学各学院分别排期（医学、药学、护理、牙科、健康专业）；以各学院官方日历为准。",
+      "calendar": "医学与牙科学院按学年与临床轮转排期，秋季课程于八月开课；护理与健康专业按学期制；注册、加退课与临床安排按各学院 Registrar 与项目日历公布，不套用统一本科校历。",
+      "fulltime": "F-1 按各学院全日制口径注册，临床与实验室轮转计入全日制；减修或研究期延长须经 International Affairs 与项目主任批准。",
+      "drop": "退课与轮转调整按各学院 Registrar 与项目办公室办理，退费比例按学年与学期条款，临床课程另有人数与时序约束。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖 University Health Services 门诊与医疗区网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Affairs 提交保险卡与英文保障摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Affairs；门诊与疫苗对接 University Health Services；牙科、眼科与家属保障按保险商当期条款另购。",
+      "clinic": "校园内 University Health Services 提供门诊、疫苗、TB 筛查与暴露后处置；临床教学依托 Regional One Health、Methodist University Hospital 与 Le Bonheur Children’s Hospital。",
+      "commute": "主校区 920 Madison Avenue, Memphis, TN 38163，位于市中心医疗区；最近机场为 Memphis International（MEM，约 15 分钟车程）；城区有 MATA 公交与 Trolley。",
+      "scene": "1911 年建制的公立健康科学大学，田纳西大学系统成员，含医学、牙科、药学、护理与健康专业学院；以临床训练与科研为核心，无传统本科通识与校队建制。",
+      "safety": "UTHSC Campus Police 负责校园与医疗区治安，24 小时值守，紧急拨 911；设巡逻、门禁与校园警报；校外归 Memphis Police Department 与 Shelby County Sheriff 调度。",
+      "transit": "MATA 公交与 Trolley 覆盖医疗区与市中心；对外走廊 I-40 与 I-240，远途航班经 MEM；医疗区夜间以校方护送与班车为主。",
+      "rentnote": "校内住宿有限，学生多租住市中心、Midtown 与医疗区周边；签约前核对停车、夜间通勤与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.uthsc.edu/registrar/",
+          "各学院 Registrar"
+        ],
+        "ins": [
+          "https://www.uthsc.edu/international/",
+          "International Affairs"
+        ],
+        "police": [
+          "https://www.uthsc.edu/police/",
+          "Campus Police"
+        ],
+        "housing": [
+          "https://www.uthsc.edu/",
+          "学生住宿"
+        ],
+        "clinic": [
+          "https://www.uthsc.edu/",
+          "University Health Services"
+        ],
+        "transit": [
+          "https://www.matatransit.com/",
+          "MATA"
+        ]
+      }
+    },
+    "utk": {
+      "short": "田纳西大学诺克斯维尔分校",
+      "place": "诺克斯维尔 · 1331 Circle Park Drive, Knoxville, TN 37996",
+      "cityKey": "knoxville",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UT Knoxville 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试周；Spring 2027 于一月中旬开课、五月中旬毕业典礼；加退课与带 W 退课截止日按校历分学期公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 Center for Global Engagement 与学术顾问批准。",
+      "drop": "退课在 MyUTK 门户办理，带 W 截止日与退费比例按校历与 One Stop 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖 Student Health Center 门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前通过 Center for Global Engagement 门户提交保险卡与英文保障摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 Center for Global Engagement；门诊、疫苗与心理咨询对接 Student Health Center；牙科、眼科与家属保障按保险商当期条款另购。",
+      "clinic": "UT Student Health Center 提供全科门诊、疫苗、TB 筛查与心理咨询；专科与急诊转诊 UT Medical Center。",
+      "commute": "主校区 1331 Circle Park Drive, Knoxville, TN 37996，位于田纳西河畔；最近机场为 McGhee Tyson（TYS，约 20 分钟车程）；城区有 KAT 公交与 Trolley。",
+      "scene": "1794 年创校的 land-grant 旗舰公立大学，田纳西大学系统主校区；学科覆盖工程、商科、农业、法学、护理与兽医学；校队 Volunteers，参加 NCAA Division I（SEC）。",
+      "safety": "UT Police Department 负责校园治安，24 小时值守，紧急拨 911，非紧急号码见校警官网；设巡逻、紧急电话、蓝灯与 UT Alert 警报；校外归 Knoxville Police Department 与 Knox County Sheriff 调度。",
+      "transit": "KAT 公交与免费 Trolley 覆盖校园与市中心；对外走廊 I-40 / I-75，Amtrak 不在诺克斯维尔停靠，远途铁路经亚特兰大或辛辛那提。",
+      "rentnote": "University Housing 按申请与首年住校要求分配；校外房源在 Fort Sanders、The Strip 与 Downtown 方向，签约前核对学年合约、停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://registrar.utk.edu/",
+          "UTK Registrar"
+        ],
+        "ins": [
+          "https://international.utk.edu/",
+          "Center for Global Engagement"
+        ],
+        "police": [
+          "https://police.utk.edu/",
+          "UT Police"
+        ],
+        "housing": [
+          "https://housing.utk.edu/",
+          "University Housing"
+        ],
+        "clinic": [
+          "https://studenthealth.utk.edu/",
+          "Student Health Center"
+        ],
+        "transit": [
+          "https://www.katbus.com/",
+          "KAT"
+        ]
+      }
+    },
+    "utm": {
+      "short": "田纳西大学马丁分校",
+      "place": "马丁 · 554 University Street, Martin, TN 38238",
+      "cityKey": "martintn",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UT Martin 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分、研究生按项目全日制要求注册；减修须经 International Programs 与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Business Office 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向 International Programs 提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询 International Programs；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "校内健康服务提供门诊、疫苗与心理咨询；校内能力之外转诊 West Tennessee Healthcare Volunteer Martin Hospital。",
+      "commute": "主校区 554 University Street, Martin, TN 38238，位于西北田纳西农业带；最近机场为 Nashville（BNA，约 2 小时 15 分车程）与 Memphis（MEM，约 2 小时 30 分）；城区以自驾为主。",
+      "scene": "1900 年创校的公立大学，田纳西大学系统成员，以农业、商科与教育见长；学科覆盖农业、商科、教育、护理与体育；校队 Skyhawks，参加 NCAA Division I（OVC）。",
+      "safety": "UT Martin Police Department 负责校园治安，24 小时值守，紧急拨 911；设巡逻、紧急电话与校园警报；校外归 Martin Police Department 与 Weakley County Sheriff 调度。",
+      "transit": "城区尺度小，校园与市中心步行可达；对外走廊 US-45E 与 I-40，远途航班经 BNA 或 MEM。",
+      "rentnote": "校内宿舍按申请与首年住校要求分配；校外房源在马丁市区，签约前核对停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.utm.edu/",
+          "UTM Registrar"
+        ],
+        "ins": [
+          "https://www.utm.edu/",
+          "International Programs"
+        ],
+        "police": [
+          "https://www.utm.edu/",
+          "UTM Police"
+        ],
+        "housing": [
+          "https://www.utm.edu/housing/",
+          "Housing"
+        ],
+        "clinic": [
+          "https://www.utm.edu/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.utm.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "utsouthern": {
+      "short": "田纳西大学南方分校",
+      "place": "普拉斯基 · 433 West Madison Street, Pulaski, TN 38478",
+      "cityKey": "pulaskitn",
+      "calShort": "学期制（Fall / Spring / Summer）；开课与期末以 UT Southern 校历为准。",
+      "calendar": "Fall 2026 于八月下旬开课，感恩节假后进入期末，十二月中旬为期末考试；Spring 2027 于一月中旬开课、五月初毕业典礼；加退课与带 W 退课截止日按校历公布。",
+      "fulltime": "F-1 本科保持 12 学分；减修须经国际学生服务与学术顾问批准。",
+      "drop": "退课在自助注册系统办理，带 W 截止日与退费比例按校历与 Business Office 条款。",
+      "ins1": "国际学生须参加校方学生健康保险计划或提交等效替代保单；计划覆盖校内门诊与网络内转诊，保费按学期计入学生账户。",
+      "ins2": "替代保单豁免在学期开始前向国际学生服务提交保险卡与英文摘要；逾期未提交自动参保计费。",
+      "ins3": "保险与豁免咨询国际学生服务；门诊对接校内健康服务；牙科与眼科按保险商当期条款另购。",
+      "clinic": "校内健康服务提供基础门诊、疫苗与心理咨询；校内能力之外转诊 Pulaski 的 Southern Tennessee Regional Health System 与 Huntsville 的上级医院。",
+      "commute": "校区 433 West Madison Street, Pulaski, TN 38478，位于南田纳西丘陵；最近机场为 Nashville（BNA，约 1 小时 30 分车程）与 Huntsville（HSV，约 1 小时 15 分）；城区以自驾为主。",
+      "scene": "2021 年由 Martin Methodist College 并入田纳西大学系统的公立校区，前身可追溯至 1870 年；以文理本科与护理、商科见长，规模小、师生比高；校队 Firehawks，参加 NAIA 口径赛事。",
+      "safety": "校区安保与 Pulaski Police 协同，紧急拨 911；设巡逻与校园通报；校外归 Pulaski Police Department 与 Giles County Sheriff 调度。",
+      "transit": "城区尺度小，校园与市中心步行可达；对外走廊 US-31 与 I-65，远途航班经 BNA 或 HSV。",
+      "rentnote": "校内宿舍按申请与住校要求分配；校外房源在普拉斯基市区，签约前核对停车与押金；租金按当期挂牌查询。",
+      "link": {
+        "cal": [
+          "https://www.utsouthern.edu/registrar/",
+          "UT Southern Registrar"
+        ],
+        "ins": [
+          "https://www.utsouthern.edu/international/",
+          "国际学生服务"
+        ],
+        "police": [
+          "https://www.utsouthern.edu/campus-safety/",
+          "校园安全"
+        ],
+        "housing": [
+          "https://www.utsouthern.edu/housing/",
+          "Housing"
+        ],
+        "clinic": [
+          "https://www.utsouthern.edu/health/",
+          "校内健康服务"
+        ],
+        "transit": [
+          "https://www.utsouthern.edu/parking/",
+          "校园交通"
+        ]
+      }
+    },
+    "bluefieldstate": {
+      "short": "布鲁菲尔德州立大学",
+      "place": "布鲁菲尔德 · 219 Rock Street, Bluefield, WV 24701",
+      "cityKey": "bluefield",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Bluefield State Student Health Services：校内健康服务办公室，提供基础门诊、疫苗指引与心理咨询对接；专科与住院转 Bluefield 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 219 Rock Street, Bluefield, WV 24701，台地校区邻 US-52；最近机场为 Mercer County Airport（PRN），第二备选 Beckley（BKW），跨州备选 Charleston（CRW）；区内出行以自驾为主。",
+      "scene": "1895 年创立的公立 HBCU（传统黑人大学），位于 WV/VA 州界 Bluefield；学科覆盖文理教育、健康科学、STEM、商学与护理；校队 Big Blue，参加 NCAA Division II 赛事（联盟口径以 Athletics 官网当期公布为准）。",
+      "safety": "Bluefield State 校园公共安全部门：紧急情况拨 911；负责校园巡逻、门禁与夜间护送；校园边界外归 Bluefield Police Department 与 Mercer County 调度。",
+      "transit": "Bluefield 城区依赖自驾；US-52 沿州界连接 Princeton 与 Wytheville 方向；航空经 PRN、BKW、CRW，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：联系方式见住宿官网；校内宿舍按申请与住校要求分配；校外房源在 Bluefield 城区 Rock Street 台地一带；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://bluefieldstate.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://bluefieldstate.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://bluefieldstate.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://bluefieldstate.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://bluefieldstate.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://bluefieldstate.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "concord": {
+      "short": "康科德大学",
+      "place": "阿森斯 · 1000 Vermillion Street, Athens, WV 24712",
+      "cityKey": "athenswv",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Concord University Student Health Center：校内健康中心，提供基础门诊、疫苗、心理咨询与健康评估，诊疗可记账保险；校园能力之外转 Princeton、Beckley 方向地区医疗机构，就诊时段与电话以健康中心当期公布为准。",
+      "commute": "主校区 1000 Vermillion Street, Athens, WV 24712，位于 Mercer County 南部阿巴拉契亚山区小镇；最近商用机场为 Mercer County Airport（PRN，Princeton 方向），第二备选 Beckley Raleigh County Memorial（BKW），跨州备选 Charleston Yeager（CRW）；区内出行以自驾为主。",
+      "scene": "1872 年创立的西弗吉尼亚公立区域大学；学科覆盖教育、文理、商学、STEM、护理与健康科学；校队 Mountain Lions，参加 NCAA Division II（Mountain East Conference）赛事。",
+      "safety": "Concord University Department of Public Safety：校园内值守，紧急情况拨 911；DPS 负责步行与驾车巡逻、蓝灯紧急电话与校园警报；校园边界外归 Athens 镇警与 Mercer County 调度。",
+      "transit": "Athens 片区依赖自驾；US-19 与本地公路连接 Princeton、Beckley；远途经 PRN、BKW、CRW 机场，班次与接驳以机场当期公布为准。",
+      "rentnote": "Office of Residence Life：联系方式见住宿官网；校内宿舍按申请与住校要求分配；校外房源在 Athens 与 Princeton 沿线；校园身份卡兼作门禁与就餐凭证；租金按当期挂牌查询，本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.concord.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.concord.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.concord.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.concord.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.concord.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.concord.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "fairmontstate": {
+      "short": "费尔蒙特州立大学",
+      "place": "费尔蒙特 · 1201 Locust Avenue, Fairmont, WV 26554",
+      "cityKey": "fairmont",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Fairmont State Health Services：校内健康服务与 Counseling Center 对接，提供基础门诊、疫苗、心理咨询与健康评估；专科转 Fairmont 与 Morgantown 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1201 Locust Avenue, Fairmont, WV 26554，Marion County 河谷城区 120 英亩山岗校园；最近机场为 North Central West Virginia Airport（CKB，Bridgeport），第二备选 Morgantown Municipal（MGW），跨州备选 Pittsburgh（PIT）。",
+      "scene": "1865 年发轫的西弗吉尼亚公立区域综合大学（前身为州立师范学校）；学科覆盖商学、教育、工程技术、文理、护理与刑事司法；校队 Fighting Falcons，参加 NCAA Division II（Mountain East Conference）赛事。",
+      "safety": "Fairmont State Department of Public Safety：校园内值守，紧急 911；DPS 负责巡逻、蓝灯电话、护送与校园警报；校外归 Fairmont Police Department 与 Marion County 调度。",
+      "transit": "Fairmont 城区以自驾与本地公交衔接为主；近 US-250 与 WV-73；北接 Morgantown、东接 Clarksburg；航空经 CKB、MGW、PIT，班次以机场当期公布为准。",
+      "rentnote": "Housing and Residence Life：五栋宿舍按申请分配；校外房源在 Fairmont 城区 Locust Avenue 一带；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.fairmontstate.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.fairmontstate.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.fairmontstate.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.fairmontstate.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.fairmontstate.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.fairmontstate.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "glenville": {
+      "short": "格伦维尔州立大学",
+      "place": "格伦维尔 · 200 High Street, Glenville, WV 26351",
+      "cityKey": "glenville",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Glenville State Student Health：校内健康服务对接基础门诊与心理咨询；校园能力之外转 Glenville 与 Bridgeport 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 200 High Street, Glenville, WV 26351，Little Kanawha River 河谷镇区；最近机场为 North Central West Virginia Airport（CKB），第二备选 Morgantown Municipal（MGW），跨州备选 Pittsburgh（PIT）；区内以自驾为主。",
+      "scene": "1872 年创立的西弗吉尼亚公立区域大学，位于 Gilmer County 乡间；学科覆盖教育、文理、商学、林业资源、护理与警察科学；校队 Pioneers，参加 NCAA Division II（Mountain East Conference）赛事。",
+      "safety": "Glenville State Department of Public Safety：紧急拨 911；负责校园巡逻、门禁与护送；校外归 Glenville 镇警与 Gilmer County 调度。",
+      "transit": "Glenville 镇区依赖自驾；US-33/119 贯穿；远途经 CKB、MGW、PIT 机场，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请分配；校外房源在 Glenville 镇区 High Street 沿线；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.glenville.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.glenville.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.glenville.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.glenville.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.glenville.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.glenville.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "marshall": {
+      "short": "马歇尔大学",
+      "place": "亨廷顿 · 1 John Marshall Drive, Huntington, WV 25755",
+      "cityKey": "huntingtonwv",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Marshall University Student Health Center：校内健康中心，提供初级保健、疫苗、化验、心理健康与转诊；专科与住院对接 Marshall 医学体系与 Huntington 地区医院，时段以健康中心当期公布为准。",
+      "commute": "主校区 1 John Marshall Drive, Huntington, WV 25755，Cabell County 俄亥俄河畔城区；最近机场为 Huntington Tri-State Airport（HTW），第二备选 Cincinnati/Northern Kentucky（CVG），跨州备选 Charleston Yeager（CRW）。",
+      "scene": "1837 年创立的西弗吉尼亚公立综合大学，Huntington 主校区；学科覆盖医学、健康科学、商学、教育、工程、文理与新闻；校队 Thundering Herd，参加 NCAA Division I FBS（Sun Belt Conference）赛事。",
+      "safety": "Marshall University Police Department：24/7 值守，紧急 911；校警负责步行与驾车巡逻、蓝灯电话、护送与警报系统；校外归 Huntington Police Department 与 Cabell County 调度。",
+      "transit": "Huntington 市区公交接驳校园；I-64 贯穿；河畔步道与本地铁路遗址走廊；航空经 HTW、CVG、CRW，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请分配；校外房源在 Huntington 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.marshall.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.marshall.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.marshall.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.marshall.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.marshall.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.marshall.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "shepherd": {
+      "short": "谢泼德大学",
+      "place": "谢泼兹敦 · 301 King Street, Shepherdstown, WV 25443",
+      "cityKey": "shepherdstown",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Shepherd University Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询对接；专科转 Martinsburg 与 Charles Town 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 301 King Street, Shepherdstown, WV 25443，Jefferson County 历史小镇；最近机场为 Washington Dulles International（IAD），第二备选 Baltimore/Washington International（BWI），备选 Reagan National（DCA）；区内步行与短途自驾。",
+      "scene": "1871 年创立的西弗吉尼亚公立区域大学，位于东部 panhandle 波托马克河畔；学科覆盖文理、教育、商学、音乐、护理与计算机；校队 Rams，参加 NCAA Division II（PSAC）赛事。",
+      "safety": "Shepherd University Department of Public Safety：紧急 911；负责校园巡逻、门禁、护送与警报；校外归 Shepherdstown 镇警与 Jefferson County 调度。",
+      "transit": "Shepherdstown 以步行为主，远途自驾；US-340 与波托马克河走廊连接 Harpers Ferry、Martinsburg 与 DC 方向；航空经 IAD、BWI、DCA，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请分配；校外房源在历史街区与邻近 Martinsburg 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.shepherd.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.shepherd.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.shepherd.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.shepherd.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.shepherd.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.shepherd.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "westliberty": {
+      "short": "西利伯蒂大学",
+      "place": "西利伯蒂 · 208 University Drive, West Liberty, WV 26074",
+      "cityKey": "westliberty",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "West Liberty University Student Health：校内健康服务对接基础门诊与心理咨询；专科转 Wheeling 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 208 University Drive, West Liberty, WV 26074，Wheeling 以西乡村台地；最近机场为 Wheeling Ohio County Airport（WLG），第二备选 Pittsburgh International（PIT），州内备选 Yeager（CRW）；区内以自驾为主。",
+      "scene": "1837 年创立的西弗吉尼亚公立区域大学，Ohio County 乡村台地；学科覆盖教育、文理、商学、传媒、健康科学与音乐；校队 Hilltoppers，参加 NCAA Division II（Mountain East Conference）赛事。",
+      "safety": "West Liberty University Department of Public Safety：紧急 911；负责校园巡逻、门禁与护送；校外归 Ohio County 与 West Liberty 村镇调度。",
+      "transit": "West Liberty 社区依赖自驾；WV-2 连接 Wheeling 与俄亥俄州界；航空经 WLG、PIT、CRW，班次以机场当期公布为准。",
+      "rentnote": "Housing：校内宿舍按申请分配；校外房源在 West Liberty 与 Wheeling 沿线；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.westliberty.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.westliberty.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.westliberty.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.westliberty.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.westliberty.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.westliberty.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "wvsom": {
+      "short": "西弗吉尼亚骨科学院",
+      "place": "刘易斯堡 · 400 North Locust Street, Lewisburg, WV 24901",
+      "cityKey": "lewisburgwv",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "WVSOM 学生健康与职业健康对接学院学生事务；临床见习安排于附属诊所与地区医院；初级保健与心理健康资源按学生事务当期指引对接。",
+      "commute": "校区 400 North Locust Street, Lewisburg, WV 24901，Greenbrier 河谷山城；最近机场为 Greenbrier Valley Airport（LWB），第二备选 Beckley（BKW），跨州备选 Charleston Yeager（CRW）；区内以自驾为主。",
+      "scene": "1974 年创立的公立骨科医学研究生院校（D.O. 授予），位于 Greenbrier County Lewisburg；以初级保健与农村医学教育为特色，不设本科校队项目。",
+      "safety": "校区应急拨 911；校园安全由学院安全人员与 Greenbrier County 调度对接；夜间出行结伴，研究生园区规模较小。",
+      "transit": "Lewisburg 镇区依赖自驾；I-64 连接 Beckley 与 Charlottesville 方向；航空经 LWB、BKW、CRW，班次以机场当期公布为准。",
+      "rentnote": "学院不统一安排本科宿舍；研究生住宿以校外租房与短租公寓为主，联系方式见学生事务官网；签约前核对租期、押金、水电网络分摊与通勤；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wvsom.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.wvsom.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.wvsom.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.wvsom.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.wvsom.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.wvsom.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "wvstateu": {
+      "short": "西弗吉尼亚州立大学",
+      "place": "因斯蒂图特 · 100 Hill Drive, Institute, WV 25112",
+      "cityKey": "institutewv",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "WVSU Student Health Center：校内健康中心，提供基础门诊、疫苗、心理咨询与健康评估；专科转 Charleston 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 100 Hill Drive, Institute, WV 25112，Kanawha County 河谷未建制社区；最近机场为 Yeager Airport（CRW，Charleston），第二备选 Huntington Tri-State（HTW），跨州备选 Pittsburgh（PIT）；区内以自驾为主。",
+      "scene": "1891 年创立的公立 HBCU 与 1890 土地赠与大学，位于 Charleston 南郊 Institute；学科覆盖文理、教育、商学、STEM、刑事司法与健康科学；校队 Yellow Jackets，参加 NCAA Division II（CIAA）赛事。",
+      "safety": "WVSU Department of Public Safety：紧急 911；DPS 负责校园巡逻、门禁、蓝灯电话与警报；校外归 Charleston Police Department 与 Kanawha County 调度。",
+      "transit": "Institute 社区依赖自驾；I-64/I-77 与 US-60 连接 Charleston 城区；航空经 CRW、HTW、PIT，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请分配；校外房源在 Institute 与 Charleston 南郊沿线；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wvstateu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.wvstateu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.wvstateu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.wvstateu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.wvstateu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.wvstateu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "wvu": {
+      "short": "西弗吉尼亚大学",
+      "place": "摩根敦 · 1 Waterfront Place, Morgantown, WV 26506",
+      "cityKey": "morgantown",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "WVU Student Health & Wellbeing：校内健康中心，提供初级保健、疫苗、化验、心理健康与转诊；专科与住院对接 WVU Medicine 体系与 Morgantown 地区医院，时段以健康中心当期公布为准。",
+      "commute": "主校区 1 Waterfront Place, Morgantown, WV 26506，Monongalia County 河谷台地；最近机场为 Morgantown Municipal Airport（MGW），第二备选 Pittsburgh International（PIT），州内备选 North Central West Virginia（CKB）；校内步行与 PRT 缆车接驳。",
+      "scene": "1867 年创立的西弗吉尼亚公立旗舰赠地研究型大学，Morgantown 主校区；学科覆盖文理、工程、采矿与能源、医学、商学、教育、传媒与农学；校队 Mountaineers，参加 NCAA Division I（Big 12 Conference）赛事。",
+      "safety": "WVU Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与 WVU Alerts 警报；校外归 Morgantown Police Department 与 Monongalia County 调度。",
+      "transit": "Morgantown 本地公交与 WVU PRT 缆车系统连接校园各片区；I-68 贯穿；航空经 MGW、PIT、CKB，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请与住校要求分配；校外房源在 Morgantown 城区、校区周边与河谷片区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wvu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.wvu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.wvu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.wvu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.wvu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.wvu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "wvutech": {
+      "short": "西弗吉尼亚大学理工学院",
+      "place": "贝克利 · 410 Neville Street, Beckley, WV 25801",
+      "cityKey": "beckley",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "WVU Tech 学生健康服务对接校园 Student Health 办公室；提供基础门诊咨询、疫苗指引与转诊，专科与住院转 Beckley 地区医疗机构，就诊时段以健康服务当期公布为准。",
+      "commute": "主校区 410 Neville Street, Beckley, WV 25801，Raleigh County 城区；I-64、I-77 与 US-19 交汇；最近机场为 Beckley Raleigh County Memorial Airport（BKW），第二备选 Yeager（CRW），跨州备选 Pittsburgh（PIT）。",
+      "scene": "WVU 系统下属的理工型公立院校，位于 Beckley；学科覆盖工程、计算机、自然科学、商学、人文社科与护理；校队 Golden Bears，参加 NAIA 赛事（联盟口径以 Athletics 官网当期公布为准）。",
+      "safety": "WVU Tech University Police：校园内值守，紧急情况拨 911；University Police 负责巡逻、门禁与校园警报；校园边界外归 Beckley Police Department 与 Raleigh County 调度。",
+      "transit": "Beckley 城区以自驾为主；I-64/I-77 连接 Charleston 与 Charleston 以西方向；近 Amtrak Prince Station 接驳；航空经 BKW、CRW，班次以机场当期公布为准。",
+      "rentnote": "Housing & Residence Life：联系方式见住宿官网；校内宿舍（Hogan Hall 等）按申请分配；校外房源在 Beckley 城区 Neville Street、Kanawha Street 沿线；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.wvutech.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.wvutech.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.wvutech.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.wvutech.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.wvutech.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.wvutech.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "astate": {
+      "short": "阿肯色州立大学",
+      "place": "琼斯伯勒 · 2105 Southeast Drive, Jonesboro, AR 72401",
+      "cityKey": "jonesboro",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "ASU Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 Jonesboro 与 Memphis 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 2105 Southeast Drive, Jonesboro, AR 72401，Craighead County 三角洲城区；最近商业机场为 Memphis International（MEM），州内备选 Clinton National（LIT），跨州备选 Nashville（BNA）。",
+      "scene": "1909 年创立的阿肯色公立综合大学，Jonesboro 主校区；学科覆盖文理、商学、教育、工程、护理与健康科学、传媒；校队 Red Wolves，参加 NCAA Division I FBS（Sun Belt Conference）赛事。",
+      "safety": "Arkansas State University Police：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Jonesboro Police Department 与 Craighead County 调度。",
+      "transit": "Jonesboro 以自驾与本地公交为主；US-63/49 连接 Memphis 与 Little Rock；航空经 MEM、LIT、BNA，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍与公寓按申请分配；校外房源在 Jonesboro 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.astate.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.astate.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.astate.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.astate.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.astate.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.astate.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "hsu": {
+      "short": "亨德森州立大学",
+      "place": "阿卡德尔菲亚 · 1100 Henderson Street, Arkadelphia, AR 71923",
+      "cityKey": "arkadelphia",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Henderson State Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询对接；专科转 Arkadelphia 与 Little Rock 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1100 Henderson Street, Arkadelphia, AR 71923，Clark County 河谷镇区；最近机场为 Clinton National Airport（LIT，Little Rock），第二备选 Hot Springs Memorial Field（HOT），跨州备选 Texarkana Regional（TXK）；区内以自驾为主。",
+      "scene": "1889 年创立的阿肯色公立区域大学；学科覆盖教育、文理、商学、艺术、护理与自然科学；校队 Reddies，参加 NCAA Division II（Great American Conference）赛事。",
+      "safety": "Henderson State Department of Public Safety：校园内值守，紧急 911；DPS 负责巡逻、门禁、蓝灯电话与校园警报；校外归 Arkadelphia Police Department 与 Clark County 调度。",
+      "transit": "Arkadelphia 依赖自驾；I-30 连接 Little Rock 与 Texarkana；航空经 LIT、HOT、TXK，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请分配；校外房源在 Arkadelphia 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.hsu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.hsu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.hsu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.hsu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.hsu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.hsu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "saumag": {
+      "short": "南阿肯色大学",
+      "place": "马格诺利亚 · 100 University Circle, Magnolia, AR 71753",
+      "cityKey": "magnoliaar",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "SAU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Magnolia 与 El Dorado/Shreveport 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 100 University Circle, Magnolia, AR 71753，Columbia County 南部乡村；最近机场为 Shreveport Regional（SHV，路易斯安那），第二备选 Texarkana Regional（TXK），州内备选 Little Rock（LIT）。",
+      "scene": "1909 年创立的阿肯色公立区域大学，Magnolia 主校区；学科覆盖文理、商学、教育、农业、STEM 与护理；校队 Muleriders，参加 NCAA Division II（Great American Conference）赛事。",
+      "safety": "SAU Department of Public Safety：校园内值守，紧急 911；DPS 负责巡逻、门禁与护送；校外归 Magnolia Police Department 与 Columbia County 调度。",
+      "transit": "Magnolia 依赖自驾；US-79 连接 El Dorado 与 Texarkana；航空经 SHV、TXK、LIT，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请分配；校外房源在 Magnolia 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.saumag.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.saumag.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.saumag.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.saumag.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.saumag.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.saumag.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "uafs": {
+      "short": "阿肯色大学史密斯堡分校",
+      "place": "史密斯堡 · 5210 Grand Avenue, Fort Smith, AR 72903",
+      "cityKey": "fortsmith",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UAFS Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Fort Smith 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 5210 Grand Avenue, Fort Smith, AR 72903，Sebastian County 边境城区；最近机场为 Fort Smith Regional（FSM），第二备选 Northwest Arkansas（XNA），跨州备选 Tulsa（TUL）。",
+      "scene": "1928 年发轫的 UA 系统公立区域大学，Fort Smith 校区；学科覆盖文理、商学、工程技术、健康科学、护理与刑事司法；校队 Lions，参加 NCAA Division II（MIAA）赛事。",
+      "safety": "UAFS Department of Public Safety：校园内值守，紧急 911；DPS 负责巡逻、门禁与校园警报；校外归 Fort Smith Police Department 与 Sebastian County 调度。",
+      "transit": "Fort Smith 以自驾与本地公交为主；US-71/540 连接 Tulsa 与 Fayetteville；航空经 FSM、XNA、TUL，班次以机场当期公布为准。",
+      "rentnote": "Housing：校内宿舍按申请分配；校外房源在 Fort Smith 城区 Grand Avenue 沿线；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://uafs.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://uafs.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://uafs.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://uafs.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://uafs.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://uafs.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "uagrantham": {
+      "short": "阿肯色大学格兰瑟姆分校",
+      "place": "小石城 · Little Rock, AR 72201（远程/研究生项目，行政办公室位于 Little Rock）",
+      "cityKey": "littlerock",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "学生健康与技术支持通过在线学生服务对接；实体就医按所在地区医疗机构办理，学生事务指引以官网当期公布为准。",
+      "commute": "行政办公室位于 Little Rock, AR 72201（Pulaski County 都会区）；项目以远程在线完成；到校办事最近机场为 Clinton National（LIT），第二备选 Memphis（MEM），跨州备选 Dallas/Fort Worth（DFW）。",
+      "scene": "UA 系统下属的在线与研究生层次院校，以远程学位项目为主；面向在职学生提供护理、健康管理、商学与刑事司法等本科及研究生项目，不设传统校队项目。",
+      "safety": "远程项目无传统校园警务；行政园区安全由 Little Rock 警局与 Pulaski County 调度对接，紧急 911。",
+      "transit": "Little Rock 都会区有 Rock Region Metro 公交；I-30/I-40 交汇；航空经 LIT、MEM、DFW，班次以机场当期公布为准。",
+      "rentnote": "以远程学习为主，不统一安排校内宿舍；如到 Little Rock 短期住宿，校外公寓按挂牌价查询，签约前核对租期、押金与水电分摊；本页不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uagrantham.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.uagrantham.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.uagrantham.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.uagrantham.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.uagrantham.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.uagrantham.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "ualr": {
+      "short": "阿肯色大学小石城分校",
+      "place": "小石城 · 2801 South University Avenue, Little Rock, AR 72204",
+      "cityKey": "littlerock",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UALR Student Health Services：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Little Rock 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 2801 South University Avenue, Little Rock, AR 72204，Pulaski County 河南岸；最近机场为 Clinton National（LIT），第二备选 Memphis（MEM），跨州备选 Dallas/Fort Worth（DFW）。",
+      "scene": "1927 年创立的 UA 系统公立综合大学，Little Rock 主校区；学科覆盖文理、商学、工程、信息技术、教育、法律辅助与健康科学；校队 Trojans，参加 NCAA Division II 赛事（联盟口径以 Athletics 官网当期公布为准）。",
+      "safety": "UA Little Rock Police：校园内值守，紧急 911；校警负责巡逻、门禁、护送与校园警报；校外归 Little Rock Police Department 与 Pulaski County 调度。",
+      "transit": "Rock Region Metro 公交衔接校园；I-30 贯通；航空经 LIT、MEM、DFW，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Little Rock 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://ualr.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://ualr.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://ualr.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://ualr.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://ualr.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://ualr.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "uams": {
+      "short": "阿肯色大学医学科学院",
+      "place": "小石城 · 4301 West Markham Street, Little Rock, AR 72205",
+      "cityKey": "littlerock",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UAMS 学生健康对接职业健康与校内健康服务；临床见习安排于 UAMS Medical Center 及附属诊所；初级保健与心理健康资源按学生事务当期指引对接。",
+      "commute": "医学园区 4301 West Markham Street, Little Rock, AR 72205，Pulaski County West Markham 医学区；最近机场为 Clinton National（LIT），第二备选 Memphis（MEM），跨州备选 Dallas/Fort Worth（DFW）。",
+      "scene": "1879 年医学教育发轫的 UA 系统医学与健康科学研究生院校，Little Rock 医学园区；下设医学院、护理、药学、牙医学、健康专业与公共卫生学院，不设本科校队项目。",
+      "safety": "UAMS 园区安保与校园警察对接 Little Rock 警局，紧急 911；医学园区夜间出行结伴，访客与停车规则以园区安全官网当期公布为准。",
+      "transit": "Rock Region Metro 公交衔接 Markham 大道；I-630 连接 Little Rock 城区；航空经 LIT、MEM、DFW，班次以机场当期公布为准。",
+      "rentnote": "研究生与住院医师住宿以校外租房与园区周边公寓为主；住宿资源经学生事务与研究生办公室指引；签约前核对租期、押金与通勤；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uams.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.uams.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.uams.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.uams.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.uams.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.uams.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "uapb": {
+      "short": "阿肯色大学派恩布拉夫分校",
+      "place": "派恩布拉夫 · 1200 University Drive, Pine Bluff, AR 71601",
+      "cityKey": "pinebluff",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UAPB Health Center：校内健康中心，提供基础门诊、疫苗、心理咨询与健康评估；专科转 Pine Bluff 与 Little Rock 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1200 University Drive, Pine Bluff, AR 71601，Jefferson County Arkansas River 南岸；最近机场为 Clinton National（LIT，Little Rock），第二备选 Memphis（MEM），跨州备选 Dallas/Fort Worth（DFW）。",
+      "scene": "1873 年创立的公立 HBCU 与 1890 土地赠与大学，Pine Bluff 校区；学科覆盖农学、文理、商学、教育、STEM、护理与海事科学；校队 Golden Lions，参加 NCAA Division I（SWAC）赛事。",
+      "safety": "UAPB Department of Public Safety：校园内值守，紧急 911；DPS 负责巡逻、蓝灯电话、护送与校园警报；校外归 Pine Bluff Police Department 与 Jefferson County 调度。",
+      "transit": "Pine Bluff 以自驾为主；I-530 连接 Little Rock；航空经 LIT、MEM、DFW，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请与住校要求分配；校外房源在 Pine Bluff 城区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uapb.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.uapb.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.uapb.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.uapb.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.uapb.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.uapb.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "uark": {
+      "short": "阿肯色大学",
+      "place": "费耶特维尔 · 1 University of Arkansas, Fayetteville, AR 72701",
+      "cityKey": "fayettevillear",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "University Health Services：校内健康中心，提供初级保健、疫苗、化验、心理健康与转诊；专科对接 University of Arkansas 医学体系与 Fayetteville 地区医院，时段以健康中心当期公布为准。",
+      "commute": "主校区 1 University of Arkansas, Fayetteville, AR 72701，Washington County 奥扎克山区；最近机场为 Northwest Arkansas National（XNA），第二备选 Tulsa（TUL），州内备选 Fort Smith Regional（FSM）。",
+      "scene": "1871 年创立的阿肯色公立旗舰赠地研究型大学，Fayetteville 主校区；学科覆盖文理、工程、商学、法律、教育、农业、医学与传媒；校队 Razorbacks，参加 NCAA Division I（Southeastern Conference, SEC）赛事。",
+      "safety": "University of Arkansas Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与 Razorback Alerts 警报；校外归 Fayetteville Police Department 与 Washington County 调度。",
+      "transit": "Razorback Transit 接驳校园与周边；I-49 贯穿；航空经 XNA、TUL、FSM，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请分配；校外房源在 Fayetteville 城区、校园周边与 Rogers/Springdale 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uark.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.uark.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.uark.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.uark.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.uark.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.uark.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "uca": {
+      "short": "中阿肯色大学",
+      "place": "康威 · 201 Donaghey Avenue, Conway, AR 72035",
+      "cityKey": "conwayar",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UCA Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与健康评估；专科转 Conway 与 Little Rock 方向医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 201 Donaghey Avenue, Conway, AR 72035，Faulkner County Little Rock 北郊；最近机场为 Clinton National（LIT），第二备选 Northwest Arkansas National（XNA），跨州备选 Memphis（MEM）。",
+      "scene": "1907 年创立的阿肯色公立综合大学，Conway 大学城；学科覆盖文理、商学、教育、健康科学、STEM 与艺术；校队 Bears，参加 NCAA Division I 赛事（联盟口径以 Athletics 官网当期公布为准）。",
+      "safety": "UCA Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Conway Police Department 与 Faulkner County 调度。",
+      "transit": "Conway 以自驾与本地公交衔接为主；I-40 连接 Little Rock 与 Fort Smith 方向；航空经 LIT、XNA、MEM，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍与公寓按申请分配；校外房源在 Conway 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uca.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.uca.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.uca.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.uca.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.uca.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.uca.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "calpoly": {
+      "short": "加州理工州立大学圣路易斯奥比斯波分校",
+      "place": "圣路易斯奥比斯波 · 1 Grand Avenue, San Luis Obispo, CA 93407",
+      "cityKey": "sanluisobispo",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Cal Poly Student Health Center：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科转 SLO 与海岸地区医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 1 Grand Avenue, San Luis Obispo, CA 93407，SLO County 丘陵；最近机场 San Luis Obispo County（SBP），备选 Los Angeles（LAX）与 San Francisco（SFO）。",
+      "scene": "1901 年创立的 Cal Poly 体系公立理工大学，Central Coast；以实践教学见长，学科覆盖工程、农林、商学、建筑、文理、科学与传播；校队 Mustangs，参加 NCAA Division I（Big West Conference）赛事。",
+      "safety": "Cal Poly University Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 San Luis Obispo Police Department 与 County 调度。",
+      "transit": "SLO 以自驾与 SLO Transit 本地公交为主；US-101 连接 Bay Area 与 LA；航空经 SBP、LAX、SFO，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请分配；校外房源在 SLO 城区与 Poly Canyon 周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://calpoly.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://calpoly.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://calpoly.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://calpoly.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://calpoly.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://calpoly.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "csub": {
+      "short": "加州州立大学贝克斯菲尔德分校",
+      "place": "贝克斯菲尔德 · 9001 Stockdale Highway, Bakersfield, CA 93311",
+      "cityKey": "bakersfield",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "CSUB Student Health Center：校内健康中心，提供初级保健、疫苗指引与心理咨询；专科转 Bakersfield 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 9001 Stockdale Highway, Bakersfield, CA 93311，Kern County；最近机场 Meadows Field（BFL），跨区备选 Los Angeles（LAX）与 San Francisco（SFO）。",
+      "scene": "1965 年创立的 CSU 系统公立综合大学，南中央谷地；学科覆盖文理、商学、工程、护理、教育、自然科学与公共服务；校队 Roadrunners，参加 NCAA Division II（CCAA）赛事。",
+      "safety": "CSUB Police Department：校园内值守，紧急 911；校警负责巡逻、门禁、护送与校园警报；校外归 Bakersfield Police Department 与 Kern County 调度。",
+      "transit": "Bakersfield 以自驾为主；CA-99 连接 Fresno 与 LA 方向；航空经 BFL、LAX、SFO，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Bakersfield 城区与 Stockdale 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.csub.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.csub.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.csub.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.csub.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.csub.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.csub.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "csuchico": {
+      "short": "加州州立大学奇科分校",
+      "place": "奇科 · 400 West First Street, Chico, CA 95929",
+      "cityKey": "chico",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Chico Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 Chico 与 Sacramento 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 400 West First Street, Chico, CA 95929，Butte County；最近机场 Chico Municipal（CIC），备选 Sacramento（SMF）与 San Francisco（SFO）。",
+      "scene": "1887 年创立的 CSU 系统公立综合大学，北 Sacramento Valley 大学城；学科覆盖文理、商学、工程、计算机、教育、护理与环境科学；校队 Wildcats，参加 NCAA Division II（CCAA）赛事。",
+      "safety": "CSU Chico Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Chico Police Department 与 Butte County 调度。",
+      "transit": "Chico 以自驾与 B-Line 本地公交为主；CA-99 与 I-5 衔接 Sacramento 与 Redding；航空经 CIC、SMF、SFO，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请分配；校外房源在 Chico 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.csuchico.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.csuchico.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.csuchico.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.csuchico.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.csuchico.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.csuchico.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "csuci": {
+      "short": "加州州立大学海峡群岛分校",
+      "place": "卡马里奥 · 1 University Drive, Camarillo, CA 93012",
+      "cityKey": "camarillo",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "CI Student Health Services：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Oxnard 与 Ventura 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1 University Drive, Camarillo, CA 93012，Ventura County 海岸平原；最近机场 Camarillo（OXR），备选 Los Angeles（LAX）与 Santa Barbara（SBA）。",
+      "scene": "2002 年正式招生的 CSU 系统公立综合大学，Ventura County；学科覆盖文理、商学、教育、护理、生物技术与环境科学；校队 Golden Eagles，赛事层级与联盟口径以 Athletics 官网当期公布为准。",
+      "safety": "CSU Channel Islands Police Department：校园内值守，紧急 911；校警负责巡逻、门禁与校园警报；校外归 Camarillo Police Department 与 Ventura County 调度。",
+      "transit": "Camarillo 依赖自驾；US-101 连接 LA 与 Santa Barbara；航空经 OXR、LAX、SBA，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Camarillo 与 Oxnard/Thousand Oaks 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.csuci.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.csuci.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.csuci.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.csuci.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.csuci.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.csuci.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "csudh": {
+      "short": "加州州立大学多明格斯山分校",
+      "place": "卡森 · 1000 East Victoria Street, Carson, CA 90747",
+      "cityKey": "carson",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "CSUDH Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 Carson 与 LA 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1000 East Victoria Street, Carson, CA 90747，LA County 南部；最近机场 Los Angeles（LAX），备选 Orange County（SNA）与 Long Beach（LGB）。",
+      "scene": "1960 年创立的 CSU 系统公立综合大学，南 LA 盆地；学科覆盖文理、商学、工程、护理、教育、公共服务与计算机；校队 Toros，参加 NCAA Division II（CCAA）赛事。",
+      "safety": "CSUDH Police Department：校园内值守，紧急 911；校警负责巡逻、门禁、护送与校园警报；校外归 Carson 所属 LASD Station 与 LA County 调度。",
+      "transit": "Carson 有本地公交衔接 LA Metro；I-110/I-405 交汇；航空经 LAX、SNA、LGB，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Carson、Wilmington 与 Torrance 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.csudh.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.csudh.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.csudh.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.csudh.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.csudh.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.csudh.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "csum": {
+      "short": "加州州立大学海事学院",
+      "place": "瓦列霍 · 1 Maritime Academy Drive, Vallejo, CA 94592",
+      "cityKey": "vallejo",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Cal Maritime Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Vallejo 与 Bay Area 地区医疗机构，时段以当期公布为准。",
+      "commute": "校园 1 Maritime Academy Drive, Vallejo, CA 94592，Solano County 旧金山湾东北岸；最近机场 Oakland（OAK），备选 San Francisco（SFO）与 Sacramento（SMF）。",
+      "scene": "1929 年创立的 CSU 体系海事院校，Vallejo 沿湾校园；专业覆盖海运工程、海事运输、全球研究、机械工程、能源系统与物流；实行编队式学生管理，不设传统校队项目。",
+      "safety": "Cal Maritime Campus Safety：园区内值守，紧急 911；负责门禁、巡逻与园区警报；校外归 Vallejo Police Department 与 Solano County 调度。",
+      "transit": "Vallejo 有 ferry 与公交衔接 Bay Area；I-80 连接 SF 与 Sacramento；航空经 OAK、SFO、SMF，班次以机场当期公布为准。",
+      "rentnote": "Housing：校内宿舍按学院编队规章分配；校外房源在 Vallejo 与 Benicia 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.csum.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.csum.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.csum.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.csum.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.csum.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.csum.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "csun": {
+      "short": "加州州立大学北岭分校",
+      "place": "北岭 · 18111 Nordhoff Street, Northridge, CA 91330",
+      "cityKey": "northridge",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "CSUN Student Health Center：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科转 Northridge 与 LA 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 18111 Nordhoff Street, Northridge, CA 91330，LA County 谷地；最近机场 Los Angeles（LAX），备选 Burbank（BUR）与 Orange County（SNA）。",
+      "scene": "1958 年创立的 CSU 系统公立综合大学，San Fernando Valley；学科覆盖文理、商学、工程、计算机、传媒、教育、护理与表演艺术；校队 Matadors，参加 NCAA Division I（Big West Conference）赛事。",
+      "safety": "CSUN Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 LAPD Northridge 分局与 LA County 调度。",
+      "transit": "Northridge 有 LA Metro 公交衔接；I-405/I-118 贯通谷地；航空经 LAX、BUR、SNA，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍与公寓按申请分配；校外房源在 Northridge、Reseda 与 Granada Hills 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.csun.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.csun.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.csun.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.csun.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.csun.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.csun.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "csusb": {
+      "short": "加州州立大学圣贝纳迪诺分校",
+      "place": "圣贝纳迪诺 · 5500 University Parkway, San Bernardino, CA 92407",
+      "cityKey": "sanbernardino",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "CSUSB Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 San Bernardino 与 Riverside 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 5500 University Parkway, San Bernardino, CA 92407，San Bernardino County；最近机场 San Bernardino International（SBD），备选 Ontario（ONT）与 Los Angeles（LAX）。",
+      "scene": "1965 年创立的 CSU 系统公立综合大学，Inland Empire；学科覆盖文理、商学、工程、计算机、教育、护理与公共管理；校队 Coyotes，参加 NCAA Division II（CCAA）赛事。",
+      "safety": "CSUSB Police Department：校园内值守，紧急 911；校警负责巡逻、门禁、护送与校园警报；校外归 San Bernardino Police Department 与 County 调度。",
+      "transit": "San Bernardino 有 Metrolink 通勤铁路与本地公交；I-10/I-215 交汇；航空经 SBD、ONT、LAX，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 San Bernardino、Riverside 与 Highland 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.csusb.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.csusb.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.csusb.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.csusb.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.csusb.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.csusb.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "humboldt": {
+      "short": "加州州立理工大学洪堡分校",
+      "place": "阿卡塔 · 1 Harpst Street, Arcata, CA 95521",
+      "cityKey": "arcata",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Cal Poly Humboldt Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与健康评估；专科转 Eureka 与南部地区医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 1 Harpst Street, Arcata, CA 95521，Humboldt County 海岸红木林区；最近机场 Arcata-Eureka（ACV），跨区备选 San Francisco（SFO）与 Oakland（OAK）；区内以自驾为主。",
+      "scene": "1913 年创立，2022 年并入 Cal Poly 体系；北加州海岸红木林区公立大学，学科覆盖文理、环境科学、森林学、渔业、工程、艺术与护理；校队 Lumberjacks，参加 NCAA Division II（CCAA）赛事。",
+      "safety": "Cal Poly Humboldt University Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Arcata Police Department 与 Humboldt County 调度。",
+      "transit": "Arcata 依赖自驾与本地公交；US-101 连接 Eureka 与南部；航空经 ACV、SFO、OAK，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Arcata 镇区与 Eureka 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.humboldt.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.humboldt.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.humboldt.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.humboldt.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.humboldt.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.humboldt.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "eou": {
+      "short": "东俄勒冈大学",
+      "place": "拉格兰德 · 1 University Boulevard, La Grande, OR 97850",
+      "cityKey": "lagrande",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "EOU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 La Grande 与 Pendleton 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1 University Boulevard, La Grande, OR 97850，Union County 东北俄勒冈；最近机场 Eastern Oregon Regional（LGD），备选 Boise（BOI）与 Portland（PDX）。",
+      "scene": "1929 年发轫的俄勒冈公立区域大学，Grande Ronde 谷地；学科覆盖文理、教育、商学、护理、艺术与野外方向课程；校队 Mountaineers，参加 NAIA 赛事（Cascade Conference）。",
+      "safety": "EOU Campus Safety：校园内值守，紧急 911；校外归 La Grande Police Department 与 Union County 调度。",
+      "transit": "La Grande 依赖自驾；I-84 贯通 Columbia River 以东高原；航空经 LGD、BOI、PDX，班次以机场当期公布为准。",
+      "rentnote": "Residence Life：校内宿舍按申请分配；校外房源在 La Grande 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.eou.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.eou.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.eou.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.eou.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.eou.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.eou.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "ohsu": {
+      "short": "俄勒冈健康与科学大学",
+      "place": "波特兰 · 3181 SW Sam Jackson Park Road, Portland, OR 97239",
+      "cityKey": "portlandor",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "OHSU 学生健康对接职业健康与校内健康服务；临床见习安排于 OHSU 医院及附属诊所；初级保健与心理健康资源按学生事务当期指引对接。",
+      "commute": "医学园区 3181 SW Sam Jackson Park Road, Portland, OR 97239，Multnomah County 山坡园区；最近机场 Portland（PDX），备选 Eugene（EUG）与 Redmond（RDM）。",
+      "scene": "俄勒冈公立医学与健康科学研究生院校，Portland Marquam Hill 园区；下设医学院、护理、药学、牙医、公共卫生与研究生学院，不设本科校队项目。",
+      "safety": "OHSU 园区安保与校园警察对接 Portland Police Bureau，紧急 911；医学园区夜间出行结伴，访客与停车规则以园区安全官网当期公布为准。",
+      "transit": "TriMet 公交与 tram 衔接 Marquam Hill；I-5 连接城区与西郊；航空经 PDX、EUG、RDM，班次以机场当期公布为准。",
+      "rentnote": "研究生与住院医师住宿以校外租房与园区周边公寓为主；住宿资源经学生事务与研究生办公室指引；签约前核对租期、押金与通勤；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.ohsu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.ohsu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.ohsu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.ohsu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.ohsu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.ohsu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "oit": {
+      "short": "俄勒冈理工学院",
+      "place": "克拉福尔斯 · 3201 Campus Drive, Klamath Falls, OR 97601",
+      "cityKey": "klamathfalls",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Oregon Tech Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Klamath Falls 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 3201 Campus Drive, Klamath Falls, OR 97601，Klamath County 高原盆地；最近机场 Kingsley Field（LMT），备选 Redmond（RDM）与 Eugene（EUG）。",
+      "scene": "1947 年定型的俄勒冈公立理工学院，Klamath Falls 高原校区；以工程、信息技术、健康科学、商学与应用科学见长；校队 Owls，参加 NAIA 赛事（Cascade Conference）。",
+      "safety": "Oregon Tech Campus Safety：校园内值守，紧急 911；校外归 Klamath Falls Police Department 与 Klamath County 调度。",
+      "transit": "Klamath Falls 依赖自驾；US-97/OR-140 连接 Bend 与加州方向；航空经 LMT、RDM、EUG，班次以机场当期公布为准。",
+      "rentnote": "Housing：校内宿舍按申请分配；校外房源在 Klamath Falls 城区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.oit.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.oit.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.oit.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.oit.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.oit.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.oit.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "oregonstate": {
+      "short": "俄勒冈州立大学",
+      "place": "科瓦利斯 · 1500 SW Jefferson Way, Corvallis, OR 97331",
+      "cityKey": "corvallis",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Oregon State University Health Center：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科转 Corvallis 与 Albany 方向医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 1500 SW Jefferson Way, Corvallis, OR 97331，Benton County 威拉米特河谷；最近枢纽 Portland（PDX），备选 Eugene（EUG）与 Redmond（RDM）。",
+      "scene": "1868 年创立的俄勒冈公立赠地研究型大学，Corvallis 主校区；学科覆盖文理、工程、商学、农业、海洋科学、林业、药学与公共卫生；校队 Beavers，参加 NCAA Division I 赛事（联盟口径以 Athletics 官网当期公布为准）。",
+      "safety": "Oregon State University Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Corvallis Police Department 与 Benton County 调度。",
+      "transit": "Corvallis 有本地公交；OR-34/99W 连接 Albany 与 Salem；航空经 PDX、EUG、RDM，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内传统宿舍与公寓按申请分配；校外房源在 Corvallis 城区与校园周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://oregonstate.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://oregonstate.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://oregonstate.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://oregonstate.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://oregonstate.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://oregonstate.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "osucascades": {
+      "short": "俄勒冈州立大学卡斯卡德分校",
+      "place": "本德 · 2600 NW College Way, Bend, OR 97703",
+      "cityKey": "bendor",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "Cascades Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Bend 地区医疗机构，时段以当期公布为准。",
+      "commute": "校园 2600 NW College Way, Bend, OR 97703，Deschutes County 高原盆地；最近机场 Redmond Roberts（RDM），备选 Portland（PDX）与 Eugene（EUG）。",
+      "scene": "2011 年起独立办学的 OSU 系统分校，Central Oregon 高原；学科覆盖文理、商学、工程、计算机、旅游与环境科学；分校不设传统 NCAA 校队项目。",
+      "safety": "OSU-Cascades Campus Safety：园区内值守，紧急 911；校外归 Bend Police Department 与 Deschutes County 调度。",
+      "transit": "Bend 依赖自驾；US-97 连接 Redmond 与 Central Oregon；航空经 RDM、PDX、EUG，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Bend 城区与周边社区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://osucascades.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://osucascades.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://osucascades.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://osucascades.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://osucascades.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://osucascades.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "pdx": {
+      "short": "波特兰州立大学",
+      "place": "波特兰 · 1825 SW Broadway, Portland, OR 97201",
+      "cityKey": "portlandor",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "PSU Student Health and Counseling：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 Portland 地区医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 1825 SW Broadway, Portland, OR 97201，Multnomah County 城区；最近机场 Portland（PDX），备选 Eugene（EUG）与 Redmond（RDM）。",
+      "scene": "1946 年创立的俄勒冈公立综合大学，downtown Portland；学科覆盖文理、工程、商学、教育、社会与公共政策、城市研究与艺术；校队 Vikings，参加 NCAA Division I（Big Sky Conference）赛事。",
+      "safety": "PSU Public Safety：校园内值守，紧急 911；负责巡逻、护送与校园警报；校外归 Portland Police Bureau 与 Multnomah County 调度。",
+      "transit": "TriMet 公交、有轨与轻轨贯通 downtown；I-5/I-84 交汇；航空经 PDX、EUG、RDM，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍与公寓按申请分配；校外房源在 Portland 城区与近邻社区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.pdx.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.pdx.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.pdx.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.pdx.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.pdx.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.pdx.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "sou": {
+      "short": "南俄勒冈大学",
+      "place": "阿什兰 · 1250 Siskiyou Boulevard, Ashland, OR 97520",
+      "cityKey": "ashlandor",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "SOU Student Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Medford 地区医疗机构，时段以当期公布为准。",
+      "commute": "主校区 1250 Siskiyou Boulevard, Ashland, OR 97520，Jackson County 南俄勒冈；最近机场 Rogue Valley/Medford（MFR），跨区备选 Portland（PDX）与 Redmond（RDM）。",
+      "scene": "1872 年创立的俄勒冈公立区域大学，Rogue Valley；学科覆盖文理、商学、教育、护理、犯罪学与环境科学；校队 Raiders，参加 NAIA 赛事（Cascade Conference，联盟口径以 Athletics 官网当期公布为准）。",
+      "safety": "SOU Public Safety：校园内值守，紧急 911；负责巡逻、门禁、护送与校园警报；校外归 Ashland Police Department 与 Jackson County 调度。",
+      "transit": "Ashland 依赖自驾；I-5 连接 Medford 与加州方向；航空经 MFR、PDX、RDM，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Ashland 镇区与 Medford 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.sou.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.sou.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.sou.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.sou.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.sou.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.sou.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "uoregon": {
+      "short": "俄勒冈大学",
+      "place": "尤金 · 1585 East 13th Avenue, Eugene, OR 97403",
+      "cityKey": "eugene",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "UO Health Center：校内健康中心，提供初级保健、疫苗、心理健康与转诊；专科转 Eugene 地区医疗机构，时段以健康中心当期公布为准。",
+      "commute": "主校区 1585 East 13th Avenue, Eugene, OR 97403，Lane County 河谷；最近机场 Eugene（EUG），备选 Portland（PDX）与 North Bend（OTH）。",
+      "scene": "1876 年创立的俄勒冈公立研究型大学，Eugene 主校区；学科覆盖文理、商学、教育、法律、传媒、建筑、音乐与运动科学；校队 Ducks，参加 NCAA Division I 赛事（联盟口径以 Athletics 官网当期公布为准）。",
+      "safety": "University of Oregon Police Department：24/7 值守，紧急 911；校警负责巡逻、蓝灯电话、护送与校园警报；校外归 Eugene Police Department 与 Lane County 调度。",
+      "transit": "Eugene 有 LTD 公交；I-5/OR-126 连接 Portland 与 Central Oregon；航空经 EUG、PDX、OTH，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍与公寓按申请分配；校外房源在 Eugene 城区与 Eugene-Springfield 周边；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.uoregon.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.uoregon.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.uoregon.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.uoregon.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.uoregon.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.uoregon.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "wou": {
+      "short": "西俄勒冈大学",
+      "place": "蒙茅斯 · 900 SE Division Street, Monmouth, OR 97361",
+      "cityKey": "monmouthor",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "WOU Health Center：校内健康中心，提供基础门诊、疫苗指引与心理咨询；专科转 Salem 与 Monmouth 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 900 SE Division Street, Monmouth, OR 97361，Polk County 河谷小城；最近枢纽 Portland（PDX），备选 Eugene（EUG）与 North Bend（OTH）。",
+      "scene": "1856 年发轫的俄勒冈公立区域大学，Polk County 河谷；学科覆盖文理、教育、商学、刑事司法、护理与音乐；校队 Wolves，参加 NCAA Division II（GNAC）赛事。",
+      "safety": "WOU Campus Public Safety：校园内值守，紧急 911；校外归 Monmouth Police Department 与 Polk County 调度。",
+      "transit": "Monmouth 依赖自驾与本地公交；OR-99W 连接 Salem 与 Astoria 方向；航空经 PDX、EUG、OTH，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Monmouth 与 Independence 镇区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://wou.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://wou.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://wou.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://wou.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://wou.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://wou.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "eku": {
+      "short": "东肯塔基大学",
+      "place": "里士满 · 521 Lancaster Avenue, Richmond, KY 40475",
+      "cityKey": "richmondky",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "EKU Student Health Center：校内健康中心，提供初级保健、疫苗、心理咨询与转诊；专科转 Richmond 与 Lexington 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 521 Lancaster Avenue, Richmond, KY 40475，Madison County；最近机场 Lexington（LEX），备选 Cincinnati（CVG）与 Louisville（SDF）。",
+      "scene": "1874 年创立的肯塔基公立综合大学，中东部蓝草丘陵；学科覆盖文理、商学、教育、工程、护理、司法与消防应急方向项目；校队 Colonels，参加 NCAA Division I（ASUN Conference）赛事。",
+      "safety": "EKU Police Department：校园内值守，紧急 911；校警负责巡逻、门禁、护送与校园警报；校外归 Richmond Police Department 与 Madison County 调度。",
+      "transit": "Richmond 依赖自驾；I-75 连接 Lexington 与 Knoxville 方向；航空经 LEX、CVG、SDF，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Richmond 镇区与 Berea 方向；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.eku.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.eku.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.eku.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.eku.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.eku.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.eku.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    },
+    "kysu": {
+      "short": "肯塔基州立大学",
+      "place": "法兰克福 · 400 East Main Street, Frankfort, KY 40601",
+      "cityKey": "frankfort",
+      "calShort": "两学期制；2026 秋、2027 春开课日期以 Registrar 当期校历为准。",
+      "calendar": "Fall 2026 与 Spring 2027 的开学、加退课、假期、期末考试与毕业典礼节点，以学校 Registrar 校历（Academic Calendar）当期公布为准；11 月底感恩节假后课程恢复，12 月初为期末与退课截止窗口；学年另设夏季学期。",
+      "fulltime": "F-1 本科保持全日制学分（通常每学期 12 学分及以上）、研究生保持学校规定全日制学分；减修、停课或延期毕业须先经国际学生办公室与学业顾问批准，学分口径以 Registrar 当期公布为准。",
+      "drop": "无 W 退课与带 W 退课截止日、退费档位以 Registrar 当期校历与 Student Accounts 条款为准；改退课在学校学生信息系统办理，逾期按校方政策记 W。",
+      "ins1": "持 F-1/J-1 等签证的国际学生自动加入校方赞助的学生健康保险计划，保费计入学生账户；计划满足在美学生保险要求，覆盖校内日常就医；家属保障须在学生健康服务办公室另行购买。",
+      "ins2": "持有合格替代保单者可在截止日前提交 Health Insurance Waiver 并附保险卡凭证；错过豁免窗口将被自动注册并计费；保险卡经保险商门户领取，学期初供健康服务中心核验。",
+      "ins3": "保险资格、豁免窗口与家属加保咨询 Student Health Office；门诊与心理咨询对接校园健康中心；家属投保、牙科与眼科附加渠道以当期保险页说明为准。",
+      "clinic": "KSU Student Health：校内健康服务对接基础门诊、疫苗指引与心理咨询；专科转 Frankfort 与 Lexington/Louisville 方向医疗机构，时段以当期公布为准。",
+      "commute": "主校区 400 East Main Street, Frankfort, KY 40601，Franklin County 州府；最近机场 Lexington（LEX），备选 Louisville（SDF）与 Nashville（BNA）。",
+      "scene": "1886 年创立的公立 HBCU，肯塔基州府小城；学科覆盖文理、商学、教育、公共管理、农学、计算机与护理；校队 Thorobreds，参加 NCAA Division II（SIAC）赛事。",
+      "safety": "KSU Campus Safety：校园内值守，紧急 911；校外归 Frankfort Police Department 与 Franklin County 调度。",
+      "transit": "Frankfort 依赖自驾；I-64/US-127 连接 Lexington 与 Louisville；航空经 LEX、SDF、BNA，班次以机场当期公布为准。",
+      "rentnote": "University Housing：校内宿舍按申请分配；校外房源在 Frankfort 城区；身份卡兼作门禁与就餐凭证；租金不列固定数字。",
+      "link": {
+        "cal": [
+          "https://www.kysu.edu",
+          "学校官网 · 校历与注册"
+        ],
+        "ins": [
+          "https://www.kysu.edu",
+          "学校官网 · 国际学生与保险"
+        ],
+        "police": [
+          "https://www.kysu.edu",
+          "学校官网 · 校园警务与安全"
+        ],
+        "housing": [
+          "https://www.kysu.edu",
+          "学校官网 · 住宿与生活"
+        ],
+        "clinic": [
+          "https://www.kysu.edu",
+          "学校官网 · 学生健康服务"
+        ],
+        "transit": [
+          "https://www.kysu.edu",
+          "学校官网 · 校园交通"
+        ]
+      }
+    }
+  },
+  "EXTRA": {}
+}
